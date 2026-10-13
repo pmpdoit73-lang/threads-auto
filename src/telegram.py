@@ -1,5 +1,6 @@
-"""텔레그램으로 초안을 보낸다."""
+"""텔레그램 봇: 초안 전송, 버튼, 버튼 눌림 확인."""
 
+import json
 import os
 
 import requests
@@ -17,16 +18,50 @@ def _call(method, **kwargs):
     return body["result"]
 
 
-def send_draft(caption, photo=None):
-    chat_id = os.environ["TELEGRAM_CHAT_ID"]
-    if photo:
-        if len(caption) <= CAPTION_LIMIT:
-            return _call("sendPhoto", data={"chat_id": chat_id, "caption": caption},
-                         files={"photo": ("draft.png", photo)})
-        _call("sendPhoto", data={"chat_id": chat_id}, files={"photo": ("draft.png", photo)})
-    return _call("sendMessage", data={"chat_id": chat_id, "text": caption,
-                                      "disable_web_page_preview": "true"})
+def _chat_id():
+    return os.environ["TELEGRAM_CHAT_ID"]
 
 
-def send_text(text):
-    return _call("sendMessage", data={"chat_id": os.environ["TELEGRAM_CHAT_ID"], "text": text})
+def send_text(text, keyboard=None):
+    data = {"chat_id": _chat_id(), "text": text, "disable_web_page_preview": "true"}
+    if keyboard:
+        data["reply_markup"] = json.dumps({"inline_keyboard": keyboard})
+    return _call("sendMessage", data=data)
+
+
+def send_draft(caption, photo=None, keyboard=None):
+    """초안을 보내고 버튼이 달린 메시지를 돌려준다."""
+    caption = caption[:CAPTION_LIMIT]
+    if not photo:
+        return send_text(caption, keyboard)
+    data = {"chat_id": _chat_id(), "caption": caption}
+    if keyboard:
+        data["reply_markup"] = json.dumps({"inline_keyboard": keyboard})
+    return _call("sendPhoto", data=data, files={"photo": ("draft.png", photo)})
+
+
+def edit_draft(message, caption, keyboard=None):
+    """이미 보낸 초안의 글자와 버튼을 바꾼다."""
+    markup = json.dumps({"inline_keyboard": keyboard or []})
+    base = {"chat_id": _chat_id(), "message_id": message["message_id"], "reply_markup": markup}
+    try:
+        if message.get("has_photo"):
+            _call("editMessageCaption", data={**base, "caption": caption[:CAPTION_LIMIT]})
+        else:
+            _call("editMessageText", data={**base, "text": caption, "disable_web_page_preview": "true"})
+    except RuntimeError as e:
+        if "not modified" not in str(e):  # 같은 내용으로 다시 고치면 나는 오류는 무시
+            raise
+
+
+def answer(callback_id, text=""):
+    try:
+        _call("answerCallbackQuery", data={"callback_query_id": callback_id, "text": text})
+    except RuntimeError:
+        pass  # 오래된 버튼은 응답 기한이 지나 실패할 수 있음
+
+
+def get_updates(offset):
+    return _call("getUpdates", data={"offset": offset, "timeout": 0,
+                                     "allowed_updates": json.dumps(["callback_query"])})
+

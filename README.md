@@ -1,7 +1,16 @@
-# threads-auto (1단계: 텔레그램으로 초안 받기)
+# threads-auto (2단계: 텔레그램 버튼으로 골라서 쓰레드에 게시)
 
-살림 고수 캐릭터가 핫이슈를 골라 100자 글 + 사진 + 쿠팡 후보 3개를 만들어
-텔레그램으로 보내 줍니다. **1단계에서는 쓰레드에 게시하지 않아요.**
+살림 고수 캐릭터가 핫이슈를 골라 100자 글, 사진, 쿠팡 후보 3개를 만들어
+텔레그램으로 보내 줍니다. 버튼으로 형태와 상품을 고르고 승인하면, 예약 시간(08:00 / 20:00)에
+쓰레드에 올라가고 쿠팡 링크와 대가성 문구는 첫 댓글로 달립니다.
+
+## 하루 흐름
+1. 06:30 / 18:30 초안이 텔레그램으로 도착
+2. 버튼으로 형태(사진+쿠팡 / 사진만 / 쿠팡만 / 글만)와 상품 선택, ✅ 승인
+3. 08:00 / 20:00 승인된 초안만 게시 (승인 안 하면 그 회차는 건너뜀)
+4. `🚀 지금 게시`를 누르면 예약 시간을 기다리지 않고 바로 게시
+
+버튼은 10분마다 확인하므로 눌러도 반영까지 최대 10분 걸립니다.
 
 ## 파일 구성
 | 파일 | 하는 일 |
@@ -11,15 +20,21 @@
 | `src/writer.py` | Claude가 이슈 선택 + 글 작성 |
 | `src/images.py` | 제미나이 사진 생성, 실패 시 Pexels |
 | `src/coupang.py` | 쿠팡 파트너스 상품 후보 3개 검색 |
-| `src/telegram.py` | 텔레그램 전송 |
-| `src/make_draft.py` | 위 순서대로 실행 |
-| `.github/workflows/draft.yml` | 매일 06:30, 18:30 자동 실행 |
+| `src/draft.py` | 초안 저장, 텔레그램 메시지·버튼 모양 |
+| `src/telegram.py` | 텔레그램 전송, 버튼 눌림 확인 |
+| `src/hosting.py` | 쓰레드가 가져갈 수 있게 사진을 임시 공개 주소(72시간)에 올림 |
+| `src/threads_api.py` | 쓰레드 게시 + 첫 댓글 |
+| `src/make_draft.py` | 초안 만들기 (draft.yml이 실행) |
+| `src/poll.py` | 버튼 반영 + 시간 된 초안 게시 (poll.yml이 실행) |
+| `drafts/`, `state/` | 초안 기록과 버튼 확인 위치 (자동으로 저장됨) |
 
-## 1단계에 필요한 GitHub Secrets
+## 필요한 GitHub Secrets
 `ANTHROPIC_API_KEY`, `GEMINI_API_KEY`, `PEXELS_API_KEY`,
-`COUPANG_ACCESS_KEY`, `COUPANG_SECRET_KEY`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`
+`COUPANG_ACCESS_KEY`, `COUPANG_SECRET_KEY`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`,
+`THREADS_ACCESS_TOKEN` (2단계 추가)
 
 (선택) `NAVER_CLIENT_ID`, `NAVER_CLIENT_SECRET`, `YOUTUBE_API_KEY`
 
 ## 바로 시험해 보기
-GitHub 저장소 → **Actions** 탭 → **초안 만들기** → **Run workflow**
+Actions 탭 → **초안 만들기** → Run workflow → 텔레그램에서 `🚀 지금 게시`
+→ Actions 탭 → **버튼 확인 및 게시** → Run workflow (10분 기다리기 싫을 때)

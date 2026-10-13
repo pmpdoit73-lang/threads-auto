@@ -1,0 +1,56 @@
+name: 버튼 확인 및 게시
+
+on:
+  schedule:
+    # GitHub는 UTC 기준 (한국 = UTC + 9시간)
+    # 초안 도착 후 ~ 게시 시간 직후까지만 10분마다 (한국 06:40~08:10, 18:40~20:10)
+    - cron: "40,50 21 * * *"
+    - cron: "*/10 22 * * *"
+    - cron: "0,10 23 * * *"
+    - cron: "40,50 9 * * *"
+    - cron: "*/10 10 * * *"
+    - cron: "0,10 11 * * *"
+  workflow_dispatch: {}  # Actions 탭에서 "Run workflow"로 수동 실행
+
+permissions:
+  contents: write  # 초안 상태(drafts/, state/)를 저장소에 저장
+
+concurrency:
+  group: threads-bot  # 초안 만들기와 버튼 확인이 동시에 돌지 않게
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: 버튼 확인 및 게시
+        run: python src/poll.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          COUPANG_ACCESS_KEY: ${{ secrets.COUPANG_ACCESS_KEY }}
+          COUPANG_SECRET_KEY: ${{ secrets.COUPANG_SECRET_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: 상태 저장
+        if: always()
+        run: |
+          git config user.name "threads-auto-bot"
+          git config user.email "threads-auto-bot@users.noreply.github.com"
+          git add -A drafts/ state/ 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "버튼 확인 및 게시 $(date -u +%Y%m%d-%H%M)"
+          git pull --rebase origin main
+          git push origin HEAD:main
