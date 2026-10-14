@@ -1,0 +1,45 @@
+{
+  "id": "20261015-0801",
+  "created_at": "2026-10-15T08:01:08.690612+09:00",
+  "publish_at": "2026-10-15T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "국제유가, 사우디 아람코 피격·IEA 공급 경고에 상승",
+  "angle": "유가 오르면 난방비·택배비·장바구니 물가 다 따라 오르니, 겨울 오기 전 집 열 새는 곳부터 막자는 살림 시선",
+  "hooks": [
+    "기름값 오르면 겨울 난방비도 같이 뛰어.",
+    "추워지면 보일러부터 틀지? 순서 틀렸어.",
+    "너네 집 창틀에서 바람 새는 거 알아?"
+  ],
+  "text": "기름값 오르면 겨울 난방비도 같이 뛰어.\n국제유가 또 올랐대, 남 얘기 아니야.\n창틈 바람만 막아도 실내 2~3도는 지켜.\n보일러 틀기 전에 문풍지부터 붙여둬.\n너네 집은 바람 어디서 새?",
+  "image_prompt": "Cozy Korean apartment window in autumn, hands-free view of weather stripping tape being applied along a window frame, soft morning light, warm knit blanket on sill, no people faces, no text, no logos",
+  "photo_query": "window draft insulation",
+  "product_keyword": "문풍지",
+  "products": [
+    {
+      "name": "실리콘 문풍지 창문바람막이 45mm x 5m, 4개",
+      "price": 15900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7764795902&itemId=16839133206&vendorItemId=88002793113&traceid=V0-153-f8f6016875a6c0f9&clickBeacon=291d4270-c823-11f1-85ed-c3332f845387%7E3&requestid=20261015080116379194853634&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/XOwPF5-09VVfv41UXI_zzXEl1VBB-JtgueUPK41ZSkQd63Uv-pU-XaZh9AEBDm6DSg-GWvHaamhZLx5cwFscd-8mA8mZ-2M7waLDWxuSvYjDgi75eqiPgqSULYMOXkOHkdTi8SSEx0986L4OXx_v0b9NrHOlGDow_e15od9i9ncDrWFVWk2vSkdO0wiquxU-C8WDT_CdyMw4P2-OsylcIVVOOp_kJvO3yO5hU20gNtTN09PDTayF6BL8zLoU65Yr65xH08QoLpTuRoWZSQNzssGGe5VjuIP3mCD11fByM8itH0ZhF3BBRr6vQYSkd6JvlB98wzmak2qZ5WrvC93Ke19yH3izCKgc2CXyu6V4m7lKuBZ2DXQyUGRBV2P1d9a_l_1TUbOv3iMjEQ6Hx3CVdNmVOcgRjJntcosfwEzLf5T-8lgbcDn1HdGzyLt43_q77xGyWG9wxWEVo-AOiV8jCYJvkofPOSv2G-jDgDD-3BmGZH8VQVlIfsU_P2EUE2HYr7mmMNttGtFIKHNkHB90epVqsUmEJqYV"
+    },
+    {
+      "name": "스코라 틈새 바람막이 방풍 테이프 화이트 5cm x 10m, 2개",
+      "price": 6000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9063750944&itemId=26613282872&vendorItemId=94252546504&traceid=V0-153-1dc6d8e1bdd99ece&clickBeacon=291d4270-c823-11f1-82dd-99b409270062%7E3&requestid=20261015080116379194853634&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/Yp9e3c60zYUyQMHcYmxRuYCqAVw_LvXdyxHV0vTpmhb-jqjYvt0UGqAnQdinBszuBWsF20QxwYkOqVm8smjpeNmfMIq-NeVxG03FooJIQjF6W4p50YlfYkWyY0A03Bz8EFrc6Rpmj51f3NsCIjmAv6y-OjeU0nZd4mIioWUWYABbUy7A02pRuylnE5vDeQ_SRhntH0CkJlu2L7ydlYLwwAwZTTD2U5-1g3GiKze9wVdkaSRW-6gFv_4YZt5TN-qiouhI8ACPTdbHgxjdVdp851GSzcGWo9lX5-wsxqRam3t2cSV-oyBH1LdKe18ibb7WjMWfnYu6mBRmScRDlFXt-a070rXXT1LwK178F6etUp8z_reLwjZNGSV4q9qJgcGIkqMQ8SoUhNJ8rPLHblZTsItnq4Gr5U1SFNmEN_VUWUjtzejdTPnePq6JD389kw_hnhy2iAoKZs4OjQNkpMFGeOkzJjfk4zzcac6qBhn7f4W9M3s1t-d0N5bntcXgdHtKSjxWM6GDrkU="
+    },
+    {
+      "name": "코멧 국내생산 사계절 우레탄 문풍지 3M",
+      "price": 6420,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8301704105&itemId=23949616846&vendorItemId=90971336248&traceid=V0-153-74fc51e5099fa497&requestid=20261015080116379194853634&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/sJRFPdcgFUAP4o2lsGl99H4_p4-ht20B9-M_5UysGMVQsPaSj771BPa40ALBy8nX_B_jcKzh1v5kJgJ7Op1daHrbIvQpDczhJHNFBuV6HyZRwQEwmMXIQKw7QhbBEXL4Bb8bsLnY4TVQGx_HUJMD7e4o6yT0SpCRJcvKRZitILCRLbNFaN4_1o6BYi6QSHPf848cPYcnrH8fi8k6eTUhoG1Bs-Ik6pP6A_GrUEazly-cz0XpppyMvlVmZ2qCmQThbToA1sSbdIkaa5OVNHyUYf7-zJSm7V6eULbkG5qG8A7y4T-ikXQKrNMSbXARFSbj1kubUVVvjqF6INEZdZY9QN0mqpeTYlW8OL7FTYvmvU5r6k3TGLmC0si16eFc3-R2iiiAcjK-BhtXoPumpsn5BcucbOBW0Pxg7kt9Ulv7G2NSPgvl8cwFPmn4RNtgCDrryomUUS2lQbsSDplYqU6O2rw4Nt_Sl1ihmwOzjAPNTwo87ykjLisSCGrMwxyc3ka-heYAiUN5q_AIqqkiPEc1IU8="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 11,
+    "has_photo": true
+  }
+}
