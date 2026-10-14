@@ -1,11 +1,7 @@
 name: 버튼 확인 및 게시
 
 on:
-  schedule:
-    # GitHub는 UTC 기준 (한국 = UTC + 9시간)
-    # 한국 06:07 ~ 22:47 사이 20분마다 (정각을 피하면 덜 밀림)
-    - cron: "7,27,47 21-23 * * *"
-    - cron: "7,27,47 0-13 * * *"
+  # 알람 서비스(cron-job.org)가 한국 06:00~23:40 사이 20분마다 깨움
   workflow_dispatch: {}  # Actions 탭에서 "Run workflow"로 수동 실행
 
 permissions:
