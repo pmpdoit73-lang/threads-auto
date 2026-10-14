@@ -12,14 +12,6 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (threads-auto)"}
 TIMEOUT = 60
 
 
-def _catbox(image_bytes, filename):
-    resp = requests.post("https://catbox.moe/user/api.php", headers=HEADERS, timeout=TIMEOUT,
-                         data={"reqtype": "fileupload"},
-                         files={"fileToUpload": (filename, image_bytes, "image/png")})
-    resp.raise_for_status()
-    return resp.text.strip()
-
-
 def _litterbox(image_bytes, filename):
     resp = requests.post("https://litterbox.catbox.moe/resources/internals/api.php",
                          headers=HEADERS, timeout=TIMEOUT,
@@ -44,7 +36,7 @@ def _tmpfiles(image_bytes, filename):
     return url.replace("tmpfiles.org/", "tmpfiles.org/dl/", 1)  # 사진 자체로 바로 가는 주소
 
 
-HOSTS = [("catbox", _catbox), ("litterbox", _litterbox), ("uguu", _uguu), ("tmpfiles", _tmpfiles)]
+HOSTS = [("litterbox", _litterbox), ("uguu", _uguu), ("tmpfiles", _tmpfiles)]
 
 
 def upload_temp(image_bytes, filename="post.png"):
