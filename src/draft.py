@@ -186,6 +186,28 @@ def rewrite(d):
     save(d)
 
 
+def retext(d):
+    """이슈·사진·상품은 그대로 두고 글만 새로 쓴다."""
+    d.update(writer.rewrite_text(d.get("issue", ""), d.get("angle", ""), d["text"]))
+    d.pop("edited_by_hand", None)
+    save(d)
+
+
+THREADS_LIMIT = 500  # 쓰레드 본문 최대 글자 수
+
+
+def set_text(d, text):
+    """gil이 텔레그램 답장으로 보낸 글로 바꾼다."""
+    text = text.strip()
+    if not text:
+        raise ValueError("빈 글이에요")
+    if len(text) > THREADS_LIMIT:
+        raise ValueError(f"쓰레드는 {THREADS_LIMIT}자까지예요 (지금 {len(text)}자)")
+    d["text"] = text
+    d["edited_by_hand"] = True
+    save(d)
+
+
 def new_photo(d):
     _fill_photo(d, prefer_free=d.get("image_note", "").startswith("제미나이"))
     save(d)
@@ -213,7 +235,7 @@ def caption(d):
         f"상태: {STATUS_LABEL[d['status']]}",
         "",
         d["text"],
-        f"({len(d['text'])}자)",
+        f"({len(d['text'])}자{', 직접 고친 글' if d.get('edited_by_hand') else ''})",
         "",
         f"🔥 이슈: {d.get('issue', '')}",
         f"🖼 사진: {d.get('image_note', '')}",
@@ -232,6 +254,7 @@ def caption(d):
         lines += ["", f"⚠️ {d['error'][:200]}"]
     if d["status"] == "pending":
         lines += ["", "형태와 상품을 고르고 ✅승인을 눌러 주세요.",
+                  "✏️ 글을 직접 고치려면 이 메시지에 '답장'으로 고친 글을 보내 주세요.",
                   "(버튼은 20분마다 확인해요. GitHub 사정으로 더 늦을 수도 있어요)"]
     return "\n".join(lines)
 
@@ -258,7 +281,8 @@ def keyboard(d):
         rows.append([_btn(d, f"상품 {i + 1}", "p", str(i), d.get("product", 0) == i)
                      for i in range(len(products))])
     rows += [
-        [_btn(d, "✍️ 다시 쓰기", "a", "rewrite"), _btn(d, "🖼 다른 사진", "a", "photo")],
+        [_btn(d, "🔁 같은 이슈로 다시", "a", "retext"), _btn(d, "🆕 새 이슈로", "a", "rewrite")],
+        [_btn(d, "🖼 다른 사진", "a", "photo")],
         [_btn(d, "✅ 승인", "a", "ok"), _btn(d, "🚀 지금 게시", "a", "now")],
         [_btn(d, "⏭ 건너뛰기", "a", "skip")],
     ]

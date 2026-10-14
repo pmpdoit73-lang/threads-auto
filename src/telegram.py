@@ -64,5 +64,5 @@ def answer(callback_id, text=""):
 
 def get_updates(offset):
     return _call("getUpdates", data={"offset": offset, "timeout": 0,
-                                     "allowed_updates": json.dumps(["callback_query"])})
+                                     "allowed_updates": json.dumps(["callback_query", "message"])})
 

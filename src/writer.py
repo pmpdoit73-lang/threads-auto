@@ -45,17 +45,44 @@ def write_post(trends, recent_issues=()):
         "4. 글과 어울리는 사진 프롬프트, 사진 검색어, 쿠팡 상품 검색 키워드도 정해."
     )
 
+    return _ask(user_msg, SCHEMA)
+
+
+TEXT_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "hooks": SCHEMA["properties"]["hooks"],
+        "text": SCHEMA["properties"]["text"],
+    },
+    "required": ["hooks", "text"],
+    "additionalProperties": False,
+}
+
+
+def rewrite_text(issue, angle, old_text):
+    """같은 이슈로 후킹과 문장만 새로 쓴다."""
+    user_msg = (
+        f"이슈: {issue}\n"
+        f"살림 시선: {angle}\n\n"
+        f"지난번 글:\n{old_text}\n\n"
+        "같은 이슈로 다시 써 줘. 지난번 첫 줄과 다른 유형의 후킹 3개를 만들고,\n"
+        "가장 센 하나로 시작해 글 흐름대로 100~150자, 3~5줄로 써. 지난번 문장은 되풀이하지 마."
+    )
+    return _ask(user_msg, TEXT_SCHEMA)
+
+
+def _ask(user_msg, schema):
     client = anthropic.Anthropic()
     response = client.beta.messages.create(
         model=MODEL,
         max_tokens=16000,
         system=PERSONA,
         messages=[{"role": "user", "content": user_msg}],
-        output_config={"effort": "low", "format": {"type": "json_schema", "schema": SCHEMA}},
+        output_config={"effort": "low", "format": {"type": "json_schema", "schema": schema}},
         betas=["server-side-fallback-2026-07-01"],
         fallbacks="default",
     )
     if response.stop_reason == "refusal":
-        raise RuntimeError("Claude가 이번 이슈 목록으로는 글쓰기를 거절했어요.")
+        raise RuntimeError("Claude가 이번 글쓰기를 거절했어요.")
     text = next(b.text for b in response.content if b.type == "text")
     return json.loads(text)

@@ -98,7 +98,11 @@ def handle(callback):
     elif value == "rewrite":
         draft.rewrite(d)
         draft.send(d)
-        return "새로 썼어요"
+        return "새 이슈로 새로 썼어요"
+    elif value == "retext":
+        draft.retext(d)
+        draft.send(d)
+        return "같은 이슈로 글만 새로 썼어요"
     elif value == "photo":
         draft.new_photo(d)
         draft.send(d)
@@ -111,12 +115,47 @@ def handle(callback):
     return msg
 
 
+def find_by_message(message_id):
+    for d in draft.open_drafts():
+        if (d.get("message") or {}).get("message_id") == message_id:
+            return d
+    return None
+
+
+def handle_text(message):
+    """초안 메시지에 답장으로 보낸 글 → 그 초안의 글을 바꾼다."""
+    target = (message.get("reply_to_message") or {}).get("message_id")
+    if not target:
+        return  # 그냥 보낸 대화는 무시
+    d = find_by_message(target)
+    if not d:
+        telegram.send_text("✏️ 이 메시지는 지금 고칠 수 있는 초안이 아니에요. 가장 최근 초안 메시지에 답장해 주세요.")
+        return
+    try:
+        draft.set_text(d, message.get("text", ""))
+    except ValueError as e:
+        telegram.send_text(f"✏️ 글을 못 바꿨어요: {e}")
+        return
+    draft.send(d)
+    print(f"[poll] {d['id']} 글을 직접 고친 글로 바꿈")
+
+
 def process_buttons():
     offset = read_offset()
     updates = telegram.get_updates(offset)
     allowed = str(telegram._chat_id())
     for u in updates:
         offset = max(offset, u["update_id"] + 1)
+        msg = u.get("message")
+        if msg:
+            if str(msg.get("from", {}).get("id")) == allowed and msg.get("text"):
+                try:
+                    handle_text(msg)
+                except Exception as e:
+                    print(f"[poll] 글 고치기 실패: {e}")
+                    telegram.send_text(f"✏️ 글 고치기 실패: {str(e)[:150]}")
+            write_offset(offset)
+            continue
         cb = u.get("callback_query")
         if not cb:
             continue
