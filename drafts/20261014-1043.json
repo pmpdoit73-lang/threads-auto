@@ -1,0 +1,45 @@
+{
+  "id": "20261014-1043",
+  "created_at": "2026-10-14T10:43:41.755213+09:00",
+  "publish_at": "2026-10-14T20:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "프랑스 \"냉장고 해킹 피해 슈퍼 700곳…식량안보 건드려\"",
+  "angle": "이미 다룬 마트 냉장고 해킹을 '우리 집 냉장고 온도 점검'으로 이어가되, 피해 규모 700곳 숫자로 새롭게 풀기",
+  "hooks": [
+    "슈퍼 700곳 냉장고가 한꺼번에 뚫렸대.",
+    "너네 집 냉장고 몇 도인지 알아?",
+    "냉장고 숫자만 믿다간 반찬 다 버려."
+  ],
+  "text": "슈퍼 700곳 냉장고가 한꺼번에 뚫렸대.\n남 얘기 아니야, 집 냉장고도 표시랑 실제가 달라.\n냉장실 3도, 문 쪽은 더 높으니 우유는 안쪽에.\n온도계 하나 넣어보고 다들 몇 도 나오는지 알려줘.",
+  "image_prompt": "Inside of a clean home refrigerator with neatly arranged food containers, milk bottle on inner shelf, small thermometer on shelf, soft natural light, realistic photo, no people, no text, no logos",
+  "photo_query": "refrigerator thermometer kitchen",
+  "product_keyword": "냉장고 온도계",
+  "products": [
+    {
+      "name": "디지털 냉장고온도계 DTA-5070 냉동고온도 수온계 -50도+70도",
+      "price": 9300.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6057723192&itemId=11126138480&vendorItemId=78404792897&traceid=V0-153-efee3a7912d347b0&requestid=20261014104350140144400052&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/IWHUj4MpHqn0wUaOIThM_ZHPgtgpevGR50SVesBMm658um6ao0nLCewQhRGiuQUfUpGAKkNhurBTdFx9KRp7o_PB1RTfgby-Oobo2wXnP7QRq8ltvUPkU0_nP2gORlOKq_70glAnXzydvrbiJAcSwDIb6ejBmeE4VawypGYELPmbgdWaAnn5aEB8yF7FZLFTKC511N7YnekPu2reYLuwieEavFFsavmagVmOpXyS6BeVyLRV_Qu6pI-FnAkpFZ1drfGzjH7RQVnCo9EfTGQyMkp_sv37veD0R2fDU4TsHkYbiukb8nDyWEqd6_Z-ErNUQlbeWQK5WMBiKl4cSQYv0aml-2lVLad3w7VPaG7DjbJ4op51S7JU1qHJ62Ik67E3f7v3DsIDZYQfDUNO5dXb-286I8Ermqml61OFAiELXPJYRnk0lkL3DtOaR_xqTupp3bvYoDNRhxsLenKqGZ1jk-1AQZtArc0XCrd_Hp9NHv9mL2g1M3mC3hvngaWgSt9gbAWRhcs_bRila_In8FeDTD9V-Gplr-mssQwzN14Pcjp9r3cV2X040flpQg=="
+    },
+    {
+      "name": "라이크포유 디지털냉장고온도계 C-601 알람 자석형 실내 실외 고온 저온 온도저장, 1개",
+      "price": 8600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8063608852&itemId=22666842539&vendorItemId=89660224159&traceid=V0-153-feeae9ac6d510999&clickBeacon=b46a5c90-c770-11f1-b7b3-8eb4ff1c23fb%7E3&requestid=20261014104350140144400052&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/AAdmLlo3eYVD5cMaAKD2L8VzLbbkWklgokbwlT-n7r9d6tpCExK6_VBypFMXtL_ksSLTAOoo-9iPebNTwXHPMl94ZigJYj06JLlRaFj4DIwHRbjBtInHMPe0DqJnBZ1RdPNpWM3F6A3ExM9sT2D16ORzxP54mZdmztJOqR9jUCjlDIAU7sD1B9zuGnaBcgzzoRRIbbdYv4BbgF8bQubS2pYud0FIETJrRxT6gBDU1edWYjixdXVT0jLjffSisuZv-akF1U0f_LDPKSKRKeO5t1h3loS7FI5RUCwXoplMdk7FYfyaqtGe7vFeg5wjOMg-L1ku6p7E6NKvcL2YyB9QBvhd3nPZLK_pMmTuwABBPxN43HK4NOTMeNdKhduIhqPTYZEymeh6yZm9GTZiQNHXcbaQUPsDmfOfykvx6eMENqHIHizo-wCkZmIZMOX6rCi3n4YxEt-WHEuOJJnW1wHg0sB7WJs4LFRYJtYiML9B6O9deBLdwc64Om1rA6oKgplgsB2d5d2vt1AnVrRdqY5Wb-Pn21JTzrHY"
+    },
+    {
+      "name": "카스 디지털 냉장고 온도계 T014R",
+      "price": 14550,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6804846107&itemId=16078545815&vendorItemId=86421177312&traceid=V0-153-0db926689614eff8&requestid=20261014104350140144400052&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/ipEiysbvWJW7t3xFinIOhmkHmllu6MJGWYvbC9IU4mQBgrH9SYdH7qCq6RX_g5GMUe8xGp6UJzBAvBq1M5YwbhDPEU_PJGl6N4mYTBYMiaUqA4qEAFfXPokM7ZefIuErHmM63ogX6JOOKVqr2Ko9DGId2Mos8WJc-J7MaFXqU8REgxUk1b1c-8TpeVvYHb-9nkiirvl_DScxVYlBUwClTIeBRE8hBPd15TZCRdVTXxniVw476z3gJAybSydsotEj4hebsZsRe_YJssKbOTZ5VozEWhwsLLtq1Ic3YTn6i3e9oME0V_SJBBX5mQsCgHkwr_r4GVezP1zb27SXdzlDviJyysaAVlOO4HL6XVJlGQx4KoohmHMUtj8fBHWMMd-gtUO3vtHPKwPt9TnqTdPIibFuUWhC1a7E_YSslzyGqsGRuHLWTOr2_O1QAIktUE5ngl-nqA9dEfA3YkRI4PGrMu8XgztCQsLjpPS466zcgYW7L8ELH4Mlnz-25EMSGfJXfdEquW4RtHZPtRyQ7tlKqhR5HRpy7Azbpl8zvRwl-z410w=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 7,
+    "has_photo": true
+  }
+}
