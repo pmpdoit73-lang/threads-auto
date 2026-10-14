@@ -73,13 +73,46 @@ def recent_issues(n=10):
 
 # ---------- 시간 ----------
 
+SLOTS = [(8, 0), (11, 30), (20, 0)]  # 하루 게시 시간 (한국 시간)
+DRAFT_AHEAD = timedelta(hours=7)      # 게시 몇 시간 전부터 초안을 만들지
+
+
+def upcoming_slots(now, days=2):
+    """지금 이후 게시 시간들을 가까운 순서로."""
+    base = now.replace(second=0, microsecond=0)
+    result = []
+    for day in range(days):
+        for hour, minute in SLOTS:
+            t = base.replace(hour=hour, minute=minute) + timedelta(days=day)
+            if t > now:
+                result.append(t)
+    return result
+
+
 def next_slot(now):
-    """지금 이후 가장 가까운 게시 시간 (08:00 또는 20:00)."""
-    today = now.replace(minute=0, second=0, microsecond=0)
-    for candidate in (today.replace(hour=8), today.replace(hour=20),
-                      today.replace(hour=8) + timedelta(days=1)):
-        if candidate > now:
-            return candidate
+    """지금 이후 가장 가까운 게시 시간."""
+    return upcoming_slots(now)[0]
+
+
+def slot_to_fill(now, force=False):
+    """초안이 아직 없는 가장 가까운 게시 시간. 너무 먼 시간이면 None.
+
+    GitHub 예약 실행이 몇 시간씩 늦을 수 있어서, 초안 만들기는 여러 번 돌고
+    돌 때마다 비어 있는 회차만 채운다 (이미 있으면 아무것도 안 함).
+    force=True(수동 실행)이면 시간 제한 없이 만든다.
+    """
+    taken = set()
+    for p in DRAFT_DIR.glob("*.json"):
+        at = json.loads(p.read_text(encoding="utf-8")).get("publish_at")
+        if at:
+            taken.add(datetime.fromisoformat(at))
+    for slot in upcoming_slots(now):
+        if slot in taken:
+            continue
+        if force or slot - now <= DRAFT_AHEAD:
+            return slot
+        return None
+    return next_slot(now) if force else None
 
 
 def publish_time(d):
@@ -130,12 +163,12 @@ def default_format(d):
     return "text"
 
 
-def create():
+def create(slot):
     now = datetime.now(KST)
     d = {
         "id": now.strftime("%Y%m%d-%H%M"),
         "created_at": now.isoformat(),
-        "publish_at": next_slot(now).isoformat(),
+        "publish_at": slot.isoformat(),
         "status": "pending",
         "product": 0,
     }
@@ -199,7 +232,7 @@ def caption(d):
         lines += ["", f"⚠️ {d['error'][:200]}"]
     if d["status"] == "pending":
         lines += ["", "형태와 상품을 고르고 ✅승인을 눌러 주세요.",
-                  "(버튼 반영까지 최대 10분 걸릴 수 있어요)"]
+                  "(버튼은 20분마다 확인해요. GitHub 사정으로 더 늦을 수도 있어요)"]
     return "\n".join(lines)
 
 
@@ -241,7 +274,8 @@ def send(d):
         except RuntimeError as e:
             print(f"[draft] 옛 메시지 정리 실패: {e}")
     photo = photo_bytes(d)
-    msg = telegram.send_draft(caption(d), photo, keyboard(d))
+    quiet = datetime.now(KST).hour < 7  # 새벽에는 알림 소리 없이
+    msg = telegram.send_draft(caption(d), photo, keyboard(d), silent=quiet)
     d["message"] = {"message_id": msg["message_id"], "has_photo": bool(photo)}
     save(d)
 

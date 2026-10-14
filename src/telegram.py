@@ -22,19 +22,20 @@ def _chat_id():
     return os.environ["TELEGRAM_CHAT_ID"]
 
 
-def send_text(text, keyboard=None):
-    data = {"chat_id": _chat_id(), "text": text, "disable_web_page_preview": "true"}
+def send_text(text, keyboard=None, silent=False):
+    data = {"chat_id": _chat_id(), "text": text, "disable_web_page_preview": "true",
+            "disable_notification": str(silent).lower()}
     if keyboard:
         data["reply_markup"] = json.dumps({"inline_keyboard": keyboard})
     return _call("sendMessage", data=data)
 
 
-def send_draft(caption, photo=None, keyboard=None):
+def send_draft(caption, photo=None, keyboard=None, silent=False):
     """초안을 보내고 버튼이 달린 메시지를 돌려준다."""
     caption = caption[:CAPTION_LIMIT]
     if not photo:
-        return send_text(caption, keyboard)
-    data = {"chat_id": _chat_id(), "caption": caption}
+        return send_text(caption, keyboard, silent)
+    data = {"chat_id": _chat_id(), "caption": caption, "disable_notification": str(silent).lower()}
     if keyboard:
         data["reply_markup"] = json.dumps({"inline_keyboard": keyboard})
     return _call("sendPhoto", data=data, files={"photo": ("draft.png", photo)})

@@ -3,14 +3,21 @@
 실행: python src/make_draft.py
 """
 
+import os
 import sys
+from datetime import datetime
 
 import draft
 import telegram
 
 
 def main():
-    d = draft.create()
+    force = os.environ.get("FORCE") == "1"  # Actions 탭에서 수동 실행하면 바로 만듦
+    slot = draft.slot_to_fill(datetime.now(draft.KST), force)
+    if not slot:
+        print("[make_draft] 지금 채울 회차가 없어요 (이미 초안이 있거나 아직 이름)")
+        return
+    d = draft.create(slot)
     draft.send(d)
     print(f"[make_draft] 초안 {d['id']} 전송 완료 (게시 예정 {d['publish_at']})")
 
