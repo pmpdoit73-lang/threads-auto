@@ -2,7 +2,7 @@
   "id": "20261014-1043",
   "created_at": "2026-10-14T10:43:41.755213+09:00",
   "publish_at": "2026-10-14T20:00:00+09:00",
-  "status": "pending",
+  "status": "failed",
   "product": 0,
   "issue": "프랑스 \"냉장고 해킹 피해 슈퍼 700곳…식량안보 건드려\"",
   "angle": "이미 다룬 마트 냉장고 해킹을 '우리 집 냉장고 온도 점검'으로 이어가되, 피해 규모 700곳 숫자로 새롭게 풀기",
@@ -41,5 +41,6 @@
   "message": {
     "message_id": 7,
     "has_photo": true
-  }
+  },
+  "error": "412 Client Error: Precondition Failed for url: https://litterbox.catbox.moe/resources/internals/api.php"
 }
