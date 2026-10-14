@@ -1,0 +1,45 @@
+{
+  "id": "20261014-1100",
+  "created_at": "2026-10-14T11:00:16.169898+09:00",
+  "publish_at": "2026-10-14T11:30:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "IMF, 올해 韓 1인당 GDP 4만弗 돌파 전망…명목 GDP 2.2조달러 관측",
+  "angle": "나라 평균 소득 숫자를 우리 집 식구 수로 곱해 보고, 체감과의 차이를 장바구니 절약 팁으로 연결",
+  "hooks": [
+    "숫자 충격: 1인당 GDP 4만 달러래. 넷이면 2억 넘어.",
+    "질문: 너네 집 1년에 2억 버는 거 알았어?",
+    "반전: 우리 다 부자 됐대. 근데 통장은 몰라."
+  ],
+  "text": "1인당 GDP 4만 달러 돌파 전망이래.\n넷이면 우리 집도 2억 넘게 번 셈이라고?\n근데 통장은 그 얘기 처음 듣는대.\n이번 주는 냉장고 파먹기로 장보기 한 번만 건너뛰어 봐.\n너네 집 체감은 어때?",
+  "image_prompt": "A cozy Korean home kitchen table with an open household budget notebook, a calculator, a few coins and receipts, a small grocery basket with vegetables beside it, warm natural morning light, realistic photo, no people, no text, no logos",
+  "photo_query": "household budget notebook",
+  "product_keyword": "가계부",
+  "products": [
+    {
+      "name": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 아이보리, 1개",
+      "price": 12800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9609052061&itemId=28687620626&vendorItemId=92174229979&traceid=V0-153-9bd200e6d8b66866&clickBeacon=07595ee0-c773-11f1-943a-22d359a817b5%7E3&requestid=20261014110028315068772397&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Pr4nFNDY0y7QXJwIPmFlwdzJg5APHUK1ZZyme8J05Pdk9Yqg2eH36665Fc8D_RKsh4sRol-5nA8iDB5qQbZrKDehN6pW1ANUNejk1OUlrgUmS7GRbt1HyW5hw6mFkcUMBz51iJQP3WsADvwEKMkH2FuOF5en1_yjrt0NFEdJJY78LzZB8NfmAzQOe-2Sm7l722rJj_xIMnYuvbvRuogau9ONSc6c7iaIGeKyJXNjLnhPdFbVoRihuqLDknR9X9FKR_Pb0yMwjUSXho_sof_Mqzxcnlnnu5GB-eH1e06L2s3oCtzY7GvmU4ZBVpfOeB28uXUxBQt7N_-wYhk3w73Eq6IbZ2YAEygpq2-G9576JFZFooqicK3AGuL5bgVv2wNvJLpGW3JwsRUVt57oV783fnbmFxA7-zO2r3kv2HixBvdPifC8dJGEq_y_lOWOEFfKEQRQvgR4Puk2RgXncfAHFXF-uSa27owSIqI_OO-ARwubKc0TTZVa7BtjEfkv4umVWwuQjHdD5iVJLy1R9IugDYjo01dgRodb"
+    },
+    {
+      "name": "모트모트 쓰기 쉬운 머니 큐브 트래커 가계부, 혼합색상, 1개",
+      "price": 12160,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8457461897&itemId=24463359702&vendorItemId=91477006426&traceid=V0-153-ff48e77e5632cf80&clickBeacon=075985f0-c773-11f1-b9f9-d4460adcd3aa%7E3&requestid=20261014110028315068772397&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/8fL67h4Qv2DY2Jnx8X8wTqEsKFyEmE8am1kOl-6AGWjBYviOusM4Dp_jIOyXe1EYGGLJ8TplD2NaCxyTvw-V7s4Oc6mbTokK7Bvv5ZGZhOs36jSKTyPiXw58e1O-L_TZwz1pcTwFTE91Z2MZEDC1s38BUyE-Q358L-n5T4tR0M107n08YRolzututJmt2FAWJtUseBqrpYh77xuQ7Dy0r-XEWg_Hy9yjQWRA2wCnuQvY-1DxdzBi5KhgKZqk4l5HfUnXV13FhfdThe0iH43-gJ7hhKyA1IU8mAeaOESfPxcFis7ay6jPOpbKX29HERutLZmrz8WiDtxe5ZxVQG-bQaOhz_D1TuOSqANslZh7cjHGzVygAH6UaJQfujM2XfFbi-bMGgxKXHtjWQq10BpTzz6N2pc7IXWvIJ3ZjyRyQ3QHwDV6fBQYVt1N8Bq8Wbq4aFF5BwUMHRf_3Dw5bEB3uJeeiKacLi02kalZNgYYAinTWzNKIT-68N7yp6XIohHUbIBPMoGKQBU="
+    },
+    {
+      "name": "핑크풋 10000보리 슬기로운소비 주방 가계부",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6544948850&itemId=18874268388&vendorItemId=81830121276&traceid=V0-153-de89e423291abd30&requestid=20261014110028315068772397&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/2KkSFTl-Ivlo8i3y2G5N-mYqGWlp7utN8C947vVW_CpqmkN1JH5uO57GUZR_qDTnTMuatZgbxVL-_YGT5YsKiie177ConC8KqDwhgVra-yctCv4W4TD5B7Dqj704SbGjmSmM3bFL0HBYB5w0x-_F_ajGc53KkVt46NCwMZqWfTd-YIp6LykvfFbAqhtOvd-qjyyZ-cxF_NfRVolvScGnIuvLtsKENi6bnKaO9QTX4dV22Kl9sXg51qMPwZC5oCrWrGoqWpR714lZWCXwJ8tC1v0QBCpRlmSR1YI25-BMrckZGNtT31bWXOmpxz2z1VDP1l4PIbYVFO0u79hJPbyJ92bs91E46sFpxH0vRJ3nL4p37Xzd_M6j4YnZPi--Kf_EwalXa7yup_evMnbJxQzQgt3bwFN38Y9yKq5zEX8-am5yDYcOtdmHP8pYAJng1BrUAFJ6FhEf51VXsoNEqKzM613KDmdGWAjV9Bt2_l11svJkPA_W5bMrO7GU6dRVpgprtDdgz0iq92s6r6g98Wu2lFZj"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 8,
+    "has_photo": true
+  }
+}
