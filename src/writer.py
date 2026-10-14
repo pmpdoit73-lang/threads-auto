@@ -1,4 +1,4 @@
-"""Claude로 이슈를 고르고, 살림 고수 말투로 100자 글을 쓴다."""
+"""Claude로 이슈를 고르고, 2초 후킹으로 시작하는 살림 고수 글을 쓴다."""
 
 import json
 from pathlib import Path
@@ -13,12 +13,14 @@ SCHEMA = {
     "properties": {
         "issue": {"type": "string", "description": "고른 이슈 원문 제목"},
         "angle": {"type": "string", "description": "살림 시선으로 어떻게 풀었는지 한 줄"},
-        "text": {"type": "string", "description": "쓰레드 본문 (80~120자)"},
+        "hooks": {"type": "array", "items": {"type": "string"},
+                  "description": "서로 다른 유형의 첫 줄 후킹 후보 3개"},
+        "text": {"type": "string", "description": "가장 센 후킹으로 시작하는 쓰레드 본문 (100~150자, 3~5줄)"},
         "image_prompt": {"type": "string", "description": "사진 생성용 영어 프롬프트. 사람 얼굴·글자·로고 없이"},
         "photo_query": {"type": "string", "description": "무료 사진 검색용 영어 키워드 2~3단어"},
         "product_keyword": {"type": "string", "description": "쿠팡에서 검색할 한국어 상품 키워드"},
     },
-    "required": ["issue", "angle", "text", "image_prompt", "photo_query", "product_keyword"],
+    "required": ["issue", "angle", "hooks", "text", "image_prompt", "photo_query", "product_keyword"],
     "additionalProperties": False,
 }
 
@@ -36,9 +38,11 @@ def write_post(trends, recent_issues=()):
         "아래는 오늘 한국에서 뜨는 이슈 목록이야.\n\n"
         f"{trend_text}\n\n"
         f"최근에 이미 다룬 이슈 (피해서 골라):\n{recent}\n\n"
-        "1. 금지 주제를 빼고, 살림·생활과 자연스럽게 연결되면서 사람들이 많이 볼 이슈 하나를 골라.\n"
-        "2. 그 이슈를 살림 고수 시선의 경험담으로 80~120자 글로 써.\n"
-        "3. 글과 어울리는 사진 프롬프트, 사진 검색어, 쿠팡 상품 검색 키워드도 정해."
+        "1. 금지 주제를 빼고, 살림·생활과 이어지면서 '어? 나도 해당되나?' 싶어 꼭 읽고 싶어질 이슈 하나를 골라.\n"
+        "   (놀라운 숫자, 돈·손해, 계절 변화, 다들 궁금해하는 것일수록 좋음)\n"
+        "2. 서로 다른 유형의 첫 줄 후킹 3개를 만들고, 스크롤을 가장 확실히 멈출 하나를 골라.\n"
+        "3. 그 후킹으로 시작해 글 흐름대로 100~150자, 3~5줄 글을 써.\n"
+        "4. 글과 어울리는 사진 프롬프트, 사진 검색어, 쿠팡 상품 검색 키워드도 정해."
     )
 
     client = anthropic.Anthropic()
