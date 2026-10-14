@@ -46,6 +46,7 @@ def publish(d):
 
 
 def try_publish(d):
+    d.pop("error", None)
     try:
         publish(d)
         print(f"[poll] {d['id']} 게시 완료: {d.get('permalink')}")
@@ -67,7 +68,9 @@ def handle(callback):
     d = draft.load(draft_id)
     if not d:
         return "초안을 찾을 수 없어요"
-    if d["status"] not in ("pending", "approved"):
+    if d["status"] == "failed" and value not in ("now", "skip"):
+        return "게시 실패한 초안은 🔁 다시 게시 또는 ⏭ 건너뛰기만 돼요"
+    if d["status"] not in ("pending", "approved", "failed"):
         return f"이미 처리된 초안이에요 ({draft.STATUS_LABEL[d['status']]})"
 
     if kind == "f":

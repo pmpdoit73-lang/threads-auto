@@ -208,6 +208,8 @@ def _btn(d, label, kind, value, selected=False):
 
 
 def keyboard(d):
+    if d["status"] == "failed":
+        return [[_btn(d, "🔁 다시 게시", "a", "now"), _btn(d, "⏭ 건너뛰기", "a", "skip")]]
     if d["status"] == "approved":
         return [[_btn(d, "🚀 지금 게시", "a", "now"), _btn(d, "↩️ 승인 취소", "a", "undo")]]
     if d["status"] != "pending":
