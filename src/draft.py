@@ -74,7 +74,7 @@ def recent_issues(n=10):
 # ---------- 시간 ----------
 
 SLOTS = [(7, 0), (11, 0), (18, 0), (21, 0)]  # 하루 게시 시간 (한국 시간)
-DRAFT_AHEAD = timedelta(hours=7)      # 게시 몇 시간 전부터 초안을 만들지
+DRAFT_AHEAD = timedelta(hours=10)     # 게시 몇 시간 전부터 초안을 만들지 (07시 회차는 전날 22시)
 
 
 def upcoming_slots(now, days=2):
@@ -97,8 +97,8 @@ def next_slot(now):
 def slot_to_fill(now, force=False):
     """초안이 아직 없는 가장 가까운 게시 시간. 너무 먼 시간이면 None.
 
-    GitHub 예약 실행이 몇 시간씩 늦을 수 있어서, 초안 만들기는 여러 번 돌고
-    돌 때마다 비어 있는 회차만 채운다 (이미 있으면 아무것도 안 함).
+    초안 만들기는 하루 여러 번 돌고, 돌 때마다 비어 있는 회차만 채운다
+    (이미 있으면 아무것도 안 함). 한 번 빠져도 다음 실행이 메운다.
     force=True(수동 실행)이면 시간 제한 없이 만든다.
     """
     taken = set()
@@ -255,7 +255,7 @@ def caption(d):
     if d["status"] == "pending":
         lines += ["", "형태와 상품을 고르고 ✅승인을 눌러 주세요.",
                   "✏️ 글을 직접 고치려면 이 메시지에 '답장'으로 고친 글을 보내 주세요.",
-                  "(버튼은 20분마다 확인해요. GitHub 사정으로 더 늦을 수도 있어요)"]
+                  "(버튼은 20분마다 확인해요)"]
     return "\n".join(lines)
 
 

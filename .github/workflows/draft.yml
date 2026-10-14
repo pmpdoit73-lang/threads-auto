@@ -7,7 +7,14 @@ on:
     # 16,18,20,22,0,2,4,6,8,10시 UTC = 한국 01,03,05,07,09,11,13,15,17,19시
     - cron: "13 16,18,20,22 * * *"
     - cron: "13 0,2,4,6,8,10 * * *"
-  workflow_dispatch: {}  # Actions 탭에서 "Run workflow"로 수동 실행
+  # 알람 서비스(cron-job.org)가 한국 08·14·18·22시에 깨움 (force 없이 → 빈 회차만 채움)
+  # Actions 탭에서 "Run workflow"로 수동 실행할 때 force를 체크하면 바로 만듦
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "시간 상관없이 바로 초안 만들기"
+        type: boolean
+        default: false
 
 permissions:
   contents: write  # 초안 상태(drafts/, state/)를 저장소에 저장
@@ -30,7 +37,7 @@ jobs:
       - name: 초안 만들기
         run: python src/make_draft.py
         env:
-          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
+          FORCE: ${{ inputs.force && '1' || '' }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
