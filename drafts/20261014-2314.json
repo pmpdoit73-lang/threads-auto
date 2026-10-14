@@ -2,7 +2,7 @@
   "id": "20261014-2314",
   "created_at": "2026-10-14T23:14:49.724569+09:00",
   "publish_at": "2026-10-15T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "내일 아침 쌀쌀…내륙 서리, 동해안 너울 주의",
   "angle": "서리 내릴 만큼 추워지는 아침, 베란다 화분·식재료와 이불 정리부터 챙기는 살림 타이밍으로 풀었음",
@@ -41,5 +41,9 @@
   "message": {
     "message_id": 10,
     "has_photo": true
-  }
+  },
+  "threads_id": "17910125193557345",
+  "permalink": "https://www.threads.com/@kingreview0669/post/Deemr2sERsJ",
+  "reply_id": "18177562489434535",
+  "published_at": "2026-10-14T23:32:17.649323+09:00"
 }
