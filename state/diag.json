@@ -1,5 +1,13 @@
 {
- "checked_at": "2026-10-15T09:09:21.440467+00:00",
+ "checked_at": "2026-10-15T09:09:58.077210+00:00",
+ "token_shape": {
+  "length": 90,
+  "stripped_length": 90,
+  "colons": 1,
+  "first_part_is_digits": false,
+  "has_space_inside": false,
+  "starts_with_bot": false
+ },
  "webhook_error": "텔레그램 getWebhookInfo 실패: Not Found",
  "updates_error": "텔레그램 getUpdates 실패: Not Found"
 }
