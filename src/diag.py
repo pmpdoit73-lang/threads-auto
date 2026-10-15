@@ -18,6 +18,10 @@ out["token_shape"] = {  # 토큰 값은 남기지 않고 모양만 기록
                         "has_digits_and_letters" if any(c.isdigit() for c in _t.strip().split(":")[0]) else "letters_only"),
     "has_slash_or_dot": any(c in _t for c in "/."), "starts_with_bot": _t.strip().lower().startswith("bot"),
 }
+_th = os.environ.get("THREADS_ACCESS_TOKEN", "").strip()
+out["threads_token_shape"] = {"length": len(_th), "starts_with_TH": _th.startswith("TH"),
+                              "colons": _th.count(":"), "has_slash_or_dot": any(c in _th for c in "/."),
+                              "first_part_is_digits": _th.split(":")[0].isdigit()}
 try:
     info = telegram._call("getWebhookInfo")
     out["webhook_set"] = bool(info.get("url"))
