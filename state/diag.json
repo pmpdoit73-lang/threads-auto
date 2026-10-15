@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-15T09:08:42.691350+00:00",
+ "checked_at": "2026-10-15T09:09:21.440467+00:00",
  "webhook_error": "텔레그램 getWebhookInfo 실패: Not Found",
  "updates_error": "텔레그램 getUpdates 실패: Not Found"
 }
