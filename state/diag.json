@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-15T14:59:02.751023+00:00",
+ "checked_at": "2026-10-15T14:59:59.971384+00:00",
  "token_shape": {
   "length": 46,
   "stripped_length": 46,
@@ -14,42 +14,20 @@
   "has_slash_or_dot": false,
   "starts_with_bot": false
  },
+ "threads_token_shape": {
+  "length": 46,
+  "starts_with_TH": false,
+  "colons": 1,
+  "has_slash_or_dot": false,
+  "first_part_is_digits": true
+ },
  "webhook_set": false,
- "pending_update_count": 4,
+ "pending_update_count": 0,
  "last_error_message": null,
  "allowed_updates": [
   "message",
   "callback_query"
  ],
- "updates_waiting": 4,
- "updates": [
-  {
-   "update_id": 588041503,
-   "kinds": [
-    "callback_query"
-   ],
-   "date": 1792076200
-  },
-  {
-   "update_id": 588041504,
-   "kinds": [
-    "callback_query"
-   ],
-   "date": 1792076200
-  },
-  {
-   "update_id": 588041505,
-   "kinds": [
-    "callback_query"
-   ],
-   "date": 1792076200
-  },
-  {
-   "update_id": 588041506,
-   "kinds": [
-    "callback_query"
-   ],
-   "date": 1792076200
-  }
- ]
+ "updates_waiting": 0,
+ "updates": []
 }
