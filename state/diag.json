@@ -1,11 +1,17 @@
 {
- "checked_at": "2026-10-15T09:14:46.211877+00:00",
+ "checked_at": "2026-10-15T09:15:37.858453+00:00",
  "token_shape": {
   "length": 90,
   "stripped_length": 90,
   "colons": 1,
   "first_part_is_digits": false,
   "has_space_inside": false,
+  "part_lengths": [
+   5,
+   84
+  ],
+  "first_part_kind": "letters_only",
+  "has_slash_or_dot": true,
   "starts_with_bot": false
  },
  "webhook_error": "텔레그램 getWebhookInfo 실패: Not Found",
