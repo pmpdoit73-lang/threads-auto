@@ -1,0 +1,45 @@
+{
+  "id": "20261016-0800",
+  "created_at": "2026-10-16T08:00:52.842516+09:00",
+  "publish_at": "2026-10-16T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "환율 하락으로 9월 수출물가 0.8%↓…수입물가는 1.7% 상승",
+  "angle": "수입물가 1.7% 상승을 장바구니 물가 신호로 보고, 오르기 전에 수입 의존 식재료·생필품 쟁여두는 요령으로 풀었음",
+  "hooks": [
+    "수입물가가 한 달 새 1.7% 올랐대.",
+    "환율 내렸는데 장바구니는 왜 비싸? 이유 있어.",
+    "식용유 떨어질 때 사면 이제 손해야."
+  ],
+  "text": "수입물가가 한 달 새 1.7% 올랐대.\n이거 두세 달 뒤면 마트 가격표에 그대로 와.\n식용유, 밀가루, 커피처럼 수입 많은 건\n지금 한두 개만 여유로 사 둬. 서늘한 데 보관하고.\n너네 집은 뭐부터 쟁여둘 거야?",
+  "image_prompt": "Neatly organized pantry shelf with bottles of cooking oil, bags of flour, coffee beans jars, warm natural light, cozy Korean home kitchen, no people, no text, no logos",
+  "photo_query": "pantry shelf groceries",
+  "product_keyword": "주방 수납 밀폐용기",
+  "products": [
+    {
+      "name": "prepara 브루클린 트라이탄 밀폐용기 베이지 17p 세트, 1세트, 10종",
+      "price": 179000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8161091422&itemId=26592410278&vendorItemId=93565656227&traceid=V0-153-172e5becad041e53&clickBeacon=4a21c440-c8ec-11f1-96e7-ae086a68f37b%7E3&requestid=20261016080100570135799182&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/9bjKl7S-sxCoSJGe9bBQo6q_sFiACLuAMKlzTDmdk9SicaURpRoFJiDRzIyUokvYNzngvIyXmE_RRrxiZPpr0lPZVQA6vn2BlPJwy0M_zgtfpcvL0L4_n0ogHMXng_mwcPkUFB8b0Ir_pMa7sHbHzdiLXVQmyLJBHhtR-sety9iOedF8mxwRuBxdNhjvoixzOsKyzNpv0y1rTplWpFxHYBsNgOKVQmxijf6oIFj_ThnF3E5SqEQ6HXiZKV2ZYL72GPQepk2j1bJIso-kDpTNCmr5BeyqG-8-S508Ag0z3Bpsp4F4y6czAroD8eR8YJvG6J__rQwmtFLjHz3OVwFrkReLxiau09UeD2V7pFnd9vYaPo5UHSfEhom8G5bFSsPIVIfJHm-QYE59IH6L5quHO8yiLOkfZDVpTLgbpTe5zbbO0ctUiEaJruvz2qPCYJAewBxSl3bHTDahHpRmcUeAYFzCOOLetAchzwn_fZAkh5155RPazIae42OsYeCXqD4="
+    },
+    {
+      "name": "비트리 휘어지는 냉동실 정리용기 혼합세트3 600ml x 6p + 1L x 4p, 10개, 1세트",
+      "price": 32000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6066327487&itemId=11179269324&vendorItemId=78457188195&traceid=V0-153-6e403f77130db8df&clickBeacon=4a21c440-c8ec-11f1-8933-e423883b0a1c%7E3&requestid=20261016080100570135799182&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/IlkgtmcssdJsLezFIjl_H3wDfThZJOy1_IbU82vrN3H3krnBqPsKmUmOt018S4fkWf6ICVbBfDiEPyFquEmjWwmEaVjs65CrQX_FkpUK0GIL85lgKGCH4O7FoNVB0woMvZX3Cc3G2N7IwWCefiVNvnsj_vOe_ObfQUlq6bNbZ_elWZwNp5IZmtbXUW3AVz-ltBBwBvJjcL5H4Eae8ovS-hKhcO41fXTVNx5oYMvWSvXuj_H611bFnUdm2t3mLcBcYYoEjGmSqdDbBBiXweb7-vGgYDUDYAiVnJbeJyLa-6P67Y9puhCrgeTXDkc4r9HiD0cnoVNSRfH8wWGqhkNPniPvD8rfEXqM6mB-eoG68nCLR9zkOmfCQc_9BCBqj52YDvs3PnEL5fHwCztwI0hJL-HvyJtOdWuAmHmpx2jZ0Ai3_WiJ-AOfJL-WTjcYfGGoSQ80WvJXvkla3u3kd2-2fJ2RChzniTaSbW_V60whC_h_rnKi8ls9iSsqGqvTMqoJmKQHEy1vYA=="
+    },
+    {
+      "name": "일본 나까야 밀폐용기 보관용기 반찬통 식품용기 700ml",
+      "price": 20400.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6797060722&itemId=24799381002&vendorItemId=91807091707&traceid=V0-153-16d6a004124c7379&requestid=20261016080100570135799182&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/oppkd6lghOXv0oh3oqdaZg3PGvde-SXFqtadWXzOPYfIkNxKlCV-qxnfz-nsw4ZB0xwGEUg4_JF_8s2qpDvcerGHYTCYG7fQM380vTPP995-HqaptttwXpm6zsAZC46yADuIEP_edVkxd0xPsp1BvISZ40x8Y5j5PYjKDxo5G1c3FuwIqGhv5TvQOm0l46DTSJWIdVy33e5u59tia17ZPBFQ7p1a8jUFpr6GanBb8jyOxUc-4tMWR5oMiFasTsCFm36qufE6NGprRCjMhxsmNm9UnHlHO-0RL6Nu7a-pIWI8Wv-LFbpQ7mRpmVmvgbEfvQWokaHk85SLLpTm5sHFEm13e4uVyH-QvJFQ5x7cnR0zBs-xfVDJK7eVAJMqFIg0QyUgH6uiuPnnhflQi3KRiNWRlJ8TODCaYozw62k_AJsTSOHEqdNDZFlEWW5IPYxwZO1w-wNxa76XfSw3llG4KOJ586djTrqiNl_X6nWaKgo-Xwx3F6Y5Z8T5xCfuAdFF30ChDdbL61RYD0Cd9WEW5-ZkB6YZUebLgQMpUz6D7inS7g=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 4,
+    "has_photo": true
+  }
+}
