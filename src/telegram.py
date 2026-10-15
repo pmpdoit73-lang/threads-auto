@@ -10,7 +10,7 @@ CAPTION_LIMIT = 1024
 
 
 def _call(method, **kwargs):
-    url = API.format(token=os.environ["TELEGRAM_BOT_TOKEN"], method=method)
+    url = API.format(token=os.environ["TELEGRAM_BOT_TOKEN"].strip(), method=method)
     resp = requests.post(url, timeout=30, **kwargs)
     body = resp.json()
     if not body.get("ok"):
@@ -20,7 +20,7 @@ def _call(method, **kwargs):
 
 def bot_id():
     """토큰 앞부분(봇 번호)만. 비밀 부분은 쓰지 않음."""
-    return os.environ["TELEGRAM_BOT_TOKEN"].split(":")[0]
+    return os.environ["TELEGRAM_BOT_TOKEN"].strip().split(":")[0]
 
 
 def _chat_id():
