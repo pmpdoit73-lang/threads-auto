@@ -37,5 +37,9 @@
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
-  "format": "both"
+  "format": "both",
+  "message": {
+    "message_id": 3,
+    "has_photo": true
+  }
 }

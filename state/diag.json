@@ -1,19 +1,26 @@
 {
- "checked_at": "2026-10-15T14:40:38.055889+00:00",
+ "checked_at": "2026-10-15T14:56:42.220435+00:00",
  "token_shape": {
-  "length": 90,
-  "stripped_length": 90,
+  "length": 46,
+  "stripped_length": 46,
   "colons": 1,
-  "first_part_is_digits": false,
+  "first_part_is_digits": true,
   "has_space_inside": false,
   "part_lengths": [
-   5,
-   84
+   10,
+   35
   ],
-  "first_part_kind": "letters_only",
-  "has_slash_or_dot": true,
+  "first_part_kind": "digits",
+  "has_slash_or_dot": false,
   "starts_with_bot": false
  },
- "webhook_error": "텔레그램 getWebhookInfo 실패: Not Found",
- "updates_error": "텔레그램 getUpdates 실패: Not Found"
+ "webhook_set": false,
+ "pending_update_count": 0,
+ "last_error_message": null,
+ "allowed_updates": [
+  "message",
+  "callback_query"
+ ],
+ "updates_waiting": 0,
+ "updates": []
 }

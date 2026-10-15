@@ -2,7 +2,7 @@
   "id": "20261015-1800",
   "created_at": "2026-10-15T18:00:56.546333+09:00",
   "publish_at": "2026-10-15T21:00:00+09:00",
-  "status": "pending",
+  "status": "skipped",
   "product": 0,
   "issue": "홈플러스, 희망퇴직 접수 신청자 몰려 조기마감",
   "angle": "대형마트 변화 소식을 계기로, 마트 포인트·상품권·적립금을 미리 점검하고 장보기 습관을 정리하자는 살림 팁으로 풀었음",
@@ -39,7 +39,7 @@
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 13,
+    "message_id": 2,
     "has_photo": true
   }
 }
