@@ -22,6 +22,13 @@ _th = os.environ.get("THREADS_ACCESS_TOKEN", "").strip()
 out["threads_token_shape"] = {"length": len(_th), "starts_with_TH": _th.startswith("TH"),
                               "colons": _th.count(":"), "has_slash_or_dot": any(c in _th for c in "/."),
                               "first_part_is_digits": _th.split(":")[0].isdigit()}
+if _th:
+    try:
+        import threads_api
+        me = threads_api._get("me", fields="username")
+        out["threads_login_ok"] = me.get("username")
+    except Exception as e:
+        out["threads_login_error"] = str(e)[:200]
 try:
     info = telegram._call("getWebhookInfo")
     out["webhook_set"] = bool(info.get("url"))

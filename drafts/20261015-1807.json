@@ -1,46 +1,45 @@
 {
-  "id": "20261015-1807",
-  "created_at": "2026-10-15T18:07:52.418033+09:00",
-  "publish_at": "2026-10-16T07:00:00+09:00",
-  "status": "failed",
-  "product": 0,
-  "issue": "호르무즈 해협 상선 잇단 침몰·사우디 아람코 피격",
-  "angle": "중동 바닷길 불안 → 기름값·물가 오르기 전에 난방비·장바구니부터 미리 챙기는 살림 대비",
-  "hooks": [
-    "기름 실어 나르는 바닷길에서 배가 가라앉고 있대.",
-    "난방비 고지서, 올겨울엔 더 놀랄 수도 있어.",
-    "기름값 오르면 제일 먼저 뭐부터 줄일 거야?"
-  ],
-  "text": "기름 실어 나르는 바닷길에서 배가 가라앉고 있대.\n남 얘기 아니야, 기름값 오르면 난방비·물가 다 따라 올라.\n난 보일러 1~2도 낮추고 창문에 단열 뽁뽁이부터 붙여.\n그것만 해도 실내 2~3도는 덜 빠져.\n너네 집은 겨울 준비 시작했어?",
-  "image_prompt": "Cozy Korean apartment window covered with clear bubble wrap insulation, soft morning winter light, warm knitted blanket on a sofa nearby, a mug of tea on a wooden table, no people, no text, no logos, realistic photo",
-  "photo_query": "window insulation winter",
-  "product_keyword": "창문 단열 뽁뽁이",
-  "products": [
-    {
-      "name": "국산 단열 창문 뽁뽁이 에어캡 방한 외풍차단, 1개",
-      "price": 56460,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9730023608&itemId=29117039492&vendorItemId=87638641619&traceid=V0-153-4e6bd2e9cc311dd5&clickBeacon=eb837380-c877-11f1-9766-12abaaf614d8%7E3&requestid=20261015180800237289710247&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/BduY1D7zbBOU29VrBfOrDKIi2POUIyOjsMG-33vLJlXy8zEW1m8wqVz9cqA7UXojvQzmRzvT-x0vmEf8EvVE-3ZFXzU-xGQCAsOCRYMwDr9H2Ts6sSHeZGCglPz89aR3i1yxO0JPJ6z7U4MHwbCjCp0NdXbRvCGxqjMakbASg2b9TozPy2NkZFdXsvxr-2OJPUCz8YLcmXoV6lgL0Kgt6SZa9JBj7lHRJLZIfPOTeEb5lRNATxttW3MhhOogGk8ZcAixIxkDZhmdi21tzlOygGpI_ZbYZkHgXP0VFLsUCa51prqVyATfeITqNEYlKwtMdFjGe35V8wOzEgEbW-K6Auhm2tirWM9qLlEw8mH48ys7rjg5Yz4XwjbjAZErVtrbRwSDeAoIGceBj_DPtE8wjexJ41eueKPkC7KSBbIO1yifnBWw1nUGa2aKZ1mpi8vU03uh8pWGqplaDLxDWKEUskDmqd0wgWIcEzcVIxdPldsGSslGkILe2-Md9e1DnT3Mnlw3VJDHKlr7ZGGWF1zHZnYqGNTS4r0="
-    },
-    {
-      "name": "딱포미 물없이 붙는 창문 단열 뽁뽁이 더블 7중 1 x 10 m 블라인드, 1개",
-      "price": 34900,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9205358367&itemId=27184372430&vendorItemId=96001786241&traceid=V0-153-cdeae60200d1d7d5&clickBeacon=eb837380-c877-11f1-9b9c-bc1267a0300c%7E3&requestid=20261015180800237289710247&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/vRQd3E-asHBYfJYYvdvgfjwhgNsIpmGqvuAG2x6iRITh21DxonnrRUuuWp--oYpLgs9mIIDaIeM2X_UOPf3daLH2Bn3_DX6YKbxd3cFAFAsqJNR0CIyEh2QISrdT3Bw6TmGVdkIuLlrxGfuEhKrukuy7x1Z62Ie-ABOXgISCOTMKmIb6lvzQDiZznIcK8EdBuRU_ZfuHdhe32i8WqJKDK1ql6chGwUUg79JojTus-swHAMcQUIFAlByUjcJDvv06MrMjjPYMpSZqfDpC9wu7Lca72to8sj7VuQXZo_Wp21zLU9RsN0vqojIVi3x2_XMHpFZTlDt6eU33k6-CtJYmm1xTEQTo2hkmk5KXXR3jsUE4rJxbs-NeeYldW9wPAJELgeU5DOguiL3U3LW_BUt0WYsnXPVQ3N9PeslbIKKF9UC4SeNP-bkJdjC9YzCo8A6Zwms_JOjGeylg5NtLYITrXtHhSVdEVw0vwDv5pbvMqNwH6GJHcDDl6wzgmVjyX30="
-    },
-    {
-      "name": "뽁순이 3중 뽁뽁이 단열에어캡",
-      "price": 9980,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=34357682&itemId=128179610&vendorItemId=3265409185&traceid=V0-153-16868b15d47ce1e0&requestid=20261015180800237289710247&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/0KaK0V89OO7qcQa80LLJcsn0VUqmFl2HAsSI79Orue_Gm-smU4qTRVh0kBQHBuGtjpGEyBvSicbJP8OyWV2sGE4UMJ7lJh8KYTuXbp5-wY1-K4K7RsMC7UufszQRvG01HK2yDsiiZCII6IDCpI5PTcSSVHT50LPkIRJbR0DQwCzDW28Bc14zLsBe6I41nSMxx2HY8SXjC30p27J49TBgxzEV62myB8Z0Mx4Yw3YT9RUsotBnon2QvmUqQsTmGr1_3QceIG8Z8QURGUS6t2z6n_wrtCmxYypz2YJdGszTnoE2aMw7_A1mmQqmswoKmFx2Vpnv2Ns3W7x9X9WiAkRMHFf3uygmL26K5vpvHFTDeH4f5YXcu2WNlintPPCwopwXMyahg1HgXHV_ObWAYFtZ08v_Fwq-F2gmvM9dWMmxU3A6bIYYlm0ZdlyHNa2icjvnxNmY8ndqhFyTtukRZIGlqkO7L7neJImekwmnSRa554g6vgNOmba-zJj6vWOW8mAQHRd4MUUKZZ6PlxNIzQftDw=="
-    }
-  ],
-  "image_note": "제미나이 생성",
-  "has_photo": true,
-  "format": "both",
-  "message": {
-    "message_id": 3,
-    "has_photo": true
+ "id": "20261015-1807",
+ "created_at": "2026-10-15T18:07:52.418033+09:00",
+ "publish_at": "2026-10-16T07:00:00+09:00",
+ "status": "approved",
+ "product": 0,
+ "issue": "호르무즈 해협 상선 잇단 침몰·사우디 아람코 피격",
+ "angle": "중동 바닷길 불안 → 기름값·물가 오르기 전에 난방비·장바구니부터 미리 챙기는 살림 대비",
+ "hooks": [
+  "기름 실어 나르는 바닷길에서 배가 가라앉고 있대.",
+  "난방비 고지서, 올겨울엔 더 놀랄 수도 있어.",
+  "기름값 오르면 제일 먼저 뭐부터 줄일 거야?"
+ ],
+ "text": "기름 실어 나르는 바닷길에서 배가 가라앉고 있대.\n남 얘기 아니야, 기름값 오르면 난방비·물가 다 따라 올라.\n난 보일러 1~2도 낮추고 창문에 단열 뽁뽁이부터 붙여.\n그것만 해도 실내 2~3도는 덜 빠져.\n너네 집은 겨울 준비 시작했어?",
+ "image_prompt": "Cozy Korean apartment window covered with clear bubble wrap insulation, soft morning winter light, warm knitted blanket on a sofa nearby, a mug of tea on a wooden table, no people, no text, no logos, realistic photo",
+ "photo_query": "window insulation winter",
+ "product_keyword": "창문 단열 뽁뽁이",
+ "products": [
+  {
+   "name": "국산 단열 창문 뽁뽁이 에어캡 방한 외풍차단, 1개",
+   "price": 56460,
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9730023608&itemId=29117039492&vendorItemId=87638641619&traceid=V0-153-4e6bd2e9cc311dd5&clickBeacon=eb837380-c877-11f1-9766-12abaaf614d8%7E3&requestid=20261015180800237289710247&token=31850C%7CMIXED&pt=1&slot=1",
+   "image": "https://ads-partners.coupang.com/image1/BduY1D7zbBOU29VrBfOrDKIi2POUIyOjsMG-33vLJlXy8zEW1m8wqVz9cqA7UXojvQzmRzvT-x0vmEf8EvVE-3ZFXzU-xGQCAsOCRYMwDr9H2Ts6sSHeZGCglPz89aR3i1yxO0JPJ6z7U4MHwbCjCp0NdXbRvCGxqjMakbASg2b9TozPy2NkZFdXsvxr-2OJPUCz8YLcmXoV6lgL0Kgt6SZa9JBj7lHRJLZIfPOTeEb5lRNATxttW3MhhOogGk8ZcAixIxkDZhmdi21tzlOygGpI_ZbYZkHgXP0VFLsUCa51prqVyATfeITqNEYlKwtMdFjGe35V8wOzEgEbW-K6Auhm2tirWM9qLlEw8mH48ys7rjg5Yz4XwjbjAZErVtrbRwSDeAoIGceBj_DPtE8wjexJ41eueKPkC7KSBbIO1yifnBWw1nUGa2aKZ1mpi8vU03uh8pWGqplaDLxDWKEUskDmqd0wgWIcEzcVIxdPldsGSslGkILe2-Md9e1DnT3Mnlw3VJDHKlr7ZGGWF1zHZnYqGNTS4r0="
   },
-  "error": "쓰레드 API 오류 (me/threads): {'message': 'Invalid OAuth access token - Cannot parse access token', 'type': 'OAuthException', 'code': 190, 'fbtrace_id': 'Ajdg7m2tpaSAv7avmhzGFVo'}"
+  {
+   "name": "딱포미 물없이 붙는 창문 단열 뽁뽁이 더블 7중 1 x 10 m 블라인드, 1개",
+   "price": 34900,
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9205358367&itemId=27184372430&vendorItemId=96001786241&traceid=V0-153-cdeae60200d1d7d5&clickBeacon=eb837380-c877-11f1-9b9c-bc1267a0300c%7E3&requestid=20261015180800237289710247&token=31850C%7CMIXED&pt=1&slot=2",
+   "image": "https://ads-partners.coupang.com/image1/vRQd3E-asHBYfJYYvdvgfjwhgNsIpmGqvuAG2x6iRITh21DxonnrRUuuWp--oYpLgs9mIIDaIeM2X_UOPf3daLH2Bn3_DX6YKbxd3cFAFAsqJNR0CIyEh2QISrdT3Bw6TmGVdkIuLlrxGfuEhKrukuy7x1Z62Ie-ABOXgISCOTMKmIb6lvzQDiZznIcK8EdBuRU_ZfuHdhe32i8WqJKDK1ql6chGwUUg79JojTus-swHAMcQUIFAlByUjcJDvv06MrMjjPYMpSZqfDpC9wu7Lca72to8sj7VuQXZo_Wp21zLU9RsN0vqojIVi3x2_XMHpFZTlDt6eU33k6-CtJYmm1xTEQTo2hkmk5KXXR3jsUE4rJxbs-NeeYldW9wPAJELgeU5DOguiL3U3LW_BUt0WYsnXPVQ3N9PeslbIKKF9UC4SeNP-bkJdjC9YzCo8A6Zwms_JOjGeylg5NtLYITrXtHhSVdEVw0vwDv5pbvMqNwH6GJHcDDl6wzgmVjyX30="
+  },
+  {
+   "name": "뽁순이 3중 뽁뽁이 단열에어캡",
+   "price": 9980,
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=34357682&itemId=128179610&vendorItemId=3265409185&traceid=V0-153-16868b15d47ce1e0&requestid=20261015180800237289710247&token=31850C%7CMIXED&pt=0&slot=3",
+   "image": "https://ads-partners.coupang.com/image1/0KaK0V89OO7qcQa80LLJcsn0VUqmFl2HAsSI79Orue_Gm-smU4qTRVh0kBQHBuGtjpGEyBvSicbJP8OyWV2sGE4UMJ7lJh8KYTuXbp5-wY1-K4K7RsMC7UufszQRvG01HK2yDsiiZCII6IDCpI5PTcSSVHT50LPkIRJbR0DQwCzDW28Bc14zLsBe6I41nSMxx2HY8SXjC30p27J49TBgxzEV62myB8Z0Mx4Yw3YT9RUsotBnon2QvmUqQsTmGr1_3QceIG8Z8QURGUS6t2z6n_wrtCmxYypz2YJdGszTnoE2aMw7_A1mmQqmswoKmFx2Vpnv2Ns3W7x9X9WiAkRMHFf3uygmL26K5vpvHFTDeH4f5YXcu2WNlintPPCwopwXMyahg1HgXHV_ObWAYFtZ08v_Fwq-F2gmvM9dWMmxU3A6bIYYlm0ZdlyHNa2icjvnxNmY8ndqhFyTtukRZIGlqkO7L7neJImekwmnSRa554g6vgNOmba-zJj6vWOW8mAQHRd4MUUKZZ6PlxNIzQftDw=="
+  }
+ ],
+ "image_note": "제미나이 생성",
+ "has_photo": true,
+ "format": "both",
+ "message": {
+  "message_id": 3,
+  "has_photo": true
+ }
 }
