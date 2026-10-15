@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-15T14:59:59.971384+00:00",
+ "checked_at": "2026-10-15T15:06:57.500241+00:00",
  "token_shape": {
   "length": 46,
   "stripped_length": 46,
@@ -15,12 +15,13 @@
   "starts_with_bot": false
  },
  "threads_token_shape": {
-  "length": 46,
-  "starts_with_TH": false,
-  "colons": 1,
+  "length": 201,
+  "starts_with_TH": true,
+  "colons": 0,
   "has_slash_or_dot": false,
-  "first_part_is_digits": true
+  "first_part_is_digits": false
  },
+ "threads_login_ok": "kingreview0669",
  "webhook_set": false,
  "pending_update_count": 0,
  "last_error_message": null,
