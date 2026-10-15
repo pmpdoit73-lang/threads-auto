@@ -12,7 +12,11 @@ _t = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 out["token_shape"] = {  # 토큰 값은 남기지 않고 모양만 기록
     "length": len(_t), "stripped_length": len(_t.strip()), "colons": _t.count(":"),
     "first_part_is_digits": _t.strip().split(":")[0].isdigit(),
-    "has_space_inside": " " in _t.strip(), "starts_with_bot": _t.strip().lower().startswith("bot"),
+    "has_space_inside": " " in _t.strip(),
+    "part_lengths": [len(x) for x in _t.strip().split(":")],
+    "first_part_kind": ("digits" if _t.strip().split(":")[0].isdigit() else
+                        "has_digits_and_letters" if any(c.isdigit() for c in _t.strip().split(":")[0]) else "letters_only"),
+    "has_slash_or_dot": any(c in _t for c in "/."), "starts_with_bot": _t.strip().lower().startswith("bot"),
 }
 try:
     info = telegram._call("getWebhookInfo")
