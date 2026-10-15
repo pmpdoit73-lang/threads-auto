@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-15T14:56:42.220435+00:00",
+ "checked_at": "2026-10-15T14:59:02.751023+00:00",
  "token_shape": {
   "length": 46,
   "stripped_length": 46,
@@ -15,12 +15,41 @@
   "starts_with_bot": false
  },
  "webhook_set": false,
- "pending_update_count": 0,
+ "pending_update_count": 4,
  "last_error_message": null,
  "allowed_updates": [
   "message",
   "callback_query"
  ],
- "updates_waiting": 0,
- "updates": []
+ "updates_waiting": 4,
+ "updates": [
+  {
+   "update_id": 588041503,
+   "kinds": [
+    "callback_query"
+   ],
+   "date": 1792076200
+  },
+  {
+   "update_id": 588041504,
+   "kinds": [
+    "callback_query"
+   ],
+   "date": 1792076200
+  },
+  {
+   "update_id": 588041505,
+   "kinds": [
+    "callback_query"
+   ],
+   "date": 1792076200
+  },
+  {
+   "update_id": 588041506,
+   "kinds": [
+    "callback_query"
+   ],
+   "date": 1792076200
+  }
+ ]
 }
