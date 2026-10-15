@@ -18,6 +18,11 @@ def _call(method, **kwargs):
     return body["result"]
 
 
+def bot_id():
+    """토큰 앞부분(봇 번호)만. 비밀 부분은 쓰지 않음."""
+    return os.environ["TELEGRAM_BOT_TOKEN"].split(":")[0]
+
+
 def _chat_id():
     return os.environ["TELEGRAM_CHAT_ID"]
 

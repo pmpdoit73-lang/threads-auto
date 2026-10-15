@@ -15,16 +15,42 @@ import threads_api
 OFFSET_FILE = Path(__file__).resolve().parent.parent / "state" / "telegram_offset.txt"
 
 
+def _bot_id():
+    return telegram.bot_id()
+
+
 def read_offset():
+    """저장된 위치를 읽는다. 봇이 바뀌었으면 처음(0)부터."""
     try:
-        return int(OFFSET_FILE.read_text().strip())
+        text = OFFSET_FILE.read_text().strip()
+        if ":" not in text:  # 예전 형식(봇 번호 없음)은 지금 봇 것으로 봄
+            return int(text)
+        bot, value = text.split(":")
+        return int(value) if bot == _bot_id() else 0
     except (FileNotFoundError, ValueError):
         return 0
 
 
 def write_offset(value):
     OFFSET_FILE.parent.mkdir(exist_ok=True)
-    OFFSET_FILE.write_text(str(value))
+    OFFSET_FILE.write_text(f"{_bot_id()}:{value}")
+
+
+def bot_changed():
+    """봇을 새로 바꿨는지 (저장된 봇 번호와 다르면 바뀐 것)."""
+    try:
+        text = OFFSET_FILE.read_text().strip()
+    except FileNotFoundError:
+        return False
+    return ":" in text and text.split(":")[0] != _bot_id()
+
+
+def resend_open_drafts():
+    """봇을 바꾸면 옛 봇 메시지의 버튼은 새 봇에 안 닿으니, 열린 초안을 새 봇으로 다시 보낸다."""
+    for d in draft.open_drafts():
+        if d["status"] in ("pending", "approved"):
+            draft.send(d)
+            print(f"[poll] 새 봇으로 {d['id']} 다시 보냄")
 
 
 # ---------- 게시 ----------
@@ -189,6 +215,9 @@ def process_schedule():
 
 if __name__ == "__main__":
     try:
+        if bot_changed():
+            resend_open_drafts()
+            write_offset(0)
         process_buttons()
         process_schedule()
     except Exception as e:
