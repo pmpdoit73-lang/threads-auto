@@ -1,12 +1,5 @@
 {
- "checked_at": "2026-10-15T09:01:29.700931+00:00",
- "webhook_set": false,
- "pending_update_count": 0,
- "last_error_message": null,
- "allowed_updates": [
-  "message",
-  "callback_query"
- ],
- "updates_waiting": 0,
- "updates": []
+ "checked_at": "2026-10-15T09:08:42.691350+00:00",
+ "webhook_error": "텔레그램 getWebhookInfo 실패: Not Found",
+ "updates_error": "텔레그램 getUpdates 실패: Not Found"
 }
