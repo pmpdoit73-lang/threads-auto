@@ -1,0 +1,45 @@
+{
+  "id": "20261015-1800",
+  "created_at": "2026-10-15T18:00:56.546333+09:00",
+  "publish_at": "2026-10-15T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "홈플러스, 희망퇴직 접수 신청자 몰려 조기마감",
+  "angle": "대형마트 변화 소식을 계기로, 마트 포인트·상품권·적립금을 미리 점검하고 장보기 습관을 정리하자는 살림 팁으로 풀었음",
+  "hooks": [
+    "홈플러스 희망퇴직, 신청이 몰려 조기마감됐대.",
+    "너네 지갑에 마트 상품권 몇 장 잠자고 있어?",
+    "마트 포인트 묵혀두면 그냥 날아가."
+  ],
+  "text": "홈플러스 희망퇴직, 신청이 몰려 조기마감됐대.\n남 얘기 같지만 장보는 우리도 챙길 게 있어.\n잠자는 상품권, 포인트부터 꺼내 봐.\n유효기간 지나면 그냥 사라지더라.\n너네 집 서랍엔 몇 장 있어?",
+  "image_prompt": "A kitchen drawer slightly open with paper gift vouchers, receipts and a reusable shopping bag on a wooden table, warm natural light, cozy Korean home atmosphere, no people, no text, no logos",
+  "photo_query": "grocery receipts drawer",
+  "product_keyword": "장바구니 접이식",
+  "products": [
+    {
+      "name": "폴듀 3세대 접이식 폴딩카트 65L 대용량 4바퀴 핸드 쇼핑 장바구니 캐리어, 1개, 1.카키",
+      "price": 49280,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8405092407&itemId=27408527348&vendorItemId=95827718630&traceid=V0-153-c733c778bbf320db&clickBeacon=f3497610-c876-11f1-84ec-1fea390257c4%7E3&requestid=20261015180103790194857583&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/DG35lE_BgmUfOlM-DP5LxysUPvxZHaWpzqRZqT5ZcFyAv27KxfpxRmfXz1dz5SyiXgO_knpoKLehx4EUMf93jOHfOV6ectOfvjybeRhNHbpKf1b5spzuwpQ3kN9qfEweh9SIlLjkKPjGZNPuXXhpiAGjcZSPvIeuaK4MexdbL0yLYxsB1RF-g2y6uGoZx-6ZS4Q4sXayeweZA0p-dntmRrrvQOAAD8hKRSwdV1vSMzN5xiqkRSOzSysITmNEjOB_WeWeiP7avY1i8TTteV3PRp5x8YRDK1PN-EtxbCrkmCN2yhVVEDgP7Uq5BoCptcnl6DIn4HECvYWWvQCalD3JJvPSZWeQBV_t4RBFgZ5ZCkU39puJXHH502KrvMf69wevHxjyT5qxMBhlK0UrYmzEaUh13fKeqL54afKyGRJBhss6dpL7cuiNh6lBbS6t1qO5PWqZiFNM6r8BcVYaq310woF52slCrsgGpum071CswCnRb_nrFczX6r0jC3gIgbR4ib-QXfO0XIGtRoz_yZTOObH6DKF36H3a"
+    },
+    {
+      "name": "리에라벨 3세대 롤링 쇼핑카트 PRO 무소음 바퀴 대용량 접이식 장바구니, 1개, 메탈실버",
+      "price": 32850,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9530479705&itemId=28421022406&vendorItemId=95372057391&traceid=V0-153-c13fbd750988a3f7&clickBeacon=f3497610-c876-11f1-94f8-941bc204fb21%7E3&requestid=20261015180103790194857583&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/UBU3H8pgTZwAExtKUP6PDLyHmzR4et7Ds0gKzbkS3o29h_QpFPMRcxjQy5u6u6hBme0NKIBDevJn_TTeSXzCYDuyml12lh-yyKg4H28qSBpTdQdRhMvikRkoJcZGLH9Ex_Si7OId5rothRwksqOlwAdTzV_CrWCmg0qk7HStLL61kklg06n0T8vciPiUAwFKKBeKKHdjDbOx1glBQLdgNRtDF58phG0ICzLb9uQyA5gE4kMFpq2PxASkdLjsB4EiDb5GS8Rm7TnaUk4rgErPRRWV3A2hJ_AZ7yFRINPvv4x5RDXFnMDR-UY6ljM-siufrzHx2-nSemL0L1cq2gFheOXsXmR6szg-cAG5Hb5pJp69HKOS7Lh131STk0vPI93IwDJuwa5XYgJ7qw6-2UevDwu2OStHDKmh52sw8tvXGFpxV2V8abRFfkRs0OniRpopPfMZy8ESb-53R9veAeDwysFWDaB5K7JAhyWGxURrP3EYgwaq97anJgMQWjTU6fxZE0sXLW5jqBBQJS_45ZC38j1sVapS3q1i"
+    },
+    {
+      "name": "폴딩 장바구니",
+      "price": 6400.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7250931390&itemId=25658756269&vendorItemId=75660609729&traceid=V0-153-047c9e1c32bd8f8f&requestid=20261015180103790194857583&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/Ty4c7Hg29zqd4GvBTx_diF_kxblv4WuKXRjleMYH5mHIFH78_pji03k3TNZhtLukeIcnS_5ErvGcbR1DjAYfaiBoFBjB72WWGYe0l7ED9vtE5GyfjVe8eyjSI1DGunM7ujXcyQ1gDmEhdPICbKVNeBRR3J3kRTqc7clrjea8tASMcUvjotQbiKmFJOcrLOaRJqQF8GklL2Sn4lDcBKqJocKJ7ps0ZcaWNWRVwqXS80E7smtX-0nm2fuajSWfCYbY9alqEbKYEPqaQC2oiUgBzQnpSO0gT4peE-_RBV6n17j39GFtmSqaN18kORYQje-90kjEvJHHqZHYmVi-6cMniyjkTjlBHGjWenyH41PcnTb3_qPB2gig4IZHU-_C1hgPx7iSnKBz-9LiSq_m6TgvWzCXazNXfQx6op_c4jQkPHx0EB7Yjp4T8zA3WntJCiEhtE4fgCkW5bprktGWR0eU549L8TSgzBEFYsN2dnbAsMBS4IbsA9HycHL-uryaf2JaX3emIDt2mfcwF8z91aPiT3NW27ojoueaWFDXycDxsmabw-9gpMfkW-Iy2jAAblOSbLNShvxxe5WQNgvfdsUgEbsbhwc="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 13,
+    "has_photo": true
+  }
+}
