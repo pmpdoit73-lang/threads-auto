@@ -1,12 +1,19 @@
 """텔레그램 연결 점검: 버튼 신호가 왜 안 들어오는지 기록한다 (비밀값은 기록하지 않음)."""
 
 import json
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 
 import telegram
 
 out = {"checked_at": datetime.now(timezone.utc).isoformat()}
+_t = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+out["token_shape"] = {  # 토큰 값은 남기지 않고 모양만 기록
+    "length": len(_t), "stripped_length": len(_t.strip()), "colons": _t.count(":"),
+    "first_part_is_digits": _t.strip().split(":")[0].isdigit(),
+    "has_space_inside": " " in _t.strip(), "starts_with_bot": _t.strip().lower().startswith("bot"),
+}
 try:
     info = telegram._call("getWebhookInfo")
     out["webhook_set"] = bool(info.get("url"))
