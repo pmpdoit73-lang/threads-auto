@@ -4,47 +4,48 @@
   "publish_at": "2026-10-17T07:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "전 일본이 8분간 떨었다…일 기상청, 역사상 최대 '규모 9.9 지진' 오보",
-  "angle": "피해 없는 오보 소식을 계기로, 오래 안 열어본 우리 집 비상가방을 점검하자는 살림 이야기로 풀었어",
+  "issue": "\"시부 칠순 100만원, 친정엄마 칠순 식사만\"…맞벌이 19년차 아내 '분통'",
+  "angle": "양가 경조사비 차별 사연을 살림하는 사람의 봉투 고민과 '양가 똑같이, 미리 정해두기' 팁으로 연결",
   "hooks": [
-    "일본 기상청이 규모 9.9 지진 오보를 냈대...",
-    "너네 집 비상가방, 마지막으로 연 게 언제야?",
-    "오보에 일본 전체가 8분 떨었대. 우리 집은 대비돼 있어?"
+    "시댁 칠순 100만원, 친정엄마는 밥 한 끼래...",
+    "너네 칠순 봉투, 시댁이랑 친정 똑같이 해?",
+    "맞벌이 19년 차 아내가 터졌대. 칠순 봉투 때문에."
   ],
-  "text": "일본 기상청이 규모 9.9 지진 오보를 냈대...\n전국이 8분 동안 떨었다는데 남 얘기 아니야.\n우리 집 비상가방, 마지막으로 연 게 언제야?\n생수 유통기한, 손전등 건전지 지금 확인해.\n너네 집은 비상가방 있어?",
-  "image_prompt": "Amateur smartphone photo taken at home of an old backpack half-open on a wooden floor near a closet, with two plastic water bottles, a small flashlight, loose AA batteries and a pack of wet wipes spilling out, slightly tilted angle, dim indoor lighting, casual unposed snapshot, no people, no text, no logos",
-  "photo_query": "emergency kit backpack",
-  "product_keyword": "비상가방 생존배낭",
-  "benchmark_note": "높았던 글처럼 첫 줄을 말줄임표로 끝내 궁금증을 남기고, 짧은 구어체 줄 나눔 뒤 누구나 바로 답할 경험 질문으로 마무리했어",
+  "text": "시댁 칠순 100만원, 친정엄마는 밥 한 끼래...\n맞벌이 19년 차 아내 사연에 속이 다 쓰리더라.\n나도 봉투 두 개 놓고 한참 저울질했었지.\n우리 집은 양가 똑같이, 금액 미리 정해둬.\n너네는 칠순 봉투 얼마 했어?",
+  "image_prompt": "Two plain white money envelopes lying side by side on a worn wooden kitchen table at home, a pen and a small paper calendar nearby, a half-drunk cup of barley tea, slightly tilted casual smartphone snapshot, dim indoor evening light, cluttered background with fruit bowl, no people, no faces, no text, no logos",
+  "photo_query": "money envelope table",
+  "product_keyword": "축하 봉투",
+  "benchmark_note": "첫 줄을 상황 한 문장+말줄임표로 끝내 궁금증 남기고, 마지막을 누구나 답할 경험 질문으로 맺는 형식을 가져옴",
   "products": [
     {
-      "name": "가정용 회사 비상용 지진 재난 대비 생존 배낭 세트 13종 생존용품포함",
-      "price": 65400.0,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9768884757&itemId=29239438518&vendorItemId=96157987872&traceid=V0-153-9f56ce00ece8df32&requestid=20261016171223380147947430&token=31850C%7CMIXED&pt=0&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/ovkW_fPVgXZQb4u1olrsJI7XULF-ojhvlGlPFocZEZlbfXb3Rq7e7k_LcURfMsUeJwbSZ4YXBnoLtzTGC7yd4-lW9UhLN6hEw9Gaa0Gca8sosXms3ZdHPUrBy7c6xBW1pWf8b-8rcRkaqVQxLjsctMTVfVMhQhxDgFOvcbwzrJJ7MCfLOU66is1p24tK0RoRw1_80DZcUHRebrC5h5yVl-6OwNofZ8_bAvI0SUQviYY2pT_wxek5V3ooACP09OAbtIQa1Yu-0rRDLJ3dVMWfMdGMdz7MOKBbLNeJfqDbCoHrNEYlsaddR9-SLDUmf-cpIzBtqcxSQYjexkGigziqJa8HU1tR-vNTWp-7G58L_Suczjyr1lxM2X48Dj3mNGsygCt5A8yLvoHdtrqRA2AdWRgMjJTq202zuTM6PAebbZMOB3S3Vbn_q_22RfM0Wi8eTLL7fOhhjr1Yp8WsBMrLX6b61mkR-VlsYgM96rdDXRfCbUvu6InNBTxzqcsnJFxf18GnV3ptYrbwEwmcuIZzdFUGPXtrN_Y_XQ4v4GimtnTs-g=="
+      "name": "복과 사랑을 담은 일루베 고급 용돈봉투, 축하, 16개",
+      "price": 18900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9249441125&itemId=27356604052&vendorItemId=94322804336&traceid=V0-153-22798431705c65a2&clickBeacon=d174d610-c939-11f1-8dbc-6359b88dee4f%7E3&requestid=20261016171558887258654419&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/l8CRDt-t9DlV3T_OlwasRBqMoxq5zkbVOKjqC0cCVyCH2ufdxeLSTPrM9m33jUKyucva2SWCAYjC21lSQL5D3DzV5FyKfugjYMDM14nJxbJPvDiFV0KAmEzD0Gqe8v5BfWJMACj8tXOz4VPQB4yejXld2unePzmey2xmA7mhTmmTSU6c6WmJwwzvqfw5la2VhaUAnA0Ykv96egtxDNSIJoZ1QsPg4npOX_9ZsMxAcjfWYB9u7M-iigFJ8WtdnVMIf17u2lkfbZb1PFeztiTUQh2vfCFe7yOB0afLs0KWxH11Ky8uOQzn_1lt3mgzXtXYxF2_dpyW0QazFm1TsmQSL4_uXFN_Qj7gKWjwf3OEJYUeoojQogVywiR9927BbFhFkiZ4TF-8Tz3YhLWKBDapmY-Rf060hOMFmM7kdd86nIaTYJc7FNkftkhhJhsQ9waKn0mJXriFb2ra2LtIMDDXAgm-POnj1V80bK-I7kBWZnsjoNAt4oH0VZ816cl4w3uwgJNXH0idn5OJsAmsAzQYxesdVjOmq1A="
     },
     {
-      "name": "아이템픽 19종 생존가방 키트 배낭 세트 재난대비 응급키트, 블랙, 1세트",
-      "price": 69000,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9137804744&itemId=25910841545&vendorItemId=93846183815&traceid=V0-153-e4d1835f422f1fdf&clickBeacon=50ff3f20-c939-11f1-90a4-3acec60c490f%7E3&requestid=20261016171223380147947430&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/AvFN3MV_6TnNunp_Aiql9K6Q3b5yhPLuRf44mQmCOFF6cQFtnh9Ugwp171DjoVJ6t-_STB40KVq6_b8TVS9c49dusG9RXwGGgsc0aWYbUX_N-HpGMrB6ofgKrm6hE6eGDMckIAg2DZy9iS4AqOymdoccGClD_OHFWL92dEx8URJbUmHw4oLf3eAP2KkvxmSN28vrtkuFN7CfdEyQrP57PcEHXs5vNF0HUfzvNSFkXD1Kb0UZ0Jsw17z113squVRzZ7Lao7l8sjXMqIMYEzwvMhzqnGftkos2j52qMAoSOOeQRPFpw-4lGJ5nTRo1Wj8ttL4TS0uMlwgnlD87Gr6tS6b4JNBJUCFL2zMpMHUpLey8nBPjDTTt2SxWqGtIt6_qW_dp1ON9N0AhIrkRlIpR2B0IlxFFH1XkbAlUPlYLRxrNAMxHfYHzQKCgMp8ciBLBrZHvho01nHXphRhZIwBAFAP5LgF2tRl2dcnThDuQHVlHPkX7mFwJ6L94sS5aCykcCWFPhVkJbj1PBYiTSWGtTiPm1fokW3GTlg=="
+      "name": "복과 사랑을 담은 일루베 고급 용돈봉투, 축하, 8개",
+      "price": 11900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9249441125&itemId=27356604046&vendorItemId=94322804342&traceid=V0-153-22798431705c65a2&clickBeacon=d174d610-c939-11f1-a15e-f507a3e02182%7E3&requestid=20261016171558887258654419&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/zZ8RP_uIdg1YzKOFzYJFrdrYmo_QH3AUfpN_arx4nQtzmggDEcLg0JCXIvvalG1Autft1c58_29zzLEiC8kIKPIwTgGNfFFXIxggVud08U52nwbfZiKgYfB9clTeZp1o8S0iJzpsaZpoxpuowgYmnivYBz4YaXLIA8CS8m9j2cDsuu1h_luPubA4XTPW59AL-oHXfJkietpcK6dMS7XR9c9ZMloie1vwKu6gnFuJsiUbK8RDdc3eJgygownn3nOCS2LUFL_ioq5jMbCUCxx11Yn2DN7D2dbSZBXW2phzzfS69ZIdLS5g34bjUlRO-kzvZAQY0qszRE52GJXO3-2fWxUeewAk6mCPxmJw1XG3pFiJ3oi_rBrjFT948XhYpsNGPlJ9VPZmXesK-Z4FtXdrXzXEWgE-FX84uyo4q8rOK15Lhn9BqgF6wsugHZG_GfGcuZdWlU6lRuhaJqxATIM7EagGv2YB4zVe5MVWZwZhp32T_HwWZ_5MD6144tiEGNLtFu-PCPBGRk9Dz_crG_fyPgO-QMhpHl8="
     },
     {
-      "name": "B형 생존키트",
-      "price": 11200.0,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7369384577&itemId=16864873755&vendorItemId=96189109311&traceid=V0-153-0bc6c146f5dd55e1&requestid=20261016171223380147947430&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/F1cJQvzDmdTB1LZyF9tw8Z28duL-oWzZmTxvqe7fH9_XKPjkzYxxvr60pT_AQMVQRtstz9glx_s-XqN8S1bu8gYqGarXMNZ5a_c7GNouFpzDHXnneTj-nr6kfK9yLcROVZP9XyZBjXa11zZBcQSBxQD364XWPYtzu2omXsthon8O2UeY3O_wOnUp1To65uTxlrphX5h6Iif-uF4RPMGkQQDG_sP7OjGAIXhb6IBZ2p5o4qUIPbXuZiVCqGEyDDi8NF4hKxXr22WqEJxQydvIUc5oXP4UKUUgxVTd68zsS8nBY6nOLb9hewWVAbS0CQVtTeCLO3eL0PTb_yxzHQ5zSyTiGlSN39Hm3aYDjHye9wvDCRuUK0i3MLKDYwS4yaf2e8aTP94e7O99SZwxev9dQe1aIgrM-1yrNJq4ieH2UQhnK2hiDCMffv3zophFNshFE2K62Rn6FGQduO_yEm4vQSynTccd3NHjVKYc6GU4N8Yei31BNdWHUvhII3NKDHYK-OtRT9sh_yUJFXTyKvOdMV7Y5jQWj0bw5XxxKiOKU-A2pA=="
+      "name": "마음담아 캘리그라피 돈봉투",
+      "price": 3650,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=128689781&itemId=27679501505&vendorItemId=4297672322&traceid=V0-153-6aa12a0f17d22958&requestid=20261016171558887258654419&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/DDQ8983-StqZjEHUDHgG8DrIyikNM6M9NBLfGXLRK7OjHu1zagDRFLbZAeS8jW7Z8T72DGupcGHJWxb4b0y-Ql9dmYlXNw9x3sYmW1z4q0z9K-T-ykrTp8DsbYxIteflQC9DkTlOg9DJ3EkhfuQsFWYypOQ83jZMcbKSbtSadH-EQHiNBf0ynl1E6mFP9x9h-Ye3Dd6P_JXKAiRg6eWHXJhWjSefPUbdZW4WKBfHNDlWU5EZTUy42zoAAWRtyEsspu9lGj9rKoEgRZ7GiFZ0AG-3gfRAnMXh89rluVDTCywrX7wY9_QdXmMxDkUFb5zJttx_fW6iDAqnA2xrr-A8edI_lyzNtng6uhYHD8weRyKmBYURgRzJol2OQk2IHCvJ3tg6A4VWBcJuJLNMDw66iBIypwgEkrj1PyaaQ2CGVHTtTGFqCGFXIp8UB24BTkbbyMx9nUtuZZQ_yYYIyFcYZdSi-nxAMVD5vK6jUqu4HK0fHQTCXgo8SveviEm6ruo3BN0Vl5-gqMZMoIbXYeYOWdk="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 33,
+    "message_id": 34,
     "has_photo": true
   },
   "rejected_issues": [
     "액정 깨지면 160만원?…“500만원 아이폰, 한국선 없어서 못 살 수도”",
-    "토요일 흐리다가 일요일 전국 비…수도권·충청 최대 80㎜"
+    "토요일 흐리다가 일요일 전국 비…수도권·충청 최대 80㎜",
+    "전 일본이 8분간 떨었다…일 기상청, 역사상 최대 '규모 9.9 지진' 오보"
   ]
 }
