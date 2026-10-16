@@ -2,7 +2,7 @@
   "id": "20261016-1324",
   "created_at": "2026-10-16T13:24:29.124895+09:00",
   "publish_at": "2026-10-16T21:00:00+09:00",
-  "status": "approved",
+  "status": "published",
   "product": 0,
   "issue": "등산",
   "angle": "가을 등산철, 산 다녀와서 등산화·배낭 그냥 신발장에 넣으면 냄새·곰팡이 생기니 살림 눈으로 뒷정리법 풀고, 옛날 살림 도구 질문으로 댓글 유도",
@@ -42,5 +42,9 @@
   "message": {
     "message_id": 9,
     "has_photo": true
-  }
+  },
+  "threads_id": "18132279883704306",
+  "permalink": "https://www.threads.com/@kingreview0669/post/DejfAwZlR1x",
+  "reply_id": "18095601680652349",
+  "published_at": "2026-10-16T21:01:25.619900+09:00"
 }
