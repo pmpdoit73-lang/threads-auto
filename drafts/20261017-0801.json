@@ -1,0 +1,47 @@
+{
+  "id": "20261017-0801",
+  "created_at": "2026-10-17T08:01:03.270105+09:00",
+  "publish_at": "2026-10-17T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "54년 만에 사라지는 '윤초'...세계 표준시 내년부터 바뀐다",
+  "angle": "54년 쓰던 '윤초'가 없어져 세계 표준시가 바뀐다는 반전, 우리 집 시계·폰 시간도 영향 있나 싶은 궁금증",
+  "subject": "세계 표준시 '윤초'",
+  "hooks": [
+    "세계 표준시 '윤초'가 54년 만에 없어진대.",
+    "너네 집 시계, 내년부터 1초씩 안 맞을 수도 있어?",
+    "세계 표준시가 내년부터 바뀐다는데… 진짜야?"
+  ],
+  "text": "세계 표준시 '윤초'가 54년 만에 없어진대...\n근데 이거 듣고 나 뭔지도 몰랐던 거 있지\n지구 자전 맞추려고 가끔 1초 끼워 넣던 거래\n우리 집 벽시계는 원래 5분 빨라서 상관없음ㅋㅋ\n너네 윤초 들어본 사람?",
+  "image_prompt": "Slightly tilted amateur phone photo of an old round wall clock hanging above a cluttered Korean kitchen counter, a smartphone lying on the counter showing a blank lock screen, warm indoor lighting, a bit of glare, casual unposed snapshot, no people, no text, no logos",
+  "photo_query": "wall clock kitchen",
+  "product_keyword": "무소음 벽시계",
+  "benchmark_note": "짜장면 글의 '상황 한 문장+말줄임표' 첫 줄과 셀프 디스, 골목 사진 글의 '아는 사람?' 열린 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "이지투씨 국산 무소음 인테리어 심플 벽시계 30cm, 블랙",
+      "price": 13780,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9515305474&itemId=28359569776&vendorItemId=95311601728&traceid=V0-153-b7bd498f6f59626c&clickBeacon=8abf1c40-c9b5-11f1-884b-9bb72d12bef9%7E3&requestid=20261017080137823310682016&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/kAOo1f4-YZHezcI_kCyHpGZbWUlH1fH4Eqo74oFPAU2xyxMCOKNitcd3qH0cpfYCJO3QIrOMw3GgYV_QQvFiQBRn1vAyq6SBeIrh8TW5ryKB23MdZ_rBkcJrzZBJiB5lO9Vy5ey6kZ0lij0bb9V9GnEEpNc3vWGYQl7mgUGtPvp8ekOHJiBig_m7NkO-7ODDS5j9hyRpoqJKhDu6LedeEIG9OfArUKtac7dqC0zdt9ubGUuHlWkyj3kZ2qBTmNYckgLDKpVhRnpQtn7rU4oVVzqElx5h0Bhnl_naZkE4BSfHhmafgoSJ5WrMHfV72pgKSHL598H6ZUn6u_aT9mHh1ZNFcAitGVe7fwddPYE-FRDkUviBIRjkEXmD2973NOK6A33D0p-_xiasw4fTkyZJXOMPMSDnMPZO62FNBFn4pw3g-Wt3Rs-yXiZHQudkYlfdWz8ElRvXaFzfD0yN2aqUfR38-bByP5L0YexTRP5Qep42oQjRKg-jMTwbrDaLocUjiBGlnKNUcbbhlby0teeeZrO0Mc1e6vX_"
+    },
+    {
+      "name": "보고상점 인테리어 야광 벽걸이 시계 무소음, 블랙",
+      "price": 13000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9294708316&itemId=27530534223&vendorItemId=94515089803&traceid=V0-153-6c377800b9cf8396&clickBeacon=8abf1c40-c9b5-11f1-ae0a-3522ceeed93a%7E3&requestid=20261017080137823310682016&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/AjVmHk8SnJDnAKC3AoY4WNujg61__mU2hphVLQMq1SYJ9puuOU-35ezapdsMoV_vkg_SV-WK13zRNqew6DoMXj_L8A628-qxFFGe5Xli9QzPipdR9FUFQc_JL3vwk6LWWvCu78pdjcKNL1HSOlyhFvVwD76qTgP4_hM07cN_IOVhEU8-6H2w-0z3hJO7YKEhWm5JN6BJmJOVsZ_kdKrOSshZs7ByVobucUaMJR_UPRPVIl07Slo5kqCy7ldc8_06-mzGboMcskb2cLhPv1AAcar99OMZJbtwmYMOPxl4-DAZouZf1Ba5qOLtu_oSNvUmPkiZe2ygecEPQiGVPAj76nsUqtI0Je4eaPB8cS-AXi-ZvrKMaJYdVC1uU9DnwrhL94kY7Qq1LFqD7TYhm36efTy-SFa49M2C6xsz0yHQPxEPnuKUipAq9G1yqTWdTo4bQEwbLTl8b6p_wkDqJSM_gh7Nuwo1Wb4zoF4V2f9y42O4MO4JYa73vyTIv210ZmuF_n6pFVD2djPxeUT22cRTIY1P-fJqbaY6"
+    },
+    {
+      "name": "홈플래닛 무소음 원형 벽시계 300 (건전지 포함)",
+      "price": 5790,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7414945933&itemId=19221027811&vendorItemId=86337800596&traceid=V0-153-59d2beba1dcc5a86&requestid=20261017080137823310682016&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/KuUjC0OSXcGyLuKyKkdQOD4E2TYKtZOYNwIII7aKZSa5aFiXO2C0ZT51PlZjYJb0rR13pjl87k85hQxy-djcgivOKdrz-T8eDZ6CvTdnGeUk2JJUEIou7p7awNA8s92Z-V9GTAaT1i-lG7zZ9gokH7nvFSJrzO24RN_UVFd547VKwObBEeMJzhlOvwUdV0W-OwnB-oHHzjN7dAvOy2IsvegkSKwdcGWepuF4VXJqvOkAyI8nEreh8XGcSB7CTKw3vBEjXib1ygScQfmnepV1yZ5Nm5MOKrd_P4YIojv3Of4b3JJ5qJTdeNyro7w2wt49N3UNgULEh4hZCA8XT6mh3QEZHsAjflK46GK35DoI2OhBruOBZ9MGWJqTkYAyGBfSIf-NJUtYu5j9USfyjuCYhZInF3OGA2wX79K4kZYLUGsLAYgi4asFUDb7wdAov1WxgPsb65SfDzSKZ1YGksiCQ8vcUg0FUQHAM-Kw6rMjVWAw55yf618afJr8SMtD_yo0fMbbbrK5UbwLGs78-Wca9Y07cCSsLZ-QgDpd-fx718ToIqza-8bAjB_uADI="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 40,
+    "has_photo": true
+  }
+}
