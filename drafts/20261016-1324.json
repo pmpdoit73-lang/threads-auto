@@ -1,0 +1,46 @@
+{
+  "id": "20261016-1324",
+  "created_at": "2026-10-16T13:24:29.124895+09:00",
+  "publish_at": "2026-10-16T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "낮 최고 26도 ‘포근한 가을’…일교차 15도 ‘감기 주의’",
+  "angle": "일교차 15도를 옷장 정리 순서로 풀고, 일부러 틀린 추측으로 정정 댓글 유도",
+  "hooks": [
+    "일교차 15도면 옷장부터 열지? 순서 틀렸어.",
+    "낮 26도 아침 11도, 이불 뭐 덮고 자?",
+    "살림 30년 차가 일교차 크면 제일 먼저 꺼내는 거."
+  ],
+  "text": "일교차 15도면 옷장부터 열지? 순서 틀렸어.\n낮 26도 아침 11도, 남 얘기 아니야\n밤새 이불 걷어차는 게 먼저 문제야\n난 차렵이불 꺼내서 햇볕에 2시간부터..\n너네는 일교차 크면 뭐부터 꺼내? 전기장판인가..?",
+  "image_prompt": "Cozy Korean apartment balcony in autumn morning, a light quilted blanket hanging on a drying rack in soft sunlight, warm golden tones, no people, no text, no logos",
+  "photo_query": "blanket drying sunlight",
+  "product_keyword": "차렵이불",
+  "benchmark_note": "벤치마크 글처럼 짧은 구어체 줄끊기에 '..?' 붙인 살짝 틀린 추측 질문으로 끝내 정정 댓글을 유도함",
+  "products": [
+    {
+      "name": "키루에 사계절 침구세트 워싱 차렵이불 이불+패드+베개커버세트",
+      "price": 80000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9372165622&itemId=27817460378&vendorItemId=95787908945&traceid=V0-153-a1ba964d16c18896&clickBeacon=8b98ac40-c919-11f1-988b-8d01fd23f6fb%7E3&requestid=20261016132457714147941139&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/-yBejw_7CmJeL1E2-8QilmDUlp5TxCY6iQvHAU4t8Cmjgmtjs5WX2WUDaMOLyqjMYYCgbu1GTeyoq7rNLbxGXd3mleWajJC6T7s4H0Bwm64biSxsYOjZH-SiuFBZBxgF_LToUtzERTiZetvX6ooNzLFnsK6I0J7e-HOTFn6g1aPo5AeaQQjrcvFvpLmdu_GphXqWQxh-1L9qrhNyOUJIQXkAAk6M3rm7NcvKEExn40Hs6EfMHCLeLO_r9BOZZ8jNbld0CkpqSdwdAj7YF1WDM7UvlAK4QxIBF6AgCTg89Z-qFj0cPVi6kXyjFhqAmGb81cd5xeQVRzAY7RrzbNUroXJKsXo0M0-8ydfm07qmorgA9JuZ40_kYvDJuO2GHUZTZdmZzO4Fj6-vEJXaqR7fpaSk6baaDWXIgQG_At0ANVcHZaCfx_biH3QPH6WKs28mJ2zU1HRSGWm78gAAq2WCGl-kiY0QHsmjp6jMhnCrJsdi5GQNLQhwnvvZbiY5oO_HUKbG2KT_mPV9c0C8FKCMfBnnFuH_eZU="
+    },
+    {
+      "name": "HOMERA 호메라 가을 겨울 호텔용 이불솜 차렵이불 간절기 이불 가벼운 알레르기 방지 싱글 6색상",
+      "price": 46800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9423328274&itemId=28009443611&vendorItemId=94522404114&traceid=V0-153-ed9c1f03c65c629e&clickBeacon=8b98d350-c919-11f1-a7b8-85f58d028ec7%7E3&requestid=20261016132457714147941139&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/t1aHiHtWAwewFmzatwqhXQutCU8dTg3MVGwoWMs8eiESCARi5b4cvrFnKh7aiz8FopaQ4Pr62qodLVa7tOqWiPKEyU75TrD4mYj70oDaNeQyyaSNARj5N9_wjB6EO_rL376z8IrkHY9NzowHgP7NP66zjwVN6KWpH3ZmrO5I2-SidjuMYyO-CXL70FH4eQpBGCwdMthgpoeJjTmzRHDRDb0kbfPEXEAeL5yZEmjTP521HwD9ToXkjpDIAqhxRJE4l0a0R4CgH_kXGGdBwVKD7lERvQTDd9vaXG_s40-1SbXqrL3BbGf_mQeAYET1yNBqq75YFj2meK1AZR-LvtyzchhU4H68zPxZCi7TXF-IvkyLVwaBX4EXgWpsNAXYT8lWzMhmaJokHMOLytJNWfu7nWh9IY6iHyFF2BcfzyhnXR1msf11ciCd9Gcrp664CDIFDNJ_6h1zRsljgbRXFmnODMtZo-Pc6piIiSAIKd4J1EzHmHthCnj-n2N5DdCHbnj18MD1AC4XJb1rNCGVCyBWHK9rC1svfO4="
+    },
+    {
+      "name": "퓨어몰링 통세탁 가능 사계절 간절기 호텔 차렵 이불",
+      "price": 25800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9731932375&itemId=29122465360&vendorItemId=96006390353&traceid=V0-153-86e66b7b7b173ae1&requestid=20261016132457714147941139&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/OtGDO1uagYlXc83zOqH9PvpZ2syesoAyUjVZvUtyPBthqL4Hl0MJTc4jZHAND7MUi8BUUW0q_GwlOGKmKidlhsTUs0cJ2ZElXAPaTuE7ueny6MkB_59rqdYcoZhPd7OhnYqjSgcmE6qW_G41EdRF86Z2itunp6-Z2hQnQP3lKWn_z4ffxNKhu4TarxBGmicKPlr_oqglgGK8iItXUTfo9FzbbEwmvStbB2kuvXAkZoMwRLh5X2KEvJ7CrSzKLpzj0VxNdKj0hGig8ghVLzTar1Vz6LbXUciU39Kw8wm8OTcJXPd8WopMwYLKDMYGo3pZetsAGkKNM22BsBlx_hRvtH199JRTwpSIgvPqIYJss-e-8F7UaTqkitR1iI8LLsnlJb20N1FApphnpijUtPlwzBmrTOfrW7cDofWeGjpjzf5_Cflg82MG-CEsyySdd2zlZlJ6Mqlq0kiN2gRwuP196vG_Lo741MUF7Il70P-CPSu6ynFb5By3a3zGkrQwtytAaqhqdX2H0OCHhAx6QEYdHev2R-3mu5u_Rm1FZG2SyFDMIi2UsWdfvwSqy_bSCOZm0r7TCYkCVs4C7PpQuJN5wemG2KE="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 8,
+    "has_photo": true
+  }
+}
