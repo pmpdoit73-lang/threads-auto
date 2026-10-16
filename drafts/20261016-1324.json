@@ -2,45 +2,45 @@
   "id": "20261016-1324",
   "created_at": "2026-10-16T13:24:29.124895+09:00",
   "publish_at": "2026-10-16T21:00:00+09:00",
-  "status": "pending",
+  "status": "approved",
   "product": 0,
-  "issue": "낮 최고 26도 ‘포근한 가을’…일교차 15도 ‘감기 주의’",
-  "angle": "일교차 15도를 옷장 정리 순서로 풀고, 일부러 틀린 추측으로 정정 댓글 유도",
+  "issue": "등산",
+  "angle": "가을 등산철, 산 다녀와서 등산화·배낭 그냥 신발장에 넣으면 냄새·곰팡이 생기니 살림 눈으로 뒷정리법 풀고, 옛날 살림 도구 질문으로 댓글 유도",
   "hooks": [
-    "일교차 15도면 옷장부터 열지? 순서 틀렸어.",
-    "낮 26도 아침 11도, 이불 뭐 덮고 자?",
-    "살림 30년 차가 일교차 크면 제일 먼저 꺼내는 거."
+    "등산화 바로 신발장 넣으면 겨울에 곰팡이 펴.",
+    "산 다녀오면 신발부터 넣지? 순서 틀렸어.",
+    "등산 다녀와서 제일 먼저 뭐 해?"
   ],
-  "text": "일교차 15도면 옷장부터 열지? 순서 틀렸어.\n낮 26도 아침 11도, 남 얘기 아니야\n밤새 이불 걷어차는 게 먼저 문제야\n난 차렵이불 꺼내서 햇볕에 2시간부터..\n너네는 일교차 크면 뭐부터 꺼내? 전기장판인가..?",
-  "image_prompt": "Cozy Korean apartment balcony in autumn morning, a light quilted blanket hanging on a drying rack in soft sunlight, warm golden tones, no people, no text, no logos",
-  "photo_query": "blanket drying sunlight",
-  "product_keyword": "차렵이불",
-  "benchmark_note": "벤치마크 글처럼 짧은 구어체 줄끊기에 '..?' 붙인 살짝 틀린 추측 질문으로 끝내 정정 댓글을 유도함",
+  "text": "산 다녀오면 신발부터 넣지? 순서 틀렸어.\n깔창 빼고 신문지 뭉쳐 넣어서\n그늘에 하루는 말려야 냄새 안 배\n배낭도 지퍼 다 열어서 거꾸로 걸어두고..\n너네는 다녀오면 뭐부터 해?",
+  "image_prompt": "Muddy hiking boots with insoles removed and crumpled newspaper stuffed inside, drying on a sunny Korean apartment veranda floor next to an open backpack hanging upside down, autumn light, warm homey atmosphere, no people, no text, no logos",
+  "photo_query": "hiking boots drying",
+  "product_keyword": "신발 건조기",
+  "benchmark_note": "높았던 글의 짧은 구어체 줄 끊기와 말줄임표(..), 마지막을 '너네는 뭐부터 해?' 열린 질문으로 끝내 댓글 유도하는 형식을 가져옴",
   "products": [
     {
-      "name": "키루에 사계절 침구세트 워싱 차렵이불 이불+패드+베개커버세트",
-      "price": 80000,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9372165622&itemId=27817460378&vendorItemId=95787908945&traceid=V0-153-a1ba964d16c18896&clickBeacon=8b98ac40-c919-11f1-988b-8d01fd23f6fb%7E3&requestid=20261016132457714147941139&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/-yBejw_7CmJeL1E2-8QilmDUlp5TxCY6iQvHAU4t8Cmjgmtjs5WX2WUDaMOLyqjMYYCgbu1GTeyoq7rNLbxGXd3mleWajJC6T7s4H0Bwm64biSxsYOjZH-SiuFBZBxgF_LToUtzERTiZetvX6ooNzLFnsK6I0J7e-HOTFn6g1aPo5AeaQQjrcvFvpLmdu_GphXqWQxh-1L9qrhNyOUJIQXkAAk6M3rm7NcvKEExn40Hs6EfMHCLeLO_r9BOZZ8jNbld0CkpqSdwdAj7YF1WDM7UvlAK4QxIBF6AgCTg89Z-qFj0cPVi6kXyjFhqAmGb81cd5xeQVRzAY7RrzbNUroXJKsXo0M0-8ydfm07qmorgA9JuZ40_kYvDJuO2GHUZTZdmZzO4Fj6-vEJXaqR7fpaSk6baaDWXIgQG_At0ANVcHZaCfx_biH3QPH6WKs28mJ2zU1HRSGWm78gAAq2WCGl-kiY0QHsmjp6jMhnCrJsdi5GQNLQhwnvvZbiY5oO_HUKbG2KT_mPV9c0C8FKCMfBnnFuH_eZU="
+      "name": "휴대용 신발건조기 무선 캡슐에스 SY-101 / UV살균 탈취 신발냄새제거, 화이트",
+      "price": 152000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7156889759&itemId=19617046862&vendorItemId=91673954128&traceid=V0-153-8fb0b3852c571fc5&clickBeacon=cac19420-c91b-11f1-a553-f144dd0d5042%7E3&requestid=20261016134102793057616557&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/2_ub_axo_HLJwIBy2xL1miSdgjdVhwI9TBRDMBWyGO02fMCEaf9Lb1gxH6whvslWG9ucao59sm_GpxPXSTlOXepnGOLUOzOMfmNlNOYme5-u6pVrEWn10GvMAw6QOzGG1EMWTwjJTOOcUSqA7ZYjU2dWC0Vu-ALoSvose31rvP3Md-qLaonJdHDA8fJLXWB16FEemvtXPYPcShN49HDmQQFhrpn_Il8XS8gGkmQyMqkUKSBG3opt-XG6nkSxUCaAf-57m73vkKI3hRRbu5bkBp7b1tm0F_w2msXvX6iFTcBq6h4qXXvfhgY6mO09jOl-2o1jI2L3Ny2J7bvQrDtSICJ0aeqARz9ZT8AxlcYmDUylJua6bXqI9OfSJkhSATgYmJes6AX6ivEFZYgFpOGZEjzKtZDrEmm_bRXsuNAcRjkHJ2Db552HEi6GpssQfv3s_bGgv8y1HZJbbp_IJk9F-mGOwKePtuH-6YINDUAOlTwjZPNBkVrCiHOxaVXEPbziw1ryvpMMA9QxtQmDSI3cxghN4mFA6KM="
     },
     {
-      "name": "HOMERA 호메라 가을 겨울 호텔용 이불솜 차렵이불 간절기 이불 가벼운 알레르기 방지 싱글 6색상",
-      "price": 46800,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9423328274&itemId=28009443611&vendorItemId=94522404114&traceid=V0-153-ed9c1f03c65c629e&clickBeacon=8b98d350-c919-11f1-a7b8-85f58d028ec7%7E3&requestid=20261016132457714147941139&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/t1aHiHtWAwewFmzatwqhXQutCU8dTg3MVGwoWMs8eiESCARi5b4cvrFnKh7aiz8FopaQ4Pr62qodLVa7tOqWiPKEyU75TrD4mYj70oDaNeQyyaSNARj5N9_wjB6EO_rL376z8IrkHY9NzowHgP7NP66zjwVN6KWpH3ZmrO5I2-SidjuMYyO-CXL70FH4eQpBGCwdMthgpoeJjTmzRHDRDb0kbfPEXEAeL5yZEmjTP521HwD9ToXkjpDIAqhxRJE4l0a0R4CgH_kXGGdBwVKD7lERvQTDd9vaXG_s40-1SbXqrL3BbGf_mQeAYET1yNBqq75YFj2meK1AZR-LvtyzchhU4H68zPxZCi7TXF-IvkyLVwaBX4EXgWpsNAXYT8lWzMhmaJokHMOLytJNWfu7nWh9IY6iHyFF2BcfzyhnXR1msf11ciCd9Gcrp664CDIFDNJ_6h1zRsljgbRXFmnODMtZo-Pc6piIiSAIKd4J1EzHmHthCnj-n2N5DdCHbnj18MD1AC4XJb1rNCGVCyBWHK9rC1svfO4="
+      "name": "접이식 6암 빠른 신발 건조기 운동화 부츠 소독 냄새제거 살균 다기능 스마트 건조기, 베이지, HXQ-08",
+      "price": 29900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9614958191&itemId=28708470459&vendorItemId=95804672701&traceid=V0-153-c47e40795243ee68&clickBeacon=cac19420-c91b-11f1-937b-e6cd2c385b6a%7E3&requestid=20261016134102793057616557&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/ZL1K8om4nu1yrdLgZDjd76qd-gQYLebHMbiF0fpdsyrm0Ewr5UHMd9nAf5JsPW1wgDjXdBIQ5H5rJqNzTe72DIVzDkn6dHYwIu0Kp2fis1hLLu67o8CPA73SFb2fqLM3uQ5cru6488dvke3kmcGXAX91brXLCqWTsHjRA07VLOVEYmp1fxhwodJ_qDnRuHIqLAGKXrzA2OJtKW3hr_clnGroY45vVlfQEgTz_hpDi-Ajxu6OL4JzXsTyVPUKb7K_Q3q5WD2vSbahhF0C6dLSYFs6qv8Kzy5J2S_loDNPMd923vjbZwxbBuR6Na-e-4Zkg7G1DgkBqERgK76O2LIxqw2HxqH5ZPLXOsd_pbvCyDtQHnGYR1neCg2nXc9CzR5MyhD2YU9v0ylPZhOS4V0_x87iEiPnjR6rX1fFOVqykbkYIe33B86_l8MWFWSULM1ENTmADWEXmegA7AlQs-VzwgldAp-s4JxheZNSpnFjntIi18eqml9rNx35iQuSflYvUtTAmHyIl7eCkk8sQB-ikDUspOvwCYXHiw=="
     },
     {
-      "name": "퓨어몰링 통세탁 가능 사계절 간절기 호텔 차렵 이불",
-      "price": 25800,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9731932375&itemId=29122465360&vendorItemId=96006390353&traceid=V0-153-86e66b7b7b173ae1&requestid=20261016132457714147941139&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/OtGDO1uagYlXc83zOqH9PvpZ2syesoAyUjVZvUtyPBthqL4Hl0MJTc4jZHAND7MUi8BUUW0q_GwlOGKmKidlhsTUs0cJ2ZElXAPaTuE7ueny6MkB_59rqdYcoZhPd7OhnYqjSgcmE6qW_G41EdRF86Z2itunp6-Z2hQnQP3lKWn_z4ffxNKhu4TarxBGmicKPlr_oqglgGK8iItXUTfo9FzbbEwmvStbB2kuvXAkZoMwRLh5X2KEvJ7CrSzKLpzj0VxNdKj0hGig8ghVLzTar1Vz6LbXUciU39Kw8wm8OTcJXPd8WopMwYLKDMYGo3pZetsAGkKNM22BsBlx_hRvtH199JRTwpSIgvPqIYJss-e-8F7UaTqkitR1iI8LLsnlJb20N1FApphnpijUtPlwzBmrTOfrW7cDofWeGjpjzf5_Cflg82MG-CEsyySdd2zlZlJ6Mqlq0kiN2gRwuP196vG_Lo741MUF7Il70P-CPSu6ynFb5By3a3zGkrQwtytAaqhqdX2H0OCHhAx6QEYdHev2R-3mu5u_Rm1FZG2SyFDMIi2UsWdfvwSqy_bSCOZm0r7TCYkCVs4C7PpQuJN5wemG2KE="
+      "name": "WIRPO 접이식 신발 건조기 휴대형 스마트 온도조절 살균소독 냄새제거 다기능 건조기",
+      "price": 54800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9768259238&itemId=29237754399&vendorItemId=96156789492&traceid=V0-153-990157d7d364dfbf&requestid=20261016134102793057616557&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/sXz4iCIj-G89W2csscfan3w1f41ECHjKxW90s6QcXOT2gQ6PnxeAn7zzCcYeUNYXIgYbo2wRYyb5rm0uCZ4TpJTznJq2JlGai9d-SeWAUyHnoz-mikpInNyhyMYiX0Yko2ix2X_v5wiLM8m3r9PMTpdzJWFxLMX2RucwtN_1qejE8eInn1khXkezol5-k3qI3a8T3akhnjmAxmTC0Fd7OK-Zda5niv1XJzAvBbKV7BGZOhAvNnZ8ODkAVNT39WvOg8DznZ-BHdeEyEk5FML18Oh96GhU0Ny2UAmpB4rgJPQ5VNO1NzLSfBY-iPVzhWb4B87ZBq2TlxT00XwKHYJYw0b8ocXMzhBzyp7Ab376RXOZo4djeTp6E1BlkjoQSQsNQxKRw6azVWMc73OqC97LNTScXrngiXuvAOXP3U2ifWMaXJ_lrrr6uK4s-zCxr6MWc-Z8hD5GCPRXnTEgY0yLyttqyGfa7zM_uAk2UdKTvCTidn5xwuK_j8OynIrMjvKVrwid5wyWlBsaIPxUT2hbNm5Rv6UK3MmlbzYQX_rPR_mu488="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 8,
+    "message_id": 9,
     "has_photo": true
   }
 }
