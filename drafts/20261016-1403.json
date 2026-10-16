@@ -4,46 +4,47 @@
   "publish_at": "2026-10-17T07:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "토요일 흐리다가 일요일 전국 비…수도권·충청 최대 80㎜",
-  "angle": "주말 비 소식을 이불 빨래·신발장 습기 같은 주말 살림 계획으로 연결",
+  "issue": "전 일본이 8분간 떨었다…일 기상청, 역사상 최대 '규모 9.9 지진' 오보",
+  "angle": "피해 없는 오보 소식을 계기로, 오래 안 열어본 우리 집 비상가방을 점검하자는 살림 이야기로 풀었어",
   "hooks": [
-    "일요일 수도권·충청 비가 최대 80㎜래...",
-    "주말에 이불 빨래 몰아서 하려고 했지? 일요일은 망했어.",
-    "비 80㎜ 오는 날 빨래 널면 냄새 다 배."
+    "일본 기상청이 규모 9.9 지진 오보를 냈대...",
+    "너네 집 비상가방, 마지막으로 연 게 언제야?",
+    "오보에 일본 전체가 8분 떨었대. 우리 집은 대비돼 있어?"
   ],
-  "text": "일요일 수도권·충청 비가 최대 80㎜래...\n주말에 이불 빨래 몰아서 하려던 사람 나야 나.\n토요일 흐릴 때 큰 빨래는 오전에 끝내고\n일요일엔 신문지 말아서 신발장에 넣어둬.\n너네 집은 비 오면 빨래 어디다 널어?",
-  "image_prompt": "Casual smartphone photo taken at home of a small Korean apartment balcony on a cloudy gray day, a folding drying rack crowded with damp towels and a thick blanket draped over it, window glass with faint raindrop marks, slightly tilted framing, uneven indoor lighting, cluttered everyday look, no people, no text, no logos",
-  "photo_query": "laundry rainy day",
-  "product_keyword": "제습제 옷장용",
-  "benchmark_note": "첫 줄을 상황 한 문장+말줄임표로 끝내 궁금증을 남기고, '나야 나' 셀프 공감과 누구나 답할 경험 질문으로 마무리하는 형식을 가져옴",
+  "text": "일본 기상청이 규모 9.9 지진 오보를 냈대...\n전국이 8분 동안 떨었다는데 남 얘기 아니야.\n우리 집 비상가방, 마지막으로 연 게 언제야?\n생수 유통기한, 손전등 건전지 지금 확인해.\n너네 집은 비상가방 있어?",
+  "image_prompt": "Amateur smartphone photo taken at home of an old backpack half-open on a wooden floor near a closet, with two plastic water bottles, a small flashlight, loose AA batteries and a pack of wet wipes spilling out, slightly tilted angle, dim indoor lighting, casual unposed snapshot, no people, no text, no logos",
+  "photo_query": "emergency kit backpack",
+  "product_keyword": "비상가방 생존배낭",
+  "benchmark_note": "높았던 글처럼 첫 줄을 말줄임표로 끝내 궁금증을 남기고, 짧은 구어체 줄 나눔 뒤 누구나 바로 답할 경험 질문으로 마무리했어",
   "products": [
     {
-      "name": "서프라이즈 진짜 좋은 제습제 일반형 30p, 900g, 1개",
-      "price": 17700,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9614475515&itemId=23330530383&vendorItemId=95345649615&traceid=V0-153-d2ba9226e679c444&clickBeacon=1effde80-c939-11f1-812a-90fdad9169be%7E3&requestid=20261016171059479312542965&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/p-8toZeiojEoYX8Rp9_Dtub4XKOgYN9le-xothHFrB1AVJnekspfit_iwh2-Hv3Nn8zRhxBQCU59QRS6EpKpmJWTYfr0A9LEyvJ9j9gVRx0-NSV5gu93FuVhqIijs2mlmIfG651PeJ1OYfrAbY_OUU50X5QWgSXFsPp4Q6LUPHq9o1kduf-lAOKAgwfJdSjByih-ExMzJ1ZC3FoXv3vk3at3yQ_qEpgWhf6fgu-nBVAelAVOiKfVsG9BCBaDgufmUp9ck3OjruIkk4t-3hidj-vrZ0h1EtnhjtKNs_7kHiDb-3O8r17nwsrYFmQsCTpweDtR1-lN9Qbz7dO9OhM0DxIGQVAiww9YYEBx7_i806u8Jb2rg6GKLRAAyJzLv7MS5gWbQmmLLDb2RkX99KffkTQk7EGRmXhiq-4tkT1D5ROxI_MJbIEvHy4q4_a1zHrAnV6Io5x5ZUWoXd_Z8XFqco_9hzVB0PTvTqva4QSFF5NZnecvzgPMna2APEEY1INgr3PDkMZh"
+      "name": "가정용 회사 비상용 지진 재난 대비 생존 배낭 세트 13종 생존용품포함",
+      "price": 65400.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9768884757&itemId=29239438518&vendorItemId=96157987872&traceid=V0-153-9f56ce00ece8df32&requestid=20261016171223380147947430&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/ovkW_fPVgXZQb4u1olrsJI7XULF-ojhvlGlPFocZEZlbfXb3Rq7e7k_LcURfMsUeJwbSZ4YXBnoLtzTGC7yd4-lW9UhLN6hEw9Gaa0Gca8sosXms3ZdHPUrBy7c6xBW1pWf8b-8rcRkaqVQxLjsctMTVfVMhQhxDgFOvcbwzrJJ7MCfLOU66is1p24tK0RoRw1_80DZcUHRebrC5h5yVl-6OwNofZ8_bAvI0SUQviYY2pT_wxek5V3ooACP09OAbtIQa1Yu-0rRDLJ3dVMWfMdGMdz7MOKBbLNeJfqDbCoHrNEYlsaddR9-SLDUmf-cpIzBtqcxSQYjexkGigziqJa8HU1tR-vNTWp-7G58L_Suczjyr1lxM2X48Dj3mNGsygCt5A8yLvoHdtrqRA2AdWRgMjJTq202zuTM6PAebbZMOB3S3Vbn_q_22RfM0Wi8eTLL7fOhhjr1Yp8WsBMrLX6b61mkR-VlsYgM96rdDXRfCbUvu6InNBTxzqcsnJFxf18GnV3ptYrbwEwmcuIZzdFUGPXtrN_Y_XQ4v4GimtnTs-g=="
     },
     {
-      "name": "물먹는뽀송 매일매일이 뽀송한 옷장용 옷걸이형 제습제 본품, 400g, 24개",
-      "price": 30800,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6386250671&itemId=21495494265&vendorItemId=88549405339&traceid=V0-153-49a3427298ec39a4&clickBeacon=1effde80-c939-11f1-83cf-bf7ef9348c4b%7E3&requestid=20261016171059479312542965&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/XVF7qx-4BQmI1BfdXdP4BK56pNj0J4lFtghQ-WUvTZbVZGqHLHJmd99t1_k0ZKSRGitQToBsOqy-WAP4DMAL5xvyZzKybzqN0Qu2AMeM9BQhNtOGxZW_GBTO-Q8i6Jac76akMWo-CXSsVDu9U0OK1yqOSUvdD4gJCuUEfpS0myu900ni9CTZ4sqnupm3JeYD8iL-wbRR87Ki7lR0WuZmWKMLO0W1kiaK4PCqYojSBF1zg8LOGC8yQSideUUm5qdU_t1tf6hMGP0rvnSz69MbMcZAY8pjVc9UnyApU1w_bBK5RRbio-68hPPO6xFfITWX09LmGRQHjH9yGmtbaVm0Op7p_XwdlghT4ssAp3YtOPlTGlKp9ASJRUcUqhcsymfMiin8dLDUctBJF63imREByDky1Xj7TJmGL_Ns0YsdOurpikiNC8HtDFuoI7U6PummaUB_zhSQsZovjEWN6Tt_1mlyjuHijMk34XQLwKnEMNA7PNn-AdweVFIsHTv1yjLV6ZBi7finb8oN"
+      "name": "아이템픽 19종 생존가방 키트 배낭 세트 재난대비 응급키트, 블랙, 1세트",
+      "price": 69000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9137804744&itemId=25910841545&vendorItemId=93846183815&traceid=V0-153-e4d1835f422f1fdf&clickBeacon=50ff3f20-c939-11f1-90a4-3acec60c490f%7E3&requestid=20261016171223380147947430&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/AvFN3MV_6TnNunp_Aiql9K6Q3b5yhPLuRf44mQmCOFF6cQFtnh9Ugwp171DjoVJ6t-_STB40KVq6_b8TVS9c49dusG9RXwGGgsc0aWYbUX_N-HpGMrB6ofgKrm6hE6eGDMckIAg2DZy9iS4AqOymdoccGClD_OHFWL92dEx8URJbUmHw4oLf3eAP2KkvxmSN28vrtkuFN7CfdEyQrP57PcEHXs5vNF0HUfzvNSFkXD1Kb0UZ0Jsw17z113squVRzZ7Lao7l8sjXMqIMYEzwvMhzqnGftkos2j52qMAoSOOeQRPFpw-4lGJ5nTRo1Wj8ttL4TS0uMlwgnlD87Gr6tS6b4JNBJUCFL2zMpMHUpLey8nBPjDTTt2SxWqGtIt6_qW_dp1ON9N0AhIrkRlIpR2B0IlxFFH1XkbAlUPlYLRxrNAMxHfYHzQKCgMp8ciBLBrZHvho01nHXphRhZIwBAFAP5LgF2tRl2dcnThDuQHVlHPkX7mFwJ6L94sS5aCykcCWFPhVkJbj1PBYiTSWGtTiPm1fokW3GTlg=="
     },
     {
-      "name": "옷장 냄새제거+향기+항균+방습 제습제 습기제거제 가정용 옷장용 초강력 대용량 브라운",
-      "price": 14900,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9769382272&itemId=29241218386&vendorItemId=95461889300&traceid=V0-153-02037d0b1aa49ada&requestid=20261016171059479312542965&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/VL-LXHIygjUiqtfbVC5KMBIo7x6we6iBMNz7siL4C0tzbpbZpjo140IpAnx4wLEi1oPyBLjhuHDv6BVEdz2N0K4ueJTdpLXL87WM-z_3JT3XYrxImCRHsoXG0KdtOnpCEOPD7GgkTLEyJWsnQcSXkZuvN72CRatcg1tiSbCwc1n6FmhNeUBubayyK9wr-TEiem4qhuZo9f_-B1TOSSR1D2fmuHkLMhN5V39bQl1dLYcWPzuOmM4BbiDNDNDspB5zyMciyEQTWHWgdwIB9h8nkSlDwGeRqUuyEhzBq_Dwpd3wSbaH_SjCVv7lwG8Vpo3uVZv7ba0M2oXhojz9l4FZdJR6sh-eL-qovA5-A0qFAWofcjid04OtAhn-HB6qaUVPNWX0rvjT-vVM9mPHBeIZGi2B5wS4kXt-nFLPL-afDAnP5GCD7qwju5HgGrljeORjIRB-l_mG1ryHG1a1vgl0wKdOBYbG1erNJcE174vwWD9Jld1EDpwzyUrAiczZ3PcdBpN-faNAUl_Q7WQMYx7ccOSAXbjJ1fnLXzQaz0imYpZa6A=="
+      "name": "B형 생존키트",
+      "price": 11200.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7369384577&itemId=16864873755&vendorItemId=96189109311&traceid=V0-153-0bc6c146f5dd55e1&requestid=20261016171223380147947430&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/F1cJQvzDmdTB1LZyF9tw8Z28duL-oWzZmTxvqe7fH9_XKPjkzYxxvr60pT_AQMVQRtstz9glx_s-XqN8S1bu8gYqGarXMNZ5a_c7GNouFpzDHXnneTj-nr6kfK9yLcROVZP9XyZBjXa11zZBcQSBxQD364XWPYtzu2omXsthon8O2UeY3O_wOnUp1To65uTxlrphX5h6Iif-uF4RPMGkQQDG_sP7OjGAIXhb6IBZ2p5o4qUIPbXuZiVCqGEyDDi8NF4hKxXr22WqEJxQydvIUc5oXP4UKUUgxVTd68zsS8nBY6nOLb9hewWVAbS0CQVtTeCLO3eL0PTb_yxzHQ5zSyTiGlSN39Hm3aYDjHye9wvDCRuUK0i3MLKDYwS4yaf2e8aTP94e7O99SZwxev9dQe1aIgrM-1yrNJq4ieH2UQhnK2hiDCMffv3zophFNshFE2K62Rn6FGQduO_yEm4vQSynTccd3NHjVKYc6GU4N8Yei31BNdWHUvhII3NKDHYK-OtRT9sh_yUJFXTyKvOdMV7Y5jQWj0bw5XxxKiOKU-A2pA=="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 32,
+    "message_id": 33,
     "has_photo": true
   },
   "rejected_issues": [
-    "액정 깨지면 160만원?…“500만원 아이폰, 한국선 없어서 못 살 수도”"
+    "액정 깨지면 160만원?…“500만원 아이폰, 한국선 없어서 못 살 수도”",
+    "토요일 흐리다가 일요일 전국 비…수도권·충청 최대 80㎜"
   ]
 }
