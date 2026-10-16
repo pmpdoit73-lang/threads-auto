@@ -1,0 +1,46 @@
+{
+  "id": "20261016-1118",
+  "created_at": "2026-10-16T11:18:25.102876+09:00",
+  "publish_at": "2026-10-16T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "수질오염",
+  "angle": "수질오염 검색이 뜬 날, 우리 집 물 관리로 연결해 정수기 필터·물통 세척 주기를 짚음",
+  "hooks": [
+    "너네 집 정수기 필터 마지막으로 언제 갈았어?",
+    "물통 헹구기만 하면 끝? 그게 제일 위험해.",
+    "수질오염 뉴스 보고 우리 집 물통부터 열어봤어."
+  ],
+  "text": "너네 집 정수기 필터 언제 갈았어?\n수질오염 얘기 나오면 남 얘기 같지?\n집 안 물은 우리가 챙겨야 돼.\n필터는 보통 3~6개월, 물통은 주 1회 베이킹소다로 세척.\n달력에 교체일 적어둔 사람 손?",
+  "image_prompt": "Clean glass water pitcher and drinking glass on a bright kitchen counter, water filter cartridge beside it, soft morning light, minimal homey atmosphere, no people, no text, no logos",
+  "photo_query": "water pitcher kitchen",
+  "product_keyword": "정수기 필터",
+  "benchmark_note": "높았던 글처럼 첫 줄을 짧은 질문으로 던지고 짧게 끊은 줄, 마지막에 댓글 부르는 질문 형식만 가져옴",
+  "products": [
+    {
+      "name": "쿠쿠정수기필터 인앤아웃 8 호환 1년세트 고급형 (세드카본복합3+나노1)",
+      "price": 33900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9291398451&itemId=27517949273&vendorItemId=94483350378&traceid=V0-153-a848ef46b6f45d10&clickBeacon=f3071e00-c907-11f1-b83d-924da4df348a%7E3&requestid=20261016111900370049854391&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/tXpNvJfLIOTkeE7UtRsdJlC040dWkf5MrKvylNmklw-5kvFiNrwI9T7fp9hdg6nf8lvesQNsHJB5ea9oKyMVt7JfLXA-kmGXQLtc-ph_2P0t7zlytEy6-Nu_8sAkf4qAK4Ap39_vzaXAaDyjfn71AFP8Zrp-iWP_Vfb4umHgC9y3MS-SWAARHcg0atxUAk2mRcV6AHQeQeveO64cWmNd_08CitQ5wQ23YxlYLMj3r9TDoJfPK-mcccQ1pYY0nNcSTACvyYCeLBaQfg54RDxd-RKdd4aIX2uvtt4Sj3M-34t79uHi6W8chhlVLHJew-MY30C4PGBdRIwYLf-yH8bJ55IGJ5CUmdhepWNSSAbBmKcUejBs1bA0rAy1RppAdAlbGRQ7E3dWjWKsXV1eiKv1DogMwehTvi8zSc4xTGbPTPkxmc3IN6XaEerGiV45nnxN4zwiahjHEUN11wzkScMHJvXJUncvngWdqcvQNrfXWeHKQXfMgbwXx1Cagnx0W0dLV6JoEgMWMwWr1EoMBVL85vMwEk1P34yNuQ=="
+    },
+    {
+      "name": "쿠쿠정수기필터 인앤아웃 8 호환 세트 (세드카본복합1+나노1), 1개",
+      "price": 22900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9291398741&itemId=27517950220&vendorItemId=94483350938&traceid=V0-153-7fa5a827bf311770&clickBeacon=f3071e00-c907-11f1-8d61-529dec6cb67b%7E3&requestid=20261016111900370049854391&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/YTalreZE5pEZIkw6Yfn2YjvCYkn8L_vmyR-6C0gyYZO4qTO9qqhgAqDZXSFXVckTNVu7s5nygW-UMhMMR4p_qw7x_oZRPetixswBaXCmKlkh5yDwB_GKDGlkd_KMPuo5FYkoivkoZJAwl26lo1vAs-fXjq_VojObPGNB1fkioWVubEAcyA3e7eX48os5NiLKZR_rVrbs06DbML2buQyjXKhWKaykGt-QLBKhKVqc3IK9xG7U0YkIRQ7_vkF5-uMGQQAeOaEhnXnpc9iy6xCfSLsR4lZI7Y2Z7ptExcI4tkFvnil7c_UmZX8ihyDB2x8m_if2FaPkpECR7EIFW0UjURhzmIVA-gWp6K-GJUhIricQJ-bWwSkG4B6ZqVBQHddrUYI5RCGVPY-InpIW_IuwEUGuL4qw-9JKNYLhPbGWjHIB5rc2Tm8CRG8YDosjOqa_fEQ1K4SPAJUU38sAX8VOvZRsb7zOp2yprUFH6aB-E6v9QvNWsMyhIOYJr-wJJMcNmpgVc-MOyXwh_G1ImSRrS8v2x4iaiQ=="
+    },
+    {
+      "name": "퓨리얼 정수기 필터 1년 세트",
+      "price": 53900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1555502677&itemId=2660540492&vendorItemId=3198998789&traceid=V0-153-c0a1b28dd8a8a39d&requestid=20261016111900370049854391&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/BJkMPR0xH2g5RF7vBNw5NNK9Tu5oWHVGLBq_yhRi3DFo7iqbt0Z7tlEg2Lg-eAdC3ifaQK9-PHNk9ebPmTMV4xDr2dN3YLHWyy1EPv_RCtzdGs5j8Gw-UaaKVpD2Gpytx3BtO0fnwxs9iPpaPJsCq-F6AML7FSWAeUa9RqC1bCRMeQhZVUx7iOliUT2TozkON8ebX7ZeA5_aGPJfgk5g3VszKfxtRdhR80YGh0JjeTpiCq1tJXCweoC6Fgxi5MfbeNC2_zf7837Mn48ZLrF2mMXAQzFk_UHCMhMS-WD--pYjiZo3aWrmH9NjmtBVAujgUtZSYnheFKh0hD8B354UDXzecaJqwKwQZ_ndp34fcfOgncupzSto5pZoxjUS4nIM4lxJNSJ1UU7OgJMUrOmHt6DOe_fPYzZWxtGDDB_PnYNO2A3FiokdP04BjUig7ha-LzPvJ_egzbx0O6A84fEFLth7Ui2IE36TjUK16nR8uEaZ_s8lLGUZSfi-mhjhEfxMbASMpFUs5yLQ-6TxnKt1W6z7Sgm_z3HGQUUfaVATkrh6"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 5,
+    "has_photo": true
+  }
+}
