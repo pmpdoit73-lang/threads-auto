@@ -4,48 +4,49 @@
   "publish_at": "2026-10-16T18:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "'변호사 경력 가짜' 들통난 백악관 대변인‥\"그게 중요?\" 반문",
-  "angle": "경력 가짜가 들통났는데 '그게 중요?'라고 되묻는 뻔뻔함 — 우리 집 도우미·수리기사가 이랬으면?",
+  "issue": "'줄었어도 최소 천억' 코인 트레이더 워뇨띠, 주식 투자 개시글 화제",
+  "angle": "자산이 줄었는데도 최소 천억이라는 숫자가 충격이고, 마트 천 원 아끼는 우리 집 살림과 대비시킴",
   "hooks": [
-    "백악관 대변인 변호사 경력이 가짜였대...",
-    "가짜 경력 들키고 \"그게 중요?\" 했다는 사람, 누군지 알아?",
-    "백악관 대변인이 거짓말 들키고 한 말이 더 황당해."
+    "코인 트레이더 워뇨띠가 주식 시작한대...",
+    "줄었는데 최소 천억? 워뇨띠 얘기야.",
+    "너네 천억 있으면 주식 하겠어?"
   ],
-  "text": "백악관 대변인 변호사 경력이 가짜였대...\n근데 진짜 어이없는 건 그다음이야.\n들통나니까 \"그게 중요?\" 하고 되물었대.\n우리 집 고치러 온 기사님이 자격증 가짜면 난 바로 문 닫아.\n너네는 이거 중요해, 안 중요해?",
-  "image_prompt": "Smartphone photo of a kitchen table with a pile of opened envelopes, a printed resume sheet face down, reading glasses and a half-drunk cup of barley tea, slightly crooked angle, dim evening home lighting, casual unposed snapshot, no faces, no readable text, no logos",
-  "photo_query": "resume papers table",
-  "product_keyword": "서류 정리함",
-  "benchmark_note": "높은 글처럼 첫 줄을 상황 한 문장+말줄임표로 끊고, 마지막을 누구나 답할 짧은 양자택일 질문으로 끝냄",
+  "text": "코인 트레이더 워뇨띠가 주식 시작한대...\n근데 진짜 놀라운 건 숫자야.\n자산 줄었는데도 최소 천억이라더라.\n난 천 원 아끼려고 마트 두 군데 도는데ㅋㅋ\n너네 천억 있으면 제일 먼저 뭐 할 거야?",
+  "image_prompt": "A slightly tilted amateur phone photo of a home kitchen table with crumpled supermarket receipts, an open handwritten household budget notebook, a cheap calculator and a few coins, under warm ordinary ceiling light, casual cluttered real home, no people, no faces, no readable text, no logos",
+  "photo_query": "household budget receipts",
+  "product_keyword": "가계부",
+  "benchmark_note": "첫 줄 상황 한 문장+말줄임표로 궁금증 남기기, 남과 나를 대비시키는 셀프 디스, 마지막 줄 누구나 답할 경험 질문 형식을 가져옴",
   "products": [
     {
-      "name": "디노브 A4 수납함 서류정리함, 투명, 6단",
-      "price": 25700,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8435416007&itemId=24396310881&vendorItemId=95076313312&traceid=V0-153-6e1ff94e92898398&clickBeacon=6728ef40-c93d-11f1-a63e-b5b25c282895%7E3&requestid=20261016174138592146522619&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/4VAlRnGIEeW5hXhw4dxQNFqmuu_KrbnmNSZAvEQGsuGRZOJdnRLQl4sJYGhSq3ElV_u-5yqDRPnnSmUQ16qPLF5dqoeofnxOdGeuS9tKXzI8Vzqx--46AKublhHjHB2keEfJCPSdhWS_SniJDmKyAeAdEIeP_vaMDcQT14UBPy4q28D6ogPfvSKoBhLNzEFoHQLIAPBDWhlW66chdrXdUdHW3cpSEDMZoGiw8IvdD6XN27Ncer1PwFrU3taLPlTtYRIj-GAIp1o7PEQxIkKwcPHt8e4mrEFt2JK0ZbMR6_xKhW8CKHsGfKPWg8qj4jTArCq2WrC1bObdu2A6yTIyS7Y4U01-U7G2wcL4SK0U0kr_YgS6g1smDTG9akmEqRxi2eIAWlg25J8dO7JKxtaElozh5iGTPXzoSrljKJDFHaFCMPUnVu8Wl4xIJuhtAFafXpSmETHebc6waxiPkmXFjZNNenhP1LuTeAa71tuU7OFndzQ68WnJQJ4UVad3XQaEjNaxjORXseqZi31T7aZtL6VhLwqX-co="
+      "name": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 아이보리, 1개",
+      "price": 12800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9609052061&itemId=28687620626&vendorItemId=92174229979&traceid=V0-153-9bd200e6d8b66866&clickBeacon=98262220-c93d-11f1-b592-c2a911a9d7af%7E3&requestid=20261016174300784288155601&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/-NrnyzGSfDz88R3w-Bj4AsBaXeV-oerX-y3x3wdK5QmzTyiexHbHI09IeK7KrnBBwtncRodsv6kkskLKt0HygUbZb2LRVGi_E6AdJFP8lOZlmnOfys0zEWhQSRk5ZguXnHPJKfW7eD0lhvULr9o6Szf3_gaEgWprjIOrPcZ30bnkvcQ5OilaKQfbuDjhFUAkncnO6udIX9Tv2m1rarbLoQcGm47nuftZVJNcJhoAORdVt53WcK4dyVHYro2I01OtpwckEXZVpMa6mVKoXFeVbAew3DZVwjhToB07au-eLSc9_O75xn68KDvuah-DbTwHxaCa4q8Gx7K9Qnzau5Q7mzB9MO1DHxyVmYFrJUrJT_5BV064E-ea1P916sYSSL-NJNZQHh8owyOVPZorKLuWV5r3sF7vyBAhqheuP0I_EVYL2DwamrcJk7xQqA0kCeievMzOB7SN2bJXv3PX8qNhzEBiIAt4U1DPq5EW264Ph1EuNxIziHlF609oKtWHadZZHiZCU6SRvkdp1EcHETsNi5oMxbJ8pffU"
     },
     {
-      "name": "365플레이스 A4 서류 정리 책상 데스크 수납함, 5단",
-      "price": 13880,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8328728930&itemId=24045090422&vendorItemId=91065231410&traceid=V0-153-592d14e899da911b&clickBeacon=6728ef40-c93d-11f1-bfbc-8604274d21dd%7E3&requestid=20261016174138592146522619&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/QmvJHYkSiShhHyXxQg8Ae7YffCHTldSHDnFkzHYN0KET0FkkqFL-GeT-AQat1uHEcwngC99eSsh4dj8H_4FxweoLbFKQjtP-nL_9EgaaZV5ybNlHm6fNC7K9VQ_UgWrgmYsj9oUBA2eYrXoLz0oH5v-XibiK1ExDgKFs9rsewkqfO1iXPleM_p4P-iaUZ8pnPom9a6VO4-4f5Pf9JimjYFFfFxG1oKyeerGoaUz69Su1LnIQIR0AwNbAO386N3_QazHKJAcKLQahJhOx1K59H2SLZvd-iGh_x40RywJgwdauBWTd_cCrwBjlSHHM3AMf1sw9iplxmHgEsa7w3z7AThINSuNnc86wmv-KVYfuquR4k4Qc8yhS6TqxCn0KRmnOrp8OzRbYpN0xaPDInZ65apStpQBsb_x7KnATsfIerMUkec0KuenZ5ieREwck0E06IT-2P6TblGZx0Vwm9KjEAF_WAx8jldWdkXEpBG5kNo5fXip6ngknvOqIF-RrLZD_yrkHaRRMNdQvtMgruB7rjj-_nObm-HQ="
+      "name": "2027 편한 가계부 : 라일락 -PVC 커버, 소울하우스, 상세설명 참조",
+      "price": 8100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9736152099&itemId=29137583688&vendorItemId=96061329493&traceid=V0-153-6dc63bcf91e96893&clickBeacon=98262220-c93d-11f1-bfff-48e544c9f5cd%7E3&requestid=20261016174300784288155601&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/i4j0_3oqKWjI7eKti-1pg2LLeN5z3UeC4fkkgdXrtkTanhEOG2vSjIpElM9k9hcSpSUExooA0Oly6qCbXbSc4uQ7w7KXWi_fle-ahwWHVc20cvoRt_KoWmWuGUz49xeHJ0MzYJvXuSlGkqDexufjSAhI1bNfzqDX8Qs3f16onhMW4jSWdH0VvhjSrNl9AKlHUaCxSyaj8Y59sZ0EpWAosBowUse-BMYjhWHeD2r9VEhpqryR0mA2M-T3Q4Y2Y1OdQHQpzaceIX6_VWiOZdM-vjATZWXn7gIGE7xA1A0PMGVl4QxN6Qm8lLv-7F9IWALpzd4GMih-Uf_ZcTwZebSUwxmSGug-KPfG4LQTN6dKi65LO9-uV8euhe1dNht5KR347rY-5-f-8w_uaMXo2ztB0I1KtEP43i69296__pFu-F513_zxCbPD8VDj6anmrokzaPVzgo-oAmmq_mOb2Abrw7CUlNPVpKeHNKvv-S-DTOPECsRE46lqLWU3IFLD_hSo8xVQTSMwi-o1xW_1WC44iJyR5eXwjGc="
     },
     {
-      "name": "슈퍼인 책상 서류정리대 6칸 조립식 대용량 서류정리트레이",
-      "price": 16900,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8632257253&itemId=25043886582&vendorItemId=95581394742&traceid=V0-153-9e693b853723f003&requestid=20261016174138592146522619&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/Byn39fH7vsSvfTNaB8OrTHy_r0A2uiePa1vOUcSNzDZ_x7PzsKjWcGQP2X2IEaRqtT0RC6GTjbbEukUmv7RgBJtQz9Atpvn8nAxwnJWvky3zLfDQ4EHaoqlil6e7gw6AP23WVAXK_fyhIYVZciQA0OsGAHBzsZxu7ObFVMBc7luXOCJCqrpSlbNswM1HLF3gX9auu842RFxER_Mx_lrs6fLZ4xTM97gekZAezeyajl9pn1lJV6lge7T_QvTOVuMs54m9b0hCYeuqqkMHaxBScKLtxrh1Wf6mQqiG5PXIvmpIpdFIK85J5be-h4iafIiIOWquBVDcBQRUo0c8qL4t68rkuJEphFSp3nvsuPXlYVZhUdUalHyuaeOnUooYfEvOdEJcGJolY8pYieFh7aaGr4CyMwT2jdr7fassySJlw-VnMessK-r26FCqsnxSJesLAxm2m6wPwbCRNZ5LB0wnM7PmkaWQaBKgWOkRL_t0TNNqlXM0H09yATyuv5Pd3N5lMp7OuPWFoOYAd07OYqE8jfPwfbfUrI_y88Y1yYYUeugynQ=="
+      "name": "핑크풋 10000보리 슬기로운소비 주방 가계부",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6544948850&itemId=18874268388&vendorItemId=81830121276&traceid=V0-153-de89e423291abd30&requestid=20261016174300784288155601&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/81TbE_3dQFzmgDkC8wG9u4O2miurv0tkqeXlAwLSbtwLWcifXws7sWVhQx-tI39eTkJA4ZbnguXijEbACUSYlPq6GAJMTVTa_MvF3Te2symYH1_itFqMVB20ACjHswyPct25eTxhJsW0WRRJGqau7FSM1aDsGWNojUrWiHTTVwbLBRjslCRvxClSLj-9Q72aAucLvnEgnFgG4Gz3-BKuFrC3yu9onQ1jTsB22IpHR-gWbtbCvwRHDQSTT0_hw6G5je4NsNvxYpABWVBYK0Mf_ofTVgRpvvzxlAG38Vc7uE3D883mB_1iPtKISp2mWnhxXhZEueaPTao8w1y_-39eva3wK8A-itO8GQaaqOTbvoFdX6OQu80ii8PUD6Ja07QwvOn6Zv8LiAGWH4gG3JvdfmtL6_vnpC16kB6xcpn5Z_gmdjPqIOSYsrB5p5A1Gw6pNNXJRZM4OHUOJD5RH2Fh1NLUhahQ28ZPsI2dBVeTqpTIxE732VOANJwvVOys3qnJH0hfP2ueLw4f68fPMi-c5h8="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 38,
+    "message_id": 39,
     "has_photo": true
   },
   "rejected_issues": [
     "수질오염",
-    "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]"
+    "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]",
+    "'변호사 경력 가짜' 들통난 백악관 대변인‥\"그게 중요?\" 반문"
   ],
-  "subject": "백악관 대변인"
+  "subject": "코인 트레이더 워뇨띠"
 }
