@@ -14,6 +14,8 @@ SCHEMA = {
     "properties": {
         "issue": {"type": "string", "description": "고른 이슈 원문 제목"},
         "angle": {"type": "string", "description": "어떤 점이 충격적이고, 우리 집과 어떻게 이었는지 한 줄"},
+        "subject": {"type": "string",
+                    "description": "이 사건의 주인공(누가/무엇이)을 본문에 쓴 그대로 짧게. 예: 테슬라 로드스터, 일본 기상청"},
         "hooks": {"type": "array", "items": {"type": "string"},
                   "description": "서로 다른 유형의 첫 줄 후킹 후보 3개"},
         "text": {"type": "string", "description": "가장 센 후킹으로 시작하는 쓰레드 본문 (100~150자, 3~5줄)"},
@@ -23,7 +25,7 @@ SCHEMA = {
         "benchmark_note": {"type": "string",
                            "description": "조회수 높았던 글에서 무엇을 가져왔는지 한 줄 (참고 글이 없으면 빈 문자열)"},
     },
-    "required": ["issue", "angle", "hooks", "text", "image_prompt", "photo_query", "product_keyword",
+    "required": ["issue", "angle", "subject", "hooks", "text", "image_prompt", "photo_query", "product_keyword",
                  "benchmark_note"],
     "additionalProperties": False,
 }
@@ -70,6 +72,8 @@ def write_post(trends, recent_issues=(), benchmarks=None, external=None):
         "3. 그 후킹으로 시작해 글 흐름대로 100~150자, 3~5줄 글을 써.\n"
         "   - 구체성: 읽는 사람이 '뭐가?' 하고 되묻지 않게 핵심 사실(무슨 제품·누가·어디·얼마)을 분명히 넣어.\n"
         "     예: '액정 160만원' 대신 '아이폰 17 프로 맥스 액정 수리비 160만원'. 이슈 제목에 없는 사실은 지어내지 마.\n"
+        "   - 주어 필수: 첫 줄에 '누가/무엇이'(예: '테슬라 로드스터가', '일본 기상청이')를 꼭 쓰고, 그 문장이 무슨 일인지 혼자 읽어도 알게 해.\n"
+        "     '차가', '이게', '그 사람이'처럼 뭉뚱그린 주어나 주어 생략은 금지. 기사 제목을 모르는 사람이 첫 두 줄만 읽고 무슨 일인지 알아야 해.\n"
         "   - 후킹: 첫 줄은 가장 충격적인 사실 하나만. 둘째 줄은 답을 바로 주지 말고 궁금증을 한 번 더 키워 ('근데 진짜 소름인 건…').\n"
         "   - 감정: 읽자마자 '헉', '어떡해', '말도 안 돼' 같은 느낌이 바로 오게. 생활 팁·훈계로 끝내지 마.\n"
         "   - 공감: '우리 집이었으면?', '나였으면?' 하는 짧은 한 줄로 내 일처럼 느끼게 해.\n"
@@ -79,7 +83,20 @@ def write_post(trends, recent_issues=(), benchmarks=None, external=None):
         + _benchmark_text(benchmarks)
     )
 
-    return _ask(user_msg, SCHEMA)
+    post = _ask(user_msg, SCHEMA)
+    if not _subject_ok(post):  # 첫 두 줄에 주어가 없으면 한 번 더 쓰게 한다
+        print(f"[writer] 첫 두 줄에 주어 '{post.get('subject')}' 없음 → 다시 씀")
+        post = _ask(user_msg + "\n\n주의: 지난번엔 첫 두 줄에 주어(누가/무엇이)가 빠져서 무슨 일인지 몰랐어. "
+                    "첫 줄에 subject를 그대로 넣어서 다시 써.", SCHEMA)
+    return post
+
+
+def _subject_ok(post):
+    """subject(주인공 이름)가 본문 첫 두 줄 안에 들어 있는지."""
+    subject = post.get("subject", "").replace(" ", "")
+    head = "".join(post.get("text", "").splitlines()[:2]).replace(" ", "")
+    words = [w for w in post.get("subject", "").split() if len(w) >= 2]
+    return bool(subject) and (subject in head or any(w in head for w in words))
 
 
 TEXT_SCHEMA = {
