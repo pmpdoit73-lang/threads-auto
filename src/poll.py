@@ -7,10 +7,12 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+import benchmarks
 import draft
 import hosting
 import telegram
 import threads_api
+import writer
 
 OFFSET_FILE = Path(__file__).resolve().parent.parent / "state" / "telegram_offset.txt"
 
@@ -166,6 +168,30 @@ def handle_text(message):
     print(f"[poll] {d['id']} 글을 직접 고친 글로 바꿈")
 
 
+def handle_snapshot(message):
+    """그냥 보낸 사진 → 벤치마킹할 인기글 스냅샷으로 읽어 저장한다."""
+    if message.get("photo"):
+        file_id = max(message["photo"], key=lambda p: p.get("file_size", 0))["file_id"]
+    else:  # 사진을 '파일'로 보낸 경우
+        file_id = message["document"]["file_id"]
+    image = telegram.download_file(file_id)
+    info = writer.read_snapshot(image, message.get("caption", ""))
+    if not info["is_post"] or not info["text"].strip():
+        telegram.send_text("📊 쓰레드 글 화면이 아닌 것 같아요. 글 본문과 조회수가 보이게 캡처해서 다시 보내 주세요.")
+        return
+    total = benchmarks.add(info)
+    views = f"{info['views']:,}" if info["views"] >= 0 else "안 보임"
+    rules = "\n".join(f"• {r}" for r in info["format_rules"])
+    telegram.send_text(
+        f"📊 벤치마킹 글 저장 ({total}개째)\n\n"
+        f"👀 조회 {views} · ❤️ {info['likes']} · 💬 {info['replies']}\n"
+        f"🎣 후킹: {info['hook_type']}\n"
+        f"💡 잘된 이유: {info['why_it_works']}\n\n"
+        f"다음 초안부터 이 형식을 참고할게요:\n{rules}"
+    )
+    print(f"[poll] 벤치마킹 글 저장: 조회 {views}")
+
+
 def process_buttons():
     offset = read_offset()
     updates = telegram.get_updates(offset)
@@ -174,7 +200,14 @@ def process_buttons():
         offset = max(offset, u["update_id"] + 1)
         msg = u.get("message")
         if msg:
-            if str(msg.get("from", {}).get("id")) == allowed and msg.get("text"):
+            if str(msg.get("from", {}).get("id")) == allowed and (msg.get("photo") or
+                    (msg.get("document") or {}).get("mime_type", "").startswith("image/")):
+                try:
+                    handle_snapshot(msg)
+                except Exception as e:
+                    print(f"[poll] 스냅샷 읽기 실패: {e}")
+                    telegram.send_text(f"📊 스냅샷 읽기 실패: {str(e)[:150]}")
+            elif str(msg.get("from", {}).get("id")) == allowed and msg.get("text"):
                 try:
                     handle_text(msg)
                 except Exception as e:

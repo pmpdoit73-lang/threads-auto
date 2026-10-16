@@ -9,6 +9,7 @@ import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+import benchmarks as bench_store
 import coupang
 import images
 import telegram
@@ -131,7 +132,9 @@ def _fill_content(d, avoid=()):
     except Exception as e:
         print(f"[draft] 조회수 가져오기 실패, 벤치마킹 없이 씀: {e}")
         benchmarks = None
-    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks)
+    external = bench_store.load()
+    print(f"[draft] gil이 보낸 벤치마킹 글 {len(external)}개")
+    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks, external)
     print(f"[draft] 글 작성: {post['text']}")
     d.update(post)
     try:

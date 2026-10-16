@@ -71,3 +71,12 @@ def get_updates(offset):
     return _call("getUpdates", data={"offset": offset, "timeout": 0,
                                      "allowed_updates": json.dumps(["callback_query", "message"])})
 
+
+
+def download_file(file_id):
+    """텔레그램에 올라온 파일(사진)을 내려받는다."""
+    path = _call("getFile", data={"file_id": file_id})["file_path"]
+    token = os.environ["TELEGRAM_BOT_TOKEN"].strip()
+    resp = requests.get(f"https://api.telegram.org/file/bot{token}/{path}", timeout=60)
+    resp.raise_for_status()
+    return resp.content

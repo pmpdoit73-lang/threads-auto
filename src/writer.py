@@ -1,5 +1,6 @@
 """Claude로 이슈를 고르고, 2초 후킹으로 시작하는 살림 고수 글을 쓴다."""
 
+import base64
 import json
 from pathlib import Path
 
@@ -45,7 +46,7 @@ def _benchmark_text(benchmarks):
     )
 
 
-def write_post(trends, recent_issues=(), benchmarks=None):
+def write_post(trends, recent_issues=(), benchmarks=None, external=None):
     """trends: {출처: [제목...]}, recent_issues: 최근에 다룬 이슈(중복 방지)."""
     lines = []
     for source, titles in trends.items():
@@ -63,6 +64,7 @@ def write_post(trends, recent_issues=(), benchmarks=None):
         "2. 서로 다른 유형의 첫 줄 후킹 3개를 만들고, 스크롤을 가장 확실히 멈출 하나를 골라.\n"
         "3. 그 후킹으로 시작해 글 흐름대로 100~150자, 3~5줄 글을 써.\n"
         "4. 글과 어울리는 사진 프롬프트, 사진 검색어, 쿠팡 상품 검색 키워드도 정해."
+        + _external_text(external)
         + _benchmark_text(benchmarks)
     )
 
@@ -107,3 +109,61 @@ def _ask(user_msg, schema):
         raise RuntimeError("Claude가 이번 글쓰기를 거절했어요.")
     text = next(b.text for b in response.content if b.type == "text")
     return json.loads(text)
+
+
+SNAP_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "is_post": {"type": "boolean", "description": "쓰레드(SNS) 글 화면이 맞는지"},
+        "author": {"type": "string", "description": "작성자 아이디 (안 보이면 빈 문자열)"},
+        "text": {"type": "string", "description": "본문 글자 그대로 (줄바꿈 유지, 댓글 제외)"},
+        "views": {"type": "integer", "description": "조회수 (안 보이면 -1, '1.2만'은 12000)"},
+        "likes": {"type": "integer", "description": "좋아요 수 (안 보이면 -1)"},
+        "replies": {"type": "integer", "description": "댓글 수 (안 보이면 -1)"},
+        "reposts": {"type": "integer", "description": "리포스트 수 (안 보이면 -1)"},
+        "hook_type": {"type": "string", "description": "첫 줄 후킹 유형 (숫자 충격/반전/손해 경고/질문/비밀 공개/공감/기타)"},
+        "why_it_works": {"type": "string", "description": "이 글이 잘 퍼진 이유를 형식 관점에서 1~2문장"},
+        "format_rules": {"type": "array", "items": {"type": "string"},
+                         "description": "다른 글에 옮겨 쓸 수 있는 형식 규칙 2~4개 (줄 수, 첫 줄 길이, 끝맺음 등)"},
+    },
+    "required": ["is_post", "author", "text", "views", "likes", "replies", "reposts",
+                 "hook_type", "why_it_works", "format_rules"],
+    "additionalProperties": False,
+}
+
+
+def read_snapshot(image_bytes, note=""):
+    """쓰레드 인기글 스냅샷(사진)을 읽어 글·숫자·잘된 이유를 뽑는다."""
+    media = "image/png" if image_bytes[:4] == b"\x89PNG" else "image/jpeg"
+    client = anthropic.Anthropic()
+    response = client.beta.messages.create(
+        model=MODEL,
+        max_tokens=8000,
+        messages=[{"role": "user", "content": [
+            {"type": "image", "source": {"type": "base64", "media_type": media,
+                                         "data": base64.b64encode(image_bytes).decode()}},
+            {"type": "text", "text": "이건 벤치마킹할 쓰레드 인기글 스냅샷이야. 화면에 보이는 대로 읽고 분석해 줘."
+                                     + (f"\n보낸 사람 메모: {note}" if note else "")},
+        ]}],
+        output_config={"effort": "low", "format": {"type": "json_schema", "schema": SNAP_SCHEMA}},
+        betas=["server-side-fallback-2026-07-01"],
+        fallbacks="default",
+    )
+    text = next(b.text for b in response.content if b.type == "text")
+    return json.loads(text)
+
+
+def _external_text(external):
+    """gil이 보내 준 다른 계정 인기글 스냅샷 분석을 프롬프트용 글로 만든다."""
+    if not external:
+        return ""
+    picks = sorted(external, key=lambda x: x.get("views", -1), reverse=True)[:6]
+    parts = []
+    for x in picks:
+        views = f"조회 {x['views']:,}" if x.get("views", -1) >= 0 else "조회 ?"
+        parts.append(f"[{views} · 좋아요 {x.get('likes', '?')} · 후킹: {x.get('hook_type', '')}]\n"
+                     f"{x['text'][:300]}\n→ 잘된 이유: {x.get('why_it_works', '')}\n"
+                     f"→ 형식 규칙: {' / '.join(x.get('format_rules', []))}")
+    return ("\n\n## 벤치마킹: 다른 계정에서 조회수가 높았던 글 (gil이 직접 고른 것, 가장 중요)\n"
+            + "\n\n".join(parts)
+            + "\n\n이 글들의 '형식 규칙'과 후킹 방식을 우선 따라 해. 내용·문장은 절대 베끼지 마.")
