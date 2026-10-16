@@ -12,11 +12,31 @@ import html
 import os
 import re
 import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 
 import requests
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (threads-auto)"}
 TIMEOUT = 15
+
+
+MAX_AGE_HOURS = 36  # 이보다 오래된 뉴스는 빼서 '지나간 이슈'를 막음
+HT = "{https://trends.google.com/trending/rss}"
+
+
+def _age_label(pub):
+    """발행 시각 → '3시간 전' 같은 표시. 너무 오래됐으면 None."""
+    if not pub:
+        return ""
+    try:
+        when = parsedate_to_datetime(pub)
+    except (TypeError, ValueError):
+        return ""
+    hours = (datetime.now(timezone.utc) - when).total_seconds() / 3600
+    if hours > MAX_AGE_HOURS:
+        return None
+    return f"{max(int(hours), 0)}시간 전"
 
 
 def _rss_titles(url, limit):
@@ -26,8 +46,17 @@ def _rss_titles(url, limit):
     titles = []
     for item in root.iter("item"):
         title = item.findtext("title")
-        if title:
-            titles.append(html.unescape(title.strip()))
+        age = _age_label(item.findtext("pubDate"))
+        if not title or age is None:
+            continue
+        line = html.unescape(title.strip())
+        news = item.findtext(f"{HT}news_item/{HT}news_item_title")  # 구글 트렌드: 관련 기사 제목
+        if news:
+            line += f" ← {html.unescape(news.strip())}"
+        traffic = item.findtext(f"{HT}approx_traffic")
+        if traffic:
+            line += f" [검색 {traffic}]"
+        titles.append(f"{line} ({age})" if age else line)
         if len(titles) >= limit:
             break
     return titles
@@ -40,7 +69,7 @@ def google_trends(limit=20):
 def google_news(limit=20):
     titles = _rss_titles("https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko", limit)
     # "제목 - 언론사" 형태에서 언론사 이름을 뗀다
-    return [re.sub(r"\s+-\s+[^-]+$", "", t) for t in titles]
+    return [re.sub(r"\s+-\s+[^-()]+(?= \(\d+시간 전\)$|$)", "", t) for t in titles]
 
 
 def naver_news(limit=20):
@@ -55,7 +84,13 @@ def naver_news(limit=20):
         timeout=TIMEOUT,
     )
     resp.raise_for_status()
-    return [re.sub(r"<[^>]+>", "", html.unescape(i["title"])) for i in resp.json().get("items", [])]
+    result = []
+    for i in resp.json().get("items", []):
+        age = _age_label(i.get("pubDate"))
+        if age is None:
+            continue
+        result.append(f"{re.sub(r'<[^>]+>', '', html.unescape(i['title']))} ({age})")
+    return result
 
 
 def youtube_popular(limit=20):
