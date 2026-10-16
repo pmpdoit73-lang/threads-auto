@@ -192,7 +192,9 @@ def rewrite(d):
     """같은 시간대에 다른 이슈로 다시 쓴다."""
     rejected = d.get("rejected_issues", []) + [d.get("issue", "")]
     d["rejected_issues"] = [x for x in rejected if x][-10:]
-    _fill_content(d, avoid=d["rejected_issues"])
+    others = [x for p in DRAFT_DIR.glob("*.json")
+              for x in json.loads(p.read_text(encoding="utf-8")).get("rejected_issues", [])]
+    _fill_content(d, avoid=list(dict.fromkeys(d["rejected_issues"] + others)))  # 다른 초안에서 거절한 이슈도 피함
     d["format"] = default_format(d)
     d["product"] = 0
     save(d)
