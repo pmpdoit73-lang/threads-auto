@@ -4,49 +4,51 @@
   "publish_at": "2026-10-17T07:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]",
-  "angle": "차가 벽을 타고 공중제비를 도는 믿기 힘든 장면을, 마트 주차장 기둥도 무서운 살림꾼 눈으로 받아들임",
+  "issue": "“우리 집 주인은 유치원생”…5세 이하 주택 소유 1440명, 56명은 다주택",
+  "angle": "집 한 채 장만에 평생 거는데 5세 이하 집주인이 1440명, 그중 56명은 다주택자라는 숫자 반전",
   "hooks": [
-    "차가 벽을 타고 공중제비를 돌았대.",
-    "이게... 차가 할 수 있는 거야?",
-    "너네 차가 벽 타고 뒤집히는 거 상상돼?"
+    "5세 이하 집주인이 1440명이래.",
+    "유치원생 중에 다주택자가 56명이래...",
+    "너네 집 등기에 몇 살 이름 올라가 있어?"
   ],
-  "text": "차가 벽을 타고 공중제비를 돌았대.\n근데 더 웃긴 건 본 사람들 반응이야.\n\"직접 안 봤으면 AI라 했을 것\"이래 ㅋㅋ\n난 아직 마트 주차장 기둥도 무서운데...\n너네는 태워주면 탈 거야, 구경만 할 거야?",
-  "image_prompt": "Slightly tilted amateur phone photo taken from a driver's seat inside a small family car parked in a dim underground supermarket parking lot, a concrete pillar very close to the side mirror, grocery bags on the passenger seat, fluorescent lights, slightly blurry, ordinary everyday scene, no people faces, no text, no logos",
-  "photo_query": "underground parking pillar",
-  "product_keyword": "주차 기둥 모서리 보호대",
-  "benchmark_note": "'이게... 무슨경우야?'처럼 짧은 충격 첫 줄+말줄임표 체념 셀프디스+누구나 답할 열린 질문으로 끝내는 형식을 가져옴",
+  "text": "5세 이하 집주인이 1440명이래...\n근데 진짜 놀라운 건 따로 있어.\n그중 56명은 집이 두 채 이상이래.\n난 30년 살림해서 겨우 한 채인데ㅋㅋ\n너네는 몇 살에 첫 집 샀어?",
+  "image_prompt": "Casual smartphone snapshot at home: a child's small backpack and crayons lying on a cluttered kitchen table next to a stack of paper documents and a house key on a plain keyring, slightly tilted angle, dim afternoon window light, ordinary messy apartment, no people, no text, no logos",
+  "photo_query": "house key toddler",
+  "product_keyword": "서류 정리함",
+  "benchmark_note": "타이어 이탈 글처럼 짧은 충격 한 줄+말줄임표로 궁금증을 남기고, 짜장면 글의 셀프 디스(나는 30년에 한 채)와 경험 질문으로 댓글 유도",
   "products": [
     {
-      "name": "주차장 기둥보호대 (피스 고정식) 고무 직각 모서리 보호대 가드, 10개, 기본",
-      "price": 43870,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8906853397&itemId=27837665788&vendorItemId=94797176913&traceid=V0-153-754b4bd1a8885d58&clickBeacon=754cfff0-c93b-11f1-85c8-17e0f1d95a50%7E3&requestid=20261016172743265098106849&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/PwAvURGcm1rJqy9-PybLbk0t9dqJrxBtJrQdOPXso8iNxa2-8o_IKdulaA5Jv6Jx2-pDx0O7iJAawmhGU0_ymJjlZEHxcHloXIAaK-uwQlZ7E_oOAxuu3qY0AUJ3boRPAJkju1URH7LLfU3BeDAaV6kPVb2MZJiPXlfa33uGkeq2hct3AG6CFxTh1vxW5v5CYM_uNdRYokQQcRYAd9iH7kcxn2AbuYKu_sLkl5CGxSTX0OJVycAU4KkfUWYbWbm0lJnjMkZnLQwXZ8RxzmVKm2X_6i7zPcbAD6QLrCf5aQ-i_vZ6DtF1WFQw70zmvBqkggK8-FuaF32z83ybyMloHCyoYVvIHGZhzcGXncHpq8M41qzQuNgYIGGRMZgp7ZQCA1Db2zjjjDgheecQRJWjocS3g-EN5lfKcLmDhqzLcGvub7BAi7oDaDUwrAAmqa7iY7nL1tXVgkWS3OWau2aEACVhrAVOqBXW8aV2COfNn1y08zYmURTBAZk4kGHowZYAur3Zu-PauOmFNH7lfzYbcMc5Mj3FKRUs"
+      "name": "디노브 A4 수납함 서류정리함, 투명, 6단",
+      "price": 25700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8435416007&itemId=24396310881&vendorItemId=95076313312&traceid=V0-153-6e1ff94e92898398&clickBeacon=6880faa0-c93c-11f1-9e74-0fc7c377d786%7E3&requestid=20261016173431284289714496&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/z7sBIIpyEAJzBKGwz8vXX1kWwXpP2L_nm7oFxTBvWiYcRsEzTEJSVHcfnyDbdPieTDqYaph6eE2-MbjmCD0sshmOArW_yeNjRUCdVJUsoEvlIqD-kznBeaoKvYWQ4cvcQ_8tCO93J1gy0jcBD3voEb-nNzSV3cj_FAchyxJEnw65eTWfkR1woLgBxetG6Yma-HjuWoU6GoNwdyqmB50dVWyeHOFxkGWXU5qHoVIN0C7ZW6HFhyZiqcaFNMhYXue5UXk5B1Dz3VS6KBwKcsh8hAOwul8j8JBdZGGzJzrCYnhWMYhWiC1BJSbH9BzfV8Ww8f8tPwsoCsW0Bg3e1RrtOUEm_EE8KpHXrfu4I9FJGiKjeicSJjeqWWtH9ncnw2cP92Es9dZ75jprBmiIE7crTc6-DMsmfyf_Jj6rzaUBjc4_p9pgZg5iZttaRUB12la5uci95COu92UeK9vIyFuSDBOnEL7DkoFuCR6cbDbaJZ4OB8lsKyo6kWHFguehJlcV1qXcqhzjFHJ3m59DwD0skxQbClPZrc_G"
     },
     {
-      "name": "안전주차 지하주차장 모서리 보호대 충격방지가드, 10개, 단일상품",
-      "price": 74550,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8906884663&itemId=27837689524&vendorItemId=94797200390&traceid=V0-153-afe7d5ae88c41a45&clickBeacon=754cfff0-c93b-11f1-a745-659ac25c3395%7E3&requestid=20261016172743265098106849&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/_kHGuREqsc2s733z_qfUcd6KU-RqHZRguTAdHcfqbevrAKbngD61N2y6uwzBCi1tTG1WpJ2nN9yQYlsdAoBXvg5kKMP7iiyS8BcUP8NgvYAeTB5OYIBBAnqufm6HLCa7XV2C7lW5P_48AG_UNXg7AdP6BYJ10zERdUV06lEp3K0a1RaPzz2yv1pr4Ma9Vm3aoTy1VCTRxnoYay3lcLSQhW-g75-bPASf1lY3ENv9KQroOI5elND-Ge9Ee3ZzDpSIQDWLqdTWQOH9XzigFnyU_2yuyxdtLCaVp8yqOh0JL6o2gAahva_9BbX3JAv4VmGPLpr4Xf667Z0BYL92x6oddnRV1boq6-sK7WwcME3TY7O26_0sjJ0IT3mo3VKyL8thjfReLttKQpWI-BmSXsaN33l1tZlJI-N_A96HwUTRqN369mRBwZPnPNZ6fUAZWLvk3WbLhlFMpRC8tQ5xZxY2IGvCTUah90gBSTauasgWoahw5-r7NWBLClTEi5EhTIgyhbjQY48Uw9lTUkhaUfAyOeCnnrKscPZCtQ=="
+      "name": "365플레이스 A4 서류 정리 책상 데스크 수납함, 5단",
+      "price": 13880,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8328728930&itemId=24045090422&vendorItemId=91065231410&traceid=V0-153-592d14e899da911b&clickBeacon=6880faa0-c93c-11f1-a222-b2e566d98f8b%7E3&requestid=20261016173431284289714496&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/EPLuTMLx9mryVhnwEO58Aa7EG1cJdOp5_U5xg1N-KXCmvcwKYWO-K2w7wtYO0NldEvF95gspSlhuVC66kJH0BWvM3zTjp2Sezez3YAKWWcRn2AdkE1tJM8tjVM2ypUSMfVAk5fUV0g4AnpVCv4sdzbTuvG2yVP-pLSHHyXDZ4EbLpQ2YCZjG0pFl6UxXlY6uImmu7fwRsV1zn5UKIt8V7Hhj1fplutVttmJErc94EWdb-rmRtgzX7kRPvBsfOut-QSvIVDmzACA3copeBuafEEz0CA2u_7seTvJICW4zq4uLFHz4HHuHOI5V_kNebRuj1LQsIagsLbXkgQW3PL9YpF0p_QuLEjbfj9Xwr_diLXSvwz-LhbTNcII1ABpyS206VJdX3xQWo_KqjpMX5xlFPAY-jheGN4HIo27eksR2RX7noqyXL6FTt77rUzN5-MoQ8Q_6nAvbuDpROx6Vr9hPOqoC5yfl2MWc7jiJvWANHdYdX72eUJuD5ik1MbEeGM-KsQy0xpbybtJfxiJTk9OQ7Jply7Cfs93s"
     },
     {
-      "name": "주차장 코너보호대 코너가드 모서리 벽보호대 반사지 v컷팅 기둥 쿠션 주차",
-      "price": 4180.0,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9750433849&itemId=29195760302&vendorItemId=96116397275&traceid=V0-153-344b9dfdd036848b&requestid=20261016172743265098106849&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/_7ljJPPt_Irg-Lrv_wbECTRQBTExAwYkJvRcCdlrH8QPvXQWkxanDMdEsKuxGv8bsh4k2evgPnev6OhTPszSinpZvppZ-iBSXSOhu3GIwoSHzZvN0YkFTrAHVwhJPrTrnXopiU9ZCH7uuppbE4QwUkq9-BUBoBREwemFg8BU7q5HTDva4lGk9uSmqmD-acim2Xkgl4_idMN_dsZjC8TtoEi14PfMACQ6xCoVnVBomSO4C2bUYtgiald_8hnFWLTwksYw3lUE0tIIsmQFmhWfyd1b8NixeM4IVBKKna7clMXgTpajf8dCrbadsVLfUIV7_0_7wdaGnz5RUfzEXi1n9y1LK2Ubj_MW4yVi5VIP3kyxML73oK2RBiwSvoN3LF_HCy3rqjerMVxQwM3f-RSE3yqFP5OWuTG908D16sA1Y8rJWG-7f-YqSA0Iw6IOgiQ1bsE2uJYidR9UM213OGEUG8Lmy6twvdn9GN2VxUwn-RpFicu4MDA2lL0iMQnQB69xtr9Yg_5TPo8nU00wOFl-1nZcNGUI2tyensux1GgPdBfoNoU="
+      "name": "슈퍼인 책상 서류정리대 6칸 조립식 대용량 서류정리트레이",
+      "price": 16900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8632257253&itemId=25043886582&vendorItemId=95581394742&traceid=V0-153-9e693b853723f003&requestid=20261016173431284289714496&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/67bdkUd7cV7bBpEW6_lpQmXahPu8v-qW0h5Ab1TDaDUSwc9lsfiQh6HksMwzzGtICxFenJhH_RJ-4UblQNo4N_E_GRMgPaEzjogJvd0S2JE6-xqX6EOGxUglhOTzrcAlKPtJfSyvRKO6if5cp53ogDVHDP4GM2cY422dSOtcY-Q53PtZRvoMa1sgJmTfCWgbac5ihTbMQXtZLOJRt3PI5QndWLLWCwUwzH1Dsi8-KwA4eC3S93O2YwRGyfMfMHasOIZ2ksFW-wNg2HstEiO9NpvarJNKKCJEGWUnPmEmLL1e1NLDQ-cN0vEJJ_6PH2vq3SeSthSZtLa31951M10N2Ni8KH8pBe7GTJdZZ62utDttjd70uopZCAwctv-nJ03fRsEhGi9T0wwYGncrsuaqkP_V7IIYLeMUuKg-KBN-MQ4bkF_r8vzPB8PXWbuoLHURboL7g_LodhHepP_m7YZJPGamwwQ78wUiJqAYHZ8D2BpBy00-2e0P9OySTls8_62mJK79S66GSrooDMt7yito4h07NVqlvKNwYcnWKPo05qV_rw=="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 35,
+    "message_id": 36,
     "has_photo": true
   },
   "rejected_issues": [
     "액정 깨지면 160만원?…“500만원 아이폰, 한국선 없어서 못 살 수도”",
     "토요일 흐리다가 일요일 전국 비…수도권·충청 최대 80㎜",
     "전 일본이 8분간 떨었다…일 기상청, 역사상 최대 '규모 9.9 지진' 오보",
-    "\"시부 칠순 100만원, 친정엄마 칠순 식사만\"…맞벌이 19년차 아내 '분통'"
-  ]
+    "\"시부 칠순 100만원, 친정엄마 칠순 식사만\"…맞벌이 19년차 아내 '분통'",
+    "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]"
+  ],
+  "subject": "5세 이하 집주인"
 }
