@@ -22,8 +22,9 @@ def gemini_image(prompt):
             "A candid, unedited smartphone snapshot taken by an ordinary Korean person at home "
             "(shot on a Galaxy/iPhone main camera). Must look like a real photo, NOT AI art, NOT a render, "
             "NOT an illustration, NOT a stock or studio product photo. "
-            "Natural everyday indoor light or window light, slightly imperfect handheld framing, "
-            "a little casual tilt, mild phone-camera noise and true-to-life colors, real lived-in clutter "
+            "Natural everyday indoor light or window light. Careless one-handed framing: "
+            "the camera is visibly tilted about 5-15 degrees, the subject is off-center and partly cropped at an edge, "
+            "shot from a casual high angle as if looking down while standing, mild phone-camera noise and true-to-life colors, real lived-in clutter "
             "in an ordinary Korean apartment, realistic textures and small imperfections. "
             "No dramatic lighting, no bokeh-heavy look, no oversaturation, no perfect symmetry. "
             "Square 1:1, no text, no logos, no watermarks, no human faces. Subject: " + prompt

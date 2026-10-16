@@ -12,6 +12,13 @@ import telegram
 
 
 def main():
+    redo = os.environ.get("REDO_ID", "").strip()
+    if redo:  # 이미 보낸 초안을 다른 이슈로 다시 쓰기 (🆕 버튼과 같음)
+        d = draft.load(redo)
+        draft.rewrite(d)
+        draft.send(d)
+        print(f"[make_draft] 초안 {redo} 새 이슈로 다시 보냄")
+        return
     force = os.environ.get("FORCE") == "1"  # Actions 탭에서 수동 실행하면 바로 만듦
     slot = draft.slot_to_fill(datetime.now(draft.KST), force)
     if not slot:

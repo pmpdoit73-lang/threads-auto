@@ -17,7 +17,7 @@ SCHEMA = {
         "hooks": {"type": "array", "items": {"type": "string"},
                   "description": "서로 다른 유형의 첫 줄 후킹 후보 3개"},
         "text": {"type": "string", "description": "가장 센 후킹으로 시작하는 쓰레드 본문 (100~150자, 3~5줄)"},
-        "image_prompt": {"type": "string", "description": "사진 생성용 영어 프롬프트. 내가 집에서 폰으로 직접 찍은 듯한 평범한 실사 장면 묘사 (구체적인 물건·장소·상황 위주, 예쁜 연출·광고 사진 느낌 금지). 사람 얼굴·글자·로고 없이"},
+        "image_prompt": {"type": "string", "description": "사진 생성용 영어 프롬프트. 내가 집에서 폰으로 직접 찍은 듯한 평범한 실사 장면 묘사 (구체적인 물건·장소·상황 위주, 삐딱한 구도·대충 찍은 느낌, 예쁜 연출·광고 사진 느낌 금지). 사람 얼굴·글자·로고 없이"},
         "photo_query": {"type": "string", "description": "무료 사진 검색용 영어 키워드 2~3단어"},
         "product_keyword": {"type": "string", "description": "쿠팡에서 검색할 한국어 상품 키워드"},
         "benchmark_note": {"type": "string",
