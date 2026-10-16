@@ -1,0 +1,46 @@
+{
+  "id": "20261016-1403",
+  "created_at": "2026-10-16T14:03:51.765887+09:00",
+  "publish_at": "2026-10-17T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "낮 최고 26도 '포근한 가을'…일교차 15도 '감기 주의'",
+  "angle": "일교차 15도를 '옷장·이불 정리 타이밍' 살림 문제로 풀고, 아침저녁용 얇은 겹이불 꺼내는 팁으로 연결",
+  "hooks": [
+    "낮엔 반팔, 새벽엔 덜덜... 일교차 15도래.",
+    "가을 이불 지금 꺼내면 늦어? 아니, 순서가 틀렸어.",
+    "너네 집 이불, 아직 여름 거 덮고 있지?"
+  ],
+  "text": "낮엔 반팔, 새벽엔 덜덜... 일교차 15도래.\n이럴 때 두꺼운 이불 바로 꺼내면 낮에 땀나.\n얇은 홑이불 두 장 겹쳐 덮다가 하나씩 빼는 게 딱이야.\n넣어둔 이불은 꺼내서 햇볕에 2시간은 털어 말리고.\n너네 집은 벌써 겨울 이불 꺼냈어?",
+  "image_prompt": "Casual smartphone photo taken at home of two thin folded cotton summer blankets stacked on an unmade bed in a Korean apartment bedroom, morning daylight from a window, slightly messy pillows, a storage bag partly unzipped on the floor, ordinary lived-in feel, no people, no text, no logos",
+  "photo_query": "folded blankets bed",
+  "product_keyword": "간절기 차렵이불",
+  "benchmark_note": "높은 조회 글의 말줄임표로 끝나는 상황 한 줄 첫 문장과 짧은 구어체 줄 나눔, 마지막 경험 질문으로 댓글 유도하는 형식을 가져옴",
+  "products": [
+    {
+      "name": "디오프 간절기 항균 알러지케어 먼지없는 차렵이불",
+      "price": 28900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8774215230&itemId=26178733056&vendorItemId=93158358322&traceid=V0-153-79e2cd546c7126df&clickBeacon=06e70a90-c91f-11f1-8865-7bd3fe65443b%7E3&requestid=20261016140412063135814418&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/ZT1p15kkXZwU37udZUBJGrU2MszUuTpgX32sSMUpPZwtc8c9FQJRujWKlKNT4F4Ujs3nmDJTMpaJZ54a8GLhJTUFodIaBA-4oTta5a-uwsHTv0H2mGwcReUtuIu4sf5cyGRMdH41CAfHwqKiIZTr3WtA2U03guV8sCXqtniCo18xirtwTis9efcCJ9kWv-zx1Ox2yy8pNxYfjtNZv7n5KlrY6MsMP8ckFyIIWlRlCVl1s5vjmdP8H5I_3pA3sysRnD1HwpHMEvBZbLtvt8bIvwVkxqP0miSPrsrbf0MylXeLSK-Giruq8btFq7U-CbYr7vNDJLNZaYXaJ5DEBt1O_Sei4_YKGSgOP9f19y1yPzf20FE6BIMaGjnPE6Mfjsn-PflTjb9dsJIByXkEjPMkvyrhMLgG__qHEWmCg2HTSMNSQIz4F_ZrAcaAcEE936KziaDnDT37BMDW4vOFJ_rxa5X0h8twL1smU3JqGUxtlf_zQC8Nj-tD_arJs4-yFsW8q25kul0_dIn8kB8I1T3BY_GneqVvPaCs"
+    },
+    {
+      "name": "디오프 간절기 항균 알러지케어 먼지없는 차렵이불",
+      "price": 28900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8774215230&itemId=25522847546&vendorItemId=90908405040&traceid=V0-153-79e2cd546c7126df&clickBeacon=06e731a0-c91f-11f1-a087-3713a65c9514%7E3&requestid=20261016140412063135814418&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/0pQUJ5r0LWKpKZAZ0uR1Bh4L1ZmhbZ-uKbWMoVptQ51CCUAqgRL_s2kOgPaV4EM7snZPCnfDKGrwmng3J_EkIgadJPe48CN1FUcgMI-37GcE7A3qmpvodIAaHjhx3r-UqoCvLg8Q0eglbYbHLlKNewOd3jR7Mz9_5D2kVGFP6t33uL1TbjYR9GrNu5nPDHHtDOXX-oUAxD6gGwi5qzdeczKIP-ntPa3_5ebPW4Qnx8e6ti8hGCZH8FE08pLfjwcmid4tpp0fQo3_1QafQ31JRsY3DdqYS9Y7Hk0rNE6lqwPYHLJ7p1aGaX25WQF7ZvdHyicotRXOLcFB6G0mWikFUtYVf3jcFDSybfVJCLTBNMmvdrNisvFLx3dnYX9C5YIGsgDmGweCCfMrUlEmu7ikdCUN_JrvRMTVMzKDlVIDNC31eoAtvxRMi6Uz_omcEDVzvB0vZMr-6prMGozRn9REhk8DODwaxQ1G9iaU2Ql4M5gq2QeZQp57BveniLp8b2xAyoH6jE7qPJErgrYh2-UEMDOJ0fsEFnuJ"
+    },
+    {
+      "name": "코멧 홈 베이직 차렵이불",
+      "price": 17990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6287221036&itemId=12936950184&vendorItemId=80201331785&traceid=V0-153-00a21d2e4ae533da&requestid=20261016140412063135814418&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/HDmbKP-XieJ9OkhpHGWhir6dxqMdwEIVBGe1pdZtFT6GCpNO8Xd5us4pcxVO88XaeGjRs36RjFThnPorxUstCQbDaQ7RMbqWXJvaFQsBOwbYngusT1ymvvsVRxbXZJ_8rVGlWWAH0yrUJamMWVasjc9bIrvrteTgxB9kwqjpaGwTmS0vmwQl3ap8RIqhLfs1ggAj8Hate8XhZAHkVbPsJyS3Odiu-Cq82CZskWcGLKC6uQtlnO96z9Inb2ftEtSO0CvpEDFzcOeq2zESswqTgghSqy9-ZlUy3ADsN420dIjYJ0kIc7dgsr6vqiN5shNPR9vLuBOhqnov2ozbc_VlagMG6rpaar7-dIe9HzNhTk2u_xIL7Z-7jUo8liww0nUmMgZSH4C61GeDookfFPKUu3J5SSPAHxGhQZZ2SctK0EWg8V5G_-LGh3aVIkcSTLnsWPU8SYXEyhHHECqAMq0AUZUuEOy6dyG4Yg71LpWzssrw2T8w71VSBUUZjHbB0wv69q88b736LWwvLaVu7yQPqN6xFiLSQm4egKsw-6YwzDrK9kBhEQMhNxQyzw=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 28,
+    "has_photo": true
+  }
+}
