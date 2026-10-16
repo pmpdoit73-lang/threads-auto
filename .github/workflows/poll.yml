@@ -2,7 +2,12 @@ name: 버튼 확인 및 게시
 
 on:
   # 알람 서비스(cron-job.org)가 한국 06:00~23:40 사이 20분마다 깨움
-  workflow_dispatch: {}  # Actions 탭에서 "Run workflow"로 수동 실행
+  workflow_dispatch:  # Actions 탭에서 "Run workflow"로 수동 실행
+    inputs:
+      diag:
+        description: "텔레그램 연결 점검도 할까요? (yes)"
+        required: false
+        default: ""
 
 permissions:
   contents: write  # 초안 상태(drafts/, state/)를 저장소에 저장
@@ -22,6 +27,13 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: 연결 점검 (수동으로 diag=yes일 때만)
+        if: inputs.diag == 'yes'
+        run: python src/diag.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
       - name: 버튼 확인 및 게시
         run: python src/poll.py
         env:
