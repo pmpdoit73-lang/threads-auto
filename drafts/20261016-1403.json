@@ -4,43 +4,46 @@
   "publish_at": "2026-10-17T07:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "액정 깨지면 160만원?…“500만원 아이폰, 한국선 없어서 못 살 수도”",
-  "angle": "비싼 폰 액정값 뉴스를 '집에서 폰 떨어뜨리는 자리' 살림 습관으로 연결",
+  "issue": "토요일 흐리다가 일요일 전국 비…수도권·충청 최대 80㎜",
+  "angle": "주말 비 소식을 이불 빨래·신발장 습기 같은 주말 살림 계획으로 연결",
   "hooks": [
-    "액정 한 번 깨지면 160만원이래...",
-    "너네 집에서 폰 제일 많이 떨어뜨리는 데 어디야?",
-    "폰 수리비 아끼는 건 케이스보다 집 구조야."
+    "일요일 수도권·충청 비가 최대 80㎜래...",
+    "주말에 이불 빨래 몰아서 하려고 했지? 일요일은 망했어.",
+    "비 80㎜ 오는 날 빨래 널면 냄새 다 배."
   ],
-  "text": "액정 한 번 깨지면 160만원이래...\n방금 뉴스 보고 내 폰부터 쳐다봤잖아.\n우리 집은 주방 타일 바닥이 폰 무덤이야.\n싱크대 앞에 매트 하나 깔고 폰은 꼭 선반 위.\n너네 집 폰 무덤은 어디야? ㅋㅋ",
-  "image_prompt": "Casual smartphone photo taken at home of a kitchen tile floor in front of a sink, a phone lying face down on the tiles near a slightly wrinkled kitchen mat, slightly tilted angle, ordinary indoor lighting, a bit cluttered, no people, no text, no logos",
-  "photo_query": "kitchen tile floor",
-  "product_keyword": "주방 바닥 매트",
-  "benchmark_note": "첫 줄 말줄임표로 궁금증 남기기, 짧은 구어체 줄바꿈, 마지막 경험 질문+ㅋㅋ로 댓글 유도 형식을 가져옴",
+  "text": "일요일 수도권·충청 비가 최대 80㎜래...\n주말에 이불 빨래 몰아서 하려던 사람 나야 나.\n토요일 흐릴 때 큰 빨래는 오전에 끝내고\n일요일엔 신문지 말아서 신발장에 넣어둬.\n너네 집은 비 오면 빨래 어디다 널어?",
+  "image_prompt": "Casual smartphone photo taken at home of a small Korean apartment balcony on a cloudy gray day, a folding drying rack crowded with damp towels and a thick blanket draped over it, window glass with faint raindrop marks, slightly tilted framing, uneven indoor lighting, cluttered everyday look, no people, no text, no logos",
+  "photo_query": "laundry rainy day",
+  "product_keyword": "제습제 옷장용",
+  "benchmark_note": "첫 줄을 상황 한 문장+말줄임표로 끝내 궁금증을 남기고, '나야 나' 셀프 공감과 누구나 답할 경험 질문으로 마무리하는 형식을 가져옴",
   "products": [
     {
-      "name": "국민발매트 3세대 2종세트 빨아쓰는 소프트 규조토 주방매트, 05. 베이지스트라이프",
-      "price": 39990,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9370468559&itemId=27881508281&vendorItemId=94840561233&traceid=V0-153-42c7bc978df2b93d&clickBeacon=6f2540e0-c938-11f1-9654-3ae7192aca32%7E3&requestid=20261016170604394199337857&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/I-y5jYKiGupXstUEI-rNmO7bveak0pc59lMTfm7Bzsn_djZLjXTHoJRlHAYXaPxZg3AM198_3Qp8Gdw-_W2W6l6D_pfuC2UkeXmKJron7icssIgT2KprbNCvYOvyAj-VUzVzn1Vhl-NGBdFeDmrNix9rdjngC5yaOAdEMZZLFiTyaMeFv7t_C0DJZI3iRpeqCAcEfVQ1wMdFf-zGhfJCbkQXPgLpl-o9MT2CCWJYOFC5yh-t9VP1NWiY2QIim6c_GIBzStw7nKrGraYYafaz3Kz3eXtUZDKo9ffodLPuSAQZxO34hDLxHaJ82wBPNGcE52t3vESZamyVdC55pjTCVW76BWbF27kD3M66t-d9ux8UlGdZUKgXSvt777j4cnuT9srYnSprwHf1Q67uQpcjNpJJJ6b5-dO6Yc3MCYjP8qbk5Rm5KnHDYmzpFrVVtQK5Xx5_Il78S7rzDhEKOA0cDBoPeN3Bb1_-vKSM0F9zbzruyA0h-Vv8Xo959ldov2UPDgTGxtqVX6tJpl3eG4_PXrl8aYJLL4da"
+      "name": "서프라이즈 진짜 좋은 제습제 일반형 30p, 900g, 1개",
+      "price": 17700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9614475515&itemId=23330530383&vendorItemId=95345649615&traceid=V0-153-d2ba9226e679c444&clickBeacon=1effde80-c939-11f1-812a-90fdad9169be%7E3&requestid=20261016171059479312542965&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/p-8toZeiojEoYX8Rp9_Dtub4XKOgYN9le-xothHFrB1AVJnekspfit_iwh2-Hv3Nn8zRhxBQCU59QRS6EpKpmJWTYfr0A9LEyvJ9j9gVRx0-NSV5gu93FuVhqIijs2mlmIfG651PeJ1OYfrAbY_OUU50X5QWgSXFsPp4Q6LUPHq9o1kduf-lAOKAgwfJdSjByih-ExMzJ1ZC3FoXv3vk3at3yQ_qEpgWhf6fgu-nBVAelAVOiKfVsG9BCBaDgufmUp9ck3OjruIkk4t-3hidj-vrZ0h1EtnhjtKNs_7kHiDb-3O8r17nwsrYFmQsCTpweDtR1-lN9Qbz7dO9OhM0DxIGQVAiww9YYEBx7_i806u8Jb2rg6GKLRAAyJzLv7MS5gWbQmmLLDb2RkX99KffkTQk7EGRmXhiq-4tkT1D5ROxI_MJbIEvHy4q4_a1zHrAnV6Io5x5ZUWoXd_Z8XFqco_9hzVB0PTvTqva4QSFF5NZnecvzgPMna2APEEY1INgr3PDkMZh"
     },
     {
-      "name": "Color&Geometry도톰한 10mm 쿠션 PVC 주방매트 싱크대 방수 피로방지 논슬립 발매트, 그레이, 1개",
-      "price": 57900,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9702280770&itemId=29024361655&vendorItemId=95936250053&traceid=V0-153-7f698f53607e2840&clickBeacon=6f2540e0-c938-11f1-92ce-c748e4656feb%7E3&requestid=20261016170604394199337857&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/J5aZJqqdWgXDi-CtJ6bQNi1D9C6mRPkV_Xhc3B5tpHLZVfUeDSOE5R3SAEwAh3DvRYu7eDzn27irhQro9SfL5Wyz4KAilt1zUsbhmBfxXePLHpU45euAKSw2ExGvfhd70j2qnlNckIZUwgaqoWRzWjQfomoygPffzUYHAQp1u5kDTEPuYW9gtTlJNAcWuF0OHTfSpw5JvT0Wrg8XZDuwbuc-dxQio5uoKRW8MyOlJ2SIRE1XcFiouuzmWtbV_DTCTZaGR-cKfA28Ml-2zIG0kFyFfiEQ-R_JFcRO5NyRl0pksxZfpfZaVREn5B4dUjbKNKBNXR3WniCe75Q2e1LzgpPnjJclR-DJHe01vgM5LZaO_wkCJjyQUOhE-d7VSDy8ltFbeKiqpVgDIfRYCYpSp5RzsYVtilBp2jKAgBsKMkGJlrgc3iJErI_gUmyFNx4juHOno1ctMRD2G6JtpRW8r1BsJPKOaWNB1pChsRL0rmUPZUf1bdx2lnqcM66SH2XQajW1nNTHqveozl9Dm3HZkP-rUuayQryEi5t0as6rWPQl8g0PSULqS64amplwRuE7MkjDNzjhyADlPBY="
+      "name": "물먹는뽀송 매일매일이 뽀송한 옷장용 옷걸이형 제습제 본품, 400g, 24개",
+      "price": 30800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6386250671&itemId=21495494265&vendorItemId=88549405339&traceid=V0-153-49a3427298ec39a4&clickBeacon=1effde80-c939-11f1-83cf-bf7ef9348c4b%7E3&requestid=20261016171059479312542965&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/XVF7qx-4BQmI1BfdXdP4BK56pNj0J4lFtghQ-WUvTZbVZGqHLHJmd99t1_k0ZKSRGitQToBsOqy-WAP4DMAL5xvyZzKybzqN0Qu2AMeM9BQhNtOGxZW_GBTO-Q8i6Jac76akMWo-CXSsVDu9U0OK1yqOSUvdD4gJCuUEfpS0myu900ni9CTZ4sqnupm3JeYD8iL-wbRR87Ki7lR0WuZmWKMLO0W1kiaK4PCqYojSBF1zg8LOGC8yQSideUUm5qdU_t1tf6hMGP0rvnSz69MbMcZAY8pjVc9UnyApU1w_bBK5RRbio-68hPPO6xFfITWX09LmGRQHjH9yGmtbaVm0Op7p_XwdlghT4ssAp3YtOPlTGlKp9ASJRUcUqhcsymfMiin8dLDUctBJF63imREByDky1Xj7TJmGL_Ns0YsdOurpikiNC8HtDFuoI7U6PummaUB_zhSQsZovjEWN6Tt_1mlyjuHijMk34XQLwKnEMNA7PNn-AdweVFIsHTv1yjLV6ZBi7finb8oN"
     },
     {
-      "name": "DEXI 쿠션 싱크대 방수 PVC 주방매트 특대형 싱크대발매트 미끄럼방지 두꺼운 10mm 주방 발매트 대형",
-      "price": 26620,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7974889395&itemId=22104367399&vendorItemId=89151325093&traceid=V0-153-a65953803e311768&requestid=20261016170604394199337857&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/rrb5mXDEhwYsgYzEruCvRWTB_HLZjn6E4aIJH4IPipiJ_QE6vpFVwNcLOtRpKD72jh22FdAaw0Wm5DDc8qf8Nt-7RgQdrW7mIx4ReK8Jp5BEIcq0kGhhlbSDeirS7GeNhrmMVN349cApdWlKsNUEd4szMW_o3DCldtdwkEnz2xvh7mWZZUiTI8btFTO14DGL7wmTBSoGajJUWs_q2oyALjshVretORzJR1RZrM26-4Vt2GehdZ9lTwdaCYcgDy3xw9nT_CzVcaxdincwHSxpVS3Smdcw4EAMKQkvlHGFO0goH8uUonyO_lqeVpZXr1P5Ll3QZKY-cfgEh3SfV7oBB2Ws3XERohoZQk_ooobfzqFtrVKr-ELrVyR12LoFUGRyWt1HJrfXieHq2OGZ12pT66_R-q8yWxHTwcXv5_qkQulWgG4Hy2SYn3dq3xaKY3_towKc_yrfTQY10MKPQ6uEP3Y87N0fAOnxVLI4R5j5v_i8yFlSdRUks3QxpBpIukUsigBPbWhftIFJLLkgCDHlbALwI4CW3N-Ltaoua-Uy010YXg=="
+      "name": "옷장 냄새제거+향기+항균+방습 제습제 습기제거제 가정용 옷장용 초강력 대용량 브라운",
+      "price": 14900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9769382272&itemId=29241218386&vendorItemId=95461889300&traceid=V0-153-02037d0b1aa49ada&requestid=20261016171059479312542965&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/VL-LXHIygjUiqtfbVC5KMBIo7x6we6iBMNz7siL4C0tzbpbZpjo140IpAnx4wLEi1oPyBLjhuHDv6BVEdz2N0K4ueJTdpLXL87WM-z_3JT3XYrxImCRHsoXG0KdtOnpCEOPD7GgkTLEyJWsnQcSXkZuvN72CRatcg1tiSbCwc1n6FmhNeUBubayyK9wr-TEiem4qhuZo9f_-B1TOSSR1D2fmuHkLMhN5V39bQl1dLYcWPzuOmM4BbiDNDNDspB5zyMciyEQTWHWgdwIB9h8nkSlDwGeRqUuyEhzBq_Dwpd3wSbaH_SjCVv7lwG8Vpo3uVZv7ba0M2oXhojz9l4FZdJR6sh-eL-qovA5-A0qFAWofcjid04OtAhn-HB6qaUVPNWX0rvjT-vVM9mPHBeIZGi2B5wS4kXt-nFLPL-afDAnP5GCD7qwju5HgGrljeORjIRB-l_mG1ryHG1a1vgl0wKdOBYbG1erNJcE174vwWD9Jld1EDpwzyUrAiczZ3PcdBpN-faNAUl_Q7WQMYx7ccOSAXbjJ1fnLXzQaz0imYpZa6A=="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 31,
+    "message_id": 32,
     "has_photo": true
-  }
+  },
+  "rejected_issues": [
+    "액정 깨지면 160만원?…“500만원 아이폰, 한국선 없어서 못 살 수도”"
+  ]
 }
