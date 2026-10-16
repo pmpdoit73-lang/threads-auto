@@ -4,48 +4,49 @@
   "publish_at": "2026-10-17T07:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "\"시부 칠순 100만원, 친정엄마 칠순 식사만\"…맞벌이 19년차 아내 '분통'",
-  "angle": "양가 경조사비 차별 사연을 살림하는 사람의 봉투 고민과 '양가 똑같이, 미리 정해두기' 팁으로 연결",
+  "issue": "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]",
+  "angle": "차가 벽을 타고 공중제비를 도는 믿기 힘든 장면을, 마트 주차장 기둥도 무서운 살림꾼 눈으로 받아들임",
   "hooks": [
-    "시댁 칠순 100만원, 친정엄마는 밥 한 끼래...",
-    "너네 칠순 봉투, 시댁이랑 친정 똑같이 해?",
-    "맞벌이 19년 차 아내가 터졌대. 칠순 봉투 때문에."
+    "차가 벽을 타고 공중제비를 돌았대.",
+    "이게... 차가 할 수 있는 거야?",
+    "너네 차가 벽 타고 뒤집히는 거 상상돼?"
   ],
-  "text": "시댁 칠순 100만원, 친정엄마는 밥 한 끼래...\n맞벌이 19년 차 아내 사연에 속이 다 쓰리더라.\n나도 봉투 두 개 놓고 한참 저울질했었지.\n우리 집은 양가 똑같이, 금액 미리 정해둬.\n너네는 칠순 봉투 얼마 했어?",
-  "image_prompt": "Two plain white money envelopes lying side by side on a worn wooden kitchen table at home, a pen and a small paper calendar nearby, a half-drunk cup of barley tea, slightly tilted casual smartphone snapshot, dim indoor evening light, cluttered background with fruit bowl, no people, no faces, no text, no logos",
-  "photo_query": "money envelope table",
-  "product_keyword": "축하 봉투",
-  "benchmark_note": "첫 줄을 상황 한 문장+말줄임표로 끝내 궁금증 남기고, 마지막을 누구나 답할 경험 질문으로 맺는 형식을 가져옴",
+  "text": "차가 벽을 타고 공중제비를 돌았대.\n근데 더 웃긴 건 본 사람들 반응이야.\n\"직접 안 봤으면 AI라 했을 것\"이래 ㅋㅋ\n난 아직 마트 주차장 기둥도 무서운데...\n너네는 태워주면 탈 거야, 구경만 할 거야?",
+  "image_prompt": "Slightly tilted amateur phone photo taken from a driver's seat inside a small family car parked in a dim underground supermarket parking lot, a concrete pillar very close to the side mirror, grocery bags on the passenger seat, fluorescent lights, slightly blurry, ordinary everyday scene, no people faces, no text, no logos",
+  "photo_query": "underground parking pillar",
+  "product_keyword": "주차 기둥 모서리 보호대",
+  "benchmark_note": "'이게... 무슨경우야?'처럼 짧은 충격 첫 줄+말줄임표 체념 셀프디스+누구나 답할 열린 질문으로 끝내는 형식을 가져옴",
   "products": [
     {
-      "name": "복과 사랑을 담은 일루베 고급 용돈봉투, 축하, 16개",
-      "price": 18900,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9249441125&itemId=27356604052&vendorItemId=94322804336&traceid=V0-153-22798431705c65a2&clickBeacon=d174d610-c939-11f1-8dbc-6359b88dee4f%7E3&requestid=20261016171558887258654419&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/l8CRDt-t9DlV3T_OlwasRBqMoxq5zkbVOKjqC0cCVyCH2ufdxeLSTPrM9m33jUKyucva2SWCAYjC21lSQL5D3DzV5FyKfugjYMDM14nJxbJPvDiFV0KAmEzD0Gqe8v5BfWJMACj8tXOz4VPQB4yejXld2unePzmey2xmA7mhTmmTSU6c6WmJwwzvqfw5la2VhaUAnA0Ykv96egtxDNSIJoZ1QsPg4npOX_9ZsMxAcjfWYB9u7M-iigFJ8WtdnVMIf17u2lkfbZb1PFeztiTUQh2vfCFe7yOB0afLs0KWxH11Ky8uOQzn_1lt3mgzXtXYxF2_dpyW0QazFm1TsmQSL4_uXFN_Qj7gKWjwf3OEJYUeoojQogVywiR9927BbFhFkiZ4TF-8Tz3YhLWKBDapmY-Rf060hOMFmM7kdd86nIaTYJc7FNkftkhhJhsQ9waKn0mJXriFb2ra2LtIMDDXAgm-POnj1V80bK-I7kBWZnsjoNAt4oH0VZ816cl4w3uwgJNXH0idn5OJsAmsAzQYxesdVjOmq1A="
+      "name": "주차장 기둥보호대 (피스 고정식) 고무 직각 모서리 보호대 가드, 10개, 기본",
+      "price": 43870,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8906853397&itemId=27837665788&vendorItemId=94797176913&traceid=V0-153-754b4bd1a8885d58&clickBeacon=754cfff0-c93b-11f1-85c8-17e0f1d95a50%7E3&requestid=20261016172743265098106849&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/PwAvURGcm1rJqy9-PybLbk0t9dqJrxBtJrQdOPXso8iNxa2-8o_IKdulaA5Jv6Jx2-pDx0O7iJAawmhGU0_ymJjlZEHxcHloXIAaK-uwQlZ7E_oOAxuu3qY0AUJ3boRPAJkju1URH7LLfU3BeDAaV6kPVb2MZJiPXlfa33uGkeq2hct3AG6CFxTh1vxW5v5CYM_uNdRYokQQcRYAd9iH7kcxn2AbuYKu_sLkl5CGxSTX0OJVycAU4KkfUWYbWbm0lJnjMkZnLQwXZ8RxzmVKm2X_6i7zPcbAD6QLrCf5aQ-i_vZ6DtF1WFQw70zmvBqkggK8-FuaF32z83ybyMloHCyoYVvIHGZhzcGXncHpq8M41qzQuNgYIGGRMZgp7ZQCA1Db2zjjjDgheecQRJWjocS3g-EN5lfKcLmDhqzLcGvub7BAi7oDaDUwrAAmqa7iY7nL1tXVgkWS3OWau2aEACVhrAVOqBXW8aV2COfNn1y08zYmURTBAZk4kGHowZYAur3Zu-PauOmFNH7lfzYbcMc5Mj3FKRUs"
     },
     {
-      "name": "복과 사랑을 담은 일루베 고급 용돈봉투, 축하, 8개",
-      "price": 11900,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9249441125&itemId=27356604046&vendorItemId=94322804342&traceid=V0-153-22798431705c65a2&clickBeacon=d174d610-c939-11f1-a15e-f507a3e02182%7E3&requestid=20261016171558887258654419&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/zZ8RP_uIdg1YzKOFzYJFrdrYmo_QH3AUfpN_arx4nQtzmggDEcLg0JCXIvvalG1Autft1c58_29zzLEiC8kIKPIwTgGNfFFXIxggVud08U52nwbfZiKgYfB9clTeZp1o8S0iJzpsaZpoxpuowgYmnivYBz4YaXLIA8CS8m9j2cDsuu1h_luPubA4XTPW59AL-oHXfJkietpcK6dMS7XR9c9ZMloie1vwKu6gnFuJsiUbK8RDdc3eJgygownn3nOCS2LUFL_ioq5jMbCUCxx11Yn2DN7D2dbSZBXW2phzzfS69ZIdLS5g34bjUlRO-kzvZAQY0qszRE52GJXO3-2fWxUeewAk6mCPxmJw1XG3pFiJ3oi_rBrjFT948XhYpsNGPlJ9VPZmXesK-Z4FtXdrXzXEWgE-FX84uyo4q8rOK15Lhn9BqgF6wsugHZG_GfGcuZdWlU6lRuhaJqxATIM7EagGv2YB4zVe5MVWZwZhp32T_HwWZ_5MD6144tiEGNLtFu-PCPBGRk9Dz_crG_fyPgO-QMhpHl8="
+      "name": "안전주차 지하주차장 모서리 보호대 충격방지가드, 10개, 단일상품",
+      "price": 74550,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8906884663&itemId=27837689524&vendorItemId=94797200390&traceid=V0-153-afe7d5ae88c41a45&clickBeacon=754cfff0-c93b-11f1-a745-659ac25c3395%7E3&requestid=20261016172743265098106849&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/_kHGuREqsc2s733z_qfUcd6KU-RqHZRguTAdHcfqbevrAKbngD61N2y6uwzBCi1tTG1WpJ2nN9yQYlsdAoBXvg5kKMP7iiyS8BcUP8NgvYAeTB5OYIBBAnqufm6HLCa7XV2C7lW5P_48AG_UNXg7AdP6BYJ10zERdUV06lEp3K0a1RaPzz2yv1pr4Ma9Vm3aoTy1VCTRxnoYay3lcLSQhW-g75-bPASf1lY3ENv9KQroOI5elND-Ge9Ee3ZzDpSIQDWLqdTWQOH9XzigFnyU_2yuyxdtLCaVp8yqOh0JL6o2gAahva_9BbX3JAv4VmGPLpr4Xf667Z0BYL92x6oddnRV1boq6-sK7WwcME3TY7O26_0sjJ0IT3mo3VKyL8thjfReLttKQpWI-BmSXsaN33l1tZlJI-N_A96HwUTRqN369mRBwZPnPNZ6fUAZWLvk3WbLhlFMpRC8tQ5xZxY2IGvCTUah90gBSTauasgWoahw5-r7NWBLClTEi5EhTIgyhbjQY48Uw9lTUkhaUfAyOeCnnrKscPZCtQ=="
     },
     {
-      "name": "마음담아 캘리그라피 돈봉투",
-      "price": 3650,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=128689781&itemId=27679501505&vendorItemId=4297672322&traceid=V0-153-6aa12a0f17d22958&requestid=20261016171558887258654419&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/DDQ8983-StqZjEHUDHgG8DrIyikNM6M9NBLfGXLRK7OjHu1zagDRFLbZAeS8jW7Z8T72DGupcGHJWxb4b0y-Ql9dmYlXNw9x3sYmW1z4q0z9K-T-ykrTp8DsbYxIteflQC9DkTlOg9DJ3EkhfuQsFWYypOQ83jZMcbKSbtSadH-EQHiNBf0ynl1E6mFP9x9h-Ye3Dd6P_JXKAiRg6eWHXJhWjSefPUbdZW4WKBfHNDlWU5EZTUy42zoAAWRtyEsspu9lGj9rKoEgRZ7GiFZ0AG-3gfRAnMXh89rluVDTCywrX7wY9_QdXmMxDkUFb5zJttx_fW6iDAqnA2xrr-A8edI_lyzNtng6uhYHD8weRyKmBYURgRzJol2OQk2IHCvJ3tg6A4VWBcJuJLNMDw66iBIypwgEkrj1PyaaQ2CGVHTtTGFqCGFXIp8UB24BTkbbyMx9nUtuZZQ_yYYIyFcYZdSi-nxAMVD5vK6jUqu4HK0fHQTCXgo8SveviEm6ruo3BN0Vl5-gqMZMoIbXYeYOWdk="
+      "name": "주차장 코너보호대 코너가드 모서리 벽보호대 반사지 v컷팅 기둥 쿠션 주차",
+      "price": 4180.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9750433849&itemId=29195760302&vendorItemId=96116397275&traceid=V0-153-344b9dfdd036848b&requestid=20261016172743265098106849&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/_7ljJPPt_Irg-Lrv_wbECTRQBTExAwYkJvRcCdlrH8QPvXQWkxanDMdEsKuxGv8bsh4k2evgPnev6OhTPszSinpZvppZ-iBSXSOhu3GIwoSHzZvN0YkFTrAHVwhJPrTrnXopiU9ZCH7uuppbE4QwUkq9-BUBoBREwemFg8BU7q5HTDva4lGk9uSmqmD-acim2Xkgl4_idMN_dsZjC8TtoEi14PfMACQ6xCoVnVBomSO4C2bUYtgiald_8hnFWLTwksYw3lUE0tIIsmQFmhWfyd1b8NixeM4IVBKKna7clMXgTpajf8dCrbadsVLfUIV7_0_7wdaGnz5RUfzEXi1n9y1LK2Ubj_MW4yVi5VIP3kyxML73oK2RBiwSvoN3LF_HCy3rqjerMVxQwM3f-RSE3yqFP5OWuTG908D16sA1Y8rJWG-7f-YqSA0Iw6IOgiQ1bsE2uJYidR9UM213OGEUG8Lmy6twvdn9GN2VxUwn-RpFicu4MDA2lL0iMQnQB69xtr9Yg_5TPo8nU00wOFl-1nZcNGUI2tyensux1GgPdBfoNoU="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 34,
+    "message_id": 35,
     "has_photo": true
   },
   "rejected_issues": [
     "액정 깨지면 160만원?…“500만원 아이폰, 한국선 없어서 못 살 수도”",
     "토요일 흐리다가 일요일 전국 비…수도권·충청 최대 80㎜",
-    "전 일본이 8분간 떨었다…일 기상청, 역사상 최대 '규모 9.9 지진' 오보"
+    "전 일본이 8분간 떨었다…일 기상청, 역사상 최대 '규모 9.9 지진' 오보",
+    "\"시부 칠순 100만원, 친정엄마 칠순 식사만\"…맞벌이 19년차 아내 '분통'"
   ]
 }
