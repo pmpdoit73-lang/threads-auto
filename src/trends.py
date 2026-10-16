@@ -72,24 +72,34 @@ def google_news(limit=20):
     return [re.sub(r"\s+-\s+[^-()]+(?= \(\d+시간 전\)$|$)", "", t) for t in titles]
 
 
-def naver_news(limit=20):
+NAVER_QUERIES = ["사고 발생", "충격", "깜짝", "적발", "논란", "역대 최초"]  # 깜짝 놀랄 사건·사고 위주
+
+
+def naver_news(limit=8):
     client_id = os.environ.get("NAVER_CLIENT_ID")
     client_secret = os.environ.get("NAVER_CLIENT_SECRET")
     if not (client_id and client_secret):
         return []
-    resp = requests.get(
-        "https://openapi.naver.com/v1/search/news.json",
-        params={"query": "생활 물가 날씨", "display": limit, "sort": "date"},
-        headers={"X-Naver-Client-Id": client_id, "X-Naver-Client-Secret": client_secret},
-        timeout=TIMEOUT,
-    )
-    resp.raise_for_status()
-    result = []
-    for i in resp.json().get("items", []):
-        age = _age_label(i.get("pubDate"))
-        if age is None:
+    result, seen = [], set()
+    for query in NAVER_QUERIES:
+        try:
+            resp = requests.get(
+                "https://openapi.naver.com/v1/search/news.json",
+                params={"query": query, "display": limit, "sort": "date"},
+                headers={"X-Naver-Client-Id": client_id, "X-Naver-Client-Secret": client_secret},
+                timeout=TIMEOUT,
+            )
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"[trends] 네이버 '{query}' 실패: {e}")
             continue
-        result.append(f"{re.sub(r'<[^>]+>', '', html.unescape(i['title']))} ({age})")
+        for i in resp.json().get("items", []):
+            age = _age_label(i.get("pubDate"))
+            title = re.sub(r'<[^>]+>', '', html.unescape(i['title']))
+            if age is None or title in seen:
+                continue
+            seen.add(title)
+            result.append(f"{title} ({age})")
     return result
 
 
