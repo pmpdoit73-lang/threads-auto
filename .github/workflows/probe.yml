@@ -1,0 +1,31 @@
+name: 인기글 가져오기 시험
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: threads-bot
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests
+      - run: python src/probe.py
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+      - run: |
+          git config user.name "threads-auto-bot"
+          git config user.email "threads-auto-bot@users.noreply.github.com"
+          git add state/probe.json
+          git commit -m "인기글 시험 결과" || exit 0
+          git pull --rebase origin main
+          git push origin HEAD:main
