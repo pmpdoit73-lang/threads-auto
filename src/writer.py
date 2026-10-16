@@ -19,13 +19,33 @@ SCHEMA = {
         "image_prompt": {"type": "string", "description": "사진 생성용 영어 프롬프트. 사람 얼굴·글자·로고 없이"},
         "photo_query": {"type": "string", "description": "무료 사진 검색용 영어 키워드 2~3단어"},
         "product_keyword": {"type": "string", "description": "쿠팡에서 검색할 한국어 상품 키워드"},
+        "benchmark_note": {"type": "string",
+                           "description": "조회수 높았던 글에서 무엇을 가져왔는지 한 줄 (참고 글이 없으면 빈 문자열)"},
     },
-    "required": ["issue", "angle", "hooks", "text", "image_prompt", "photo_query", "product_keyword"],
+    "required": ["issue", "angle", "hooks", "text", "image_prompt", "photo_query", "product_keyword",
+                 "benchmark_note"],
     "additionalProperties": False,
 }
 
 
-def write_post(trends, recent_issues=()):
+def _benchmark_text(benchmarks):
+    """조회수 높은 글·낮은 글을 프롬프트용 글로 만든다."""
+    if not benchmarks or len(benchmarks) < 4:
+        return ""
+    top, low = benchmarks[:5], benchmarks[-3:]
+    fmt = lambda p: f"[조회 {p['views']} · 좋아요 {p['likes']} · 댓글 {p['replies']}]\n{p['text'][:300]}"
+    return (
+        "\n\n## 벤치마킹: 내 쓰레드에서 조회수가 높았던 글\n"
+        + "\n\n".join(fmt(p) for p in top)
+        + "\n\n## 조회수가 낮았던 글 (피할 패턴)\n"
+        + "\n\n".join(fmt(p) for p in low)
+        + "\n\n벤치마킹 규칙: 높았던 글의 첫 줄 방식, 줄 나눔, 길이, 말 끝맺음, 질문 넣는 방식처럼 '형식'만 가져와.\n"
+          "내용·문장은 절대 베끼지 말고, 페르소나와 금지 주제(정치·범죄·연예 가십 등)는 그대로 지켜.\n"
+          "낮았던 글과 닮은 형식은 피해. 무엇을 가져왔는지 benchmark_note에 한 줄로 적어."
+    )
+
+
+def write_post(trends, recent_issues=(), benchmarks=None):
     """trends: {출처: [제목...]}, recent_issues: 최근에 다룬 이슈(중복 방지)."""
     lines = []
     for source, titles in trends.items():
@@ -43,6 +63,7 @@ def write_post(trends, recent_issues=()):
         "2. 서로 다른 유형의 첫 줄 후킹 3개를 만들고, 스크롤을 가장 확실히 멈출 하나를 골라.\n"
         "3. 그 후킹으로 시작해 글 흐름대로 100~150자, 3~5줄 글을 써.\n"
         "4. 글과 어울리는 사진 프롬프트, 사진 검색어, 쿠팡 상품 검색 키워드도 정해."
+        + _benchmark_text(benchmarks)
     )
 
     return _ask(user_msg, SCHEMA)

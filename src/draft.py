@@ -12,6 +12,7 @@ from pathlib import Path
 import coupang
 import images
 import telegram
+import threads_api
 import trends
 import writer
 
@@ -124,7 +125,13 @@ def publish_time(d):
 def _fill_content(d, avoid=()):
     collected = trends.collect()
     print(f"[draft] 이슈 수집: { {k: len(v) for k, v in collected.items()} }")
-    post = writer.write_post(collected, list(recent_issues()) + list(avoid))
+    try:
+        benchmarks = threads_api.my_posts_with_views()
+        print(f"[draft] 벤치마킹용 내 글 {len(benchmarks)}개 (최고 조회 {benchmarks[0]['views'] if benchmarks else 0})")
+    except Exception as e:
+        print(f"[draft] 조회수 가져오기 실패, 벤치마킹 없이 씀: {e}")
+        benchmarks = None
+    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks)
     print(f"[draft] 글 작성: {post['text']}")
     d.update(post)
     try:
@@ -238,6 +245,7 @@ def caption(d):
         f"({len(d['text'])}자{', 직접 고친 글' if d.get('edited_by_hand') else ''})",
         "",
         f"🔥 이슈: {d.get('issue', '')}",
+        *([f"📊 벤치마킹: {d['benchmark_note']}"] if d.get("benchmark_note") else []),
         f"🖼 사진: {d.get('image_note', '')}",
         f"📦 형태: {FORMATS[d['format']]}",
     ]

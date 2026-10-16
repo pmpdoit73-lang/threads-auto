@@ -64,3 +64,21 @@ def permalink(post_id):
         return _get(post_id, fields="permalink").get("permalink", "")
     except RuntimeError:
         return ""
+
+
+def my_posts_with_views(limit=50):
+    """내 계정 글과 조회수를 가져온다 (조회수 많은 순)."""
+    posts = _get("me/threads", fields="id,text,timestamp,permalink", limit=limit).get("data", [])
+    result = []
+    for p in posts:
+        if not p.get("text"):
+            continue
+        try:
+            ins = _get(f"{p['id']}/insights", metric="views,likes,replies,reposts")
+            m = {x["name"]: (x.get("values") or [{}])[0].get("value", 0) for x in ins.get("data", [])}
+        except RuntimeError:
+            continue
+        result.append({"text": p["text"], "views": m.get("views", 0), "likes": m.get("likes", 0),
+                       "replies": m.get("replies", 0), "reposts": m.get("reposts", 0),
+                       "date": p.get("timestamp", "")[:10]})
+    return sorted(result, key=lambda x: (x["views"], x["likes"]), reverse=True)
