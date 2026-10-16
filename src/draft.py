@@ -190,7 +190,9 @@ def create(slot):
 
 def rewrite(d):
     """같은 시간대에 다른 이슈로 다시 쓴다."""
-    _fill_content(d, avoid=[d.get("issue", "")])
+    rejected = d.get("rejected_issues", []) + [d.get("issue", "")]
+    d["rejected_issues"] = [x for x in rejected if x][-10:]
+    _fill_content(d, avoid=d["rejected_issues"])
     d["format"] = default_format(d)
     d["product"] = 0
     save(d)
