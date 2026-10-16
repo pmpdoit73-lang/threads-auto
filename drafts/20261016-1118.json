@@ -4,47 +4,48 @@
   "publish_at": "2026-10-16T18:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]",
-  "angle": "차가 벽을 타고 공중제비를 돈다는 믿기 힘든 장면, 우리 집 차고 벽이었으면 싶은 아찔함",
+  "issue": "'변호사 경력 가짜' 들통난 백악관 대변인‥\"그게 중요?\" 반문",
+  "angle": "경력 가짜가 들통났는데 '그게 중요?'라고 되묻는 뻔뻔함 — 우리 집 도우미·수리기사가 이랬으면?",
   "hooks": [
-    "테슬라 로드스터가 벽 타고 공중제비 돌았대...",
-    "직접 안 봤으면 AI라 했을 거래. 차 얘기야.",
-    "너네 차가 벽 타고 뒤집히는 거 상상해봤어?"
+    "백악관 대변인 변호사 경력이 가짜였대...",
+    "가짜 경력 들키고 \"그게 중요?\" 했다는 사람, 누군지 알아?",
+    "백악관 대변인이 거짓말 들키고 한 말이 더 황당해."
   ],
-  "text": "테슬라 로드스터가 벽 타고 공중제비 돌았대...\n근데 본 사람들 반응이 더 웃겨.\n\"직접 안 봤으면 AI라 했을 것\"이래.\n난 우리 집 차고 벽 긁힐까 봐 그것부터 생각남ㅋㅋ\n너네 이거 보면 타보고 싶어, 무서워?",
-  "image_prompt": "Amateur smartphone photo of a cramped residential garage wall with old scuff marks and tire rub stains, a coiled garden hose and a dusty broom leaning nearby, harsh overhead fluorescent light, slightly tilted crooked framing, casual unedited look, no people, no text, no logos",
-  "photo_query": "garage wall car",
-  "product_keyword": "주차 벽 보호대",
-  "benchmark_note": "첫 줄 상황 한 문장+말줄임표로 궁금증, 짧은 구어체 셀프 공감 후 누구나 답할 열린 질문으로 마무리하는 형식",
+  "text": "백악관 대변인 변호사 경력이 가짜였대...\n근데 진짜 어이없는 건 그다음이야.\n들통나니까 \"그게 중요?\" 하고 되물었대.\n우리 집 고치러 온 기사님이 자격증 가짜면 난 바로 문 닫아.\n너네는 이거 중요해, 안 중요해?",
+  "image_prompt": "Smartphone photo of a kitchen table with a pile of opened envelopes, a printed resume sheet face down, reading glasses and a half-drunk cup of barley tea, slightly crooked angle, dim evening home lighting, casual unposed snapshot, no faces, no readable text, no logos",
+  "photo_query": "resume papers table",
+  "product_keyword": "서류 정리함",
+  "benchmark_note": "높은 글처럼 첫 줄을 상황 한 문장+말줄임표로 끊고, 마지막을 누구나 답할 짧은 양자택일 질문으로 끝냄",
   "products": [
     {
-      "name": "안전주차 지하주차장 모서리 보호대 충격방지가드, 10개, 단일상품",
-      "price": 74550,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8906884663&itemId=27837689524&vendorItemId=94797200390&traceid=V0-153-afe7d5ae88c41a45&clickBeacon=3a3ed3a0-c93d-11f1-bb5b-241f3fe552d5%7E3&requestid=20261016174023193068770999&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/lAYI5YjvyILssoL_lGvvq0egMUISdkIlrwI5O6MN6P5oAmd83J6u8z1hX6_Y6DkMHwftL-i2QCFVj7EjQDCciaE7ZUx221BMTgKb8yuPAI7Erc3360WakvwuGMJXYMs14-gN1lWzT5IiOuwo5YTz_z2orlLelv9aDQSs5s7pJhd55VKTrSpNcm7gaguWRLq2BLTGh5ThAQf-rSBb6zDdJEG-6MhnCWX88v3TEPm2lP5x4XkVqJbAxDze565MRazaL7OmdhBwLmMLHFWMIyrUmbKmCRUhFWD2lq7YVLqn0vxbpgtmw2TnHZH2AeKUTnH-hhpu1HsP9mYvYvgK2F91-AnukM3fcsfvbbCA0GMkR-Vd3PXrtKvnFQ9i348T0IwBkH-iefyORdaUurH4R3e4TmQVdS2w9GpuD-t7Y1Ldnb5iCwJS5L-sDTTGEMABgplKuWbsfRG13qb0pLytjdxqj_fYz0W0GOLvNN6qY54ZotPOgFXfj8W1bPyFRdYmu7T26E0EQrmYsBRVxFnSJyB1eZ4SFjSofOTBXw=="
+      "name": "디노브 A4 수납함 서류정리함, 투명, 6단",
+      "price": 25700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8435416007&itemId=24396310881&vendorItemId=95076313312&traceid=V0-153-6e1ff94e92898398&clickBeacon=6728ef40-c93d-11f1-a63e-b5b25c282895%7E3&requestid=20261016174138592146522619&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/4VAlRnGIEeW5hXhw4dxQNFqmuu_KrbnmNSZAvEQGsuGRZOJdnRLQl4sJYGhSq3ElV_u-5yqDRPnnSmUQ16qPLF5dqoeofnxOdGeuS9tKXzI8Vzqx--46AKublhHjHB2keEfJCPSdhWS_SniJDmKyAeAdEIeP_vaMDcQT14UBPy4q28D6ogPfvSKoBhLNzEFoHQLIAPBDWhlW66chdrXdUdHW3cpSEDMZoGiw8IvdD6XN27Ncer1PwFrU3taLPlTtYRIj-GAIp1o7PEQxIkKwcPHt8e4mrEFt2JK0ZbMR6_xKhW8CKHsGfKPWg8qj4jTArCq2WrC1bObdu2A6yTIyS7Y4U01-U7G2wcL4SK0U0kr_YgS6g1smDTG9akmEqRxi2eIAWlg25J8dO7JKxtaElozh5iGTPXzoSrljKJDFHaFCMPUnVu8Wl4xIJuhtAFafXpSmETHebc6waxiPkmXFjZNNenhP1LuTeAa71tuU7OFndzQ68WnJQJ4UVad3XQaEjNaxjORXseqZi31T7aZtL6VhLwqX-co="
     },
     {
-      "name": "해이톡 주차장 기둥 코너 보호대 주차벽 고무 가드, 4개",
-      "price": 20200,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9293483317&itemId=28739897444&vendorItemId=95679324828&traceid=V0-153-701406ff55b89d50&clickBeacon=3a3ed3a0-c93d-11f1-849f-c93061a83e56%7E3&requestid=20261016174023193068770999&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/60fhfElw6KmAVVXt67ci4VqRWg-wPYjcTV3a8BEGOMwBe5p15tJfi9gwh2SyHH4CgH65AiLG5b7OyYYHHbFljkTM8E586LRFf_t_KmQndoN-szYtdzY46nWgsXqZn25DZclfR-HVi73-h7FMlHPHjwqbqn6JtsWZ9R9rY93b7pK2z74VI-GknXeHsdQSaOjUuDX6yDe1MhAqt5yfsedzoZkvPC6GCnl_ztN1BCIMR4f9r0agsJJZIlbRFdi7GjJ4CsZGtFVLeHk06Bv6ptRrK7kWcjm2N4CSzs3l1iJBVzBrHgX1jbEkaq0LRj1FMpbi2KxhE1gz-F_4JESoD_Ask1F5yvSugrEj5zguwdR6XZpbTbgzF5aaSreJhqYWGaZ3s-HTED_0yvbLLNBNF5E5voipPztAvu5B4DTwQ1zHAI3p8dAuCfRDMjPeVSLkDX02qTu5C1I_T6d2OLVn_m21YExVX5t_XJ_8L4cXAIPVEHEu0rUWzMvzu7WvBLkj6IHKH6UMIVAPmzQ70mWQ8PerV8jEPp5wis6M"
+      "name": "365플레이스 A4 서류 정리 책상 데스크 수납함, 5단",
+      "price": 13880,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8328728930&itemId=24045090422&vendorItemId=91065231410&traceid=V0-153-592d14e899da911b&clickBeacon=6728ef40-c93d-11f1-bfbc-8604274d21dd%7E3&requestid=20261016174138592146522619&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/QmvJHYkSiShhHyXxQg8Ae7YffCHTldSHDnFkzHYN0KET0FkkqFL-GeT-AQat1uHEcwngC99eSsh4dj8H_4FxweoLbFKQjtP-nL_9EgaaZV5ybNlHm6fNC7K9VQ_UgWrgmYsj9oUBA2eYrXoLz0oH5v-XibiK1ExDgKFs9rsewkqfO1iXPleM_p4P-iaUZ8pnPom9a6VO4-4f5Pf9JimjYFFfFxG1oKyeerGoaUz69Su1LnIQIR0AwNbAO386N3_QazHKJAcKLQahJhOx1K59H2SLZvd-iGh_x40RywJgwdauBWTd_cCrwBjlSHHM3AMf1sw9iplxmHgEsa7w3z7AThINSuNnc86wmv-KVYfuquR4k4Qc8yhS6TqxCn0KRmnOrp8OzRbYpN0xaPDInZ65apStpQBsb_x7KnATsfIerMUkec0KuenZ5ieREwck0E06IT-2P6TblGZx0Vwm9KjEAF_WAx8jldWdkXEpBG5kNo5fXip6ngknvOqIF-RrLZD_yrkHaRRMNdQvtMgruB7rjj-_nObm-HQ="
     },
     {
-      "name": "스피세프 접착식 주차장 기둥 코너 보호대 EVA 충격방지 코너 가드",
-      "price": 3900.0,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9642371924&itemId=28812490409&vendorItemId=96014898206&traceid=V0-153-b319f1073eda5586&requestid=20261016174023193068770999&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/nKihNaIGH_XsJzUEnA5wy1t33DfioCgTZSbtMQBbK0VNxovGprrJMn8OKgVRWj97y1SaDpsFNy5eN93WwCH_6JJDAnL8gRDc_FH9POJpOuFxp-GPvyYjdQJhw1n2dbCAHh-2gduwM3qjPlisEwfytC1tP3Ze6q9jJJwnuvY1f5tSn4QmGaVr-palCp4G2qGmh8-WAzgHj_9x3ZBT-rviuS5l9biZxHK7mneeaQ_DRYv_U35ojqAoJGMVNhuB445WbO4QRytG-2czqZ2r6NkS4N0mXL4BuCMCtqshsf5n884wkHOUl_lDMvhmbay_Z_K3JB-LuJVMYZoGCMlMMMYBatPLS7MIENYhe-uB9iQD9jgZvNfuAbIRlEWh2YtkCkk87G7UD2NEVhqXzcLW7FfYedYRiJiF-95QuSdbnQJpho2HhOf6dUa0UqfGFYhgW8lyN5PW0PedTmKK75urM-WguNsA7ZMm3uXbu66l5yVDx2kQnlCPcZ8S-VhU9TQknlNRPp8JiL8_HgfCPh0MKjNOoYcJwZEaRR6xWBI_7aI-Krl23g=="
+      "name": "슈퍼인 책상 서류정리대 6칸 조립식 대용량 서류정리트레이",
+      "price": 16900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8632257253&itemId=25043886582&vendorItemId=95581394742&traceid=V0-153-9e693b853723f003&requestid=20261016174138592146522619&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/Byn39fH7vsSvfTNaB8OrTHy_r0A2uiePa1vOUcSNzDZ_x7PzsKjWcGQP2X2IEaRqtT0RC6GTjbbEukUmv7RgBJtQz9Atpvn8nAxwnJWvky3zLfDQ4EHaoqlil6e7gw6AP23WVAXK_fyhIYVZciQA0OsGAHBzsZxu7ObFVMBc7luXOCJCqrpSlbNswM1HLF3gX9auu842RFxER_Mx_lrs6fLZ4xTM97gekZAezeyajl9pn1lJV6lge7T_QvTOVuMs54m9b0hCYeuqqkMHaxBScKLtxrh1Wf6mQqiG5PXIvmpIpdFIK85J5be-h4iafIiIOWquBVDcBQRUo0c8qL4t68rkuJEphFSp3nvsuPXlYVZhUdUalHyuaeOnUooYfEvOdEJcGJolY8pYieFh7aaGr4CyMwT2jdr7fassySJlw-VnMessK-r26FCqsnxSJesLAxm2m6wPwbCRNZ5LB0wnM7PmkaWQaBKgWOkRL_t0TNNqlXM0H09yATyuv5Pd3N5lMp7OuPWFoOYAd07OYqE8jfPwfbfUrI_y88Y1yYYUeugynQ=="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 37,
+    "message_id": 38,
     "has_photo": true
   },
   "rejected_issues": [
-    "수질오염"
+    "수질오염",
+    "벽 타고 공중제비 도는 테슬라 로드스터…“직접 안 봤으면 AI라 했을 것” [현장영상]"
   ],
-  "subject": "테슬라 로드스터"
+  "subject": "백악관 대변인"
 }
