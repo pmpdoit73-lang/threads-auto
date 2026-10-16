@@ -4,43 +4,43 @@
   "publish_at": "2026-10-17T07:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "동물복지",
-  "angle": "달걀 껍데기 숫자 끝자리(사육환경 번호)로 장볼 때 바로 써먹는 살림 팁으로 풀었음",
+  "issue": "토요일 흐리다가 일요일 전국 비…수도권·충청 최대 80㎜",
+  "angle": "주말 비 80㎜ 소식을 빨래·이불 말리기 타이밍 문제로 연결해 토요일에 끝내라는 살림 팁으로 풀었음",
   "hooks": [
-    "달걀 껍데기 맨 끝 숫자, 다들 그냥 넘기지?",
-    "장 30년 봤는데 달걀 고르는 법 이제 알았어...",
-    "1번이랑 4번 달걀, 뭐가 다른지 아는 사람?"
+    "일요일 수도권 비가 80㎜까지 온대.",
+    "주말에 이불 빨려고 했지? 일요일은 망했어...",
+    "너네 이번 주말 빨래 언제 할 거야?"
   ],
-  "text": "달걀 껍데기 맨 끝 숫자, 다들 그냥 넘기지?\n그게 닭 키운 환경 번호야.\n1은 방사, 2는 평사, 3·4는 케이지.\n산란일 네 자리도 앞에 찍혀 있어.\n너네 집 냉장고 달걀은 몇 번이야?ㅋㅋ",
-  "image_prompt": "Close-up phone snapshot of a paper egg carton opened on a home kitchen counter, a few brown eggs with tiny printed codes on shells, slightly tilted angle, ordinary fluorescent kitchen light, cluttered background with a cutting board and dish rack, casual unpolished amateur photo, no people, no readable text, no logos",
-  "photo_query": "egg carton kitchen",
-  "product_keyword": "동물복지 유정란",
-  "benchmark_note": "'뭔지 아는 사람?' 질문형 후킹과 3~5줄 짧은 구어체, 마지막 경험 질문+ㅋㅋ로 댓글 유도하는 형식을 가져옴",
+  "text": "주말에 이불 빨려고 했지? 일요일은 망했어...\n수도권·충청 최대 80㎜ 온대.\n큰 빨래는 토요일 오전에 돌리고\n흐려도 바람 통하는 데서 4시간은 말려.\n너네는 주말 빨래 언제 해?ㅋㅋ",
+  "image_prompt": "A slightly crooked, casual smartphone photo taken at home of a washed blanket hanging on a metal drying rack in a Korean apartment veranda, cloudy gray sky outside the window, a plastic laundry basket on the floor, ordinary cluttered everyday look, no people, no text, no logos",
+  "photo_query": "laundry drying rack",
+  "product_keyword": "이불 건조대",
+  "benchmark_note": "고조회 글의 '첫 줄 상황+말줄임표로 궁금증', 짧은 구어체 줄 나눔, 마지막 경험 질문+ㅋㅋ로 댓글 유도 형식을 가져옴",
   "products": [
     {
-      "name": "[로켓프레시] 농협 동물복지 인증 유정란 1.56kg",
-      "price": 14380,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8401077745&itemId=24284594198&vendorItemId=91300892106&traceid=V0-153-ac09c9d37a2e7617&requestid=20261016142618318195762741&token=31850C%7CGM&pt=0&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/59yZn2jtgBjS2YWz5yzbVFwXtpX0i5J-G0DfVVj78fFuHn4_lxNAsx0a4JOA6UnR5eRNn3qW3l187CyaWMaLdYvNotRGZ87p2jgtCd-dHooqQ-uu68xE0QwFDuol0OuBnTsKc0h9KlnU0iHfzoYQxQ9BvgJwdVfrIUxBfgzf0mj6s5rONg2K90YVh7q5EWHag1cwAvZqeC88LeQz1cua2J9b3uVbukgziCbFo5UisHqNTxTjjakszkYMtIOJTRuOSFpCe-eKMOWDWQVqgVuX49c8xTWO0YUwG0kEUI92Bc8cmciw7N2AZYt_Wav_6CD3xPEZKg_lrkN_gCa5wBjmCAB39I_I1dtlxTL7mIx11PiALRZhM5ULzOazLE06TncgxnjmWZ3faiEFZ-jtcw3r-lCFHl9ryBYdEqZcWh0AHrw_AvXel4sLmJkYo15pElRFA2ivAoLOyu70BC64Q1gTmFF_Rw3yj0-5ngfVDeM0cKA310oV7NNbSJ3hJgD97LEGENl3Ga8CP8LRZirqV6lTWw=="
+      "name": "딤즈 확장형 이불건조대 튼튼한 빨래 스텐 걸이, 실버, 단순배송상품",
+      "price": 43900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7980422207&itemId=22139022487&vendorItemId=95892586900&traceid=V0-153-f1bda76d9fdc7257&clickBeacon=93761650-c937-11f1-820b-b3ada4a3c1d7%7E3&requestid=20261016165955871199339724&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/3Gck04MZGdbm91SM3M6glVk0aitiCC9i12T-ER_yvyaQq2LtGzDBhA0DulzjCIUZLuInxgZpW5z6jnSFwfvJyR3Frdd1JyGmktHh4CXaFtSIuOHGvbuZnlwnpPa7NYDILRG_IHWoOoF5THKEaSY8LiH7tZxR6CUnWnFNRfO0sJdyU2AkfomsuAi9mRVtO45P4r20QjU5KzIURce-MrDFfdAkOL-WeiPpexE8HXt-O7Q73e1Q_xT6SD4-NBGHprethiCWLmpm5x-ajUjNPoWwmwS4BFhifB0wIuVVqtezJWZSPgU-iAraSDQIE4VhlVs5CxATG74PE777l_HfA0cAlQluUYvJbLkjBeZNbzZIuonYtPUslBPxEz-nv_fcrUTSSQWn8JkWktMVZ0VHNyMtjJ59giBK8DqIYLFgdS_JYwfBhz4wkBzOibQWmD13WSRFzSvMhRY0vAlPDh_oPLBrFXz7nMvgez0R62fuNtABWXTsHMxaqNpesI2PBBJmbrnRhDnrtEMcD50v0O_uFS_MbX_3_ytTCBlz8Q=="
     },
     {
-      "name": "조인 동물복지 유정란",
-      "price": 15970,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1639014220&itemId=19225067179&vendorItemId=86341722713&traceid=V0-153-80d112b4ffa9070b&requestid=20261016142618318195762741&token=31850C%7CGM&pt=0&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/NotIQrFkK7V4e8WzNhS85p-Ne8pjoaeDsLOX9nMJX6-vsS-kCU-Jf3-1VbTfFUlZjOtMEEblNpSqIWBQe6N3JvZ9rf3hKV6paL2aE7eHn5qJs8Mdwy_2qiTMJU807qWkj0COqUpHPFy9w1aZlmtMFcCkfcXp52LatHj8ga9FN0FDPIAVafhWU0mLB-N8hmt7WJravCtqBEEJFrs6Z3G2_38B2JXvyct3xtux4m6Ggz0UbITH0jy_VQI65anE2zDXLFtpP19esMZRYWLp6E5aZ-ziKKuxL5FczSZ8NgnNYfE4BLlSD-B5JLMa2q3Wb5cH0s5RaH7nRrntSo6gB9cDM87urZF7nXOrpDll27BRS7SUe1QdCjJCyd13Q7pn1E5Fwc4fhEv7ZfoQ3NZFf5tayVzGmT32L3-t6j1Ggs-hcXaH2QAUEIwCDa3q1ewxzglZYdFEAKO_FzPlQPnLe2k6RtQ6RP9m9ly9nON9isZfwjwXC_-gS4KT8a-lhOUnc1_7IVT8JoGZkcE-Ls0eEnA="
+      "name": "빨래건조대 X자형 스텐 접이식 대형 이불건조대, 실버",
+      "price": 28900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9568710590&itemId=28558735373&vendorItemId=95503372900&traceid=V0-153-5f6b00d7794f00bf&clickBeacon=93763d60-c937-11f1-bfa0-60e1276ee672%7E3&requestid=20261016165955871199339724&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/bj9tBQr3Pbnfw3WNbt_9bEqZH4hMvvtNwIMA1pHDv_b06XCBB0jJUsNk4kHt3B0yc5jPdE_fU9g5JX8qtUTJO7_XFYsu1yzY4yXYNKIo0jm5g7pgOiG4S2xfh2rBsqT89LYSldlHvgqeTmL-p6JiERGKVVLYdbeNM5YxntPz9nGdrUGKRzLynllEUkiS0-RmlOvNg9lTkh1eyUYhf7tbH9zuu6nmS_4bjqL_4GrTAYQKikSRg2dFXyUlY0gZqEBhubDpQePC9jp0mfj8kcRptORyUVAMc6WxHYgjWi-GxJn8O9SJrMyrKKMXdr8EsAUHMCIRr-88Nrl-Q-8sBp_rdW0RfsVj91IA0r2m-jCpIwUxpXnUcROImki9wqzs51xyWgzrcw4Lp7tfRqe8XuD8MUkoOvCIqcJqLnJZDdU5-7x5hF9FO2_2YJymJJEMizQ6XIs241-Zv5uH62ldaJOlUrxUieeP_DoYtsU2HypCyBVXCuoCYEpNsXemVMIQrgZ-7h81R5my_3-WqespO5hHGCJp1Fn1kT8="
     },
     {
-      "name": "동물복지 무항생제 유정란",
-      "price": 12260,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7792390010&itemId=21085017378&vendorItemId=88147106723&traceid=V0-153-9e2b9e048b59c517&requestid=20261016142618318195762741&token=31850C%7CGM&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/9MVw8GR15sArDj6h9F9LWd8H--CkQQa3tbVlBGvDf51lF5ybEQQb8gMH2q7L6J7EhIo3PV7hprag3PdKE9X-C3mfSzOh_I0SP0BHM9-cmzBNaY3H2C5r0Cn_3lxNRVV9aScOJzq_KbA2gSVdr8OmRMWp2Fhwv15DpT_VI7PDBiESKmuPJOcGH6xZRCtjaM89DukCqAVJ8G9uN49FX71PUe9V74ZF2DHQbX8Int181lxG8ozbKpyzmJenZKfjoOrlQqDBP9sjBnCyi51KOQjMNaZXZKuQUupI8kAnb5K6UQdhHf_IfEVOei5lry5CA1YmvxemBD0d1kdkhoy232prRDRZdoLDKRkGBily21rj2YLak-wTxz6XRb8L8i7WretZSysJF12wrkV8HvyMqwL4yVrOx_vyUX-Mpl_r5jPYFdIUWza1_8N8zDd2xK2Ei30UE4ok4jC5BxyV6SOVPADj5kt7jLKDMe1VILWwE4aIFl0geLlJrhWll-0iVSyE4_uNpQlEcIXng2ww_jR1UHuQ"
+      "name": "빨래건조대  X형 방풍 안정형 접이식건조대",
+      "price": 29800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9023655288&itemId=26460012910&vendorItemId=96009544278&traceid=V0-153-4eb9b01370069dcd&requestid=20261016165955871199339724&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/QM4M8yURM3T19eifQFAs_Y6KepxDBXyTK49LjgGVbyd-a5aF1UXrOMjUe4RTlXbMKF103GNDO0HaEYlGL_2q7u22UBpbrw_P2HP5b8-b1xNDpJefWI9E8UEHqo1t_QIdGPMTgsG3ZTDf7ni52pUKvcMPpTCi8OwE8-AYp078_cIiHKQpfWLzgSJLEZol5w7ZjTjiNIG5aY5r4FqcVHnSal6RA3_oInMTNrlKAAsVb13vziM8P9YcHPTkXeI9D6X5krj_cEPyHl44y4_8dMpes6iUwd__783jmwBjd6u7aj10oSt0ii5jadzs8hgGa3mO96mAshHYUfiIKQ1907IqvqD3WFhN5dNVKkexfIskt_CpHPWuaMAhTVnGjAQUdAuKURvahbRAl9GBkMFlUVrNA7t20QKoWTK2alWFbEsC6Q056aNqh52JHtW2qA3jj_63AAG_6zW2-ILpJXyWIfKEkXdShEqHt695NRAn1C_hj-kAjEhQo96xpmiSuPvPbQSGrDX8-ZqCnYuCA0qRFuNNRX2bXyIcxH2FxqTheMDFiNnlqw=="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 29,
+    "message_id": 30,
     "has_photo": true
   }
 }
