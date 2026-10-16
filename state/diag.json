@@ -1,0 +1,34 @@
+{
+ "checked_at": "2026-10-16T09:02:57.796046+00:00",
+ "token_shape": {
+  "length": 46,
+  "stripped_length": 46,
+  "colons": 1,
+  "first_part_is_digits": true,
+  "has_space_inside": false,
+  "part_lengths": [
+   10,
+   35
+  ],
+  "first_part_kind": "digits",
+  "has_slash_or_dot": false,
+  "starts_with_bot": false
+ },
+ "threads_token_shape": {
+  "length": 201,
+  "starts_with_TH": true,
+  "colons": 0,
+  "has_slash_or_dot": false,
+  "first_part_is_digits": false
+ },
+ "threads_login_ok": "kingreview0669",
+ "webhook_set": false,
+ "pending_update_count": 0,
+ "last_error_message": null,
+ "allowed_updates": [
+  "message",
+  "callback_query"
+ ],
+ "updates_waiting": 0,
+ "updates": []
+}
