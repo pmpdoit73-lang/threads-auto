@@ -4,43 +4,43 @@
   "publish_at": "2026-10-17T07:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "토요일 흐리다가 일요일 전국 비…수도권·충청 최대 80㎜",
-  "angle": "주말 비 80㎜ 소식을 빨래·이불 말리기 타이밍 문제로 연결해 토요일에 끝내라는 살림 팁으로 풀었음",
+  "issue": "액정 깨지면 160만원?…“500만원 아이폰, 한국선 없어서 못 살 수도”",
+  "angle": "비싼 폰 액정값 뉴스를 '집에서 폰 떨어뜨리는 자리' 살림 습관으로 연결",
   "hooks": [
-    "일요일 수도권 비가 80㎜까지 온대.",
-    "주말에 이불 빨려고 했지? 일요일은 망했어...",
-    "너네 이번 주말 빨래 언제 할 거야?"
+    "액정 한 번 깨지면 160만원이래...",
+    "너네 집에서 폰 제일 많이 떨어뜨리는 데 어디야?",
+    "폰 수리비 아끼는 건 케이스보다 집 구조야."
   ],
-  "text": "주말에 이불 빨려고 했지? 일요일은 망했어...\n수도권·충청 최대 80㎜ 온대.\n큰 빨래는 토요일 오전에 돌리고\n흐려도 바람 통하는 데서 4시간은 말려.\n너네는 주말 빨래 언제 해?ㅋㅋ",
-  "image_prompt": "A slightly crooked, casual smartphone photo taken at home of a washed blanket hanging on a metal drying rack in a Korean apartment veranda, cloudy gray sky outside the window, a plastic laundry basket on the floor, ordinary cluttered everyday look, no people, no text, no logos",
-  "photo_query": "laundry drying rack",
-  "product_keyword": "이불 건조대",
-  "benchmark_note": "고조회 글의 '첫 줄 상황+말줄임표로 궁금증', 짧은 구어체 줄 나눔, 마지막 경험 질문+ㅋㅋ로 댓글 유도 형식을 가져옴",
+  "text": "액정 한 번 깨지면 160만원이래...\n방금 뉴스 보고 내 폰부터 쳐다봤잖아.\n우리 집은 주방 타일 바닥이 폰 무덤이야.\n싱크대 앞에 매트 하나 깔고 폰은 꼭 선반 위.\n너네 집 폰 무덤은 어디야? ㅋㅋ",
+  "image_prompt": "Casual smartphone photo taken at home of a kitchen tile floor in front of a sink, a phone lying face down on the tiles near a slightly wrinkled kitchen mat, slightly tilted angle, ordinary indoor lighting, a bit cluttered, no people, no text, no logos",
+  "photo_query": "kitchen tile floor",
+  "product_keyword": "주방 바닥 매트",
+  "benchmark_note": "첫 줄 말줄임표로 궁금증 남기기, 짧은 구어체 줄바꿈, 마지막 경험 질문+ㅋㅋ로 댓글 유도 형식을 가져옴",
   "products": [
     {
-      "name": "딤즈 확장형 이불건조대 튼튼한 빨래 스텐 걸이, 실버, 단순배송상품",
-      "price": 43900,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7980422207&itemId=22139022487&vendorItemId=95892586900&traceid=V0-153-f1bda76d9fdc7257&clickBeacon=93761650-c937-11f1-820b-b3ada4a3c1d7%7E3&requestid=20261016165955871199339724&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/3Gck04MZGdbm91SM3M6glVk0aitiCC9i12T-ER_yvyaQq2LtGzDBhA0DulzjCIUZLuInxgZpW5z6jnSFwfvJyR3Frdd1JyGmktHh4CXaFtSIuOHGvbuZnlwnpPa7NYDILRG_IHWoOoF5THKEaSY8LiH7tZxR6CUnWnFNRfO0sJdyU2AkfomsuAi9mRVtO45P4r20QjU5KzIURce-MrDFfdAkOL-WeiPpexE8HXt-O7Q73e1Q_xT6SD4-NBGHprethiCWLmpm5x-ajUjNPoWwmwS4BFhifB0wIuVVqtezJWZSPgU-iAraSDQIE4VhlVs5CxATG74PE777l_HfA0cAlQluUYvJbLkjBeZNbzZIuonYtPUslBPxEz-nv_fcrUTSSQWn8JkWktMVZ0VHNyMtjJ59giBK8DqIYLFgdS_JYwfBhz4wkBzOibQWmD13WSRFzSvMhRY0vAlPDh_oPLBrFXz7nMvgez0R62fuNtABWXTsHMxaqNpesI2PBBJmbrnRhDnrtEMcD50v0O_uFS_MbX_3_ytTCBlz8Q=="
+      "name": "국민발매트 3세대 2종세트 빨아쓰는 소프트 규조토 주방매트, 05. 베이지스트라이프",
+      "price": 39990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9370468559&itemId=27881508281&vendorItemId=94840561233&traceid=V0-153-42c7bc978df2b93d&clickBeacon=6f2540e0-c938-11f1-9654-3ae7192aca32%7E3&requestid=20261016170604394199337857&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/I-y5jYKiGupXstUEI-rNmO7bveak0pc59lMTfm7Bzsn_djZLjXTHoJRlHAYXaPxZg3AM198_3Qp8Gdw-_W2W6l6D_pfuC2UkeXmKJron7icssIgT2KprbNCvYOvyAj-VUzVzn1Vhl-NGBdFeDmrNix9rdjngC5yaOAdEMZZLFiTyaMeFv7t_C0DJZI3iRpeqCAcEfVQ1wMdFf-zGhfJCbkQXPgLpl-o9MT2CCWJYOFC5yh-t9VP1NWiY2QIim6c_GIBzStw7nKrGraYYafaz3Kz3eXtUZDKo9ffodLPuSAQZxO34hDLxHaJ82wBPNGcE52t3vESZamyVdC55pjTCVW76BWbF27kD3M66t-d9ux8UlGdZUKgXSvt777j4cnuT9srYnSprwHf1Q67uQpcjNpJJJ6b5-dO6Yc3MCYjP8qbk5Rm5KnHDYmzpFrVVtQK5Xx5_Il78S7rzDhEKOA0cDBoPeN3Bb1_-vKSM0F9zbzruyA0h-Vv8Xo959ldov2UPDgTGxtqVX6tJpl3eG4_PXrl8aYJLL4da"
     },
     {
-      "name": "빨래건조대 X자형 스텐 접이식 대형 이불건조대, 실버",
-      "price": 28900,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9568710590&itemId=28558735373&vendorItemId=95503372900&traceid=V0-153-5f6b00d7794f00bf&clickBeacon=93763d60-c937-11f1-bfa0-60e1276ee672%7E3&requestid=20261016165955871199339724&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/bj9tBQr3Pbnfw3WNbt_9bEqZH4hMvvtNwIMA1pHDv_b06XCBB0jJUsNk4kHt3B0yc5jPdE_fU9g5JX8qtUTJO7_XFYsu1yzY4yXYNKIo0jm5g7pgOiG4S2xfh2rBsqT89LYSldlHvgqeTmL-p6JiERGKVVLYdbeNM5YxntPz9nGdrUGKRzLynllEUkiS0-RmlOvNg9lTkh1eyUYhf7tbH9zuu6nmS_4bjqL_4GrTAYQKikSRg2dFXyUlY0gZqEBhubDpQePC9jp0mfj8kcRptORyUVAMc6WxHYgjWi-GxJn8O9SJrMyrKKMXdr8EsAUHMCIRr-88Nrl-Q-8sBp_rdW0RfsVj91IA0r2m-jCpIwUxpXnUcROImki9wqzs51xyWgzrcw4Lp7tfRqe8XuD8MUkoOvCIqcJqLnJZDdU5-7x5hF9FO2_2YJymJJEMizQ6XIs241-Zv5uH62ldaJOlUrxUieeP_DoYtsU2HypCyBVXCuoCYEpNsXemVMIQrgZ-7h81R5my_3-WqespO5hHGCJp1Fn1kT8="
+      "name": "Color&Geometry도톰한 10mm 쿠션 PVC 주방매트 싱크대 방수 피로방지 논슬립 발매트, 그레이, 1개",
+      "price": 57900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9702280770&itemId=29024361655&vendorItemId=95936250053&traceid=V0-153-7f698f53607e2840&clickBeacon=6f2540e0-c938-11f1-92ce-c748e4656feb%7E3&requestid=20261016170604394199337857&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/J5aZJqqdWgXDi-CtJ6bQNi1D9C6mRPkV_Xhc3B5tpHLZVfUeDSOE5R3SAEwAh3DvRYu7eDzn27irhQro9SfL5Wyz4KAilt1zUsbhmBfxXePLHpU45euAKSw2ExGvfhd70j2qnlNckIZUwgaqoWRzWjQfomoygPffzUYHAQp1u5kDTEPuYW9gtTlJNAcWuF0OHTfSpw5JvT0Wrg8XZDuwbuc-dxQio5uoKRW8MyOlJ2SIRE1XcFiouuzmWtbV_DTCTZaGR-cKfA28Ml-2zIG0kFyFfiEQ-R_JFcRO5NyRl0pksxZfpfZaVREn5B4dUjbKNKBNXR3WniCe75Q2e1LzgpPnjJclR-DJHe01vgM5LZaO_wkCJjyQUOhE-d7VSDy8ltFbeKiqpVgDIfRYCYpSp5RzsYVtilBp2jKAgBsKMkGJlrgc3iJErI_gUmyFNx4juHOno1ctMRD2G6JtpRW8r1BsJPKOaWNB1pChsRL0rmUPZUf1bdx2lnqcM66SH2XQajW1nNTHqveozl9Dm3HZkP-rUuayQryEi5t0as6rWPQl8g0PSULqS64amplwRuE7MkjDNzjhyADlPBY="
     },
     {
-      "name": "빨래건조대  X형 방풍 안정형 접이식건조대",
-      "price": 29800,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9023655288&itemId=26460012910&vendorItemId=96009544278&traceid=V0-153-4eb9b01370069dcd&requestid=20261016165955871199339724&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/QM4M8yURM3T19eifQFAs_Y6KepxDBXyTK49LjgGVbyd-a5aF1UXrOMjUe4RTlXbMKF103GNDO0HaEYlGL_2q7u22UBpbrw_P2HP5b8-b1xNDpJefWI9E8UEHqo1t_QIdGPMTgsG3ZTDf7ni52pUKvcMPpTCi8OwE8-AYp078_cIiHKQpfWLzgSJLEZol5w7ZjTjiNIG5aY5r4FqcVHnSal6RA3_oInMTNrlKAAsVb13vziM8P9YcHPTkXeI9D6X5krj_cEPyHl44y4_8dMpes6iUwd__783jmwBjd6u7aj10oSt0ii5jadzs8hgGa3mO96mAshHYUfiIKQ1907IqvqD3WFhN5dNVKkexfIskt_CpHPWuaMAhTVnGjAQUdAuKURvahbRAl9GBkMFlUVrNA7t20QKoWTK2alWFbEsC6Q056aNqh52JHtW2qA3jj_63AAG_6zW2-ILpJXyWIfKEkXdShEqHt695NRAn1C_hj-kAjEhQo96xpmiSuPvPbQSGrDX8-ZqCnYuCA0qRFuNNRX2bXyIcxH2FxqTheMDFiNnlqw=="
+      "name": "DEXI 쿠션 싱크대 방수 PVC 주방매트 특대형 싱크대발매트 미끄럼방지 두꺼운 10mm 주방 발매트 대형",
+      "price": 26620,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7974889395&itemId=22104367399&vendorItemId=89151325093&traceid=V0-153-a65953803e311768&requestid=20261016170604394199337857&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/rrb5mXDEhwYsgYzEruCvRWTB_HLZjn6E4aIJH4IPipiJ_QE6vpFVwNcLOtRpKD72jh22FdAaw0Wm5DDc8qf8Nt-7RgQdrW7mIx4ReK8Jp5BEIcq0kGhhlbSDeirS7GeNhrmMVN349cApdWlKsNUEd4szMW_o3DCldtdwkEnz2xvh7mWZZUiTI8btFTO14DGL7wmTBSoGajJUWs_q2oyALjshVretORzJR1RZrM26-4Vt2GehdZ9lTwdaCYcgDy3xw9nT_CzVcaxdincwHSxpVS3Smdcw4EAMKQkvlHGFO0goH8uUonyO_lqeVpZXr1P5Ll3QZKY-cfgEh3SfV7oBB2Ws3XERohoZQk_ooobfzqFtrVKr-ELrVyR12LoFUGRyWt1HJrfXieHq2OGZ12pT66_R-q8yWxHTwcXv5_qkQulWgG4Hy2SYn3dq3xaKY3_towKc_yrfTQY10MKPQ6uEP3Y87N0fAOnxVLI4R5j5v_i8yFlSdRUks3QxpBpIukUsigBPbWhftIFJLLkgCDHlbALwI4CW3N-Ltaoua-Uy010YXg=="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 30,
+    "message_id": 31,
     "has_photo": true
   }
 }
