@@ -2,7 +2,7 @@
   "id": "20261017-1800",
   "created_at": "2026-10-17T18:00:47.620386+09:00",
   "publish_at": "2026-10-17T21:00:00+09:00",
-  "status": "pending",
+  "status": "failed",
   "product": 0,
   "issue": "테슬라, '공중 부양' 로드스터 시연 성공… 스페이스X 합병설 다시 부상",
   "angle": "차가 공중에 떴다는 믿기 힘든 뉴스를, 주차 걱정하는 살림꾼 눈으로 '우리 집 앞에 뜨면?' 하고 받아들임",
@@ -43,5 +43,6 @@
   "message": {
     "message_id": 43,
     "has_photo": true
-  }
+  },
+  "error": "HTTPSConnectionPool(host='graph.threads.net', port=443): Read timed out. (read timeout=30)"
 }
