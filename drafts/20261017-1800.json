@@ -1,0 +1,47 @@
+{
+  "id": "20261017-1800",
+  "created_at": "2026-10-17T18:00:47.620386+09:00",
+  "publish_at": "2026-10-17T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "테슬라, '공중 부양' 로드스터 시연 성공… 스페이스X 합병설 다시 부상",
+  "angle": "차가 공중에 떴다는 믿기 힘든 뉴스를, 주차 걱정하는 살림꾼 눈으로 '우리 집 앞에 뜨면?' 하고 받아들임",
+  "subject": "테슬라 로드스터",
+  "hooks": [
+    "테슬라 로드스터가 공중에 떴대...",
+    "차가 하늘에 뜨는 시대, 진짜 왔어.",
+    "너네 차 날아다니면 탈 거야?"
+  ],
+  "text": "테슬라 로드스터가 공중에 떴대...\n이게 무슨 경우야?\n공중 부양 시연에 성공했다는데\n우리 아파트 주차장 위로 차 지나가면 나 기절해ㅋㅋ\n너네 같으면 이거 탈 거야?",
+  "image_prompt": "Casual smartphone photo taken from a Korean apartment balcony looking down at an ordinary outdoor parking lot with several parked cars, slightly tilted angle, overcast daylight, laundry rack edge visible in the corner, unpolished amateur snapshot, no people faces, no text, no logos",
+  "photo_query": "apartment parking lot",
+  "product_keyword": "차량용 방향제",
+  "benchmark_note": "타이어 이탈 글의 '이게 무슨 경우야?' 짧은 감탄형 질문과 말줄임표 첫 줄, 짧은 줄 나눔·열린 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "[공식몰] 피에브 차량용 방향제 탈취제 고체 차안 냄새 악취 제거, 블러리 가든, 5개",
+      "price": 89000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9682357268&itemId=29024643778&vendorItemId=95952245127&traceid=V0-153-b4c2731d7bc1ce12&clickBeacon=4ae87220-ca09-11f1-aa74-0176693cbb78%7E3&requestid=20261017180108436289710020&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/_ARem-glOw5x6Q8s_G36vA-4lpS2NZITrAIxwI3hiCmjy_AaU6rsf-trS4K9-hIE9nsuF-kWFb0Z4QCBj3BWvJcGn3Dm_mNzoFxnvQ1W9XXp81_pZVTiDgwGKPJQoZ6BV_Bn3EdM-avrNi2mtF8JqpF6oughzO0CJ-Ore1d-t7BU9ufMGhGERqrHKsj-jYKQRdINX1CaYsNTW4jGMI9rxkaH-1j-K1loXoGcRSjZBVJd4CeUvGT0hoC-6jxcYNyBfUjLL6LO89ledlEX-sHG4avJmBbBbpXFS0omhXOWO-LbyUXkb7KFXIz8Sf6pEgoLM-Kot8Yp0NhIUxaPXrLdJ9PNtaHdzHwB4iMDmJm0H2ig1lT37JzzfvlcGFjSHJYlAusOOaC-dV-2n-zy1rCm_Tr9CWUkblIVjzZMyrS-D-kWStEcm4MDc2N89MOYe9THZqdGpo4sjo3DaXbAu0s2XSiw4y6lRUadBU9Sag_HZdeU2CDrc5cs2jps-7f8Od3j2H1Dlm10FduCl57388djTsxpbHxG_sg="
+    },
+    {
+      "name": "[공식몰] 피에브 차량용 방향제 탈취제 고체 차안 냄새 악취 제거, 사일런트 패브릭, 5개",
+      "price": 89000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9682357268&itemId=28953686755&vendorItemId=95884181126&traceid=V0-153-b4c2731d7bc1ce12&clickBeacon=4ae87220-ca09-11f1-996f-059f019536fd%7E3&requestid=20261017180108436289710020&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/MOS75gXDYzOObZcGMGPJUdDmilp8EnfKPGqUKaNyszn7TADPVL8hDF_JAxjNDh1uUnlAzR2s_R8WpZnUelK86phB9TmWNMYvsXgtYdr25bidpLsOJAr-aIrrQpkDHPdaEQJ5dkNNyIOPBRI3pEsKVuciCe0ctJjAwWf8lKPQSzAC6Pcan4feYHIzBuMsTTvraZMZOJ4iMG3qCGB83DC-DAKgbfzD_IxuplymyrJzg2zrSRJQqQRk66ouY0XQVESXTQ6x-Bj5bqFuvmbtInOUeVKrDknuzKYPyHgiXR7q_b4GqWrTHH5_rQuIC1e0zkwteDL7dfNYmhrOeaHRkmsbQvojewl88tKJCwlQtBsJN13V6iEUjxO5P_bGNbn4qsrohlWaQgW9uHlaf929yY4AslFUKUvOGA1L2n8GUcaMPy66XK5M5U3SECiBUIogjq4SHD3KjUVzxGVTsXs27TZxqwwn1a9EJCKuSaUCp_93H7p6MzPHHUu4mP93ueJ6Ww_u1M9ce9KoT_Cefhyp1q1ZEj8KX9TmFyuRUw=="
+    },
+    {
+      "name": "마르티그 차량용 방향제 퍼퓸 테라코타 디퓨저",
+      "price": 10600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8801841398&itemId=25630385312&vendorItemId=92620535934&traceid=V0-153-fe456dfe49b436ee&requestid=20261017180108436289710020&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/Rl7XG1mqjz8xHOJeRoMY1jt-tId3Zm229c80H1bHinBroelz5QSoSMzu_s4OZuhO_Hg8dbWn5ifOX2DD1-25GkUsAzctzaE49YSyhVHh6aPLmLgEluURpHuOgP4VwlAHuB-sKnhAWqvYwquqnYQYWYCpFbtaofWi27YFpu6aTDhtF5dRMND280Tg3ZX1gWidzuXdJHRnb3ciXglWA8u_qmR97BLEs9KfK2Y14fhitD-EXQL85DLNKbBqaSkBGQKcY_fw-Lv3WJnstmo3xZZ34gnrIWIv_qpXlt2RGlJmB8evSTGH4vQ1kfKx_8f35jeTWNDYdwHKxcWTHQJC7CTMN5PJ0d2nsn1iv6gUs4jLd22rvRkbLClPEuu2EQ6xrqeTzEtwDukc1rm4-VNfOhFgxqf-dxM6fI_5--jU7Gt4yzmJuPtmaungaIFgzW1Qm-hgbZmK5r23jwdhFUcDbPXQQqG09-xnz1T45mp3-c0-iz3Nh-JfX_PYashsqOIVMYY_WrcX3E19uk5mjt8oAIWUVbSbm6w="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 43,
+    "has_photo": true
+  }
+}
