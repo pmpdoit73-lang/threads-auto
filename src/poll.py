@@ -4,7 +4,7 @@
 """
 
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import benchmarks
@@ -232,18 +232,24 @@ def process_buttons():
 
 # ---------- 시간 확인 ----------
 
+STALE_AFTER = timedelta(hours=6)  # 예정 시간보다 이만큼 넘게 늦으면 올리지 않음
+
+
 def process_schedule():
     now = datetime.now(draft.KST)
     for d in draft.open_drafts():
         if draft.publish_time(d) > now:
             continue
-        if d["status"] == "approved":
-            try_publish(d)
-        else:  # 시간까지 승인 안 됨 → 건너뜀
+        if now - draft.publish_time(d) > STALE_AFTER:  # 너무 늦은 초안은 뒤늦게 올리지 않음
             d["status"] = "skipped"
             draft.save(d)
             draft.refresh(d)
-            print(f"[poll] {d['id']} 승인 없이 시간이 지나 건너뜀")
+            print(f"[poll] {d['id']} 예정 시간이 너무 지나서 건너뜀")
+            continue
+        # 승인했든, 승인 신호를 놓쳤든 시간이 되면 게시한다 (⏭ 건너뛰기를 누른 것만 안 올림)
+        if d["status"] == "pending":
+            print(f"[poll] {d['id']} 승인 신호 없이 시간이 돼서 자동 게시")
+        try_publish(d)
 
 
 if __name__ == "__main__":
