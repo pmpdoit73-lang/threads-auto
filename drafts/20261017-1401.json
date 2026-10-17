@@ -1,0 +1,47 @@
+{
+  "id": "20261017-1401",
+  "created_at": "2026-10-17T14:01:12.987808+09:00",
+  "publish_at": "2026-10-17T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "탈취한 개인정보로 대출한도 조회... DB저축은행, 142명 개인정보 유출 추정",
+  "angle": "남이 내 개인정보로 내 대출한도를 몰래 조회했다는 점이 소름, 살림하는 사람 입장에선 우리 집 통장·명의가 털리는 일이라 남 일 같지 않음",
+  "subject": "DB저축은행",
+  "hooks": [
+    "DB저축은행에서 142명 정보가 털렸대...",
+    "누가 내 이름으로 대출한도를 조회했다면?",
+    "너네 마지막으로 신용조회 내역 본 게 언제야?"
+  ],
+  "text": "DB저축은행에서 142명 정보가 털렸대...\n근데 진짜 소름인 건 그다음이야.\n훔친 정보로 그 사람들 대출한도를 조회했대.\n우리 집 명의였으면 밤에 잠 못 잘 듯.\n너네는 조회 내역 확인해본 적 있어?",
+  "image_prompt": "Casual smartphone photo taken at home of a kitchen table with a pile of opened bank envelopes, a calculator, reading glasses and a cup of barley tea, slightly tilted angle, warm dim evening light, messy everyday feel, no faces, no readable text, no logos",
+  "photo_query": "bank documents table",
+  "product_keyword": "개인정보 보호 스탬프",
+  "benchmark_note": "높았던 글의 '상황 한 문장+말줄임표' 첫 줄과 짧은 구어체 줄 나눔, 누구나 답할 경험 질문으로 끝맺는 형식을 가져옴",
+  "products": [
+    {
+      "name": "플러스 롤러 케시퐁 슬림핏 IS-600CM 개인정보 보호 스탬프",
+      "price": 14000.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9710248504&itemId=29052450870&vendorItemId=95979200867&traceid=V0-153-89afbac9f20f5939&requestid=20261017140136704028464301&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/3QXuseCL4ayqDmo53eZpUp_Rzn0Q69P-Ajk35g97EoiHNxSJlXaG0sxtpuGQBCL6vUL2Ps6a4WuEvt8-imXzUGPh5XorriR8MNKYD9VgdZ3EuEhrdOk-bYNiKHre_G6mwb06CDNCrUVOOEdoWUllGZIDbzq_jM6A7wcVOmsY4MUpJyiNf-RnJlJBK5SnQpTXxurRQF__ZTtQuUzdBpirtVp9YCsY5Smp8whmCph_z-pe6RrpbbyQvUJAN4o2g5cPhz9djd4AlkK0qPSu0qMrplRA2x4u5Cp9u2KcFT5nHJn9sQZiCIUxmtbCoMxH7NRRtTfiTh8or00aBSUkAXX74OGhCPXLtHb38GTZWd0LFOgA-3DXc6QYosGjlBWtzIeeaxX1bE644mka3GdWSHMtayal0s7woj7S_T7QNfB6QRp_A8GQqTKWQPB1j9Kr5UtTOOSVH0KRdP4esvcYSNZcL-bGCjOVAXzaC2nNt6WGEdAYlNHh_8ZR_etuAXovzsBE2Hvbtqz_ZgQ_sjJcMJ6U9PmC87iAHpaDn6CtdGb55jmlvlU="
+    },
+    {
+      "name": "곰돌이 택배 송장 주소 지우개 스탬프 롤러 (잉크+택배커터칼 증정), 1개",
+      "price": 10700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9044284810&itemId=26539568568&vendorItemId=93327606875&traceid=V0-153-bce4d8a89ad46b4f&clickBeacon=d4a900f0-c9e7-11f1-81cb-24d6c94c079a%7E3&requestid=20261017140136704028464301&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/yb0tg018g1rOL6QdyY1BGC4FlS2DabLnDaSHXFvNyroLnOtkUt_qNK_sXeHGuXXKxqUK0uCHO_jNwKsyHYFx3xK3wK7hfOseUqO7bCAELMOZEWzkniB81JurDDs3Qyrdif9JOfZ6uGUY0QkN58W4Yp0oapFsYAoryXwPgy8G7P997WNmK5w_qDVqJ3fthluyOYCg7UoTiWMyiToXMapPCaZ2lJKx4EBTN1OrhPeJB3Y4vBcfRPDbweGHxsZ0OA_Q-KebiRkK09KoIZ1glBDuVNMl0nvu-LlQc9i-U45TZTxOv84tG5T00StO2JCcWmctEaSVnqMzwKHpHDLczeQVmUeY3XyCS8JlSY_ls-MUUhh4uhwH6Gvr141C1QEi8UuIfp45FTJfVQSODuwWYJGGgDxnw8-PW7i4dkRRP9uOaPdG6RaX2UjNsZn0ghP5GbO99E3c6n5BDFhrXr9KbYx2KbNatobJKXTWy0RWOSf9CB4snT9HIqbvjc3mo53KEPLLpazGl_6CKNs_w9tUg3-88jRF90K7qNdz"
+    },
+    {
+      "name": "조온하루 택배 송장 지우개 개인정보스틱, 투명, 3개",
+      "price": 7600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9541987910&itemId=28463705840&vendorItemId=95647794126&traceid=V0-153-379e0ae5e27cd0a8&clickBeacon=d4a8d9e0-c9e7-11f1-a6a0-c22f32ef3663%7E3&requestid=20261017140136704028464301&token=31850C%7CMIXED&pt=1&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/MrCmtQFofVt5kiWfMhTWGF8QA1GkdyfxyDVtX3NmKTWG8uHkc9ytN5vL_jTvPEgGO1JPK6wYZoqhrKHObhu5uO2dhHmVwgJRqRTXjK1I_yFFv9sgcKi2s_zJWVnAYw2Hzlv8ZIRWE7Wsy8G6iaGULXoXXOaK2ecHmUoiNdf6YOJ48xzod9SaJTFT3Ue4ulk16utpcKwITaFOujr6AOaQ8gp4v6i1mBigFEKrlXUu3SH_99J08-ZlxfjTktQh_jzt_Lnp45UfQ1n4D7QnZ5fDkgkIEs9lJ-gcFOxrU1wU4GYUvL0-kyRVrsDPmiT7QYIeybxqmx7kHLSf7gXtVTUiwCgtTQMhoY2yODcWzPhaCDU7RlltDBYgl3CsXDC1aMZqTwl7DgctasWsDHzJGvG6a2JZ0xtjSIQlL-PaN9T-GwbGvaW4KSPAWjfTKztEVGGd7hnb_TWc03qOx1dU21aBdLsGbiazTGsoi-DXAmCeBNoIjC_NaOIcixOwksqw7kIKMxJN6XV2jw4-nIjtXPVup_QASXUpmIw9-g=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 42,
+    "has_photo": true
+  }
+}
