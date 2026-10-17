@@ -1,0 +1,47 @@
+{
+  "id": "20261017-2200",
+  "created_at": "2026-10-17T22:00:49.984060+09:00",
+  "publish_at": "2026-10-18T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "앤트로픽, '소년이 온다' 등 한국 작가 책 21종 무단으로 AI 학습 활용",
+  "angle": "AI 회사가 한국 작가 책 21종을 허락 없이 학습에 썼다는 게 충격적이고, 내 일기장·글도 누가 몰래 가져다 쓸 수 있겠다는 생각과 이어짐",
+  "subject": "앤트로픽",
+  "hooks": [
+    "AI 회사 앤트로픽이 '소년이 온다'를 몰래 학습시켰대...",
+    "한국 작가 책 21권이 허락도 없이 AI 공부에 쓰였대.",
+    "너네 쓴 글, 누가 몰래 가져가 써도 모를걸?"
+  ],
+  "text": "AI 회사 앤트로픽이 '소년이 온다'를 몰래 학습시켰대...\n근데 그게 한 권이 아니야.\n한국 작가 책 21종을 허락도 없이 가져다 썼다네.\n내가 30년 쓴 살림 노트였으면 진짜 속 터졌을 듯.\n너네 같으면 그냥 넘어가?",
+  "image_prompt": "Casual smartphone photo of a messy kitchen table at home with a stack of worn Korean paperback novels next to an open laptop, a half-full mug of barley tea and a handwritten household notebook, slightly tilted angle, warm indoor evening light, ordinary unstaged look, no people, no readable text, no logos",
+  "photo_query": "books laptop table",
+  "product_keyword": "책 보관함",
+  "benchmark_note": "높았던 글의 '상황 한 문장+말줄임표' 첫 줄과 5줄 이내 짧은 구어체, 누구나 답할 열린 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "홈이즈 책보관박스 책정리함, 1세트, 투명화이트 특대형 2개",
+      "price": 16390,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8469245341&itemId=24502874492&vendorItemId=91515921364&traceid=V0-153-8bf85e42d026088b&clickBeacon=da0d54e0-ca2a-11f1-98c5-2694c9eb75ca%7E3&requestid=20261017220122007078629375&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/EMRCdvOxSQrKIYAcEI4f2QmJ4jfZcey1NY4JdYfMcPZQqMemI3qxZy0NC9-LQGiakg1zNLxlA64Di-G3rmqu1-TEmnWA8FKEgyoa9pARakCLKdl9k-h33xkZgNZuq-bj6svmn_ncVECc1_OvzmqCAjli0itItDpO37SuyHDGm9m-Xba7hEnvpUckjd8M3nLkajDPoSebSiT8Tx6BCorcIe0MVPdh-YQ69e8h_mjqCPvRQJU064u52H93lRuM_4pCLcpPxMguCsJt3Ua5s8aA8dgUcD1XGMQve391Spsvv3rMdR9V7vao790BC0bbWXtPrDBNGVwEhDLh1F0y0DoQaD13RGkXkMxzGAUmnRtWohTzyZX6tFnwC9_JxhUi4tQCpCukPXTBhCpOn0nm51GIh6HaLtO4DcfJ7RQH9uqok0I-Lfca63q20h7-QHel9spXvAlLxJw2KrC8y6ICVPPahdTouqGdki20m4CHyEbD_ZLparRoP6LFgw2Rhp5FRqJKLF9CPT2sA50dSBiglxu_RAeVpr9NwNdW"
+    },
+    {
+      "name": "홈이즈 책보관박스 책정리함, 1세트, 투명블랙 특대형 2개",
+      "price": 16390,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8469245341&itemId=24502874490&vendorItemId=91515921356&traceid=V0-153-8bf85e42d026088b&clickBeacon=da0d54e0-ca2a-11f1-819d-27c48ef189d3%7E3&requestid=20261017220122007078629375&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/yq2KgGuJXkZvwZ64yoQq5uxmzmaiXwVkhWWWEHHm_xtFpyt3-x12-uptqgiWvti8QR90rnBDihFa7BxfyMjbtPc2oPLdRJn1qJjTlpJxT5TyeWdfw9EBrSLwEWMQBMTWeIz92rYmvUPXch8W3e99oehRv4yeZZgQNnuqqPtoLllSUzCrC0AN_zfFkSaCK-wulNQk6ewxl--NwY207UWTYEmK3d8t5YC2LYy_uc_inzc7yYuDfNOitHYcDW8h0lVAwj5hci7Xk-2N-mrP3EJSs6_222MFbP3uXaBj63fDR3tu4ILsm6o-IkSAQZWHJL_u6r8dIyRpgUlCeKamoveue6SwsIRJC68VDnL3Ep_LXYORJoBXfgwO5Bybmdpfu0ePpmHmhL6ddBbGg_DNWYluhtxZVDjXHRz2gzsUkFvEO-RIkFDaEeaOdCp8ODJ8_JYTgGkk4QrR-xGDUy5BbspAeDvRDVzJjRkcdBA3ZlfUnXlaSQzS17VKYW3UwMnuPpxaLf_wMbB3CHDuJxJ1G6jp43FAn1VHtm5FlA=="
+    },
+    {
+      "name": "투명한 접이식 다용도 책보관함",
+      "price": 12510,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8663500592&itemId=25137395571&vendorItemId=94242287179&traceid=V0-153-d0e55bd35adaed4a&requestid=20261017220122007078629375&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/wjuIlZhneC6PXV8Ywj0az4tIzInBNdUNc8ri3ZHrIDrHfwwP-43GvHG71_qm8L44IvJ6LVrRn5oxjH7vfPJ3_yPqH856ADC-g-vJeU8J4JsLBc9JAiZMnIgiGgVZOmnXfbvbrdSncGsESL5Bhe00KKxIy1L7GhUbyyax4Yq7_q5gYyIhpcjRHnqGAIRfAQ3gUnErzsoGYIkhn97VIQv1lmL5wn3mhNgvacvT9-xlpQOXBMDRNGBg4mIF_l0cCi5V2L5qjXkzWHHSNUyVZ1xMl8q7nHNUvGQ5TC6iSTl1S5pp6kuSsxZNPuwzIIWP3hrxXtciIWWoImDw1XTohg5Ji_aataPewkBFyybDdZXnQziptAXYwbujl1mJzqdy_DRYCerIgg8qd-g2mayBsG7GbtdP8T20NYHP5XqPJz3bo77-wGzU5pADQ568KQ3qMcSQVOgjKR76yZdpYrtXGiZdyK-hKca-IyLnlnvfIkNdtAdNfBnYfqHaPUn0Nn6eX2OnpCNkZ-N2QjC5hkn2SRh26iglqkf9l2MNh1WGqZyNY4ji-rMI"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 44,
+    "has_photo": true
+  }
+}
