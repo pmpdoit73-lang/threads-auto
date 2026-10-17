@@ -1,0 +1,47 @@
+{
+  "id": "20261018-0800",
+  "created_at": "2026-10-18T08:00:48.033303+09:00",
+  "publish_at": "2026-10-18T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "유치원 급식 색감 내려고 물감 섞어…중국, 책임자에 무기징역 선고",
+  "angle": "아이들 밥에 색 예쁘라고 물감을 섞었다는 충격, 매일 애들 밥 차리는 우리 집 식탁과 겹쳐 보임",
+  "subject": "중국 유치원 급식 책임자",
+  "hooks": [
+    "중국 유치원 급식에 물감을 섞었대...",
+    "너네 애 유치원 밥 무슨 색인지 알아?",
+    "중국 유치원 급식 책임자가 무기징역 받았대."
+  ],
+  "text": "중국 유치원 급식에 물감을 섞었대...\n근데 그 이유 듣고 말이 안 나왔어.\n밥 색깔 예쁘게 보이려고 그랬다는 거야.\n책임자는 무기징역. 우리 애 먹는 밥이었으면?\n너네 같으면 어떻게 할 거야?",
+  "image_prompt": "A plain home kitchen table with a child's plastic divided lunch tray holding rice, vegetables and a small piece of egg, slightly messy, shot casually from above with a phone, uneven indoor lighting, slightly tilted angle, no people, no text, no logos",
+  "photo_query": "kids lunch tray",
+  "product_keyword": "유아 식판",
+  "benchmark_note": "상위글의 '첫 줄 상황 한 문장+말줄임표'로 궁금증 남기기와 짧은 구어체 줄 나눔, 끝 경험·의견 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "아띠래빗 국내제조 안심 미끄럼방지 5구 깊은 에코젠 유아식판, 투명, 단품, 1개",
+      "price": 15900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8708581077&itemId=25290144227&vendorItemId=92330249018&traceid=V0-153-986ef8d50fd2a1f7&clickBeacon=abbf7f60-ca7e-11f1-9d73-95587b6418ef%7E3&requestid=20261018080122056199337534&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/KhIaZq9IJ8YubJRkKp_bJ0FEh_OPUG8h9Z_S6a2J9WGoHDPTqOQQWbEGZQPEODTCwUfjL9g0-kDa3vZrig2V7lXR6flq846Q5-beRYi-ZDeYdReo7cFbHjfrpmGcmDWUVQdhxEJgEAug1L71Ipk-fSPflS66_dhAwTBuMsGXczp5vi-lHgLBGHK4BdVOJN0gyB7qfzlO7ayD7DSffagPVh92PdY8C08z5qt6sbLbOJohMQnx6mo1gdg-WqgiR5hvkl-anwpIhKyiAcRcInEqhGp32QClyV7f8oasORdanB6BAVeDpgiQsLfrZUVcF4kWhchFEwTJGJw2qVTSA8yY21IriXmAsqenRdDy9UF0LGIQivFzXr2vi9ltlvbgfXC1OtGTT56AVN-J2U9Ggj492B52rqhe5Go__Qt-XqjiqT0j_3UQihCmT1Sq54bQz2uwcHw3reZqXhG3bypX5gTultEr2pLft5P3WFQvYH0UxTye_x0iLzg9G-0JmrLB-YoYfkY18z2LVD6R"
+    },
+    {
+      "name": "리빙메이트 국산 트라이탄 식판세트, 투명, 1세트, 식판 + 볼",
+      "price": 21750,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9127118279&itemId=26852433064&vendorItemId=93822173526&traceid=V0-153-8d35cf031c086c39&clickBeacon=abbf7f60-ca7e-11f1-829b-c7f04b73c28e%7E3&requestid=20261018080122056199337534&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/9cUlr7j9iElUGWqx9cauq27FNFuyZfPvkW473B7mUAZfcLR5G4mZUnrevph87FIR8otf4JX-hpPA02EnFV5IMp5rZeruuisqRGQ6FkPudOeRLDxNm87WTlxjW-2ZjQd6X1xWohFVzpKoD6B1deYlzZTbQLN9Iq5aEu6j6XY9L8jRJjt4fKMPlXiM7s1kbuaWp9TCKFVQ4S5kGTHZBdu91Ie_04yYoUKIeAoJDccRSlb_gb8lfyr8guQv1LDm6zha-csyO9hHNOR4e_cjgHhoLY08VRQgonESocVi9jefBSTGaqIdE6vbZRWB7W9XWieo41hkOf82Pe8qddTwRqg97KdaqXuu9RYhewE1nN1hN2UZqIvDC0Kg9iMYP5s58eBLRR8WBvu_4tXVQMG2zzQSPbZN-S8v60QTOzKBgRjmsjgHRACxp4HGbXEucpAArn5Pg0Cbuvm61j_uSn70gxsB_z0cmmrHBFaq3Sud7Mm7zg2m8DSMJ4x7uAeHU7IPRq_diBsGXIf_wb9F"
+    },
+    {
+      "name": "사라사 304스텐 유아 식판",
+      "price": 7980,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8469170920&itemId=24502767330&vendorItemId=89609321964&traceid=V0-153-6f5e43a6c2f547b7&requestid=20261018080122056199337534&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/-arfdvbrOIlbR0zH-eD7_TeV4Te7elSp_VNfNSZ1W1INPLSpcNOeiUxOrMN2715inayji2XwAe5YX7t4FuniVRAUnVUoiwAVjCrbbfG8ys1jVptIL7Gi6segJczPhP_ZUgBtIWp34ONO5CJKRz2GRqi9kuT52wclOmbbZwq7eyqXz4AoeMZTSoWe_p0S2CWnSHuC3I-DwRsjRe-6_k99l6FTrrltNb-q101t27VhFok7sD-4p3mjPjPNnWNCF1rNgylA2O91f8eKRBL2t8QpJRWnLM7Mh_ccpLYEEm72Ozn04EQPOllOg2aOLkrk3jj-w3kjJinPDXpafJ3GfHdZDYLs_8q0i0Z4uryaFQ6ySYUFw7RGbydLPS93z7RPmHpnd3FZJMXYqJCJOumPYCn5eajI_MTnW3N_kohmv7jAAcShzIFMTNg6kuxp_tUq4Nik1pSuNWUa8loKmF-Zm9fRpPrETJC1n-l5RR-Tc5N5UOi1ey6YZdx7AddYtmT0sFjSxmnOY-iBrG0h-AxZ-BKlmvysvgeCrBAE7IU6iHk4Tyu42oY="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 45,
+    "has_photo": true
+  }
+}
