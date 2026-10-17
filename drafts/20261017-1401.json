@@ -2,7 +2,7 @@
   "id": "20261017-1401",
   "created_at": "2026-10-17T14:01:12.987808+09:00",
   "publish_at": "2026-10-17T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "탈취한 개인정보로 대출한도 조회... DB저축은행, 142명 개인정보 유출 추정",
   "angle": "남이 내 개인정보로 내 대출한도를 몰래 조회했다는 점이 소름, 살림하는 사람 입장에선 우리 집 통장·명의가 털리는 일이라 남 일 같지 않음",
@@ -43,5 +43,9 @@
   "message": {
     "message_id": 42,
     "has_photo": true
-  }
+  },
+  "threads_id": "18636722743035925",
+  "permalink": "https://www.threads.com/@kingreview0669/post/DelvTmmG9X0",
+  "reply_id": "18349466284268541",
+  "published_at": "2026-10-17T18:02:20.226982+09:00"
 }
