@@ -2,7 +2,7 @@
   "id": "20261018-1801",
   "created_at": "2026-10-18T18:01:42.074734+09:00",
   "publish_at": "2026-10-18T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "서울 곳곳 침수·교통통제…낙엽에 배수구 막혀",
   "angle": "폭우보다 낙엽 몇 장이 서울 도로를 잠기게 했다는 반전 — 우리 집 베란다·현관 배수구도 똑같이 막힐 수 있음",
@@ -43,5 +43,9 @@
   "message": {
     "message_id": 47,
     "has_photo": true
-  }
+  },
+  "threads_id": "18078151556415602",
+  "permalink": "https://www.threads.com/@kingreview0669/post/Deootf3G4Vf",
+  "reply_id": "17912121750519908",
+  "published_at": "2026-10-18T21:02:24.133620+09:00"
 }
