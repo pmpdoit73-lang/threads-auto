@@ -2,7 +2,7 @@
   "id": "20261018-2200",
   "created_at": "2026-10-18T22:00:50.575387+09:00",
   "publish_at": "2026-10-19T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "부산 북항 상어 '부캉이' 지느러미 상처 발견…\"출혈 없어\"",
   "angle": "부산 항구 한복판에 상어가 산다는 것 자체가 충격, 동네 바다에 상어라니 '우리 동네였으면?' 싶은 놀라움",
@@ -43,5 +43,9 @@
   "message": {
     "message_id": 48,
     "has_photo": true
-  }
+  },
+  "threads_id": "18132797857776462",
+  "permalink": "https://www.threads.com/@kingreview0669/post/DeptR1vAWpV",
+  "reply_id": "18114806537016026",
+  "published_at": "2026-10-19T07:01:32.483695+09:00"
 }
