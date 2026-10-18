@@ -1,0 +1,47 @@
+{
+  "id": "20261018-2200",
+  "created_at": "2026-10-18T22:00:50.575387+09:00",
+  "publish_at": "2026-10-19T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "부산 북항 상어 '부캉이' 지느러미 상처 발견…\"출혈 없어\"",
+  "angle": "부산 항구 한복판에 상어가 산다는 것 자체가 충격, 동네 바다에 상어라니 '우리 동네였으면?' 싶은 놀라움",
+  "subject": "부산 북항 상어 '부캉이'",
+  "hooks": [
+    "부산 북항에 상어가 산대. 이름도 있어...",
+    "너네 부산 항구에 상어 사는 거 알았어?",
+    "부산 북항 상어 '부캉이'가 다쳤대. 근데 반전은..."
+  ],
+  "text": "부산 북항에 상어가 산대. 이름까지 있어...\n근데 더 놀란 건 오늘 소식이야.\n'부캉이' 지느러미에 상처가 났는데 출혈은 없대.\n우리 동네 앞바다에 상어라니 낚시 가다 마주칠 듯 ㅋㅋ\n너네 같으면 그 항구 산책 가?",
+  "image_prompt": "Slightly tilted casual smartphone photo of a busy harbor pier on an overcast day, grey sea water, concrete edge with rope and old tires, a few cargo cranes in distance, ordinary snapshot, no people faces, no text, no logos",
+  "photo_query": "busan harbor sea",
+  "product_keyword": "낚시 의자",
+  "benchmark_note": "높은 조회글의 '상황 한 문장+말줄임표' 첫 줄과 짧은 구어체, 'ㅋㅋ' 섞은 경험형 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "아오란 캠핑의자 1+1 암레스트 등받이업그레이드, 카키, 2개",
+      "price": 39800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8730167891&itemId=25366268567&vendorItemId=93219392632&traceid=V0-153-fa98c75a82bd0ebd&clickBeacon=01106a40-caf4-11f1-964b-8dddf12af27e%7E3&requestid=20261018220116273085006581&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/7B_MN5Kw9-p03Mq57E_t0IiheDj1yAZrPNExQYHXfIUlQvt5PMxQLvwutITqI01hga2eCLNl2KZOrUMHU3Goa1CwQWZ63D8FjpFzow-a4ZNP4tr4enLbZ06OGEU8HwnAHCgfhagW_If_r7git0BW_pwdJ6gwkkRwBaDdHQwsemyNwIthaQ5K3mywo3aDzTFBuslZTRkjPDkUMw1e_owQjkQFYtob3vRt5Op4Raj_dzRxaXvE0UOZtjlTuG2lQp98MSKgicblZRJlGiVWmzZAI8ySe8lFxvze5OXlXOLFjA9-yPUDuB6OkF4OagHsdprQwFBct_vRcBPVZ6z2p6609mmzc5gVujEICvDCAvCLeRTs5qf4RdBWjV3gnNEE7RL5V4ht2NooQ7tXjQSTuR1DpdzNiMp5QnaZ_OFo02SKMWc-5ltosIkb9113F5jtXkfNriQ9XY-FdaSkOiRICp3urhlDkB0T03Hrinn4UavxlLyAa0BNp6VU-f4RMaPySiOlAgJkh6phjmC0CBhzuyLtkMf_GespVBKl"
+    },
+    {
+      "name": "DXZ 캠핑의자 1+1 접이식 휴대용 아웃도어, 2개, 카키",
+      "price": 34800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9459589437&itemId=28147169072&vendorItemId=95103280812&traceid=V0-153-6b3f98109e286a30&clickBeacon=01109150-caf4-11f1-8dc2-02d5c5a18460%7E3&requestid=20261018220116273085006581&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/oswd9hnvW4QkeItDogOqKUfR8KBGp1ewrokuVQ2T1UiBISY3r3bjeZkZeY7hpH1YfENzX1yPiNnSAvJgk3EOaiOGvJygZA3ulsEixV2Lpv8CafsKS2KB9nON2NlC_66MLA-IHrGUl6bJ1o8pgCzMntQIWOqg2izr46xuCM-aFc21hgo1Bc9YqlW8u7jXiXvDAkISjwyLVd_1KAvCr2cnmSc5Sq0t3zpJ0_FMkYCJ1bspGAop_qrMIeJs6bLjnPAhTNi-ho7INBZUOk9BgXfjNbIxxzLsBalYTrK4bziWbApXqrsuyy06Ggu7YH6mZmNWLXkkLjowOVOoFYtex0PYvMxTx0LYM_MTcXNEjhAEGMTLujo_yQOJaPNhaTVwbrM1GS4a5Qc1nWyvEcbS8s2Sw3XSzjaHgi79FhyoC37xSfn9v7nVLfYk3D96NxORJ6zBDN3jwF2JWPelPBlMhEDjThobp-AHlbFaIlpK5jdUBANM2YHcmKSk5h3Jtck4QFBXYSQXNB79_zz7F25LAxkGWUJVZxgMhTI7XaQ0ru3ihvtHV0k="
+    },
+    {
+      "name": "코멧 아웃도어 휴대용 캠핑 낚시 의자 대형 2개 + 수납가방 2개",
+      "price": 9990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7233066251&itemId=18358432640&vendorItemId=85502216005&traceid=V0-153-a976ec2ceb40ef26&requestid=20261018220116273085006581&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/oE3b0or5B3qwW5qOoHWhPCi_oBRhXkfOBNaxB6X58gAZf1BRW73xfrX96vyoq-mK56D_leUcHSOHRy1d7x7tD20SoLaldLHJ5AOHjH5-MWG0SE9agXz6WS6McQC12Pe9D7nyqRvAu5JGiJ9-fHcc_VqT2CaHB73HFIujSwm7ALYQJKa33zDSS2K2bHdlyGO_tRuUGZ5WyxhsqdCVDGFSJCymaiMF6v7pkRRIkrTPhuTiyyI-WCzgcVOa16A2-AhAyYvvHRs3KKiFlhJrYJsT0flJgNZ8GIjeCL5_vlaiooh_6XkQtD0mHuT5ilfvoDEYHm6acx460Fn8SXIhXX4OE5GLb2rMvF8ez_4wa9RthizqlaHBL3NVVZIBMjvFv5l8utp7GtOjKYylJI9vRFNL3NAl0DjT1_QFo4ZKKXdsbJJ4KzLGR0ywo_t_KA_RR8tzoP99kayWQdzEzYoyJ1wY2-8B0WybvbbS2oJildaijWAgj4ZuTrojizET4lRpORa3VYviMBTEUFHKvwet-q65PfjiS2Y="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 48,
+    "has_photo": true
+  }
+}
