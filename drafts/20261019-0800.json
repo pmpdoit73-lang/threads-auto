@@ -1,0 +1,47 @@
+{
+  "id": "20261019-0800",
+  "created_at": "2026-10-19T08:00:50.462239+09:00",
+  "publish_at": "2026-10-19T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "NVIDIA는 영수증 없이도 고장난 GeForce RTX 5090을 교체해 주는 것을 승인했습니다.",
+  "angle": "고가 그래픽카드를 영수증 없이 교체해 준다는 반전. 영수증을 서랍에 쟁여온 살림꾼 입장에서 허탈하고 웃긴 포인트",
+  "subject": "엔비디아",
+  "hooks": [
+    "엔비디아가 고장난 RTX 5090을 영수증 없이 바꿔준대..",
+    "너네 집 영수증 서랍 아직 꽉 차 있어?",
+    "영수증 30년 모은 사람, 오늘 좀 허무해짐 ㅋㅋ"
+  ],
+  "text": "엔비디아가 고장난 RTX 5090을 영수증 없이 바꿔준대..\n근데 나는 웃음부터 나왔어 ㅋㅋ\n살림 30년 동안 영수증 서랍에 꽉꽉 모아왔거든\n그 비싼 그래픽카드도 없어도 된다니 허무하네\n너네는 영수증 바로 버려, 모아둬?",
+  "image_prompt": "A messy kitchen drawer stuffed with crumpled paper receipts and old warranty slips, rubber bands, a pen, slightly overexposed amateur smartphone photo taken at home, tilted angle, casual snapshot, no people, no readable text, no logos",
+  "photo_query": "receipts drawer clutter",
+  "product_keyword": "영수증 정리함",
+  "benchmark_note": "첫 줄 상황 한 문장+말줄임표로 궁금증, 셀프디스(영수증 모아온 나) 대비, 마지막 경험 질문+ㅋㅋ로 댓글 유도하는 형식을 가져옴",
+  "products": [
+    {
+      "name": "365플레이스 사무실 영수증 정리함, 핑크, 2개",
+      "price": 8970,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9511679022&itemId=28345056584&vendorItemId=95297252746&traceid=V0-153-11556d004ff1087a&clickBeacon=da054110-cb47-11f1-bd2c-2139b91f503b%7E3&requestid=20261019080128539244152315&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/-BvXeixyn7aXkySl-MssM80rOQRUw6xAWrcaNvn9kDlSxW2J-SpdEOoK_8QAspqs_QcwLgK2R3eMeMkpV042QfwjcIRBeCqiWFnctlf7SHvjjA54tY16vHSKF6DAhmM9wF9pnDDXCrNwO9ccaVgYkjzYvsHRU26uOOGNuSkyceY_PTXg4P89SMJ6RNQma76RnHbk16XTF-m4_TK8AdgK8ZapmC_vOP9egmeOye0rDB61y2TiQfwtGKcgRVW_mSElJs3SeCXWrA1hsnUfK3AT1BNc2NbfCeNUgzDAaEiA7VN4vvbJWDGEaqH4cj83PD1wO0WKzKCzoIZXUJaQHTaDjj0muybTs6crPTb6TMYjsLKFxAZ1vlEz6CkI5UWFYm5faR3GCBdVvz_AdiFtA0PCudByQ5Ky09fAy7eyEOOpnI6smELQRbdf4W2ZxaAQ3yHGDxXjq3lATGmJgjef7TFPtKiZSK5XJVG1uiBJQNtJ-xgPRefhVgd0r4jJjwFsd0q_"
+    },
+    {
+      "name": "365플레이스 사무실 영수증 정리함, 퍼플, 2개",
+      "price": 8970,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9511679022&itemId=28345056586&vendorItemId=95297252747&traceid=V0-153-11556d004ff1087a&clickBeacon=da054110-cb47-11f1-8465-3409567198ff%7E3&requestid=20261019080128539244152315&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/LfxbX3-TbR9ZcKC0Ley0LTiG0O0JDt7SwucAy6OcuiIWSr8yqFnBKPcoXuPT-1AUDBScRVNLGND3bDEnAOwzfp_cNcxOAn9qLEa5iBF3c79TQYkGJHnHh5SoTk03CzR_Or9KsqX6s0OKz5QO_f9IWDIlk1AVwgSJufcoOApYWISNi13thTled2LGVWLZtTW06JYRhmJxHa6VeLmTv6TOiKmdcATapva98bKCTw0lL4Mom3ht2zrMoFimxwvHAfsHJvnL0SVdsZPnGfTiUeICAv7x59CrSO5ZvAVbJq8livPakUdHIpGs5M1EgECSOlxcMxUWJfwbTXLfvYZ5FKm7TkxdZ0F-HPSSf59Avmuz_N4IYtADCK7pusAEuGQSAPgzl_N9A7cviVYKV30g2Dz84j5VPa1YLDZhNKTdhA1sxG_DPul_78rVcqQzJPoSyl1XD3YimhaYk7oETrPu9Xd9GGXceVmiD5-GKvsvXpsaW4E9LBsAO__mXrWZWaMMw8o="
+    },
+    {
+      "name": "델리 미니 12분류 아코디언 파일 A6",
+      "price": 6050,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7665409338&itemId=25466813055&vendorItemId=92459351211&traceid=V0-153-99c58e89b38dbba7&requestid=20261019080128539244152315&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/hktnesLswK8Pl5LZhm256FEHVXm89x1U_4mVgeahJNUhArgmrRNvoiraW5pmFsVZnpTMm9UCERpoyLNkwf7Qdc0Qg0mDf2WU5H_pVhMbUI9jSNcL3ecBkoDkXrOPASRDlRHjNIdKJMYl2W03D5JGyG-TpmhZn6fSjfhVju6QE_OPdm1F_zTLJzajeTBOAsQ2oJ0-ifRGEC7EJ9jVaKVXgfJckqqO6DijCazoax2Ve11a6suqpolLEt9F7M_uGFTyQ2hNmUHcwFCBWFBw9AXHzuMD3QtSj9_Z0mFWZT8c4Oz7D9jbxvgOrJ1EYIsCX4IYRKICdxbMHxdNRNMoEgjj0ic_Q8T2Ndi_-XUiIW0ZICCJPg_9zK1bTwUoGiUxnsM5luWeGJV7Rj1IZWmKtS9Tt2bVGXBebyE1Z8h3BzfY4v9ePq3wcnTfSZEWl3-xS5g7S-q6BzaSNFsT-HBKQFDefdGgEgVy1jfuUBaihfFUaYHkzdipFweQ3ca_q0fnOw0ROrI_bI3tjfWduQLfOWMAWfxO"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 49,
+    "has_photo": true
+  }
+}
