@@ -1,0 +1,47 @@
+{
+  "id": "20261018-1801",
+  "created_at": "2026-10-18T18:01:42.074734+09:00",
+  "publish_at": "2026-10-18T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "서울 곳곳 침수·교통통제…낙엽에 배수구 막혀",
+  "angle": "폭우보다 낙엽 몇 장이 서울 도로를 잠기게 했다는 반전 — 우리 집 베란다·현관 배수구도 똑같이 막힐 수 있음",
+  "subject": "서울 도로 배수구",
+  "hooks": [
+    "서울이 물에 잠긴 이유가 비가 아니래.",
+    "낙엽 몇 장이 서울 도로를 막아버렸대...",
+    "너네 집 베란다 배수구 마지막으로 언제 봤어?"
+  ],
+  "text": "낙엽 몇 장이 서울 도로를 막아버렸대...\n근데 이유 듣고 우리 집부터 봤어.\n오늘 서울 곳곳 침수·교통통제됐는데\n배수구가 낙엽에 막혀서래.\n우리 집 베란다 배수구도 지금 꽉 막혀 있더라ㅋㅋ\n너네 집 배수구 마지막으로 언제 봤어?",
+  "image_prompt": "Casual smartphone photo taken at home of a small apartment balcony floor drain clogged with wet brown autumn leaves and dirty rainwater pooling around it, slightly tilted angle, dim overcast daylight, plain gray tiles, unpolished amateur snapshot, no people, no text, no logos",
+  "photo_query": "clogged drain leaves",
+  "product_keyword": "배수구 거름망",
+  "benchmark_note": "첫 줄 상황 한 문장+말줄임표로 궁금증 남기고, 셀프 디스 공감 후 경험 묻는 질문+ㅋㅋ로 댓글 유도하는 형식 가져옴",
+  "products": [
+    {
+      "name": "코멧 싱크대 배수구 거름망",
+      "price": 5990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6403395461&itemId=13700241463&vendorItemId=80951667111&traceid=V0-153-9427547f572ad1a8&requestid=20261018180210326163813226&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/4blzDsuj2z612VH64V_fOC5q7T0EWghiHt6XAlYCvNb2WA0Zw5qeAXIJ_66t3I_Pw4fSaG4gxXzfFwA-C9n_2FK2hd7aNv_cP-vkXnG5tXlF9iq3xEAvw6uCdIQX-Mn4JumG5ESwOpUZDsEHHuer5ltDGfr2ZniGQAff75v6BJHHqh7pqlG4VJn3K-CEQvEqKDwAFj58HP1lhh6JHXawIS6FmaoQGXAIspCWTg-K-9UpXha7TTzt-mrLZ6zExBJ6OLYnksQaIR99qasuNg1llfNRxmQcG0UdwkMOMg-0M1fLXAy1Ez-aXVXeCl9ln9BBFhYjmQbDXJuE1zJ9q3metQsW0JQyufwcO1zQ9YmK6byASkmlXhHRnKQMh2MukBHCTzY0jNIwr4NPpFaYvJ_u_941yfWb45S9zTlK0hqZzrBtF05U3XQ3goB3LsB0PI68QKqgoy-nqQUlpT6nrL5DBiCI0wflp54mgxRU2uqGWZm4cyTQRqFXz7vdf6RGcrf6eMAw0lUi6IoP6c916DqtjO595jga"
+    },
+    {
+      "name": "리빙트리 배수구 거름망 하수구 화장실",
+      "price": 7980,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8863650700&itemId=25849300737&vendorItemId=92857503301&traceid=V0-153-d986edcb01af18ce&requestid=20261018180210326163813226&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/BeFTgcq5eKT0e97TBZhPl4qu4oNT9WaYkp4CP1HLCsaQE6C2X5Rv22CR_9oJXHUjfdxjmXqL2qwa0SCHj9U7v98s5hFH-zk784ohs0URT1y6Bhupnlu0R2ptfTx2V1YXUZiv57AtAvrziHCj_NUbBLadyyoP-U4Whf5_emr8ncPkCztiJASJjsUJoS6jO41ZVug7E8XP-eeMpLm3xgAEVjhig6OCURM-3oQjaMGaTQnP20SfpjiZgGNkFKt6FZQfbGdU5CvUhnlZwf0pWkKKiA6SsBq_M-tuu56KorkEO-W4cJHK9sEMdCCqUPNvNLCDK3jszpZyrJOjV-9URsi_7V70mHAUVkOOxk-gX07CuyiWlltc6Y89691WpfKjuG0T7KrOCn62yOcqOI4UW8KMP6JxoX0YgYhHkQr3BH1dD8jxSKZw6I60Jegl1Agwy1cRU0AgRUU0IkmvT-t0CrGHCk9x6xHvwPoLa6nE13Lone3snD7z3FJzLhvNAKHGVbR2kQpM8uytbFKZo0hSKX36IX7RnA8RWMfv6d7G0N8glYtRRmZ_"
+    },
+    {
+      "name": "올데이키친 싱크대 거름망, 500개입, 1개",
+      "price": 7100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8527588523&itemId=24691363807&vendorItemId=91701180569&traceid=V0-153-d2bc8758e91f208a&clickBeacon=9a34cad0-cad2-11f1-91bb-229f3b7658af%7E3&requestid=20261018180210326163813226&token=31850C%7CMIXED&pt=1&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/-kR55uYlz9Gas1v8-rCynUn2CWdljUqyRoW7tj9HMeNrp7Ct1rk_rAA_dAn4XDzlnp5ZEB0GEL4rNuXZ_55cZnbcZdObl_fnFj4dXG2Va9h-rOxaoGoIIA3X7mds-NxtFBzvTU6oCJB44SWWXSNHYp--94DyZEOqcfrDPpsPFa-8-pDv776f1kXWPN_iZuwHnN1IdiHO28ZQERY4WNqC0vpvV_KlpGCF6YKl5Dsyivm1n496dYfuCD5NC7G0EyNWPJRCmDkqgtp1EzDMbNQe2wPm9pc6RPx4w2pc5UMCY1FSeZih4JCBFY7S16ndgoBO0b0TnpSPoZYSe5LOYkPDr9mveKWy_9V23bFMm7EuSMuV3qjkd3DY7ZmcwWX_yh_r4qkeNg14lZqeSmGVxh51JKr2qgjEgfI4oFM7dHvuhWOmBBDxEsQKL1b4EKVooHyhcSIYqWs-wu2zCSkpaLHgliIaj5tKqghbPLbHKbnyiC3KSJ_kCaLIV_sagSR7RwcEXJyCDzhvLg=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 47,
+    "has_photo": true
+  }
+}
