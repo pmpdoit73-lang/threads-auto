@@ -1,0 +1,47 @@
+{
+  "id": "20261018-1401",
+  "created_at": "2026-10-18T14:01:08.979068+09:00",
+  "publish_at": "2026-10-18T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "“삼전닉스가 72% 삼켰다”…국민연금 보유주식 182조원 '증발'",
+  "angle": "국민연금 보유주식 182조원이 증발했다는 역대급 숫자, 그 돈이 바로 내 노후 돈이라는 점",
+  "subject": "국민연금",
+  "hooks": [
+    "국민연금 주식이 182조원 증발했대...",
+    "너네 노후 돈 182조가 어디 갔는지 알아?",
+    "국민연금 182조 증발, 근데 72%가 한 곳이래."
+  ],
+  "text": "국민연금 주식이 182조원 증발했대...\n근데 더 놀란 건 따로 있어.\n그 중 72%가 삼전닉스 두 종목 몫이래.\n내 노후 돈 들어간 데라 남 일 같지가 않네.\n너네는 이런 뉴스 보면 불안해, 덤덤해?",
+  "image_prompt": "Casual smartphone photo on a kitchen table at home: a pension statement envelope half open, a calculator, reading glasses and a cup of barley tea, slightly tilted angle, dim evening lighting, cluttered and unpolished, no faces, no readable text, no logos",
+  "photo_query": "pension paperwork table",
+  "product_keyword": "가계부",
+  "benchmark_note": "첫 줄을 핵심 상황 한 문장+말줄임표로 끊어 궁금증을 남기고, 5줄 이내 짧은 구어체에 누구나 답할 수 있는 열린 질문으로 마무리하는 형식을 가져옴",
+  "products": [
+    {
+      "name": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 아이보리, 1개",
+      "price": 12800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9609052061&itemId=28687620626&vendorItemId=92174229979&traceid=V0-153-9bd200e6d8b66866&clickBeacon=fc5dda20-cab0-11f1-8fa9-b7290aff8422%7E3&requestid=20261018140132162288510284&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/J_YcG7pBBlq9uanPJ8xVkl0ECSXJyAeFasNWjDLM928cIDhdMmiFrLNTiexhfwa4FvvVJGzXRgv7XWkEde1lQw5OoPdpvVujkWpGpQatFdKFcFwans7DLkwkbKzyl92GUi10ttj5DPwVGHSiJq-2gXh78AQW9QxpM6mG1tJScxcQtNiUnVYxfq1V9nK1VFDU03NfnFt8vmGX5BYbejbEwc4Y_cFUpDQkX9C33v8HPaS9qxIG7UFRQ91EUXg3KkkQOhHX_810nFfNeaYtG_Y1KsLoYHqxSC_id7R7Zzsjfy31aFpXDUvmirrB3sS4YeO3K4tUE3jE9zsbDL_2pFIIwek0dUQ7CNgugkob53JFMzjF8Z6QWASTvxcjR95Pscy6OZfUiQS43ywlszGdRVe9OLpy5jgKqWMiq8t2Po495HYcoKXKGPLWmm7FV_nKwuY6mhtr76iacj5aTwXH2ULP6DWvSF4CKSsYljQWkg0FW1hVp4qU7sOFrm34ggPnwaxF2-UBDLAUejBHoVZqzdmH2KuNakji-Whw"
+    },
+    {
+      "name": "2027 편한 가계부 : 라일락 -PVC 커버, 소울하우스, 상세설명 참조",
+      "price": 8100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9736152099&itemId=29137583688&vendorItemId=96061329493&traceid=V0-153-6dc63bcf91e96893&clickBeacon=fc5dda20-cab0-11f1-97e3-dc4bc9cc8d95%7E3&requestid=20261018140132162288510284&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/-q9uqEo9vuNGSaLk-g8FRE3hdwjyjuoLI3ErxjJOUZSFc9ztOepyibFkeEIOceJpN_Ukocfs8Iai8apMHhUPL2jxx7GU4xR3_dtakvVCMryWeGZVu5KiGoXRT2N41pnAvLp12KBFPWXZT2SWJb6OmVbLN1x1DaN-iEQLczuKd_QRdQ78u2btN-5Pn7e33dcl5LHOBt7Tqoc_YfnydV_TosmRB3eKhygvjeLBrGmB3-JEnhTH5loXEfugSP-iLosfmjqG4LvfUQ5xKk2K1zV4kUZXposWS9G2AiYjHMu3ufaArjXdnIX75j7ID7pkPlFBSsk1htiS-K24ZH_Fr0dktfhueDFlnIfV9bupaYvzvcKgroF2x0AKjuiDyIrGOcGjpqbZ99eS-V6NHuto88hq1RJgpMhQiURViNmxS1xnNjOVBqfINgJgdmSa0F2geSEDX8gBalpsnfY3tzGuWTR1usTfLy8NPvhmUDrLFTuEpKce42wB6M6XtCLKpmv_UMDUTxuf-GxJKd8NlHTA-VztPjeAPCT0dF0K"
+    },
+    {
+      "name": "핑크풋 10000보리 슬기로운소비 주방 가계부",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6544948850&itemId=18874268388&vendorItemId=81830121276&traceid=V0-153-de89e423291abd30&requestid=20261018140132162288510284&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/ivNKGHhoQBy4UxD5irkl3-Fnn2P9XDaj7dGcb6UMwz8VNLPucc3jMMuk_p9DJZmZXoVC3mgv-CS4eRTXGMyKAqun_xYSzYGPADn_fa3RCqAmJHQksd0WWb0l7Wq3_ReYGxdApU0b1496ciHIe9zXKR8GJs2zJqyac-3U49nQj8rjyHjuV_0uvMZ8b5sx28wL0vuMOT9rs8TuLp0H6fy_WJOD10hqtz2xy819bklZKTlPm0tzWwu2mEFY-bNRq0-k5aNEqkSBMHEr9syMV2os6XoXcWX540WcPn4ulDUGqZfRNTJXZ0LgMN17DEug7fDCCH3kJD-BPPe1FVhJ8kUHLg-wNPVtYSSPRWVp9ZnbaCA3F-Ww9nlETwG2DtWWBxyQHVWBZ0dTCm64yCb0txZUg4ARruHowCBMjHWKhPWBydHipQpMqQv1wmWNNBU1fDeCJLKRgImQkjCw78zj7fDUfaDxWf07nOPaj-lBmTW0fNE8jJYFKHjqYv6ED6EK3CbYOnHd86kLOu-1j4f_8OTU78c="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 46,
+    "has_photo": true
+  }
+}
