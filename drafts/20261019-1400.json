@@ -1,0 +1,47 @@
+{
+  "id": "20261019-1400",
+  "created_at": "2026-10-19T14:00:53.105319+09:00",
+  "publish_at": "2026-10-19T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "중고 행사 '득템 상자' 열었더니…2차 대전 수류탄 '우르르'",
+  "angle": "싸게 산 중고 상자에서 수류탄이 쏟아졌다는 반전, 우리 집 창고 속 정체 모를 상자도 떠오름",
+  "subject": "중고 행사 득템 상자",
+  "hooks": [
+    "중고 행사 득템 상자 열었더니 수류탄이 우르르...",
+    "너네 중고로 산 상자, 속까지 다 열어봤어?",
+    "싸게 건졌다고 좋아한 상자에 2차 대전 수류탄이 있었대."
+  ],
+  "text": "중고 행사 득템 상자 열었더니 수류탄이 우르르...\n근데 그냥 장난감이 아니었대.\n2차 대전 때 진짜 수류탄이 쏟아졌다는 거야.\n나였으면 상자 들고 집에 그냥 갔을 듯.\n너네 같으면 그 자리서 바로 열어봐?",
+  "image_prompt": "An old cardboard box half open on a cluttered home storage room floor, filled with random used items, dusty, casual smartphone snapshot, slightly tilted angle, dim indoor lighting, no people, no text, no logos",
+  "photo_query": "old cardboard box",
+  "product_keyword": "정리 수납박스",
+  "benchmark_note": "높았던 글의 '첫 줄 상황+말줄임표로 궁금증 남기기'와 짧은 줄 나눔, 누구나 답할 경험형 질문으로 끝내는 형식을 가져옴",
+  "products": [
+    {
+      "name": "폴딩박스 리빙박스 폴딩 박스 접이식수납박스, 흰색, 3개",
+      "price": 18800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7984432231&itemId=28522740763&vendorItemId=95985057840&traceid=V0-153-fe7a9063ed3df190&clickBeacon=1f36a6c0-cb7a-11f1-bf08-17ba09aecde6%7E3&requestid=20261019140119431188464706&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/ZQwCZC-_9lzzWBahZcX-qfxuLmd9bq2pPk4vmVLi4khhJh49EApRpx4sq31_fXs7V4rqZiqUBjHi2JMr-bHIZwedW75Dgl33KaPy1c2xtEC5qCnj3nw2o6dSSzvCOA5khkYiSPm-79r7raVhY1KORtBGX17J6hWj5DXPLvSUvIGjgbV3zFe54tMQnyGYhniCdQjhoPpLVA7bPDJRWdzr7IcZFJw1fAUpSJOqMMV8BBqq_QiYkVAsuKrAseZCl89cwPdoyDri3o28Uz2SPR3sBCVln48Aim8vRLSMZGtkGhKADdcZhGpgD0OycG1T_G3lXWpjo_DtgIkVXu1eBPFB4E75W7hSORTsQcL6VceHa9-JGBOxSzPAOW06H9X1SGbk-Co13t6OjLnG3WlMO3JtNB8c8zo4hcJbap6EEFJlD6ojwuJs2O7JzXr_HOmhWV8DcADL6CfJBBGP4J-AF8IKF2XtG9KCfV4L5nTMhEH2KDtbkDQWYMliPgdgY3miGeeLAmlChPXOtAhQuhpL_p0640xdxsm-ipk="
+    },
+    {
+      "name": "정리여왕 옷정리 수납함 리빙박스 특대형",
+      "price": 4800.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9738152479&itemId=29144656596&vendorItemId=96068110474&traceid=V0-153-666fad354d1d1d2e&requestid=20261019140119431188464706&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/A9ZenEkC0NBJI_A_A-o4dCjdDMVDUyEWIg1TCIQnevvEk4qBgco_eO3TtVGpTum1lzPuFjJYew3K8VbAl2knMtbSNnwaOd0GO5UecUZpNbJKfQgdVFc2EzAoGxX6svFZyC4ABAhVD-a0OudmfBdt1sFxaat3Vo8liY2OrLeOBU4iFYjODL-xxiyrpvc4Qe3XYA5YXQRhjJ4w6GgbYMlu0Oaho2QQrQANen7W1Uf6VIWQ0EWNa_WLvMri5d74l2knjA5AZiZPlRRb8FfWNMjoWadey7NZknhEgz90Yk83RAkQO0WXtRoxKU-NsHHWTOabyS8DsNsVna0y5DguiQaoyXwqoyz8ssWoh-GHfyWQs-2QKvo5vJP3MqXLUVrgkihtK_WBPNZBEvZeJpHGw5vJVtnLgeEEPm-g8PTUz5-4S6hgVwTo9ZZROCbp9L9G9gzUH0mAcJZ4ou3Gj664m-HBLQo8_GKzohe1Mip7pnvn4r3UbuPUD9gnpx5xt-blMIDRaF3yK-HemQiTiazno-G27FIsKKtFtZ8r7LYurTjtxn8w9pWD"
+    },
+    {
+      "name": "코멧 홈 심플한 리빙박스 팬트리 정리함 L",
+      "price": 13890,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7252359878&itemId=18451001721&vendorItemId=85591775347&traceid=V0-153-0206bb9018445ea2&requestid=20261019140119431188464706&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/yxFYiCiyNV-ik22Ny7p1mO0UR2cGiaizi0U15cGb80YIrEp48mjbVHpcMvwkgr5qj9Tt4wqCzQy67bF2AmTwovqBxdzWcuG5OIXb1lCPCjenp4jQuVBfvlIyCiwqt4c9qlBZrQE0BiL9rslNejbAtbJMMV1hzfLTH7RFqRl46zACRSnI_65bsTuVUxkdkZzWsoMScl225ZscDTnW08S01sZrTwR1d1Kayzkhx5RQr9WTErEy33faBZTBDzZq-pSpKhbaYl4lyuocgzrnqMLc4p7MKHE8LTqwwH5DOY4KiRpb1GZnNt54kxPM12YdVHy_AxRbRSpnMD6CrEx7MADePc6FsgTUeSity5hee6X4XmYVYctjAsG1EcMRUGjlTZUjcZKNFNMZRDQmeTHA75PdoxypWeZ3aO_w6VhxN5krqpObfEGQT12lyKcWJ98smofxn8k3tVRjyoBNy4OfXyADqlDMHFphkh9YP7jJv8-40KSWePj0BeybHnuRcifkxW6qdqr2WiY5p6neTaJOvg2o5plWKQ=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 50,
+    "has_photo": true
+  }
+}
