@@ -2,7 +2,7 @@
   "id": "20261019-0800",
   "created_at": "2026-10-19T08:00:50.462239+09:00",
   "publish_at": "2026-10-19T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "NVIDIA는 영수증 없이도 고장난 GeForce RTX 5090을 교체해 주는 것을 승인했습니다.",
   "angle": "고가 그래픽카드를 영수증 없이 교체해 준다는 반전. 영수증을 서랍에 쟁여온 살림꾼 입장에서 허탈하고 웃긴 포인트",
@@ -43,5 +43,9 @@
   "message": {
     "message_id": 49,
     "has_photo": true
-  }
+  },
+  "threads_id": "18127102804845647",
+  "permalink": "https://www.threads.com/@kingreview0669/post/DeqIz-CCbYW",
+  "reply_id": "18130501132695881",
+  "published_at": "2026-10-19T11:02:07.492047+09:00"
 }
