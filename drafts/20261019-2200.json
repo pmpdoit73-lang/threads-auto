@@ -2,7 +2,7 @@
   "id": "20261019-2200",
   "created_at": "2026-10-19T22:00:56.801489+09:00",
   "publish_at": "2026-10-20T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "AI 모방작 우려에…日 '드렁큰 갓데스 리플럭스' 무료 데모 취소",
   "angle": "AI가 베낀 거 아니냐는 의심만으로 일본 게임 무료 체험판이 통째로 취소됐다는 반전, 살림하는 눈으론 '진짜 손으로 만든 걸 어떻게 증명하나' 싶은 이야기",
@@ -43,5 +43,8 @@
   "message": {
     "message_id": 52,
     "has_photo": true
-  }
+  },
+  "threads_id": "18427488793145853",
+  "permalink": "https://www.threads.com/@kingreview0669/post/DesSFzbgT5O",
+  "published_at": "2026-10-20T07:01:33.063663+09:00"
 }
