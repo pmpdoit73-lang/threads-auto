@@ -163,7 +163,12 @@ def _fill_photo(d, prefer_free=False):
         path(d["id"], "png").write_bytes(data)
 
 
+NO_COUPANG_HOURS = {7, 18}  # 하루 첫째(07시)·셋째(18시) 글은 쿠팡 링크 없이
+
+
 def default_format(d):
+    if d.get("publish_at") and datetime.fromisoformat(d["publish_at"]).hour in NO_COUPANG_HOURS:
+        return "photo" if d.get("has_photo") else "text"
     if d.get("has_photo") and d.get("products"):
         return "both"
     if d.get("has_photo"):

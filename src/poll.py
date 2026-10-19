@@ -68,7 +68,11 @@ def publish(d):
     if draft.wants_coupang(d):
         product = draft.chosen_product(d)
         comment = f"{product['url']}\n\n{draft.COUPANG_NOTICE}"
-        d["reply_id"] = threads_api.post(comment, reply_to_id=post_id)
+        try:  # 본문은 이미 올라갔으니, 댓글이 실패해도 '게시 실패'로 두지 않음 (다시 게시하면 글이 두 번 올라감)
+            d["reply_id"] = threads_api.post(comment, reply_to_id=post_id)
+        except Exception as e:
+            print(f"[poll] {d['id']} 쿠팡 댓글 실패: {e}")
+            d["error"] = f"본문은 올라갔지만 쿠팡 댓글은 실패했어요: {e}"
     d["status"] = "published"
     d["published_at"] = datetime.now(draft.KST).isoformat()
 

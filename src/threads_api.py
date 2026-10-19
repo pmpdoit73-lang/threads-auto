@@ -41,9 +41,15 @@ def _wait_ready(container_id, tries=10):
     raise RuntimeError("쓰레드 준비가 너무 오래 걸려요")
 
 
-def _publish(container_id):
+def _publish(container_id, tries=4):
     _wait_ready(container_id)
-    return _post("me/threads_publish", creation_id=container_id)["id"]
+    for i in range(tries):
+        try:
+            return _post("me/threads_publish", creation_id=container_id)["id"]
+        except RuntimeError as e:  # 'Media Not Found'는 준비가 덜 된 것이라 잠시 뒤 다시 하면 됨
+            if "Media Not Found" not in str(e) or i == tries - 1:
+                raise
+            time.sleep(15)
 
 
 def post(text, image_url=None, reply_to_id=None):
