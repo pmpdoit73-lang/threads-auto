@@ -1,0 +1,47 @@
+{
+  "id": "20261019-1800",
+  "created_at": "2026-10-19T18:00:56.822274+09:00",
+  "publish_at": "2026-10-19T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "“지하주차장 5시간 갇혀”…강남 신세계백화점 출차 대란",
+  "angle": "쇼핑하고 나가려다 주차장에 5시간 갇혔다는 황당함, 장 보러 간 우리도 겪을 수 있는 일",
+  "subject": "강남 신세계백화점 지하주차장",
+  "hooks": [
+    "강남 신세계백화점 주차장에 5시간 갇혔대...",
+    "백화점 장보고 집에 가는 데 5시간 걸린다면?",
+    "강남 신세계 갔다가 저녁밥 못 한 사람들 많대."
+  ],
+  "text": "강남 신세계백화점 주차장에 5시간 갇혔대...\n근데 사고 난 것도 아니래.\n그냥 출차하려는 차가 몰려서 꼼짝을 못 했다고.\n장 본 거 차에 두고 5시간이면 냉동식품 다 녹았겠다 ㅠ\n너네 같으면 차 두고 걸어 나와, 버텨?",
+  "image_prompt": "Casual smartphone photo taken from driver's seat inside a crowded underground parking garage, long line of cars with red brake lights ahead, concrete pillars, dim fluorescent lighting, grocery shopping bags on passenger seat, slightly tilted angle, unedited amateur look, no faces, no readable text or logos",
+  "photo_query": "underground parking traffic",
+  "product_keyword": "차량용 보냉백",
+  "benchmark_note": "'이게... 무슨경우야?'처럼 상황 한 문장+말줄임표로 첫 줄을 끊고, 짧은 줄 나눔과 열린 양자택일 질문으로 댓글 유도하는 형식을 가져옴",
+  "products": [
+    {
+      "name": "타닥 에센셜 소프트 쿨러백 보온 보냉가방 아이스박스 보냉백, 블랙, 30L",
+      "price": 20900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7673300603&itemId=28369454268&vendorItemId=95804037036&traceid=V0-153-e572b256252076d0&clickBeacon=afc8ae10-cb9b-11f1-9ac7-3acef3de9e08%7E3&requestid=20261019180135412293415263&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/F3-NqZ9kGVKAQlVMF_xG8FeAribsIyEKONuYG5IxzPRAba1SO8tRDSaL9qI572Cax1BD7eQeUJh2Sb2wdWKP87qj4I8t_0BdZNZZCR5oQMj07zdMAS1X2cqbi7gr8jix-yHyemqpwuNpAK5UaQq3iUQx4jS7FXyCVuwzy1YdAAAe0cBIm60Z5ahU1-J4Hv8FcejO-buVYIMlXN_gfu3rU5Y0D_7zNCgs9ZwPVDeocYcWyOOXpvpB6o4xQC7obt7qTYH3fYA0iX8ZYqKeR6mpUVJIqJS9o9_UX9drs6GZ2RMdJh0I9d6V2DNDWlSyFvg6pqwxS4LDc_anpkdgeDMqKkcwGA0bLERgDd3T09yA6Lk2hgI0W9jaxxJ4Rz17Iim74Ck4Oy8yLhTtDELP_eV7kmhH28KnbALPXvz1SaAeOznR9GQFdFvMOkpsMsnrnh9uTgypyDF6F3HDpNaBeOSZO4-bQivtG2suNwMOGmdvfMYcFq021as-XMt-FZbs9I3GY9KdJzcI6WLVfnr9SXN0C7AqRbpcAUe3tVSIWAyw7NtTixnMaj4pT2GwN6mehoXJwzN1lHpnnZod"
+    },
+    {
+      "name": "타닥 에센셜 소프트 쿨러백 보온 보냉가방 아이스박스 보냉백, 베이지, 30L",
+      "price": 20900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7673300603&itemId=28338318858&vendorItemId=95804037023&traceid=V0-153-e572b256252076d0&clickBeacon=afc8ae10-cb9b-11f1-9a8f-3c69650695d4%7E3&requestid=20261019180135412293415263&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/3R4wLiEU_w4x-K7_3YtK5mFWkOhRGT-FRsveZMTOBMELdqKW4vh8opx2zwjGXCHhvn8QVSerKs1fxsV54eme8PI94g3eci8Yo7V-5EytgiazQPlViFMPeSg_WE4e8E0o6Z8YGB30xZxHC2AVhAYh4oT2Qey-kmmoFQC8FQnCMCA9KMtxYlfDrKfi8hjjVzy1iK7mYL9k4Pqpm5niyCD91xUr7P-mseGnU4WSXrJs32QTV4ZbAQFVYPw7qzttyzs6SVDjW_Sw0YaDDYU1OKJYwvbj6V9d5oeUvOfdZisJ0jY1C-8DTvjlQnVV-0rsOKp-ExxaKRXaN1gyNlwiK02NOj9eZeRmq0fiWVNmLxsqtuXsYIxJ_z3V9l24Gbi7BsBTJlDRfJOp_Gv6lColeSNUiC1fm9iVxSuj2b67BD4WFR10o7KXm2R0sapbJk10x-PvHYvEYoPhxhjn6baPD6lYEKbFtCJMZ0Io6_D6-4Iht4edEjDjNFH1u9Q46CKp-qI1wYeSMUI9sMDsKVTK7HZz_Ok9iv0v2sqB"
+    },
+    {
+      "name": "차량용 13L 아이스박스 국내생산 아이스팩 캠핑 보냉백",
+      "price": 13200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8582660204&itemId=24878618805&vendorItemId=81991043843&traceid=V0-153-fadb31cc81ad1b2d&requestid=20261019180135412293415263&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/K5UoWf_0HAdk3DEkK6pzFwuMk2u6I0wuZdwzPZb_mdWpzH4hf8zLpIyfo_nMSmZPyIWu8gAZ4QWlcM77xxw0fb58hnotKkg8w7poKN6owkSM4_4YTJc89M0LNhCG5n3SbiMKA_UR8kPGulkNntl7AJvl-p6SJKrrHVquhGg1EoqcJFWo0xun370WQNJo8v1O7yDdM3K69jkRg7y3mPMBTGlDI0NjOAV9-aGSgXj_04SC2vtG15Hid-UwJzgVbgtZPgS85penOfRBXJk94Me0N2xVHIJuqKq-C7w4eVof02ZxRrbi21qlmoZiNrKG1XwFw2zXJcXVN8MeQ_ta67v6wFG7I_mMuyinQjSScIjOacf90UCFfDTidKdFNUiC3oWLRksUeblKOWqwrPoLjgC_036nH7JMfg2edU1eHhI2WmtT-aIO06GR7aCr0Nswe38Jo4OCoRl8Gdcmdy4LBVgGTidW5EnuTJ3I5sYu6hqZPVp6A2B260REgXittOKZdXLdPpW6hS2adpOZF05OTR_PKfwwFSU7s7yLubkvyCAv-qfCLqg="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 51,
+    "has_photo": true
+  }
+}
