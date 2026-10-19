@@ -1,0 +1,47 @@
+{
+  "id": "20261020-0800",
+  "created_at": "2026-10-20T08:00:55.069840+09:00",
+  "publish_at": "2026-10-20T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "루브르까지 점거한 시위대…프랑스, 결국 이례적 '야간 통금'",
+  "angle": "관광객 넘치는 루브르 박물관이 시위대에 점거되고 프랑스가 야간 통금까지 내린 반전, 밤에 집 밖에 못 나간다면 우리 집 살림은 버틸까로 연결",
+  "subject": "프랑스 루브르 박물관",
+  "hooks": [
+    "시위대가 프랑스 루브르 박물관을 점거했대...",
+    "프랑스가 결국 '야간 통금'까지 내렸대.",
+    "너네 밤에 집 밖에 못 나가면 며칠 버텨?"
+  ],
+  "text": "시위대가 프랑스 루브르 박물관을 점거했대...\n근데 진짜 놀란 건 그다음이야.\n프랑스가 결국 이례적인 야간 통금까지 내렸대.\n밤에 우유 떨어져도 못 나가는 거잖아, 우리 집 냉장고부터 열어봤어ㅋㅋ\n너네 집은 며칠 버틸 수 있어?",
+  "image_prompt": "Slightly crooked amateur smartphone photo of a half-empty home refrigerator at night, open door, a few eggs, one milk carton, leftover side dish containers, dim kitchen light, ordinary Korean apartment kitchen, casual snapshot, no people, no text, no logos",
+  "photo_query": "empty refrigerator night",
+  "product_keyword": "비상식량 세트",
+  "benchmark_note": "내 상위 글의 '첫 줄 말줄임표 충격 사실 → 이유 듣고 우리 집부터 봤어 → 너네 집은? 질문' 구조와 짧은 줄 나눔을 가져옴",
+  "products": [
+    {
+      "name": "RCIR 프랑스 전투식량 세트 부바르 아미비스킷 포함 해외전투식량 비상식량, 1.48kg, 1개",
+      "price": 49700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9278953816&itemId=25283773080&vendorItemId=79004665247&traceid=V0-153-c98e27383b88ad05&clickBeacon=0318e6f0-cc11-11f1-b348-3b034382bb5e%7E3&requestid=20261020080126317116717879&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/C2tybUdR1rL8MSRTCxrOj5Q0xzEt6RQUx4dXsadhfkcV4MmurLgvOGXPhVL9xkECGS8YyEZkGr97QTwA0bEEj2rcozVLvfxSJGS0PTqKGDez7J3ubx53TNmf0waiAJH4kbYFcDk3rtfYVmOwE4v1GtxEfOrWydkn0GCEjWaETPTmWZHosBPhTyN76_tP9YXimGopSRVyl55D3qSQYQBfDFxThI7d2tuakD5vaJ_i-gv8MPB9nbryQd847sPRuNULcheSCRWljHmJe_yH3CZlmdajC2V2QeHvZyHntKnfv3SdwWBs3PWfhFQJ9xSYYK7iWEwrQOOMKyzBbAb-yEklKZb1dsOMERrP3zZ1RvJf0j-p7Sy_QMo-qZEiQy5to7fRRnyZ-_D99CBJves6nQmsmnLcZvCwl-l8AwMHKj734fHD2GTUbbfTAgGIl1Vm14UClgjfejsOlLGpbUNB8avA9StWEjnDE_HngNEGCeycAv5W1VuiFSMqx2iw30o63qflxwMGiianEiS4Qz1IatUCdPWpiuk-QE1CmDwWyw8lE6QnQV4aUWGvpOk2kQ2YL_lO2itYITrpU57T"
+    },
+    {
+      "name": "오뚜기 컵밥 20% UP 계란국포함 인기 10종 1세트 (톡톡김치알밥+참치마요+강된장보리밥+제육+김치참치+돌솥비빔밥+오삼불고기+쇠고기미역국+참기름김치볶음밥+치킨마요), 1세트, 2.6kg",
+      "price": 32780,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8520801779&itemId=24670515023&vendorItemId=81752385360&traceid=V0-153-63e95336e13ee75b&clickBeacon=03190e00-cc11-11f1-b50e-b4bf41564714%7E3&requestid=20261020080126317116717879&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/l5dykIilvbZfS6Kll_XrkvEBUv2SeCdEVaMJefgPF5T-BYzKMpMMrp9b9YehYDZAMNYgJiu0Q3ssMSMdm6hv1CSSXn0pfJ4r3l2aDBJVqqk6aOPjkVEMOX_IEXaGH2M6AzehRLZ4fj2FPxwZHXHFWFpPOb0CU5AJDuPvzEpTFkpN1Cxi4rTT_1IlRlETP95HDgKdbZiVfPXtM4WkIp_FOzv0-yFbBGe8vtFMOlmAcD_tEtBhXuBiqKl9TctCN8PKLsFZHbELR1yd1WjMWiyW1tYs_8RIoVqtDpzQwCdjB6kVQhjpGqeGj4KB1Z8cAGL3tDHhR_7Y3U2qBv9rLy63BbsOZwVBWi8J4m5Pj7uqXokD3OInS-jjPSNBqubeKZcpIoZjSh3uf4wk89R80Jy1xdcPZ3nI5Ono_8SKEPp5_MHUHxca9lcuLnig0iwIp2FoE39xjeDS1VJf5d4s3bXMOgRkmOLOzq3RO0V1tze-QI84RH5v6ONP8cDwQ9X-64iEUgUFMqrttGdBSBLg7woIvIniytP1YX-K"
+    },
+    {
+      "name": "RCIR 프랑스 전투식량 세트  부바르 아미비스킷 포함 해외전투식량 비상식량",
+      "price": 33260,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8706252402&itemId=25283773079&vendorItemId=79004665122&traceid=V0-153-9e502f4fff58e59a&requestid=20261020080126317116717879&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/V0Bt_7Y1dU2vhp30VzzetSK_WhibjJWNzMaUfIAjckWRFeqH629Dpqz-uBFOwMEhLzvGoaJzaZvNnlo1kJ1BhONNVU95pVIQTz2c0DMbMSA1VDQy0ItEIIInF3BK0J7xp6RkW7Ex6S8A2lANu9qRQpe-9YnfannP5itLFR-OD7NznbSZb9vdMuOGuddqiJIbD00A3V-JgeZmMqhbNVY7wb6iBG8Vuj6Trf7sL8Is0c3MF-4946OxwBEXHlzrT63OQEkiNbV5XYw5O5RQYW_MxECxfZsvGR1vXRQ6VKMOIZYn7mxJCSnJXhNVJ12In8M2kEi6YH2BsYU6fmCGcg4d0UXbksvN34rx76A6V9UL_SnigpTrVvVyc83RwabEdQtOWtwZqd0uqUb2euf4AaaKGzxgJL4-ApdFqCw69y9wBQE8fMSXkFFiNhUuNZwVjHHqyaVGnr-ADr5cQ0OK0xOmSnmEhUUDKqXzGGyEBeCJAsHUHq4G5GYKFmepIQONYkf94wv52r_KSCmI06J-zvi_80DZzvkDw_AXawy5EAiXg_7OH-0="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 53,
+    "has_photo": true
+  }
+}
