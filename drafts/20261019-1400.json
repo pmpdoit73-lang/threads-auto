@@ -2,7 +2,7 @@
   "id": "20261019-1400",
   "created_at": "2026-10-19T14:00:53.105319+09:00",
   "publish_at": "2026-10-19T18:00:00+09:00",
-  "status": "pending",
+  "status": "failed",
   "product": 0,
   "issue": "중고 행사 '득템 상자' 열었더니…2차 대전 수류탄 '우르르'",
   "angle": "싸게 산 중고 상자에서 수류탄이 쏟아졌다는 반전, 우리 집 창고 속 정체 모를 상자도 떠오름",
@@ -43,5 +43,6 @@
   "message": {
     "message_id": 50,
     "has_photo": true
-  }
+  },
+  "error": "쓰레드 API 오류 (me/threads): {'message': 'An unknown error occurred', 'type': 'OAuthException', 'code': 1, 'error_subcode': 2207052, 'is_transient': False, 'error_user_title': \"Media download has failed. The media URI doesn't meet our requirements.\", 'error_user_msg': 'The media could not be fetched from this URI: https://h.uguu.se/CVYVQpEA.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating', 'fbtrace_id': 'AHTHfMv09D2ZIfSPSgPFZJO'}"
 }
