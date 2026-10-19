@@ -2,7 +2,7 @@
   "id": "20261019-1800",
   "created_at": "2026-10-19T18:00:56.822274+09:00",
   "publish_at": "2026-10-19T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "“지하주차장 5시간 갇혀”…강남 신세계백화점 출차 대란",
   "angle": "쇼핑하고 나가려다 주차장에 5시간 갇혔다는 황당함, 장 보러 간 우리도 겪을 수 있는 일",
@@ -43,5 +43,9 @@
   "message": {
     "message_id": 51,
     "has_photo": true
-  }
+  },
+  "threads_id": "17977213908137803",
+  "permalink": "https://www.threads.com/@kingreview0669/post/DerNaVwm3qO",
+  "reply_id": "18133066495761099",
+  "published_at": "2026-10-19T21:01:37.927524+09:00"
 }
