@@ -1,0 +1,47 @@
+{
+  "id": "20261019-2200",
+  "created_at": "2026-10-19T22:00:56.801489+09:00",
+  "publish_at": "2026-10-20T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "AI 모방작 우려에…日 '드렁큰 갓데스 리플럭스' 무료 데모 취소",
+  "angle": "AI가 베낀 거 아니냐는 의심만으로 일본 게임 무료 체험판이 통째로 취소됐다는 반전, 살림하는 눈으론 '진짜 손으로 만든 걸 어떻게 증명하나' 싶은 이야기",
+  "subject": "일본 게임 '드렁큰 갓데스 리플럭스'",
+  "hooks": [
+    "일본 게임 '드렁큰 갓데스 리플럭스' 무료 체험판이 취소됐대...",
+    "AI가 만든 거 아니냐는 말 한마디에 게임 공개가 엎어졌대.",
+    "내가 손으로 만든 걸 AI 거라고 하면 너넨 어떻게 증명해?"
+  ],
+  "text": "일본 게임 '드렁큰 갓데스 리플럭스' 무료 데모가 취소됐대...\n근데 이유가 좀 황당해.\nAI 모방작 아니냐는 우려 때문이래.\n내 김장김치 보고 사 온 거 아니냐 하면 나도 억울할 듯ㅋㅋ\n너네 같으면 어떻게 증명할 거야?",
+  "image_prompt": "A slightly tilted phone photo of a cluttered living room coffee table at night with a game controller, a half-eaten bowl of tangerines, a TV remote and a mug, TV screen glowing blank in background, dim warm lamp light, casual amateur snapshot, no people, no text, no logos",
+  "photo_query": "game controller table",
+  "product_keyword": "게임 컨트롤러 거치대",
+  "benchmark_note": "내 글 최고 조회 '낙엽 몇 장이...대...' 첫 줄+말줄임표, '근데 이유' 둘째 줄, 짧은 셀프 비유 ㅋㅋ와 경험 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "플로리 다용도 게임용 스탠드 패드 헤드셋 정리대, 01 화이트 베이스 3단, 1개, 단일상품",
+      "price": 15750,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9155531064&itemId=26963378172&vendorItemId=93932340528&traceid=V0-153-0a83b878b963ffda&clickBeacon=31ebf200-cbbd-11f1-bd55-9da2fd8d8eec%7E3&requestid=20261019220127144103491438&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/vmxI9XNWM68_8Ul_vpmRrTmW4-FFqUb3bpBw7a1HXDzWiSmg2sYKPSh0pA3bhA9XxTcekSNL7pJrRo_1kGrnwKw1Ktt5B246cyeOlPp-uL1Y2fxweYkEikH4Kr06Dc2JAcAxE3YOH4-7qZtFnAH6SshsABDuRG3XHihW9yF9IyWmkud44LvYuJ5O61QtvzdJKm5C_2h4R2JTYjPeHPRNhZB7wa6RWJ_lLCUirEY0kRN72q1qxrvWTIGSVWzlK4B-v2TkJWFjRoOP7SP94fxEg0P0jygU297jmf_jfyb0ZlCLEPIit-pfdZVk7hV3ORigFkl7uUvNUcpgGWIO89uLdTFiJWZbLbfoVHI7NmcHpAdwdOQeM4OXPGkV99wWfb_SgzmYrr-D9vafOElBphtb0u7a2W03v8FbAD2EtYleYnz0G4aH2mST9MdOFPyxhX808BA4YuYIRUH2FYa3DyZnkUsIU_Kc9KujuSfbn7dMv-YUHilaQmK77I64YQjEK3_ZKaZAlnE92D6k"
+    },
+    {
+      "name": "알럽홈 수납 게임 컨트롤러 헤드폰 걸이 다용도 선반",
+      "price": 16680.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9309408444&itemId=27583383414&vendorItemId=94547039179&traceid=V0-153-7ae34cd66065249f&requestid=20261019220127144103491438&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/NpthkccbwiyWS5OmNvPZ032xnHhDStOKZK8ZRVJrqORtRGHzZSMm81SsLdCx4ed613vA6WVKKacxprntFH68KFovYRpWeQbp475QKvLW_8ytryLH16vN-BojXUFv-Ahz6ucYG2BwN-LTb2LB71b_hUcySuQlcbEDTH_esVTVJAC3tXMqzlVMhFkv34v1_fzIY417T3JgIvf9YFlI6oomAauD5Yhe84BOYipyjh5bcaRvBFrlUS8lZaJkIVE-sUFZAlTEJp01rKQkip_t1tQbEp8moliYNysx-to92XOx-6tEvkQD-FFNCDqH8lg1Jxhlyeb79gmpJjEPxVe5Ics9d671wRLXpDociIS8zAmiDEQEENiAlUHefhvXa7GoE_DtWVxq3ve_kdbVUVESMjh-zTyGrBxR8KMkP33TJHBSYd5PYOBGKdkviSQ6rd2zyhy99hfDN_LfhZ6SSqsBBEeLfz9xwR7WnI8ORmwJm-h0ZlChf-ACT3UBwMe8QjakiwvD5NCxOhKemwJppBsRGiM4jwNS2A=="
+    },
+    {
+      "name": "호후 닌텐도 스위치 프로콘2 XBOX컨트롤러 스탠드 거치대 콘스탠",
+      "price": 7640,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9501105484&itemId=28305114770&vendorItemId=95257824041&traceid=V0-153-51981a66ba2ea1f0&requestid=20261019220127144103491438&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/FhwvjBFZbm7VYoDgFhal9r8mnOOYgPcSwnNMArvr4-b0ktKiVW9IyH-8O2zm4V7mNLYdUhstWoK4ukIfr8qPvEsvJFjujnay48gTx8FQxnDkJt2tUMoYRJZosMJfyZyUyFTud12yik14fj9bjDFV31_DLG48jm8fKb52p1Goc9qo-anlz-rLQtxnB2k7t1g-mQdSkK691h5sfTjFxlHHCS2aU0wkaEma980iJ2PlWFC10esA9tmS2PJ7ise-Y10NVhy71H0lCy93OkD_Ak1GfjEa5CYRjiIqQeDRv49iFRl6LZD332GlWZFVzTBTuSmHN-9BwrXMR-qrLOCpYgiqVVcGZZFg6FuAyTvoa7VN135Cgkt9pxgbbcX_of2drYKYH6uJEYN5mlfRhTidtTR3ifn11Lld8JPeQtMXaIamJQ6iHia7Z46906xSMD7RmCiOYx0I6n-EZ1sSWRn3FRMapJKhiNX6kJz60wlK6SXN4b-fUQaGFme09sOadE1E9IDOeJVYGfICbI3SNoamO4MIoElc"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 52,
+    "has_photo": true
+  }
+}
