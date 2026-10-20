@@ -2,7 +2,7 @@
   "id": "20261020-0800",
   "created_at": "2026-10-20T08:00:55.069840+09:00",
   "publish_at": "2026-10-20T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "루브르까지 점거한 시위대…프랑스, 결국 이례적 '야간 통금'",
   "angle": "관광객 넘치는 루브르 박물관이 시위대에 점거되고 프랑스가 야간 통금까지 내린 반전, 밤에 집 밖에 못 나간다면 우리 집 살림은 버틸까로 연결",
@@ -43,5 +43,9 @@
   "message": {
     "message_id": 53,
     "has_photo": true
-  }
+  },
+  "threads_id": "18127073098786622",
+  "permalink": "https://www.threads.com/@kingreview0669/post/DestiQtmuPX",
+  "reply_id": "18198635560377228",
+  "published_at": "2026-10-20T11:01:31.846715+09:00"
 }
