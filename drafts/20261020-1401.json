@@ -1,0 +1,47 @@
+{
+  "id": "20261020-1401",
+  "created_at": "2026-10-20T14:01:14.375664+09:00",
+  "publish_at": "2026-10-20T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "루이비통·디올 털어간 뒤 벌어진 일…프랑스 ‘수상한 명품’ 중고거래 앱에 속속 등장",
+  "angle": "털린 명품이 중고앱에 버젓이 올라온다는 반전. 중고로 가방 사본 우리도 장물 샀을 수 있다는 찜찜함",
+  "subject": "프랑스에서 털린 명품",
+  "hooks": [
+    "프랑스에서 털린 명품이 중고앱에 떴대...",
+    "너네 중고로 산 가방, 출처 확실해?",
+    "명품 매장 털고 끝난 줄 알았지? 아니었어."
+  ],
+  "text": "프랑스에서 털린 명품이 중고앱에 떴대...\n근데 진짜 소름인 건 따로 있어.\n훔친 가방들이 중고거래 앱에 속속 올라온다는 거.\n나도 중고로 가방 산 적 있는데 그게 장물이었으면?\n너네는 중고 명품 사본 적 있어?",
+  "image_prompt": "A slightly tilted amateur phone photo of a secondhand leather handbag lying on a home sofa next to an opened cardboard delivery box and crumpled bubble wrap, dim indoor evening light, cluttered living room background, casual snapshot, no faces, no text, no logos",
+  "photo_query": "secondhand handbag sofa",
+  "product_keyword": "가방 보관 더스트백",
+  "benchmark_note": "내 글 최고조회 형식(첫 줄 사실+말줄임표, 둘째 줄 '근데 소름인 건' 궁금증, 우리 집 공감, 짧은 경험 질문)을 가져옴",
+  "products": [
+    {
+      "name": "3개씩 헤링본 6종사이즈 면파우치 더스트백 조리개 이너백 신발가방보관백 헤어드라이기 뷰티소품 속가방",
+      "price": 12900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9583741570&itemId=28608017289&vendorItemId=95551514498&traceid=V0-153-802222a52a0123a3&clickBeacon=599ea3c0-cc43-11f1-bcc0-1e4646b1eeb9%7E3&requestid=20261020140146304221278236&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/iD-6GnOTFUzN_W7iiG0u3a8ZQmrrjGxJginBj6teS9igwi6xLbkGrwXXUTj8sGpxi7jkSg1Jv5arEXsenwbgje7yApQ35a8D3ELPSrZlIP6kZli4I_RhyROapcOHSoZWGEa6B1WhyHT0ipAnaONMZF260GDV3G6211T7v0wRALTp9jB0OUe2hJ0da8TU4TM3ZcLvnMeY1S1GIjlQZBlxr4BQRTQ5t1bl7ZHxsnwxGWr3czUzYHsdGwwcWA_u6JZBhZsrccUJ1gHtS87FHSzEQFKZI1PooshSxBbr9XaDaTn0Tr3yXlULAkGNdwEeLZK64LnRgDLDK6bwzdV7ROidPrJ85ZRtDEN7bDK2oy5bdZVhXlXVnlmnB9dNjiyclNv1ePl3CB3RsknXVFMxFH40aGFyUbIM1oLpYl9HJx1jPF-hx4_RPZ8AM-T6KANPQcPQTiEiUXE9l1x9BovxvoIPoCGo2doQM4_Mn3UX77hsfO-8R_wcCISfft5PCq6r7Q76kVwl1TVGBA5Fn8zaPAxd7UROqRH9SMFwEQ=="
+    },
+    {
+      "name": "일상온결 선물용 종이가방 백 선물 쇼핑백, 10개, 네이비 패턴 x 중(25x20x11cm)",
+      "price": 12100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9718991042&itemId=29083943190&vendorItemId=96036389452&traceid=V0-153-5e6241883251442c&clickBeacon=599ea3c0-cc43-11f1-a567-f4ec87b06e39%7E3&requestid=20261020140146304221278236&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/KNEFKETsbuzRqbDXKF8oTtwundf42IxYazZBAW_KM6tdt5RLHHI9U4XWa7dydAB9AtcuYwYyBXJ4rYDYYdVDiEfdcWJYNhGXDBPngyfT47ls1Z9WB6rl2BrRy01XBycVAnkRwH_vw-ZxAryGYYDB43z3GXyOHpmLwVj300trEdbBuptJ2YpOfU8Sdfhlguw3Sba_3BK6RIONvbWLfu2cfch9w-swkHfaId1cm1bB_JTZ-adDWvg5oizvWnWxJosIjWwyj7MThR5m5z1d9hpxTx9Vv3vRsfLNds3MtrVvnN7yiZnUuDmQt9N77NPpsf8rUg7YFnW33NxKDsSC6Rd398oCidKwzmrqZxbZCw_ZS0hdtUHKLHlVsizUsIWgh5WXPkcQL6MoV6cCWgFz3lUlG5QvmXSEgCp4H3f28-qtO7x2eO2Tmq1madBcO2q9dOWK1CpwajfAmIam6p8XE7ne2fATtwEX2E22-irS2U9d0CT0SGPW2oxDqFg9w3Z6LLgDX4THti-DqeIInzNXkQ2EsrRcaw5rREU="
+    },
+    {
+      "name": "디에나모 더스트백 가방보관 명품백보관 파우치 가방수납 3매",
+      "price": 13500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9734031853&itemId=29130066796&vendorItemId=96054112714&traceid=V0-153-e4553d0b3252d50c&requestid=20261020140146304221278236&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/GS_pzHCgWEejS5R1GfFYGIBuHhtzAaUoJiHkL2sOviYxNpp566Dhd0HVuvv4OgJzrwvpzGsUzSSPPGZ3UVGsT-ilCqBwll_HT6D0fAZfdOZLUBLgSY9dCUWz5PiPuIeYiHPm0bcJGvJrrj0YyulTuAeO0AsKEZSHN1h_Z52fWo162C8wsIjkkLjhv4mztltuFdPUNR60eFOYujyj8pA3d-VyA44S1ubBTTQkBPHai-trEMO-n7qSvSY0YFVKCLmAFG6d4KmfIxTp001K4dLQWKWQtV7Vrz8pQRDKNzdty5m8ydmDyNo5QrESDXjVQSn68emi7l_IgE2CMJb3ARwpYSkEO5tULE1in_X7xWXIzcN0zEoXEY3xgMc_HjDyE_PWfYHPWKacJL9quihfJfRkVLuQBQPzkJY5oLCwh4YpPEZ91e2oU9ACPCzH0X15We-om2h-URqRqDzvpTPn9i_OewTbmKlZZoGKUD6af_pUtZOwTfxlVvZdJ4EfCNn3U3uCVzBKkyPq2IEFQTH58m9TpLUYP--S2AMtNwuAsuGqXVDLFH4="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 54,
+    "has_photo": true
+  }
+}
