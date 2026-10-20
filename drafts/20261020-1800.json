@@ -1,0 +1,47 @@
+{
+  "id": "20261020-1800",
+  "created_at": "2026-10-20T18:00:55.111858+09:00",
+  "publish_at": "2026-10-20T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "알래스카 눈사태 속 행방불명 반려견…50시간 만에 극적 생환",
+  "angle": "눈사태에 묻힌 반려견이 50시간 만에 살아 돌아온 반전, 우리 집 강아지였으면 하는 마음",
+  "subject": "알래스카 반려견",
+  "hooks": [
+    "알래스카 눈사태에 묻힌 반려견이 50시간 만에 살아 나왔대...",
+    "눈 속에서 50시간, 너네 강아지면 버틸 수 있을까?",
+    "알래스카 눈사태 실종견, 다들 포기했는데 반전 났어."
+  ],
+  "text": "알래스카 눈사태에 묻힌 반려견이 50시간 만에 살아 나왔대...\n근데 그 50시간을 생각하니 손이 떨려.\n눈사태 속에 행방불명됐다가 이틀 넘게 버틴 거래.\n우리 집 애였으면 난 한숨도 못 잤을 거야.\n너네라면 몇 시간까지 안 포기하고 찾을 것 같아?",
+  "image_prompt": "Casual phone snapshot inside a Korean apartment entryway in winter, a small dog lying on a worn fleece blanket next to a pile of snow boots and a rolled-up leash on the floor, slightly tilted angle, dim natural window light, cluttered and unstaged, no people, no text, no logos",
+  "photo_query": "dog snow blanket",
+  "product_keyword": "강아지 방한 패딩",
+  "benchmark_note": "내 글 상위작의 '첫 줄 사실+말줄임표 → 둘째 줄 궁금증 → 우리 집 대입 → 짧은 경험 질문' 흐름과 이모지 없는 짧은 줄 나눔을 가져옴",
+  "products": [
+    {
+      "name": "강아지옷 중형견 대형견 경량 패딩 조끼 AK, 1개, 네이비",
+      "price": 31800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9081337002&itemId=26678856692&vendorItemId=93651055465&traceid=V0-153-4afad4bf469d9951&clickBeacon=d51783c0-cc64-11f1-8387-da39cc4bd9c7%7E3&requestid=20261020180126824254878540&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/7rJ18-UoHqV-WcPT7tQRzVZDE3fspboiLOy28qwj-jQeFlO_l8Vg5-ugJKkavEgnXSGchGlzBH0A8PY2cTKAHYEUqWvToahRhBcFvvpsEEP8vAslRMsJLg2oSqloCPFSS4KAjERtm8wZWlywFsWPD5JshdoFlaeWp3MMG0adtlRHgWkMV87TDgj93NLNaYG9Fb0pnAQs6DeI52HteG4cV3aguBkd9QYcfCyYipizVG8kvsSHW_3uF28wgxh_5rbOIfUSVFqvsFINN0UOXi5VuTm9q-rw58ua309JGeVcgOTpACMx-armvb8DuThEy51BFmVYhL2m986rLHPgYQeHObb7mECDrf1FYYs_o1dBHGkkZx1EHBjRrynpndOFCfANEn9FHsyfoK8ZeYc2XKOzEaGBXAQxgO_5dwUu9U2DJqoVQCOEkIOlvF8KUHm2fKyQUXlHBdvqWwoA98A42WpN7jEmAhFPB5hCQjXTN9MBOeHrUe6WZoz7nGh5hQQEbmXn63eSdAnWXIhBhnMMGGjzgiFNbI6Fgqd7"
+    },
+    {
+      "name": "강아지옷 중형견 대형견 경량 패딩 조끼 AK, 1개, 민트",
+      "price": 29800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9081337002&itemId=26678856710&vendorItemId=93651055479&traceid=V0-153-4afad4bf469d9951&clickBeacon=d51783c0-cc64-11f1-9688-bfb31d109137%7E3&requestid=20261020180126824254878540&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/0g2wwFf6UsidJu8I0qMGPCvRZx9qTqFl4lViWeQUKbGtTKTLzSqD1VkKjcZTszbgOXjt0JYur6ZJAZRcsBEKR8YGqakHSikT40jR2LPXJ07lTUi2q4z50FHS3pS3kCNK4IuCqgBNwOhcvjkRnTCimFBChSDCWy30eH8qPSsIj_tDetYk9oNNnVtska5xQ5FAhphZtBVqLwNMQPuhMDDrooaMWYPKAS2XcngkGrRrUvFupI7RgWvsumEVMpR6J0TNet65hYq2mhk_axf9fOldz3uy4HoFpHH_LEUSbXnxBwevoLcrl4ApkHlHUwJRBsh5xD75xsxBFVz5pjDXVlZQ9gDMiQiCaEFPG4pdbWTGq1WAGzvPVq8aVU4pRdxrDXKRdPu5WrcoFIGJq6jlNamj2FwpmmKXT3iq6u70ujAxXbO2bFD6j2F2kHcUY1sVENRVtq0062ISwBSJA02R2rKQfrNyOxKVlh7Z4_KYExhJLtN50wACHuYy4DcrHc-501NInqErzLmgf0WXXDE25GhvGJKTKa4eEd-1"
+    },
+    {
+      "name": "루미펫트 강아지 겨울 후드 퍼 패딩 점퍼 방한 아우터 소형견 애견옷 D링 포켓",
+      "price": 25900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9733668717&itemId=29128697382&vendorItemId=96161690737&traceid=V0-153-c21f45e48673eac5&requestid=20261020180126824254878540&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/0XylYk8cR8b-edMr0az5pPsD0zP9VYTwcEgJPRLf7CTV9NveKBWcLfDpkVNrn2QPWJ1c5zDvGaTHt1o7SWl-1LiUWlWCHWUZDsEj1awm8-Gll7cPwTNM492W_L8lk5-2iAQaY4hgGoiItPgJJDrRIKoCBcMMMKnwJNesP1YBGes2qzexL62E5rJaKaa-oMInUHO2nb58D3HJM_UvTFc8DuTylfJHEEdA_8KpuHBCGFR0JNmRFJx0AZYv4HzrARfPudQ2Ofjv4-l0OzpaLUSsHQIB4U9wHaEcgn0Btkz2pXDOZKUuHdBfGBS2VN4saJK0Rc54itd_BTdbF-spDuTZS5TJriIQ-WLBhI23mhjOT8ywLKNOFzgw9FVBsP_gxUDpKI523oDMclOQRliuQQlVYkC8SUsEFggidhfPS6UzlaaqMdCcW6NCbW4uH2WhOj4erwogF1OP9EaJXXrOCj3MRVfrd6bnUg1pATBQ_9Wv5cE0ccTOkNvlBIp4L_jej7eVNXEOg4Jl1jzlXqcreEWaVKPO8B7-WZ7BJhfV5Uy0D6tnIw=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 55,
+    "has_photo": true
+  }
+}
