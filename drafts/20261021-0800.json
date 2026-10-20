@@ -1,0 +1,47 @@
+{
+  "id": "20261021-0800",
+  "created_at": "2026-10-21T08:00:56.101819+09:00",
+  "publish_at": "2026-10-21T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "70대 ‘특허법인 4년 원한’... 역삼동 같은 건물 연쇄방화",
+  "angle": "4년 묵은 원한으로 같은 건물에 연달아 불을 질렀다는 점이 충격이고, 우리 아파트·건물에 그런 사람이 있으면 어쩌나 싶어 소화기 위치부터 떠오름",
+  "subject": "역삼동 건물 연쇄방화 70대",
+  "hooks": [
+    "역삼동 한 건물에 불이 연달아 났대...",
+    "70대가 4년 원한 품고 불을 질렀대.",
+    "너네 집 소화기 어디 있는지 바로 말할 수 있어?"
+  ],
+  "text": "역삼동 한 건물에 불이 연달아 났대...\n근데 이유 듣고 소름 돋았어.\n70대가 특허법인에 4년 원한 품고 같은 건물에 연쇄방화래.\n우리 집 건물이었으면 어쩔 뻔했어.\n너네 집 소화기 어디 있는지 알아?",
+  "image_prompt": "A slightly dusty red fire extinguisher standing in the corner next to a shoe cabinet at an apartment front door entrance, casual smartphone snapshot, tilted angle, dim indoor lighting, slippers and an umbrella nearby, no people, no text, no logos",
+  "photo_query": "fire extinguisher home",
+  "product_keyword": "가정용 소화기",
+  "benchmark_note": "내 글 최고 조회 '낙엽 몇 장이~...' 형식: 첫 줄 사건+말줄임표, 둘째 줄 '근데 이유 듣고' 궁금증, 우리 집 대입 후 짧은 질문으로 마무리",
+  "products": [
+    {
+      "name": "삼우 국산 3.3kg 유명메이커 소화기 고급브랜드/무료배송 스티커, 자석식 점검표 증정 도매업체 로케트코리아, 1개, 3.3kg",
+      "price": 22500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8923380440&itemId=26070827025&vendorItemId=93051897608&traceid=V0-153-428918ca4f5281a6&clickBeacon=2e06f220-ccda-11f1-9d57-6bcf787eeec9%7E3&requestid=20261021080127134213495142&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/g9tzbHsMMfMoLcaWg_Ij8uTKCPWDbfyzVa1M7gLSMt0zy7O7bT_rTB1LkVsuwP2uzdYgmbKbjcnvn7wz4ZYJCLRc1JaEBkOMdofwhGow7xZRNmWRAdW-vA3U3HT8Pn-YTrubjjN_RLykeGImCF-TUlQEEaa9vI9Wlo7WDCmRcJMp1_PE9L4yh7Pda2UIWzUE8-pTdi1zcsQpca_zFy1-4bHyuwV2x-78HUdSZc_jXuWShTvF4uYpzrLDMUL_vUJjoRjaAw8PT1kt0SIWWEt3MhmzBxoZx78OtcungR4EDWgsiYklIZxiCRdNY4344x47182ZHzZ_407otY2josfrcJCAs99GduitIrqLgauDpohErwpnIvSy_3echRwU-iuoVHT7X1lGL-HNcZ697YTJJe19550QOKeFJajJQW-QzzUB3q7cBtaz4sup96CJ8ZB8mUZ6_tGUVdxb6EM4PwN3HHE0Csy7PVYVjQZV9W2Flt90zwAq2JCbAZ3eRqfA_3-Q0JuCiivijFGp3DK6k6TuGvm4QGmsaGIO"
+    },
+    {
+      "name": "국산 1.5KG 분말소화기 가정용 업소용 고시원 원룸 아파트, 1개, 1.5kg",
+      "price": 17400,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9731628371&itemId=29121559635&vendorItemId=96045893742&traceid=V0-153-d79f54fd8ba4e651&clickBeacon=2e06f220-ccda-11f1-9dfc-3c5adc8caca7%7E3&requestid=20261021080127134213495142&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/erUrx-UzePbMOA-TepLevKx8EpfdcdRR-3yA1jK-oVmwRELgfcSrY6Vp5b8s_HRlRdsrikgVetMyCilyWBByioiCiKQnNsw8Aec_48LR0Wd-VrdUhf2xSbOCiCBcDWKRe3mDMhsDHIJfTjxbMWtcwS_FglHIMS8UDL0CraWSMnfZXxRhtk_RE9iFfHx0YqeacZO4_Yj3kCZbskEwsdoimE5ofeqfuM7sW1LB4NH31ZJqxNaokPPwUb5UAOqkxdX0hIkgt2gTeMQXOe-vEvsCkmYhUGb1UGmlOkl0T36mvHTHHfxP_UEb86aQEZtgImBvaUtg5gSBrYZu_kEaH_chzOkGjlsCZTnYLiniAlOiFXVlIvUy0wy4yh6ngOTJNwyO0BCCwx636-mpFGfcBz0P6GJH1_cE50gNZkrg4C68gYvW9x95hQiOkGtG6_I57zvHLibOpFEzUeI8vkj6KA1WQkECMTFrLZa2ZxF-Uix-kmCi6C1tPQ9wyqbos4AjBuJAr8braepR_CimbuXIRxljaPUcb3MwYFk="
+    },
+    {
+      "name": "2025 최신 단골소방 한국소방 ABC 분말소화기 에스제이컴퍼니",
+      "price": 19900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7260008703&itemId=18489829258&vendorItemId=88685532358&traceid=V0-153-452fafb884ca67aa&requestid=20261021080127134213495142&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/bWfUpIW2najAeF4XbXfl33_ZvSDMFHXR-KYdboBFOMtoKbtkzVAW5bKyYLPmSVgBcT4sqTmM08YR0aWsdjABCpziRZVjEpWA43CatxQckZUwcTDYsmehHkUK-IROPHoq3Dhv9SKHhh-rz8rI0o6i7C2LtWbo9IogV88ta1Mku7V8aWsbQFNIVVkIaZuGWYc5QmZKkisXc2cQqsO3zxUp7yovvJIHnNPiSEDyjMYSWNBiP8Q8XZP3FBny5RV6pYlhODIbahj1kXbUZ7G5zuAiNamp95ANoBG1Il0GGebCfwUnW-lNbSSRa_MSAYnxXD-75FrCXNIwZZq0JSm-ttUCQzIDgwlSRIfOojkhCg4EeJEUHjqRhS1kiUmHDbkc5KiF7oMFb2zfGsPo4VWzW1o4siwnw_tMMz9iacHrbRm3Zo7LCpJd2b8Hy42-nyApTO5X4qqYfb2oWhka2PfZc9kGTcWPuLfN20VHK1iMyjgsYEFXu_hCE53T7TW896LyMF8ktpokzziRcM6JshmP2Mup59DiXq2YqrirB-DS4Ok4RhB0ng=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 57,
+    "has_photo": true
+  }
+}
