@@ -2,7 +2,7 @@
   "id": "20261020-1401",
   "created_at": "2026-10-20T14:01:14.375664+09:00",
   "publish_at": "2026-10-20T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "루이비통·디올 털어간 뒤 벌어진 일…프랑스 ‘수상한 명품’ 중고거래 앱에 속속 등장",
   "angle": "털린 명품이 중고앱에 버젓이 올라온다는 반전. 중고로 가방 사본 우리도 장물 샀을 수 있다는 찜찜함",
@@ -43,5 +43,8 @@
   "message": {
     "message_id": 54,
     "has_photo": true
-  }
+  },
+  "threads_id": "17906822853595176",
+  "permalink": "https://www.threads.com/@kingreview0669/post/Detdv4Gm8id",
+  "published_at": "2026-10-20T18:02:31.110373+09:00"
 }
