@@ -2,7 +2,7 @@
   "id": "20261020-1800",
   "created_at": "2026-10-20T18:00:55.111858+09:00",
   "publish_at": "2026-10-20T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "알래스카 눈사태 속 행방불명 반려견…50시간 만에 극적 생환",
   "angle": "눈사태에 묻힌 반려견이 50시간 만에 살아 돌아온 반전, 우리 집 강아지였으면 하는 마음",
@@ -43,5 +43,9 @@
   "message": {
     "message_id": 55,
     "has_photo": true
-  }
+  },
+  "threads_id": "18099663902548677",
+  "permalink": "https://www.threads.com/@kingreview0669/post/DetyNL0G5I9",
+  "reply_id": "18146240944599135",
+  "published_at": "2026-10-20T21:01:44.680617+09:00"
 }
