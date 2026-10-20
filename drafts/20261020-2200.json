@@ -1,0 +1,47 @@
+{
+  "id": "20261020-2200",
+  "created_at": "2026-10-20T22:00:57.721730+09:00",
+  "publish_at": "2026-10-21T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "\"건보료 84만원 더 내라니\"…400만 세대 '발등에 불'",
+  "angle": "400만 세대가 건보료 84만원을 더 내야 한다는 숫자가 충격적이고, 살림하는 입장에선 우리 집 한 달 생활비가 날아가는 일이라 바로 와닿음",
+  "subject": "건강보험료 400만 세대",
+  "hooks": [
+    "건보료 84만원 더 내라는 집이 400만 세대래...",
+    "너네 집도 건보료 84만원 더 내라고 왔어?",
+    "고지서 안 열어보면 84만원 폭탄 맞을 수도 있대."
+  ],
+  "text": "건보료 84만원 더 내라는 집이 400만 세대래...\n근데 남 일 같지 않아서 더 무서워.\n우리 집이 그 400만에 들어있으면?\n생활비 통장 한 달 치가 그냥 날아가는 거잖아.\n너네 집은 고지서 벌써 확인했어?",
+  "image_prompt": "A slightly crooked phone photo of an opened paper bill envelope and a calculator lying on a cluttered Korean kitchen table next to a coffee mug and reading glasses, dim evening indoor light, casual amateur snapshot, no faces, no readable text, no logos",
+  "photo_query": "bill envelope calculator",
+  "product_keyword": "가계부",
+  "benchmark_note": "첫 줄을 숫자 사실 한 문장+말줄임표로 끝내 궁금증을 남기고, 5줄 짧은 구어체에 바로 답할 수 있는 경험 질문으로 마무리하는 형식을 가져옴",
+  "products": [
+    {
+      "name": "만년가계부 캐시북 다이어리 금전출납부 스프링 제본, 아이보리, 1개",
+      "price": 12800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9609052061&itemId=28687620626&vendorItemId=92174229979&traceid=V0-153-9bd200e6d8b66866&clickBeacon=61231890-cc86-11f1-b054-f8cdc9f13f6f%7E3&requestid=20261020220135196310927092&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/VnqpkuWvyqbCq1V2VqKSvAsQ72aU_YoQ_QUKSYE4rxCeLTUSbuf4JPcCH1MDx1DNHSQfaus8MkC8ol45mC0bmo0L_WG1OwFsmqBRsvigi5i8qYa46UJ0Gp-x3fIaJbV8uYL7e0alo67evczI2OkkJRU697T1RdctDMJPooXrFUhczIXFpgBf7T9R3AOXGprROkrDS8AEEJAzoNMqiDMyBRdsBHM9I9-eexw1iDrRX1bmqX8Dh5KyAc7zrhEfbPs_s-ootNmD1AcrbqWCwZ3Yiwz1wCwB7xjxTXv8_sh1N9F0iZbCgXiEQ76I_zcbM_YqGDdx4FZQKkErBTWGY1OskcLsPFuBzNpXPKOlJiNREpGjiARfdUdl7_Fzjfn6DV2wjuSVPmiD02F-NJnDPZQmMF40oFd8HMoF98tu_U4mN_KuMbZiHjj0LpDOLYpr2DN57vbsVqOG8MxVlIvrTqRJUg36xuNU-f7KX1IqdgELTCxFPFuZGf437zg7kzwMFxBOEwXoGNBZoiIaqjS2x6EvEMLTB8j5suQ="
+    },
+    {
+      "name": "푸꾸푸꾸 현금바인더 저축 다이어리 A6 지퍼백 5P 세트, 핑크+지퍼백5P (A6)",
+      "price": 10290,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7504688704&itemId=19652009361&vendorItemId=86296774663&traceid=V0-153-d425fc2da66d14dc&clickBeacon=61231890-cc86-11f1-817b-3e45d8cada31%7E3&requestid=20261020220135196310927092&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/cPDvKuM02iQDZwHtcPUBhsXpm-zkHrJs9H9xm3Id8dYiuQAuBVGqoqNkshmkf0orstTwaH-gsY9ak_IXQQRctFC6ZM3lBWCDaWMm9V4v1F6G5kQJwRFIt5MKGck47gJ2_X4Z0exomt2FqRuUQDMzmjMYw7VOcnSPrWnViTal6MGrr9_DTzGz5poK3ALLhN2ZcLf1MIx005CSnAxMxoBB8eCC72KebhpCbuOFFyBCCK39FEmJaEKWh5HW-CaxziIkMCv5ALR549mVjztzkoRwljDeXaMNOchLgJnZMRCVA3qUYdJMLpCjOBB1c_AnPXbcA8K5eMAhSQC9XLvmaQ_KSt3ZlAa_ri8OfEDgVXBVY5ZyLMp6xSK-oE2sDncWYIuWtXurWcqJx81jYLtuh4pQHLa9GCOyQt8vzcaGKubOx0UJpk0conoU1hKCrXsW32RqXLYLvJUfwRzg67Deu9VmxzN181ERyAINVW_E0Puwft6taRckrkBlpBW6er64HaQ_ZOrajZTFt6qdAAOuDVUY9woX2n2Bco0="
+    },
+    {
+      "name": "핑크풋 10000보리 슬기로운소비 주방 가계부",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6544948850&itemId=18874268388&vendorItemId=81830121276&traceid=V0-153-de89e423291abd30&requestid=20261020220135196310927092&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/tkyKnUD89R9fMRxItifk7ieH0CyZJhD-sYfSH6E50ZZ8Tgso-C3yftD8JtyPkfBH2oR77lGyXWA9RoZJ5DZw2VwhaTp4Ud_3vDWLNGs7ZyvJkFfWctD0KG1KTBw5Q5YWQQidzX6TgY3IrrEP8Bn-PmrlvazPOeMIGpWkCzdwxyA3AL489cBDcq-HBuJuIZSBxAgP2Z_faDLdo2L4zuqYHh5z4j6fFW9NEIWoLlAGGy5I8KL4W8oGggQxk1txibvceeYcZWkLa5ajIAKNZAd3hoLMfc0YsR22P7Y29auI7HUx5RG92Tsej2i9wNbeSwjqdpenfy2meoJtBmUO3yXVGoXlwL5eGOIM3jBbAj1RqNwmQeezbw6z-9etD1Kh2c7eUV4lQTEdJkYZ9SG2zCVK-2rrM1wFn6v0hMUr8HvJ9szlD77FHJE7LU4fXwHlnu45ShqoSmbDVZcw6aHFeY-4YlT6XPPl-ssbfqHUczJy6onhg31MSWatfGVdUgd5DNOBFM5_BtfCH9P1RRaz6lZluGX1IA=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 56,
+    "has_photo": true
+  }
+}
