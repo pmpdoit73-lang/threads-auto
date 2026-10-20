@@ -2,7 +2,7 @@
   "id": "20261020-2200",
   "created_at": "2026-10-20T22:00:57.721730+09:00",
   "publish_at": "2026-10-21T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "\"건보료 84만원 더 내라니\"…400만 세대 '발등에 불'",
   "angle": "400만 세대가 건보료 84만원을 더 내야 한다는 숫자가 충격적이고, 살림하는 입장에선 우리 집 한 달 생활비가 날아가는 일이라 바로 와닿음",
@@ -43,5 +43,8 @@
   "message": {
     "message_id": 56,
     "has_photo": true
-  }
+  },
+  "threads_id": "18009598862778093",
+  "permalink": "https://www.threads.com/@kingreview0669/post/Deu23gaHyn6",
+  "published_at": "2026-10-21T07:01:09.952082+09:00"
 }
