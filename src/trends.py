@@ -72,7 +72,7 @@ def google_news(limit=20):
     return [re.sub(r"\s+-\s+[^-()]+(?= \(\d+시간 전\)$|$)", "", t) for t in titles]
 
 
-NAVER_QUERIES = ["사고 발생", "충격", "깜짝", "적발", "논란", "역대 최초"]  # 깜짝 놀랄 사건·사고 위주
+NAVER_QUERIES = ["가전", "전기요금", "가전 리콜", "주방", "살림 꿀팁", "날씨 한파"]  # 가전·주방·생활과 이어지는 소식
 
 
 def naver_news(limit=8):
