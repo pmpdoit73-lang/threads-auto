@@ -2,7 +2,7 @@
   "id": "20261021-1801",
   "created_at": "2026-10-21T18:01:40.869201+09:00",
   "publish_at": "2026-10-21T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "환절기 경량패딩 꺼내는 시기, 패딩 세탁할 때 섬유유연제 쓰면 손해",
   "angle": "좋게 하려고 넣은 섬유유연제가 패딩 털을 코팅해서 숨이 죽고 보온력이 떨어진다는 점",
@@ -45,5 +45,9 @@
   "message": {
     "message_id": 61,
     "has_photo": true
-  }
+  },
+  "threads_id": "18118879502101280",
+  "permalink": "https://www.threads.com/@kingreview0669/post/DewXABCIGuY",
+  "reply_id": "18254200186308961",
+  "published_at": "2026-10-21T21:01:35.520017+09:00"
 }
