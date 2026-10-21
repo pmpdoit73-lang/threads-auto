@@ -4,44 +4,47 @@
   "publish_at": "2026-10-21T18:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니",
-  "angle": "쌀쌀해져 패딩 꺼내는 10월에 슈퍼태풍이 한·일 사이로 올 수 있다는 예측. 옷장 정리하던 우리 집이 갑자기 창문 단속을 걱정하게 됨",
-  "subject": "슈퍼태풍 참피",
+  "issue": "“경량 패딩 챙기세요”…비 온 뒤 쌀쌀, 전날보다 10도 ‘뚝’",
+  "angle": "갑자기 추워져 보일러 틀 때 바로 ‘외출’ 모드로 꺼두는 습관이 오히려 가스비 손해일 수 있다는 점",
+  "subject": "보일러",
   "hooks": [
-    "슈퍼태풍 '참피'가 한·일 사이로 올 수도 있대.",
-    "경량 패딩 꺼내는데 슈퍼태풍이 온다고?",
-    "너네 집 창문, 슈퍼태풍 버틸 수 있어?"
+    "보일러 외출 버튼, 반나절 넘으면 손해야.",
+    "10도 뚝 떨어진 날, 보일러부터 이렇게 해...",
+    "보일러 끄고 나가지? 그게 가스비 더 나와."
   ],
-  "text": "슈퍼태풍 '참피'가 한·일 사이로 올 수도 있대.\n근데 지금 10월이잖아...\n미국 JTWC 예측 경로 보니 진짜 그쪽이더라.\n경량 패딩 꺼내다가 창문 걱정하게 생겼어.\n너네 집은 태풍 오면 뭐부터 챙겨?",
-  "image_prompt": "Casual smartphone photo taken indoors of an apartment living room window on a gray overcast day, a lightweight puffer jacket half pulled out of a storage bag on the floor nearby, a roll of tape lying on the windowsill, slightly tilted framing, dim natural light, ordinary cluttered home feel, no people, no text, no logos",
-  "photo_query": "typhoon window home",
-  "product_keyword": "창문 태풍 방지 테이프",
-  "benchmark_note": "내 글 최고 조회 글의 '충격 사실 한 줄 + 궁금증 키우는 둘째 줄 + 우리 집 연결 + 쉬운 질문' 흐름과 이모지 없는 짧은 줄 나눔을 가져옴",
+  "text": "보일러 끄고 나가지? 그게 가스비 더 나와.\n식은 집 다시 데우는 데 힘이 훨씬 들거든.\n몇 시간 외출이면 끄지 말고 외출 모드로,\n실내온도는 1~2도만 낮춰 둬.\n너네 집 보일러 지금 몇 도야?",
+  "image_prompt": "Amateur smartphone photo of a Korean apartment wall-mounted boiler thermostat controller next to a light switch, slightly tilted angle, dim evening indoor lighting, a lightweight padded jacket hanging on a hook nearby, ordinary cluttered hallway, no people, no readable text, no logos",
+  "photo_query": "home thermostat wall",
+  "product_keyword": "보일러 온도조절기",
+  "benchmark_note": "높았던 글의 ‘말줄임표·되묻는 반말 첫 줄로 궁금증 유발 → 짧은 줄 끊기 → 누구나 답할 경험 질문 마무리’ 형식을 가져옴",
   "products": [
     {
-      "name": "유리창용 접착시트지(PGT208-1)",
-      "price": 6990.0,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=2000838&itemId=8963358&vendorItemId=3012744650&traceid=V0-153-1a01ce3bacf9b4a1&requestid=20261021140129087323592731&token=31850C%7CGM&pt=0&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/qoqeLlZkCVcyOWP6qujxgM3Bi3jkiuCsSphE_5HWqaA2BzM4ziCclKtaSqF8cMax51tBxC2zKL2rUhtvkGTNAsCWHylKYEzEm7pgBZgiHkUBwQJz-yw9cy1KLdmIdvBFanaK-UquNEdfelVD0EVsQDwNPvoz-c3bGVeekFS3UDDMo051LaqgGkIMn8d-H5GDubue7JuoDdVTh2TrBWf0h3Edkffm6fCT_RwiRynpScJDdvfyUSXuABfaQ3vB2uI7P3G2hX3HaCUaeVVJoAr5wqD0AgiihNuQGfVdmZUm3wYwXEiUuhj0CWYBbRHH3xRjt-G_pFY1-TD_2cDlDK_yyHwrAHpCDFFD4eCeVu1CZHPLafFR_DcFh2UycgWjWOhidACZP-UnuQgoQOcOHLJ2N48sDVjhAcZ_Oc0nZ8DA5BV-f5M9fczoDy558xk4XZYmxAKK8VAB3fwfdKZ5w8HdhMkqqlrjbhTFb7JDKPh0bOFCIE9D2QFYUhUHVgmb-y4kK_ZS9gw73v3DMFE="
+      "name": "서일 전자식 자동 온도조절기 국산 S-201 실내난방, 1개",
+      "price": 11620,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6247642143&itemId=12646121872&vendorItemId=79913592727&traceid=V0-153-2df24217d349d22b&clickBeacon=0480d550-cd17-11f1-a52b-892a1ea89661%7E3&requestid=20261021151656782056441822&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/DBye0CLYVzOLz-iCDEQwHiTerBEkH2AdxejZalKD1Qg3HXvzsbqrr2XrNv9Ng4CpUN0iGXRmYDNjS8X4pLKkZGwih_SHKw8SKO7CPglLpStc2AMkNK7MEtQsi1wbcw52gkJzgj7-y8vsY7durEb12_33NhAveB_Z67yJwCn5x8Am3Z0iFOsTYYJhkP4PPXA0HbiWsvZH_T6Br4YCGxLkyvFLHkmcZStyoflDEVKMdd6-8zWJHV8gEoActY5YZuzLW7QvXaZlM0Sg7L3ggh6eCzvjHb1i00S3HByBmerKOWLwiX0X-z0KijZ33HamBebk0YT2sJUmaJ7JTmJK6hEiyJF7HWN2J82KRy2u9dUBN8bHv7bL-ess6tx_Hd8rnU8rRc47hHSEdQoMyK387aS2IdHq0abmKYVGw1WrTKNgUzHo_tC1ehNb3ASyKzRUFub6RCFrDHSdpl5f45H94gYJfhWjmT1p8bNiso0byPdQ8KyRrKfch4LO_f1tDat_OGlbhybLg2uaed_MM-8YsASiGvNsus2PAAs2qbSxoP4df3IiPFmhfiNN83gcI4pslShNL9omBdunr19x"
     },
     {
-      "name": "창문캐노피 전원주택 비막이 투명 현관",
-      "price": 44400.0,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9508985300&itemId=28335761175&vendorItemId=95418892709&traceid=V0-153-fbee790ff68f13b9&requestid=20261021140129087323592731&token=31850C%7CGM&pt=0&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/8QCIeJ5tuVVVstYN8XF-IinrwU12YIWBYJmmJISqWgdtB79Fh6d6DD8jRWZ24E-L8lPtNo5ce-kxkX9qNFlf7pVX6-j2SgTfag0JtmTPihmBNo8HJfLEiNDoJCifAeb4UXNV3x7I46EwDd-maFVVstLTrXPQe5ngS7CZy2CUsfGeEwyLUcX1mwHE47-HfmV3w_UpNjyOuXjafTMm7ykLE08nwHsdxxBj1tyRT17bKlNEC8KWfFd6Qz2kvKl5AuxHl4sr_D9AWbrBNT91RrtQbzZowcmyRdNfEmi6yvLwjJNZVNCOO_D_VT0jlnSatp-cbMJNoxkLqyihAS7zV_iQB7XUToXys5hndwuqW4YKQDZsnl9Z6p5UJHLLFhzjBE5OKIblhZAhY4w_rsa1MQQocIMl2FSzxZkWUfcWt49ChcsBZo2Yt8-YdzDTR8YN_9m6Vj-qKcW612vFl_Mdd43IHkCvprlKpyWqCl75_Z-IQagyvFlfbo1EW00oGsC9Y-DGlKAVSjyseQA1xo1umtqEr8faQ7WiFqxaq_U540u1Kx0="
+      "name": "귀뚜라미 보일러 조절기 실내온도조절기 와이파이 CTR-65WIFI, CTR-65WIFI(순간식)",
+      "price": 105000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6905560040&itemId=16622881313&vendorItemId=83807438688&traceid=V0-153-286200ef739db99a&clickBeacon=0480d550-cd17-11f1-9833-eec03881f25b%7E3&requestid=20261021151656782056441822&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/KtJB11aFcWW31yysKr9h2I4DT0TwTe-LGY6nVaE7cA01wE8jY4-lwasuvZ77e5YhkhqL4bTYDcArneCLufiAdqMNK4-itnU9dt5TyY_i92i8RwHzOWyj-_nVvPbaEk2pLy6vZPE8Gnf2sObKLjxkALUUp_PCK58bsLdkLULwrO4JkugapkEdUd0BEwcHzZIoGZdHPBtflyzywSsioDXsmsLLS0oYdmZ1dsqT334laBZGgOU2F--3J6lZ90wzaSQ07KGSPH_cSLs8CRcCoBYupp3wqE9oyucG_lJDGZnMXOZA3j8PyZrfiyq3P_Glirt_tJTxEf73DC4KRnaa6fWjqT5cH3y5k2dEfry6quz7CSp-HA95UeuzFII2JfkJMDn0kHdXT9amOAI10fwzvqE8D1q2UXiqQf1Gpl4PUZj_Nehx8BVuZPxyHW9zrbAj9MQS8H8a3fnQuI9jmQgGFmqEnErj_n2ECVy3ZJrrjjXrziNeKjINmqHYmCO-nm_hf9LtbdeLHxo5utf-05QiAobLYi2kkxirH6k="
     },
     {
-      "name": "방수테이프 강력 욕실 배수관 누수 보수 방수 곰팡이 방지",
-      "price": 6270.0,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4338655789&itemId=24707958017&vendorItemId=96030886051&traceid=V0-153-e3d9c33128033744&requestid=20261021140129087323592731&token=31850C%7CGM&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/26nVnWTYu56rboiz2ysxWTtBtuScbyu-J_zEQ1s_MjVEDHNSvoPMHz9lcXMSfiYWl4oSCZXgn6ccBBkIwfZ8bReSLrxKKq5CVWD68oy2DIeEPCH7n0t6UvrSe_V_-OHpuEyBjCk5USGjwQtWI4yKbkBmS0h69OFZer2ZokaG9zbYyoHPw3xrgmfnW9EL5diIqGhwwltRdDReu1UJWHDOI7oaDvSKkmcMc4pMzu8uzO-26R1zh1IGZWa1zfsXViEKjrTFM83IxcMANQr_j5Ntri4h1Blh8OengvvRnFlUI1BHcnMhhdofsRAfKn5j2GSHNLnT4yq3C2riPHmNHtXuRGCShS2-ObkRYnai8zVtUbpd-KnQqSMC9FlFGriw898NY3fe6QcToq4HmjixhOeLHTNlDIVh1ZxIMMshw6ZA7wp9DXac4wBzqULGls7o8NECZAZt0uLjW2CaLyNl6fu7_7asTYZc-KLduXnswH08Y2lcy5YGr476vWwu0g8qWR9C6lKEoKXOwkX1LWcfjxggOsKmhM-xr43kIKNS8T4bug=="
+      "name": "경동나비엔 NR-10E 보일러 온도조절기 재생품",
+      "price": 23000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9456198970&itemId=28135650295&vendorItemId=95107279563&traceid=V0-153-fdcbf7947b366e59&requestid=20261021151656782056441822&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/MjknGmK9uBokqVvWMgdkjSz7HLTz5KGowHL5B47BdMcMivdsqKldPRMan97qR5AyYtLu1NoqMaEoqiw8dTkqx5gRIKYq1Aj-dbNDihQasw7UIzlybgsA8yzTlLu8NyfMcIkkrAlennnGucrvHoiR5zfLG-JW64h8dGvysVITluPuA2eWc2dbzrKI61yiUGJQfSVYdQRKp2K0mK-TSrS6bxPAeLGxgWwIu50HnERYVQNnyzwdWuDbZcqAbIJCNdsu3Rbht6d7AwCu7lIBpg_25hLP0QZ4PAoXdNdkoOvcWzN6FfZq_Ii0rvnBY-oJ4ALmWoPbvYw-7x20VpIOiBXiamXSjXfoO0lf2abafXt-SeSPY3JLiyZRBPiUQKP1_D4h_iKIq6urw_h6RKVkrtmqn9U6-sn6QngYXDchMwhFBBhWq4bQlqnMg9is0VlUFi8RAznzng8UaXNcOsTkareptuGigHkWPiMjmpeJMM4buiGXND5IGebdwrvJtRFFSOg8heLxoDLSiE6SbaU9m41hetmAUMO5TQdC0M_7gD8hchRPxA=="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "photo",
   "message": {
-    "message_id": 58,
+    "message_id": 59,
     "has_photo": true
-  }
+  },
+  "rejected_issues": [
+    "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니"
+  ]
 }
