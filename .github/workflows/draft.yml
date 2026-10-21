@@ -13,6 +13,10 @@ on:
         description: "이 초안을 다른 이슈로 다시 쓰기 (초안 번호, 비우면 무시)"
         type: string
         default: ""
+      redo_mode:
+        description: "text면 주제·사진은 두고 글만 다시 쓰기"
+        type: string
+        default: ""
 
 permissions:
   contents: write  # 초안 상태(drafts/, state/)를 저장소에 저장
@@ -37,6 +41,7 @@ jobs:
         env:
           FORCE: ${{ inputs.force && '1' || '' }}
           REDO_ID: ${{ inputs.redo_id }}
+          REDO_MODE: ${{ inputs.redo_mode }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}

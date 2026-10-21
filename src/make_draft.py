@@ -13,9 +13,12 @@ import telegram
 
 def main():
     redo = os.environ.get("REDO_ID", "").strip()
-    if redo:  # 이미 보낸 초안을 다른 이슈로 다시 쓰기 (🆕 버튼과 같음)
+    if redo:  # 이미 보낸 초안을 다른 이슈로 다시 쓰기 (🆕 버튼과 같음), REDO_MODE=text면 주제는 두고 글만
         d = draft.load(redo)
-        draft.rewrite(d)
+        if os.environ.get("REDO_MODE", "").strip() == "text":
+            draft.retext(d)
+        else:
+            draft.rewrite(d)
         draft.send(d)
         print(f"[make_draft] 초안 {redo} 새 이슈로 다시 보냄")
         return
