@@ -27,6 +27,10 @@ if _th:
         import threads_api
         me = threads_api._get("me", fields="username")
         out["threads_login_ok"] = me.get("username")
+        prof = threads_api._get("me", fields="username,name,threads_biography")
+        out["threads_profile"] = {"name": prof.get("name"), "bio": prof.get("threads_biography")}
+        out["my_posts"] = [{k: p[k] for k in ("date", "views", "likes", "replies", "text")}
+                           for p in threads_api.my_posts_with_views(limit=60)]
     except Exception as e:
         out["threads_login_error"] = str(e)[:200]
 try:
