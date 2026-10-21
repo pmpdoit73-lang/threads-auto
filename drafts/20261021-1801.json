@@ -1,0 +1,49 @@
+{
+  "id": "20261021-1801",
+  "created_at": "2026-10-21T18:01:40.869201+09:00",
+  "publish_at": "2026-10-21T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "환절기 경량패딩 꺼내는 시기, 패딩 세탁할 때 섬유유연제 쓰면 손해",
+  "angle": "좋게 하려고 넣은 섬유유연제가 패딩 털을 코팅해서 숨이 죽고 보온력이 떨어진다는 점",
+  "subject": "경량패딩",
+  "hooks": [
+    "경량패딩 꺼냈는데 왜 이렇게 납작하지... (9/10)",
+    "경량패딩 빨다가 나 뭐 한 거지? (8/10)",
+    "얘들아 경량패딩 세탁에 이런 함정이 있었어? (7/10)",
+    "30년 살림했는데 패딩 이렇게 빨고 있었어... (8/10)",
+    "경량패딩 세탁, 유연제 넣어야 폭신한 거 아니었어..? (6/10)"
+  ],
+  "text": "경량패딩 꺼냈는데 왜 이렇게 납작하지...\n작년에 세탁기 돌린 게 범인이었어ㅋㅋ\n섬유유연제 넣으면 털이 코팅돼서 숨이 죽는대.\n난 이제 30도 미온수에 중성세제만 넣어.\n유연제 넣어야 더 폭신한 줄 알았는데..?",
+  "image_prompt": "Amateur smartphone photo of a flat, slightly clumped lightweight padded jacket laid on a bed in a Korean apartment, next to an open drum washing machine visible in the background and a bottle of fabric softener on the floor, dim indoor lighting, slightly tilted casual angle, unedited, no people, no text, no logos",
+  "photo_query": "puffer jacket laundry",
+  "product_keyword": "패딩 전용 중성세제",
+  "benchmark_note": "42K 글의 '상황 한 줄+말줄임표' 첫 줄과 셀프 디스, 843좋아요 글의 살짝 틀린 추측 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "쉬슬러 구스다운워시 전용 액상세제 본품, 650ml, 1개",
+      "price": 7700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=2322706995&itemId=4011979523&vendorItemId=71996190778&traceid=V0-153-278a647f7c362191&clickBeacon=1a98fea0-cd2e-11f1-977a-a37bb7ea75dc%7E3&requestid=20261021180212301016884628&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/ZZoNa8wyVbNx_Z4gZblYwCKIl3lOxEyof7Aohuh4jkFTWc2C68JFVNbeJMlE9v2kZgCUreoigdBLN3vt3lQ0PHSykLaPmcJBf11zfZ_zxnPu_xcP5etf6POJhQtbPWpM4tM_Vjc7FvXkoOtOyCvMbp7zDna1qFL0Nb_TMsRnm0kHWzMw9tIsCRERNQktAQxZrtcORvGUswBQixYCZnXN_nr4qUZNqWe6_hQYp6yPzOGMgkWytwjkn24bZQfWt57v2FzKRwIDPQsF994xvpmQeNGGSI_6cqkyg50QwiEwr368J4QO2oDi1RoTdRcX-PwrjNppheDbpZ8xmHeUeiB6BQjPxYMLBSHpwXVk8wDXAZflNWb8sb7fm9sxn8olAmtQvCLWJS2VndY9veWiLZsdoVBS3SCNZC1oX4B0_zPg2tZ12c3_EqtH5-Ou7W1ZZjvUXPlxsSHsSlIgSUnXl-RbyBlOcrDmfCRRN0KJWAM4U_oQsVZOEz4lYjUQKOIOCk8Qk5kUgTMa1X0="
+    },
+    {
+      "name": "[옷 손상 없이~!] 패딩 전용 세탁세제 홈 드라이크리닝 세제 패딩 얼룩제거제 구스 다운 세제 패딩 볼륨제 중성 세제 가정용 손빨래 LUPEIYA 포장증정",
+      "price": 11600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9777088810&itemId=29268663765&vendorItemId=96190544817&traceid=V0-153-f7336bb1f9460c8c&requestid=20261021180212301016884628&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/hvk8ZRsAgRCG4UPGhiNDTbWQvAJ83O8hypWPjFcwUeOXRWO1Kp5-56aR9sic25W3MGxcL3grrPl_jzJLY5rrqE8MSmhu_QRvDuTz74DP0ALWexBdWQovBglukIjtVJli3NIt-WvU3ysIsqpEJTnaOypeDwB6rezI3wPTLVkiCcEAQSVQboGIVyBel59X4PBpJ9K_bGsYSeihWlEq2wXRG2hEzmAdIEmgq1g4lv7fQ6Ldt-K_3pqBrA4czR-HZZj4mu26gkKwUgE6Zm3zxBHwBCb6wDaYcZVpMGq895Sb8ySPyQrrJZSUZdHClxrcuj81djFpFKKPfBlofAqvUAtGbUt3t6jjGB7roWSrE-N387ebKrz2fAAOrdvt9igYjJFf1lQ9t-atZ5bWKcqp_dlM5ziIUlNNBJ_iPT-bErUCmzMk6qQJQiE2nQtOH1t4k-LHZ492PpTLgbrZRgjpeq64CNu7IZ8w17ZNBiKPS3B_VimBKxqnM4nZ0ub5JeP0TioQFemMh3xJISdZKUs9HeP00TtkCGADPtWC51IqkTP-i-wX6w=="
+    },
+    {
+      "name": "[옷 손상 없이~!] 패딩 전용 세탁세제 홈 드라이크리닝 세제 패딩 얼룩제거제 구스 다운 세제 패딩 볼륨제 중성 세제 가정용 손빨래 LUPEIYA 포장증정",
+      "price": 13800.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9777088810&itemId=29268663763&vendorItemId=96190544813&traceid=V0-153-f7336bb1f9460c8c&requestid=20261021180212301016884628&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/X1cMEuj6udywD-leXyw3RqFN5ZGlxEyi-9EvDIX7hoSo0la5rlAMWIRdEYuAOeJuvkdqGavoSwBUJFsikV0fQi6D2FOE7IyO2fEFbCgA9rgeDbLm8PiZNBEsRiR_1FkLsrBdX-pnvLZlX450Qr7FuPfj5FUVQKZWP8YfGGTu_QfbYn5kG1Jgpgq1EjuxKLoh4agprQebjOTQXA_V8oQPgse8i8zag9BgpRMLGG_LPk8FyvRPf6a1YVTCG5Aug6lI6BIdw_QShzggsjOAW6WqSoyJz4nBCQQQTu2PE-bwK2Ou5CsUWl4_iTdleNcFbZJqOkimJRtYu7vwxYZivE9JybUz27QnL17L8HPn7ve17EgT15InJIVjrUm-a5S1Du55N5_C_bKm_0bCSW2oXmADJrfXBlh-areGbfZss1tztgiUEPLdGWSi5xAMXtJaS87Qogiqo65u6RKtidmkQ69Ecy_GWRVVTCdGT7bt7EwS3SZD66sLkpdRJYao5e97gcZLkn3ibjQNGbYBhPF10KLve-GqjIqBtrPhZah3bemFB8QbOhs="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 61,
+    "has_photo": true
+  }
+}
