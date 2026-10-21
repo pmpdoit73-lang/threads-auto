@@ -8,11 +8,13 @@
   "angle": "갑자기 추워져 보일러 틀 때 바로 ‘외출’ 모드로 꺼두는 습관이 오히려 가스비 손해일 수 있다는 점",
   "subject": "보일러",
   "hooks": [
-    "보일러 외출 버튼, 반나절 넘으면 손해야.",
-    "10도 뚝 떨어진 날, 보일러부터 이렇게 해...",
-    "보일러 끄고 나가지? 그게 가스비 더 나와."
+    "10도 뚝 떨어진 날, 보일러 앞에서 나 뭐 한 거지? (9/10)",
+    "30년 살림했는데 보일러 외출 버튼을 거꾸로 쓰고 있었어... (8/10)",
+    "얘들아, 보일러 가스비가 이렇게 새는 줄 몰랐어..? (7/10)",
+    "보일러 외출 모드, 진짜 아끼는 버튼 맞아? (6/10)",
+    "보일러는 잠깐 나갈 때 끄지 말고 온도만 낮춰야 돼 (0/10)"
   ],
-  "text": "보일러 끄고 나가지? 그게 가스비 더 나와.\n식은 집 다시 데우는 데 힘이 훨씬 들거든.\n몇 시간 외출이면 끄지 말고 외출 모드로,\n실내온도는 1~2도만 낮춰 둬.\n너네 집 보일러 지금 몇 도야?",
+  "text": "10도 뚝 떨어진 날, 보일러 앞에서 나 뭐 한 거지?\n딸한테 아는 척했다가 한 소리 들었어ㅋㅋ\n잠깐 나갈 때 꺼 버리면 식은 집 데우느라 더 쓰더라.\n난 이제 두세 시간 외출이면 온도만 1~2도 낮춰.\n외출 모드가 무조건 제일 아끼는 거 아니었어..?",
   "image_prompt": "Amateur smartphone photo of a Korean apartment wall-mounted boiler thermostat controller next to a light switch, slightly tilted angle, dim evening indoor lighting, a lightweight padded jacket hanging on a hook nearby, ordinary cluttered hallway, no people, no readable text, no logos",
   "photo_query": "home thermostat wall",
   "product_keyword": "보일러 온도조절기",
@@ -41,7 +43,7 @@
   "has_photo": true,
   "format": "photo",
   "message": {
-    "message_id": 59,
+    "message_id": 60,
     "has_photo": true
   },
   "rejected_issues": [
