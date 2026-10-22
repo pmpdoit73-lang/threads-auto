@@ -1,0 +1,49 @@
+{
+  "id": "20261022-1400",
+  "created_at": "2026-10-22T14:00:48.799927+09:00",
+  "publish_at": "2026-10-22T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "'5도 이하' 초겨울 날씨에 첫 서리…내일 아침도 춥다",
+  "angle": "보일러 외출모드를 절약 버튼으로 알고 쓰다 오히려 가스를 더 쓰는 습관",
+  "subject": "보일러",
+  "hooks": [
+    "첫 서리 내린 날 보일러 켜다가... 나 30년 헛살았나? (9/10)",
+    "보일러 외출 버튼, 아끼는 버튼인 줄 알았는데..? (8/10)",
+    "얘들아 와, 보일러 외출모드 원래 이런 용도였어? (7/10)",
+    "남편 보일러 쓰는 거 보고 웃었는데... 내가 이러고 있네 (8/10)",
+    "오늘 첫 서리래서 보일러 틀었는데 이거 나만 몰랐어? (6/10)"
+  ],
+  "text": "첫 서리 내린 날 보일러 켜다가... 나 30년 헛살았나?\n외출 버튼 누르면 아끼는 줄 알았거든ㅋㅋ\n근데 외출모드는 거의 동파 방지용이래. 다시 데우느라 더 돌더라\n난 이제 잠깐 나갈 땐 평소보다 2~3도만 내려\n너네 외출 버튼 아직 눌러?",
+  "image_prompt": "Casual smartphone photo of a wall-mounted home boiler thermostat controller in a Korean apartment hallway, slightly tilted angle, dim morning light, plain beige wallpaper, a coat hanging partly in frame, ordinary unpolished snapshot, no people, no readable text, no logos",
+  "photo_query": "boiler thermostat home",
+  "product_keyword": "보일러 온도조절기",
+  "benchmark_note": "4만 조회 글의 '상황 한 줄+말줄임표' 첫 줄과 셀프 디스 반전, 마지막 경험 질문+ㅋㅋ 형식을 가져옴",
+  "products": [
+    {
+      "name": "서일 전자식 자동 온도조절기 국산 S-201 실내난방, 1개",
+      "price": 11620,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6247642143&itemId=12646121872&vendorItemId=79913592727&traceid=V0-153-2df24217d349d22b&clickBeacon=9d7b7d00-cdd5-11f1-87c4-75fd1fa50c8e%7E3&requestid=20261022140117819170991354&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/IsUuHzEDPpBu-jd4IpcsLdLVpW1qqhYHRNvFH05JD7s_Jbc59fH_7iHY-XGfjccQRRV1mY0n5SwXjYbU9m54EhuZz5qN-FAf8Ex7Ohj2XtFSiBKnagvgL0HZU2p1KYly929quSMV8KNFx_DUxw1FGARm6OxSMK2G4EaqUXlDtRf_Px3G6g32eK7zUSUc-074ie68v2cP7W5_OOQmA5B2gk8iPldnNi34uvK8Kp9OpRVzpqEjPyQgKuXanm3UmrjF7o0jXEE-LYeSL0rabuI58DQaGIDj7A-yOqFdYTGD8Hzr5n9O1xBrzYaRRnJMZMG9R3xXjrNASlP-q0xtPxkcU80SkZygQ8a1VDOzUtFjuIXBYE-ZLPyJwKGrU5XNWeQfmFqilO4ZCtvI3kjavwFflftKAOwxPiYNHa-de1XJHwltnxvRQQbO0x7WmR726WSoyAeXtFxtq2Z8Hth_ahACeeycw6DeCjDn8f_KLa-3z1RkrLQhGZyyN0Ah905BNF3CZILLqVS7C7zh1WAZIWXIhMQ_-AEiErMZoTCgsvrckzXQ1wNjUt-umoLdW3gVEIfnwCwJD9SbogxbEQ=="
+    },
+    {
+      "name": "귀뚜라미 보일러 조절기 실내온도조절기 와이파이 CTR-65WIFI, CTR-65WIFI(순간식)",
+      "price": 105000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6905560040&itemId=16622881313&vendorItemId=83807438688&traceid=V0-153-286200ef739db99a&clickBeacon=9d7b7d00-cdd5-11f1-876e-1ace95a25675%7E3&requestid=20261022140117819170991354&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/-CCXqnwWWMnivML_-OAcfNq4lQrzXC8D-bxQqFUSsmVETxnm10bcVRBG-46tlk9p7iYzYFSRYXiJGbG-OisWoA589FTIgtapt_l5SAWFbjY7bYGYdG3xMYd55n66iX68cEm-iEgyShJbNhJ7PDWJ_fhZNqvD-gNCqhRsuP1fOai2ZD1SZd0dsL1ebvPSJ03_hpkzFlGAsvThoD4dzip8Lh5Q7ggWLvpG4-vrLAw9F1yJfJ3V8wjFZ8pFhNuc1rsLfzZBX0oCeTKMd00lyx3_ScS4lH06sq82FWuwAalbiRTTf3mK4WBjKTb5Z5iQR_JjO6DVn7n2odIHUhNbuHUtPCLRL04VpzoEFB93sv8hy84ZmQF5i1_VpjnDbJA3VO2OA8id-2z7vhwN38tulUJlFNpcTE5usbWnxZAcXH0jEiJpdy9btZwmRokO6_QX1IK3kd32V9lmJdp-c8_-zyAWLJ0s3noLxHLL23As5Est2k7P5vPGFjytZSI1EMcrNuFDHNxGjX8Ix4whzmhRWt8UYqQ03-j313E="
+    },
+    {
+      "name": "경동나비엔 NR-10E 보일러 온도조절기 재생품",
+      "price": 23000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9456198970&itemId=28135650295&vendorItemId=95107279563&traceid=V0-153-fdcbf7947b366e59&requestid=20261022140117819170991354&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/5B2ZRIKyxrAFcnno5DKj4KIK7c0JvdW0Z29GkvulL6XEu1hWV3j-PJJZ7RU0N0pcivxUWC7jWc-XI-lP2HXv_boXAnmmlMBmVQBzbMk__BQ88tg4xWEaaHFmcjN8rwnHCp7cr43GhljCm7wuAIujZmZ8MaR9RVr7b8QFrvsobSYFNf9RZE8eGCtAWqiod9_irF6TP-X16uegBWNVYryPvmMkAU5n3fETJMNdPwYGVn6r24MF_cpsFPlUYmLi6rK3s8YnKq7jUPuj--J5RedJyNryi21w-C_fbJRpwUccMld3xT4dCGX6kalLnKL-bMsYUOKKjOOpWTBvuwPE_WL9v3k28i1YtGXI2JdpIKDLf40bZSZoY1IHa8Ak8Nhhf4ncEiOpATbqAJrd6Vsxucxr2pavo1V6VPjKd8L6CHj-ijZJZxw0pmT6ruf7j_QVIKBtVYyrjGidic4fQ2l39xgSo3a01LN2HG8RhUKpd5oLxEwlovGZzGxdxin944RYdnQTyLC55wtegcwHT2bY94C2H_bft85rlPYgxocNQvM5_Ouz8A=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 64,
+    "has_photo": true
+  }
+}
