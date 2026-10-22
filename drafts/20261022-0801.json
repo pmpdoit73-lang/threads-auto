@@ -2,7 +2,7 @@
   "id": "20261022-0801",
   "created_at": "2026-10-22T08:01:00.835539+09:00",
   "publish_at": "2026-10-22T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "전국 내륙 한파특보 발효…아침 기온 전날 대비 10도 하락",
   "angle": "한파에 전기장판 켤 때 처음부터 고온으로 계속 두면 전기 낭비·저온화상 위험, 예열 후 낮추는 게 이득이라는 점",
@@ -45,5 +45,9 @@
   "message": {
     "message_id": 63,
     "has_photo": true
-  }
+  },
+  "threads_id": "17905887984598133",
+  "permalink": "https://www.threads.com/@kingreview0669/post/Dex3IDiji7W",
+  "reply_id": "18021445865728422",
+  "published_at": "2026-10-22T11:01:32.193355+09:00"
 }
