@@ -1,0 +1,49 @@
+{
+  "id": "20261023-0800",
+  "created_at": "2026-10-23T08:00:55.768811+09:00",
+  "publish_at": "2026-10-23T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "아침 기온 5도 안팎 '쌀쌀'…오후부터 남부·제주 비",
+  "angle": "비 오는 날 빨래 실내건조할 때 세탁기 탈수를 기본으로만 돌려 마르는 시간·냄새로 손해 보는 습관",
+  "subject": "드럼세탁기",
+  "hooks": [
+    "오늘 비 온다길래 드럼세탁기 돌렸는데... 나 뭐 한 거지? (9/10)",
+    "30년 빨래했는데 드럼세탁기 이 버튼을 안 눌렀어... (8/10)",
+    "얘들아 와, 드럼세탁기에 이런 게 있었어? (7/10)",
+    "드럼세탁기 탈수 버튼 원래 장식인 줄 알았는데..? (7/10)",
+    "비 오는 날 빨래 쉰내, 드럼세탁기 탓인 줄 알았지... (6/10)"
+  ],
+  "text": "오늘 비 온다길래 드럼세탁기 돌렸는데...\n나 뭐 한 거지?\n실내에 널 거면서 탈수를 기본으로만 돌렸네ㅋㅋ\n난 이제 '탈수 추가' 한 번 더 눌러, 마르는 시간 확 줄더라\n너네도 기본 코스 그대로 돌리지?ㅋㅋ",
+  "image_prompt": "Casual smartphone photo inside a Korean apartment on a rainy day, front-loading washing machine with door open and damp laundry inside, a folding drying rack half-filled with towels nearby, gray light from a rainy window, slightly tilted framing, cluttered and ordinary, no people, no text, no logos",
+  "photo_query": "laundry drying rack rain",
+  "product_keyword": "빨래건조대",
+  "benchmark_note": "4만 조회 글의 '상황 한 줄+말줄임표 → 나 뭐 한 거지?' 셀프 디스 구조와 마지막 경험 질문+ㅋㅋ 형식을 가져옴",
+  "products": [
+    {
+      "name": "New World 접이식 빨래 건조대 3단 이동식 실내 다기능 빨래건조대 170CM Y317B, 크림 화이트",
+      "price": 60000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9555566635&itemId=28512714710&vendorItemId=95175549528&traceid=V0-153-f1aee238815f9b4b&clickBeacon=82a5a680-ce6c-11f1-886a-d9187fb3d9a5%7E3&requestid=20261023080126808224473190&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/WZ0lf0DFOqOrTkahWU5BgMiXw-w-vAGxoNbcWSUUz9zM2Ned9gj2-AezfByMImyqCjsU6I2T_F15lMUKDEklfoBmx1giGjKsuHhykVlHUgDkd684pJIaQGr9A-mN_8ethiidDe5_Jywc2bj32IGdPzxkycAp1b4oCpLjrNmRb-jeKu1x5AfOJSYu5vfsNlvPa6hyYaWGM5wd9XqNoINJ-udjM9mNuXBnMVwPymFmVLPWfrC3A97kDRszG9YFPlLyv6RxzfYTzAW0enykZkRJY9FVbYPZGL4czyxkJWyz7tGOxSn7PUxolrGxEexXiAhgyq8AkaMoc-DMn-5bij6ULA2y37oEsm9nym1SEXzoZqKBmBza9sPbKzMUbmV2Ki3jqkgKhM5yCeud3-6WkpdcFE7NK-h8B1xz-dv1kowG0CBZ_tWTOBg7U9rihvSVXxNwnQsONUhkJK0Ql5O37XVSq3fqG2X7xhUUKQFnkhEIuWOAUgpXqwlxN4ZlkTsYcRMNDYwYrblOaG3AvrI2c1HrtiikdIwyNZg="
+    },
+    {
+      "name": "튼튼한 접이식 빨래건조대 대용량 이불건조대 다용도 실내 옷걸이 행거, 건메탈 그레이",
+      "price": 39120,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9345055920&itemId=27717670723&vendorItemId=95691109864&traceid=V0-153-71a5291931af2182&clickBeacon=82a5a680-ce6c-11f1-9a2c-13769385b2f3%7E3&requestid=20261023080126808224473190&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/2W3gEe7bBEnXavA-2TCXdUuC8Wu4F9GmJjTbegs0KsqZ5aIv9iK3HSTnYiJ1Lc1k6VDyIZKmK4zz8GAhsavtFF8VrmOvGvVZ0H0No-q3wpmmoW0ZNfd0UMnjlePEpDTUlvRwA8ib_u5j1EZZjevnV8aI8x8SNskV2LwjT32iEPt87n4KQSHmxth94uG8vb-LMs1L5IcOaQrMqH2ImDX4WwkpXcMGUJMjC2X_vROOCbD9C3OWj6Ilwd0xn9w1lZUQdQiRtZ2W3R1L7uafFdon2Tlzzs54S3OI7uOxgUIYUMYjxSeWUem4hIIZyAkA25W_zX-LLLftR7Qf9XtgMhLSnGwyRyIdgUugml_8AihLqflPc1p7xsJqy81JIzeVM435Drz3oxgb3-M3kkeK156lS9ZGPFaKZCdwNhU0g3gufLgkyCTjehBoQ4fOM2touWI4Ck84UZjSfFYEApgkR1AcyF3sS6xs6pISpSgO8jlReZ390FvF7XXzNoMzDvg-xasBFI3cH2rn-ZlKQoF9mw6uUuayq2QPnWRG5BZ5kfv67K1hRpFRnMFZKDg6zIIqfGrpUJUr5hL2GY3X"
+    },
+    {
+      "name": "코멧 국내생산 홈 접이식 빨래건조대",
+      "price": 13560,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7581825284&itemId=20015784321&vendorItemId=87112585380&traceid=V0-153-6060c09f66ba3764&requestid=20261023080126808224473190&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/8kay8Pi2CdiquolW8qPysdnO32hL-HL5SV1TxGmdTPQHG38B68Lhpw7MdtI6um9tY4F5OpCiKXKsCv2Y2ayw2mEIY8bvfWey3bLXgIZvpEnU88vBELDQ38Oooxt7hFqcBHg6xsR8RwsM4kGtNuPC7qoVcvJzP3m3biUpc_do5Sndj0bTF6luA-Bibr-zrgOuMEMs_jN1UEFKHP3GVWrumtC19cLSk2Js-EOYdMK96oawBzcnKEUxAaUANfFa3j6eBcTsjfSKFQSTid0THzbMObubGNrVcWP3ZtcBzzd3CzKfyvuBcAICvW7f77jXm865C5Jzq8iZg1ztroUcPfDytSBnx832C_1jO6Jo3iwk5pwJoPl-dqrE_YcY3Lgkwszpxgj6JS3sdClOCxy9Y6QFiZEcF8CA8xdwKWm8qr9tvFS1y0L_UD-BhbYy4KIj1i9HfHQoqdPuHsjhaAm8KHkxmmh0oUTeDw-zMH8sMdFbNgmuLkiREF0xWHu41p61yjaDAPcKfbRanudESnWbkZscqoESmRA="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 67,
+    "has_photo": true
+  }
+}
