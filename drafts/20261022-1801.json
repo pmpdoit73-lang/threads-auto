@@ -1,0 +1,49 @@
+{
+  "id": "20261022-1801",
+  "created_at": "2026-10-22T18:01:33.679594+09:00",
+  "publish_at": "2026-10-22T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "'깜짝 한파' 뒤 오르는 주말 기온, 남부엔 비…태풍 '참피' 25일 최근접",
+  "angle": "한파 뒤 비 오는 주말, 빨래를 실내에 널 때 문 닫고 말리면 잘 안 마르고 냄새나는데 제습기 옆에 두면 훨씬 빨리 마른다는 점",
+  "subject": "제습기",
+  "hooks": [
+    "주말 비 온다길래 제습기 꺼냈는데... 나 뭐 한 거지? (9/10)",
+    "제습기 3년 썼는데 이렇게 쓰는 거 아니었대...(8/10)",
+    "얘들아 와, 제습기에 이런 쓰임이 있었어? (7/10)",
+    "제습기 그냥 장마 때만 쓰는 건 줄 알았는데..? (7/10)",
+    "제습기 돌리다가 남편이 웃더라... (6/10)"
+  ],
+  "text": "주말 비 온다길래 제습기 꺼냈는데... 나 뭐 한 거지?\n방 문 다 열어놓고 거실 전체를 돌리고 있었어ㅋㅋ\n빨래는 작은 방에 널고 문 닫은 채 제습기를 바로 옆에 두는 게 훨씬 빨리 마른대\n난 이제 그렇게 하니 반나절이면 끝나\n너네도 거실서 돌렸어?ㅋㅋ",
+  "image_prompt": "A slightly crooked amateur phone photo of a small Korean apartment room with a white laundry drying rack full of damp clothes and a dehumidifier placed right next to it on the floor, rainy window in the background, dim natural daylight, cluttered ordinary home, no people, no text, no logos",
+  "photo_query": "dehumidifier laundry indoor",
+  "product_keyword": "제습기",
+  "benchmark_note": "조회 4만 글의 '상황 한 문장+말줄임표 → 나 뭐 한 거지?' 셀프디스 첫 줄과 마지막 '너네도 ~?ㅋㅋ' 경험 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "LANGDOO 제습기 2.5L 듀얼코어 강력제습 가정용 제습기 원룸/침실/웃장/화장실/욕실 실내건조 저소음 절전 미니 제습기, D2",
+      "price": 278800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8797000669&itemId=28549461147&vendorItemId=95476346201&traceid=V0-153-e8c5a3a135029994&clickBeacon=3bff4f80-cdf7-11f1-a884-6c975bde9bab%7E3&requestid=20261022180157184093458216&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/3o7QZO-qUEkw1b_P3mGbnEH9xeyRdWEoDd1fG5uKKt-iNdOy21Z0IT5mC-u2EIICksaZqpQ9Ztq5IUZgRwtPR3hepJ817RBAKINELZleBTmJD0NuJtlEu7YE_Uxo8XcUq2aijo15SaV5hEWUuTG0JcQh5wRzh8lg8ss2FJERjjYCxOtZFmYIbuGHhsWiKB04Z14fBmKQYzjTmeaoy_EGsTaD3k_SsyNeW73s863sCh6mY1fZyYQiMS85SbDW-UEQnW9JSHQvm2XMma_ddMagSppX1Tc2IAu7mR8C1Z_Cs7gb8uMYg5goWhmRhLXHXyZjOKiq-CSTApSPO7k5V3i3mcJHzs3S6YRFrzjIFSVpTCVNSDdaAnG_DZ3d5Z2ePq8eo6_m6d3ESBYUw-hxQygf0Lege3gAH71P3mGpisTiW9sbydTa3iI0XOBzglf4OiugMj2wPABOcoFH4vC5UeTePjr8m1WmwfFl5S9DK5V0hJCKG20V6rLgLE1uVUiWc4sG6RoCwkrnB9rAYIQ0tcWzfjmAbej083N6pA=="
+    },
+    {
+      "name": "몽트라드 초슬림 12L 가정용 제습기 원룸 드레스룸 지하공간 빨래건조 연속배수 곰팡이 결로 예방, MDF-3012L",
+      "price": 119000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9546099946&itemId=28479417927&vendorItemId=95429587712&traceid=V0-153-5da771ba131982d9&clickBeacon=3bff4f80-cdf7-11f1-a2eb-6db28582f662%7E3&requestid=20261022180157184093458216&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/ZZ4IuDrLNkudNrokZSh8ORYUDcUQIYxX8hw793qERWrTo6QqnRou3c8Rs40_T4DD7YziOnf0xkFTPvKDCo6_VtyTRtR_gLrSFIBOuc1WCYJUheXZzGvzMUrvqUR9sR--_pOEm7AZTPuOVrEvh3zraf1T6QWxPlN815DWvL3cEh8BkzuKavfkw8D2RSbcmDLuOQP4e-3-1S8l5L0M4lvpvz2w_MTtHjQrfjB81YyR8S1yW1Qi25PgWzQxlIpagCYC_vyaBRmFvotYppBn77Z3KXdNzMNMfwFm3WAewjf30R_dPpMq0_k27SPLWl5DZvNYIhDf9gatHam7iePwjodycmzxfHuLsmdbV6TY7UvUpzFyEEt7YkNSy0soYFO2zmmF-S73MfXJUMI1uzHhf_WcoJD5N5AtS85xO3PXDxdXju1mgM05t-xBd9YIHLaFI0NbT4i1FfMfV51zTx0PWhV5fjFfWC-9jEEvbqsd2heZ3nAQ085jqt7Qn8AvYQrXQ8_83tMdIJ-f_3CuZAEJ8F3Pj0sN3puWdiJSXA=="
+    },
+    {
+      "name": "FANOBO제습기 저소음 제습기 미니제습기 4계절겸용",
+      "price": 39900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8322873484&itemId=24024152330&vendorItemId=95467305384&traceid=V0-153-7906d46d002e968b&requestid=20261022180157184093458216&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/MWRHrVrJGcazWM2lMcEYR4TADYngyNo-FTNENo3Xl07pun6MvYuOtx7m0X63uwcP22oUTf7wmaeaS60kt_NYl0LA4OrRpEgdPmfE9XAOhuYCOy7V9F3WkZSmXxSvC13mLAMVZod0kfvt9Equ3kQ7IDrtorhuYr6cUIoI4SRLGwa-gDIlQ3dCvARtqtLfkiakoaGQAVpt0aeJmc95up3Nkid59UsFHkAb5cxhr0jHJOjOuhDduFKYdUm8HpyW2lS-1vdA2Nykjq_nXKpIegLdBQIg8bQ1G-wHgziN7cXbuOvaL0kUfx3AEWsLeODYuc9Cyr3PbOvg_ok6kA9UWuc0bOQ44OJ4NhdptcvwXHEDPH5heEKSrSUeF5Un1MvN9dtCIBp-JF9DQ2extfSNXvO0WU1cRfW5E4ooR78X3xe2fFWNIJ1s_goVfQCuncVUOg3tOdDMrwVHxQmQN8D8pbpt6zMC6atMibklJarTPoJgP3_qjorGCSDzC-k8tda545HmymeErf_TOL_F_w7idpy9VOflfKzC4aXdyCwEwQoXyKKfl9Y="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 65,
+    "has_photo": true
+  }
+}
