@@ -2,7 +2,7 @@
   "id": "20261022-1801",
   "created_at": "2026-10-22T18:01:33.679594+09:00",
   "publish_at": "2026-10-22T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "'깜짝 한파' 뒤 오르는 주말 기온, 남부엔 비…태풍 '참피' 25일 최근접",
   "angle": "한파 뒤 비 오는 주말, 빨래를 실내에 널 때 문 닫고 말리면 잘 안 마르고 냄새나는데 제습기 옆에 두면 훨씬 빨리 마른다는 점",
@@ -45,5 +45,9 @@
   "message": {
     "message_id": 65,
     "has_photo": true
-  }
+  },
+  "threads_id": "18130926565835614",
+  "permalink": "https://www.threads.com/@kingreview0669/post/Dey7yVkFGZJ",
+  "reply_id": "17950559298339952",
+  "published_at": "2026-10-22T21:01:23.176549+09:00"
 }
