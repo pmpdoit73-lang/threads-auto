@@ -1,0 +1,49 @@
+{
+  "id": "20261022-2201",
+  "created_at": "2026-10-22T22:01:22.952463+09:00",
+  "publish_at": "2026-10-23T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "'깜짝 한파' 뒤 아침 기온 뚝, 전기장판 꺼내는 시기",
+  "angle": "1년 접어 둔 전기장판을 꺼내자마자 켜면 접힌 열선에 무리가 갈 수 있다는 걸 모르는 점",
+  "subject": "전기장판",
+  "hooks": [
+    "전기장판 꺼내다가 30년 만에 처음 알았어... (9/10)",
+    "이번 주 한파에 전기장판 켜다가 손 멈췄어..? (8/10)",
+    "남편 보고 웃었는데 전기장판 앞에서 내가 이러고 있네 (8/10)",
+    "얘들아 와, 전기장판 켜기 전에 이거 한 적 있어? (7/10)",
+    "전기장판 겨울 끝나면 원래 접어 두는 거 아니었어..? (7/10)"
+  ],
+  "text": "전기장판 꺼내다가 30년 만에 처음 알았어...\n이번 주 한파라 꺼내자마자 바로 켰거든ㅋㅋ\n1년 접혀 있던 열선은 꺾여서 과열될 수 있대\n난 이제 쫙 펴서 반나절 두고 켜, 보관도 돌돌 말아서\n너네도 꺼내자마자 켰지?ㅋㅋ",
+  "image_prompt": "Casual smartphone photo of a folded electric heating mat just taken out of a storage box, lying on a wooden bedroom floor next to a bed with a plain blanket, visible fold creases, power cord loosely coiled, slightly tilted angle, dim morning light, ordinary messy Korean apartment room, no people, no text, no logos",
+  "photo_query": "electric blanket bed",
+  "product_keyword": "전기요 전기장판",
+  "benchmark_note": "42K글의 셀프 디스 구조(남 보고 웃었는데 내가 그러고 있음)와 말줄임표 첫 줄, 'ㅋㅋ'로 끝나는 경험 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "일신한일의료기 27년형 20온스 두툼한 전자파없는 원적외선 전기장판, 차콜, 퀸(200x150cm)",
+      "price": 141000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9753791836&itemId=29205458178&vendorItemId=95980114953&traceid=V0-153-9c50581eb64d9782&clickBeacon=c4be9f80-ce18-11f1-a2f2-b18456b84b75%7E3&requestid=20261022220159986289863315&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/2h-cnoeuUkdvMIeP2oGObyiwNODyAZIehlYGMlVTGev1qLE_igplWomXnMY-dpcf07PO4PVkJFnTfRftsnHkU6UTkgukOJCUf6ZM8YnurhYdAeR1PN8L8R1QuRDndvn4iVxgG9SZUbTH_jWO2awcDL1c-0XEIbGkWa_fNrdz6URl4iGmbNL7B2LkDmiIiF86TDt9FZqW282vA8LfZ-1oxM0yTjn-zYOlf2eHUeJQSjsNq1b2GlO__eqlHQOHBi1eR5C6FupgmWFkIOOcEQaDbWMKInGhSJzb1futPSC4v-yUKN1-p_a9Pt97gD4QPDpLDUjIa0Y_iRUP0ddg5hfqF2tlsnoUb-l3TkUlc7VnD-pIrROXA0RQZhPuSQCu2ZfK1zpAfAVDz7E5lX8UfA16-UrXsEPoUq3xWuPs17e_1549Z_Oz0XKt-Nwtq2Y4GHGH5BXXgbc-ip5PXwQ_GEfHU8-lXYjCdtA5vuKSObzl1rUb-1OAOsgBoihIBltANZXutVmLb2iNL97MRZxjPznYQSM6gsr-1Ka2vQ=="
+    },
+    {
+      "name": "[100% 국내제조] 한일 프리미엄라인 전자파없는 탄소매트 전기요 양면, 멜란지네이비, 슈퍼싱글(100 x 180cm)",
+      "price": 89900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9045594346&itemId=29101626328&vendorItemId=96026717513&traceid=V0-153-1eb240bc9b0e03b5&clickBeacon=c4be9f80-ce18-11f1-8b63-a1aa99c9464f%7E3&requestid=20261022220159986289863315&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/v8m5e26Uo2vhYZI7v9qdQnJZA21RAr7MADNbd35QwzY_26h9RXbsnPqHEqZHOtiJl0rpD0ehNbpph_urAnvLC8-QRhc8GGiFVOielVr2Mvp5xVOE7oWmgpwR2Ij46EwVh5yzrUP4gQ7FvCJ9yqoTl_08E3GQqz_mfOyqbFmOy8f7dVuFFIDrhQtyWynHDPhoQZwbyFdakT00IALb5ZgEo5-LD0UIdqzWELoN8BDWeMlljj-pPu09_gpDMKzhDuzFrdU8H6EnXY3mmAjKbAIsnzZ4qg94rAOyKurubUBOqY3pzoZckW0cggNkFqrrbxxq_9Sbx3Qd7VnNVa5tsdPp1Sn1--PDsKaAz9zwhTFx6lnLk2oJHe2NCu1d-q_hff2Fd8qczehOxv7kS9JdOjfVYuqa1Zh-I82W6M-uAEkdpNscvvkzKrH2hKzSdEreCvQvtvIEDNZacc1TzE9H4srtk1z7fSzfAMb-N37yUcH8ZH-JUhCayTR8lKL13l-B8FbJCS32Nvf7_USZKhdFKbmoT3zT1MMmv5vS"
+    },
+    {
+      "name": "듀라쿨텍 탄소매트 전자파없는 카본 전기매트",
+      "price": 44900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9752132795&itemId=29201322792&vendorItemId=96121663901&traceid=V0-153-e953a97454cd0c2c&requestid=20261022220159986289863315&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/-lq4zVoPDsxVyelu-lEKgBitNsz3LvyIXQztnzyBPazZU41lojM174IQA2wCDRg97ueqRhmkAPQ969vd-O0nGsGL18npSzhHFj_3duWTcb9D8wLpup7dYVp9GYZHSLWL36mzWxFnlwRgTEU3gxNxkeWwajknwZDUCY1JYJUh1jx2KP42zb0FI1MtmRgPPFQnWrg1zjrww0OF76hZfz2pN6LF0X7hL4zz8snM6IMdrtaD-K6r-gQPWmQQAmPb0o2F45FbHaFs7Cwe8MxbXzy3zl-SPiwOd8w88G17BI_S9SI8LogBPTCBNnbsVCSUs80k17YT9AIzKB6cOkRGCTqviwilsCT6nYU9vWPy-AYVIIxozRBu-9cnWSKFb9HUe18Rl17uvU2PdvC-jtL57XznE3f_f-GV0Sh8KqyxZbNczc2haa_8BHhjySu8q7J6NwsI42w86f4st-MfCM8iiK_6KphDHbYx7W2mmoWvHDjdTZvrKaoAyoHXW5-YZWl6BPNebvvcJRjpJw2VXluHrEFvI5RTT5-59QTnroXs1sLOVuhFhw=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 66,
+    "has_photo": true
+  }
+}
