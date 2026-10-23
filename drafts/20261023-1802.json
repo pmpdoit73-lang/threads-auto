@@ -2,7 +2,7 @@
   "id": "20261023-1802",
   "created_at": "2026-10-23T18:02:14.234779+09:00",
   "publish_at": "2026-10-23T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "세탁기 세제 투입구(세제함) 곰팡이·찌꺼기, 분리 세척 가능한 거 몰랐던 살림 팁",
   "angle": "세제함이 통째로 빠지는 줄 모르고 겉만 닦다가 안쪽 곰팡이·굳은 세제 찌꺼기를 키우고 있었던 손해",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 70,
     "has_photo": true
-  }
+  },
+  "threads_id": "18057538106804470",
+  "permalink": "https://www.threads.com/@kingreview0669/post/De1gqlelEuQ",
+  "reply_id": "18080301800450195",
+  "published_at": "2026-10-23T21:02:10.828541+09:00"
 }
