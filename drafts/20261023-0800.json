@@ -4,46 +4,50 @@
   "publish_at": "2026-10-23T11:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "아침 기온 5도 안팎 '쌀쌀'…오후부터 남부·제주 비",
-  "angle": "비 오는 날 빨래 실내건조할 때 세탁기 탈수를 기본으로만 돌려 마르는 시간·냄새로 손해 보는 습관",
-  "subject": "드럼세탁기",
+  "issue": "전기밥솥 보온 기능, 오래 켜 두면 손해 보는 사용 습관",
+  "angle": "밥을 보온으로 며칠씩 두면 맛도 버리고 전기도 계속 쓴다는 점을 셀프 디스 실수담으로 짚음",
+  "subject": "전기밥솥",
   "hooks": [
-    "오늘 비 온다길래 드럼세탁기 돌렸는데... 나 뭐 한 거지? (9/10)",
-    "30년 빨래했는데 드럼세탁기 이 버튼을 안 눌렀어... (8/10)",
-    "얘들아 와, 드럼세탁기에 이런 게 있었어? (7/10)",
-    "드럼세탁기 탈수 버튼 원래 장식인 줄 알았는데..? (7/10)",
-    "비 오는 날 빨래 쉰내, 드럼세탁기 탓인 줄 알았지... (6/10)"
+    "전기밥솥 열었다가 나 뭐 한 거지... (9/10)",
+    "30년 살림했는데 전기밥솥 이렇게 쓰고 있었어... (8/10)",
+    "얘들아 와, 전기밥솥 보온에 이런 함정이 있었어? (7/10)",
+    "전기밥솥 보온 버튼, 원래 며칠 켜 두는 거 아니었어..? (7/10)",
+    "남편 밥 누렇다고 웃었는데... 전기밥솥 범인이 나였네 (8/10)"
   ],
-  "text": "오늘 비 온다길래 드럼세탁기 돌렸는데...\n나 뭐 한 거지?\n실내에 널 거면서 탈수를 기본으로만 돌렸네ㅋㅋ\n난 이제 '탈수 추가' 한 번 더 눌러, 마르는 시간 확 줄더라\n너네도 기본 코스 그대로 돌리지?ㅋㅋ",
-  "image_prompt": "Casual smartphone photo inside a Korean apartment on a rainy day, front-loading washing machine with door open and damp laundry inside, a folding drying rack half-filled with towels nearby, gray light from a rainy window, slightly tilted framing, cluttered and ordinary, no people, no text, no logos",
-  "photo_query": "laundry drying rack rain",
-  "product_keyword": "빨래건조대",
-  "benchmark_note": "4만 조회 글의 '상황 한 줄+말줄임표 → 나 뭐 한 거지?' 셀프 디스 구조와 마지막 경험 질문+ㅋㅋ 형식을 가져옴",
+  "text": "전기밥솥 열었다가 나 뭐 한 거지...\n이틀째 보온 켜 둔 밥이 누렇게 돼 있더라\n보온은 12시간 넘기면 색도 냄새도 변한대\n난 이제 남은 밥은 바로 1인분씩 얼려ㅋㅋ\n너네도 보온으로 며칠 버텼지?ㅋㅋ",
+  "image_prompt": "Casual smartphone photo taken at home of an open electric rice cooker on a cluttered Korean kitchen counter, slightly yellowed dried rice inside with a rice paddle stuck in it, warm-mode indicator light glowing, everyday kitchen items in the background, slightly tilted angle, uneven fluorescent lighting, no people, no text, no logos",
+  "photo_query": "rice cooker kitchen",
+  "product_keyword": "밥 소분 냉동 용기",
+  "benchmark_note": "42,193 조회 글의 '상황 한 줄+말줄임표'와 '나 뭐 한 거지?' 셀프 디스 구조, 마지막 경험 질문+ㅋㅋ 마무리를 가져옴",
   "products": [
     {
-      "name": "New World 접이식 빨래 건조대 3단 이동식 실내 다기능 빨래건조대 170CM Y317B, 크림 화이트",
-      "price": 60000,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9555566635&itemId=28512714710&vendorItemId=95175549528&traceid=V0-153-f1aee238815f9b4b&clickBeacon=82a5a680-ce6c-11f1-886a-d9187fb3d9a5%7E3&requestid=20261023080126808224473190&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/WZ0lf0DFOqOrTkahWU5BgMiXw-w-vAGxoNbcWSUUz9zM2Ned9gj2-AezfByMImyqCjsU6I2T_F15lMUKDEklfoBmx1giGjKsuHhykVlHUgDkd684pJIaQGr9A-mN_8ethiidDe5_Jywc2bj32IGdPzxkycAp1b4oCpLjrNmRb-jeKu1x5AfOJSYu5vfsNlvPa6hyYaWGM5wd9XqNoINJ-udjM9mNuXBnMVwPymFmVLPWfrC3A97kDRszG9YFPlLyv6RxzfYTzAW0enykZkRJY9FVbYPZGL4czyxkJWyz7tGOxSn7PUxolrGxEexXiAhgyq8AkaMoc-DMn-5bij6ULA2y37oEsm9nym1SEXzoZqKBmBza9sPbKzMUbmV2Ki3jqkgKhM5yCeud3-6WkpdcFE7NK-h8B1xz-dv1kowG0CBZ_tWTOBg7U9rihvSVXxNwnQsONUhkJK0Ql5O37XVSq3fqG2X7xhUUKQFnkhEIuWOAUgpXqwlxN4ZlkTsYcRMNDYwYrblOaG3AvrI2c1HrtiikdIwyNZg="
+      "name": "루리코리아 국산 실리콘 밥팩 밀폐 냉동밥보관 반찬통 스팀홀 소분 용기, 10개, 500ml 블루",
+      "price": 106200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9587153016&itemId=28818177231&vendorItemId=95752998676&traceid=V0-153-290e87ac2167b9e5&clickBeacon=eae37660-ce7f-11f1-a52b-73cb2658125f%7E3&requestid=20261023102022046237104204&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/I4R_LsPYnlZPWjQHI-QH4BQiQUNmRUuBHiKs2G9nWTxb73JmMvEfeb2Xjg51QtRNq6kWlKb66oyhGYxdrPFPIDFdw_sgk32pB1G1LKSCR67bInGv2WyQFKUsBlc77Oc02S5WWkjey9ljuY8hMPBULjUUlyEnJxNxFzfal6NBTpMlSPEc4vFk-t2kS2R9QxFtmsrAPVyagoRqtLEmCmBqhI4jyVhrDJmLWpcXHosJLP2W9nuUmKOxbfLBoJ6GmfEBTyPNWTz4xz7HgK-01DVKwydl2jsAA3CeDQfrKdmuQE--6xLr3uyWo1dHvT6N1QaBlXpYcUla6Y-nnp9nRH3RZGMPtB1aTzRxJf_vUknnW8uBhyiWTU-tR8LykM6YBJAMkPXPlc2s0jO5gePuT3BAiagUUBr8Es63CRFRfecpujij9m6evIUPHwM_40Lc4800qHCIP4sLedlSae8g58n3slpQp42hNSOvpED8z1-WONchMrmyGvowhlLXfdfoxxuLj5ZEMyDLBARWJI7bCbd-fI8G2YjD"
     },
     {
-      "name": "튼튼한 접이식 빨래건조대 대용량 이불건조대 다용도 실내 옷걸이 행거, 건메탈 그레이",
-      "price": 39120,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9345055920&itemId=27717670723&vendorItemId=95691109864&traceid=V0-153-71a5291931af2182&clickBeacon=82a5a680-ce6c-11f1-9a2c-13769385b2f3%7E3&requestid=20261023080126808224473190&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/2W3gEe7bBEnXavA-2TCXdUuC8Wu4F9GmJjTbegs0KsqZ5aIv9iK3HSTnYiJ1Lc1k6VDyIZKmK4zz8GAhsavtFF8VrmOvGvVZ0H0No-q3wpmmoW0ZNfd0UMnjlePEpDTUlvRwA8ib_u5j1EZZjevnV8aI8x8SNskV2LwjT32iEPt87n4KQSHmxth94uG8vb-LMs1L5IcOaQrMqH2ImDX4WwkpXcMGUJMjC2X_vROOCbD9C3OWj6Ilwd0xn9w1lZUQdQiRtZ2W3R1L7uafFdon2Tlzzs54S3OI7uOxgUIYUMYjxSeWUem4hIIZyAkA25W_zX-LLLftR7Qf9XtgMhLSnGwyRyIdgUugml_8AihLqflPc1p7xsJqy81JIzeVM435Drz3oxgb3-M3kkeK156lS9ZGPFaKZCdwNhU0g3gufLgkyCTjehBoQ4fOM2touWI4Ck84UZjSfFYEApgkR1AcyF3sS6xs6pISpSgO8jlReZ390FvF7XXzNoMzDvg-xasBFI3cH2rn-ZlKQoF9mw6uUuayq2QPnWRG5BZ5kfv67K1hRpFRnMFZKDg6zIIqfGrpUJUr5hL2GY3X"
+      "name": "루리코리아 국산 실리콘 밥팩 밀폐 냉동밥보관 반찬통 스팀홀 소분 용기, 10개, 350ml 블루",
+      "price": 88200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9587153016&itemId=28818177226&vendorItemId=95752998675&traceid=V0-153-290e87ac2167b9e5&clickBeacon=eae39d70-ce7f-11f1-98bc-17f1f929fd6e%7E3&requestid=20261023102022046237104204&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/hTqad8-oUyW_wOzXhb2HgH9zq24dSd46jCz9EtaaC4s5P3NGhiACC4YnIznwgrjgmpvlmYNOda6_P2rvF5T2Cr0rDWNnes3h-jZrHI9HUL9WCnVbqh1sleYN7RXg2mnqslzD80XE7CNyOTVWgMlbRZeMS5Ime_sC4clT2ybKf_uSi_3ry1AEYJYGVdiNokQ9lq-BDojjV_OV3T4rFfClR9vjbLsCQTXV70tCTPsGubyxaYwNtl5EkX0u_gxqHeSc0O-9ge86mY9gVz7A4uaK7J6A5vuOa_PX_VAkaJeV2gZvv2xBTXXv3zRcB-O2wQg7g6IU3kajS6rXRcJ47miGYSTXlkayyf--eZzQS0YfLlyhq2M2RIkev7icte51pjHC11Ey1Sk-XL40mlLp10cAUqRY4uMI22sM6zf_4soiiyJPrCdhhL4DwanjTOsOS33nbbI_BtNNuCfsCfW-4nnHR-O7sBLzzNB1hwsDUIApEK-_rRAwQUtAZzRgiLeDXTRvJv114-GnZ2HiTnvNhoGJ0qlF9bZm_ho="
     },
     {
-      "name": "코멧 국내생산 홈 접이식 빨래건조대",
-      "price": 13560,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7581825284&itemId=20015784321&vendorItemId=87112585380&traceid=V0-153-6060c09f66ba3764&requestid=20261023080126808224473190&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/8kay8Pi2CdiquolW8qPysdnO32hL-HL5SV1TxGmdTPQHG38B68Lhpw7MdtI6um9tY4F5OpCiKXKsCv2Y2ayw2mEIY8bvfWey3bLXgIZvpEnU88vBELDQ38Oooxt7hFqcBHg6xsR8RwsM4kGtNuPC7qoVcvJzP3m3biUpc_do5Sndj0bTF6luA-Bibr-zrgOuMEMs_jN1UEFKHP3GVWrumtC19cLSk2Js-EOYdMK96oawBzcnKEUxAaUANfFa3j6eBcTsjfSKFQSTid0THzbMObubGNrVcWP3ZtcBzzd3CzKfyvuBcAICvW7f77jXm865C5Jzq8iZg1ztroUcPfDytSBnx832C_1jO6Jo3iwk5pwJoPl-dqrE_YcY3Lgkwszpxgj6JS3sdClOCxy9Y6QFiZEcF8CA8xdwKWm8qr9tvFS1y0L_UD-BhbYy4KIj1i9HfHQoqdPuHsjhaAm8KHkxmmh0oUTeDw-zMH8sMdFbNgmuLkiREF0xWHu41p61yjaDAPcKfbRanudESnWbkZscqoESmRA="
+      "name": "오컴멀 국내산 갓반 전자렌지 용기 환경호르몬 불검출 젖병소재 냉동밥",
+      "price": 15120,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9288768123&itemId=27508428066&vendorItemId=94473674152&traceid=V0-153-be96fdda5bcb76a3&requestid=20261023102022046237104204&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/rD_G-d-8hf5Rx7wDrK4GC5_RMaLD0DGI1deBuzXBc_QWwaGDOzx6QSgDgEpVBFsO1rcYumsz5G5fCXGazr-gw1X6lrsIXvlTx1QpZiZdholQUzvRVSJPMk4_gJrlPIgtoAk8RwOHc4ZnXfC01xntkZtCuZDi_mPoyWPbEkvrHmI03f6qacfaFfNXYt1fJSSXENGmxXr0aNg4ZpdKZWyzBLw3MQuEk2o5YKJQIns6hssyMNiqr6fO6y4e8lnbg0Xr4RiHs6Vtu_NQyu1sh_bvSdmTAkw7sYTX2tYUd8wMxk8fLgbSvl2HuBbr9-9IHkV2vo-yMkBZMAbBUKx4s2L7UbEWhXtM4p1qwjXv1ETd7pPkzltpiTob534heLNGVFN_iHCbmt_5ozwP0NffFyl3Kiy_uELWp6sTiSe2gmTBUppoLH8rME-YhnluLoVuhjHv8jZcVsbs2oW2_AWXICDL8hiK3iCEOmy3OghYtxqU0KRQx9UfS8QiFUnlYYxXYBxibfERgDXf92lCEaDr-xb_pEYOKwqvQ2n8VaR4TCLQGtiBuFo="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 67,
+    "message_id": 68,
     "has_photo": true
-  }
+  },
+  "rejected_issues": [
+    "아침 기온 5도 안팎 '쌀쌀'…오후부터 남부·제주 비"
+  ],
+  "category": "주방"
 }
