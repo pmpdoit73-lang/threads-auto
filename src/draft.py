@@ -70,7 +70,11 @@ def open_drafts():
 
 def recent_issues(n=10):
     files = sorted(DRAFT_DIR.glob("*.json"))[-n:]
-    return [json.loads(f.read_text(encoding="utf-8")).get("issue", "") for f in files]
+    result = []
+    for f in files:
+        d = json.loads(f.read_text(encoding="utf-8"))
+        result.append(f"[{d.get('category', '')}] {d.get('subject', '')} | {d.get('issue', '')}")
+    return result
 
 
 # ---------- 시간 ----------

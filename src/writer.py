@@ -14,6 +14,8 @@ SCHEMA = {
     "properties": {
         "issue": {"type": "string", "description": "고른 이슈 원문 제목"},
         "angle": {"type": "string", "description": "어떤 손해·몰랐던 점을 짚었는지 한 줄"},
+        "category": {"type": "string", "enum": ["살림템·가전", "주방", "청소·세탁·정리", "날씨·계절·난방", "최근 이슈"],
+                     "description": "글 주제 분류. 보일러·전기장판·패딩·난방·날씨 얘기면 '날씨·계절·난방'"},
         "subject": {"type": "string",
                     "description": "글의 주인공인 가전·물건 이름을 본문에 쓴 그대로 짧게. 예: 에어프라이어, 드럼세탁기"},
         "hooks": {"type": "array", "items": {"type": "string"},
@@ -25,7 +27,7 @@ SCHEMA = {
         "benchmark_note": {"type": "string",
                            "description": "조회수 높았던 글에서 무엇을 가져왔는지 한 줄 (참고 글이 없으면 빈 문자열)"},
     },
-    "required": ["issue", "angle", "subject", "hooks", "text", "image_prompt", "photo_query", "product_keyword",
+    "required": ["issue", "angle", "category", "subject", "hooks", "text", "image_prompt", "photo_query", "product_keyword",
                  "benchmark_note"],
     "additionalProperties": False,
 }
@@ -60,13 +62,14 @@ def write_post(trends, recent_issues=(), benchmarks=None, external=None):
     user_msg = (
         "아래는 오늘 한국 뉴스·검색 목록이야. 소재 참고용이야.\n\n"
         f"{trend_text}\n\n"
-        f"최근에 이미 다룬 주제 (겹치지 않게 골라):\n{recent}\n\n"
-        "1. 프로필('가성비있고 신박한 아이템을 리뷰합니다')에 맞는 가전·주방·생활 팁 주제 하나를 골라.\n"
-        "   - 우선순위: ① 오늘·내일 날씨(한파·비·건조·미세먼지 등)나 지금 이슈(전기·가스요금, 가전 리콜, 새 제도·환급, 신제품)에 맞는 가전·주방·생활 정보\n"
-        "     ② 그런 게 없으면 지금 계절(10~11월이면 환절기·난방·가습·김장 준비 등)에 맞는 정보. 뉴스를 억지로 엮지는 마.\n"
-        "   - 첫 줄이나 둘째 줄에 '오늘 10도 뚝', '이번 주 한파'처럼 지금 시점을 살짝 넣어 '지금 필요한 정보'라는 느낌을 줘.\n"
-        "   - 사람들이 '어? 이거 몰랐네', '나 지금 손해 보고 있었네' 할 만한 것일수록 좋아. 누구나 아는 뻔한 팁은 빼.\n"
-        "   - issue 칸에는 고른 주제를 한 줄로 적어 (뉴스를 계기로 했으면 그 제목).\n"
+        f"최근에 이미 다룬 글 (주제·물건·분류가 겹치지 않게 골라):\n{recent}\n\n"
+        "1. 주제를 이 순서로 골라 (페르소나 '다루는 주제' 참고):\n"
+        "   ① 프로필('가성비있고 신박한 아이템을 리뷰합니다')에 맞는 살림템·가전 숨은 기능·주방·청소세탁 정보.\n"
+        "      목록에 가전 신제품·리콜·요금·새 제도 소식이 있으면 계기로 삼고, 없어도 '이거 몰랐네' 싶은 정보면 돼.\n"
+        "   ② ①로 쓸 만한 게 정말 없으면, 오늘·어제 화제가 된 깜짝 놀랄 최근 이슈 하나 (category='최근 이슈').\n"
+        "   ③ 날씨·계절·난방(보일러·전기장판·패딩·한파 등)은 최근 글에 이미 있으면 절대 고르지 마. 요즘 너무 많이 썼어.\n"
+        "   - 최근 글과 같은 물건(subject)이나 같은 분류가 연달아 나오지 않게 골라.\n"
+        "   - issue 칸에는 고른 주제나 계기가 된 뉴스 제목을 한 줄로 적어.\n"
         "2. 페르소나의 '후킹 문법' 5가지(열린 고리, 셀프 디스 실수담, 발견감, 틀린 추측 질문)로 서로 다른 첫 줄 후킹 5개를 만들어.\n"
         "   각 후킹을 스스로 채점해: 첫 줄만 보고 '그래서 뭔데?' 하고 다음 줄을 안 읽고는 못 배기면 높은 점수.\n"
         "   첫 줄에 이유·방법(정답)이 들어 있으면 0점. 가장 높은 하나를 골라.\n"
@@ -84,11 +87,25 @@ def write_post(trends, recent_issues=(), benchmarks=None, external=None):
     )
 
     post = _ask(user_msg, SCHEMA)
+    if _too_much_weather(post, recent_issues):  # 날씨·난방 쏠림 막기
+        print(f"[writer] 날씨·난방 주제가 또 나옴 ({post.get('subject')}) → 다시 씀")
+        post = _ask(user_msg + "\n\n주의: 날씨·계절·난방 주제는 최근에 너무 많이 썼어. 이번엔 절대 쓰지 말고 "
+                    "프로필 주제(살림템·가전 기능·주방·청소세탁)나 최근 이슈로 골라.", SCHEMA)
     if not _subject_ok(post):  # 첫 두 줄에 주어가 없으면 한 번 더 쓰게 한다
         print(f"[writer] 첫 두 줄에 주어 '{post.get('subject')}' 없음 → 다시 씀")
         post = _ask(user_msg + "\n\n주의: 지난번엔 첫 두 줄에 주어(누가/무엇이)가 빠져서 무슨 일인지 몰랐어. "
                     "첫 줄에 subject를 그대로 넣어서 다시 써.", SCHEMA)
     return post
+
+
+WEATHER_WORDS = ("날씨", "난방", "보일러", "전기장판", "온수매트", "패딩", "한파", "히터", "난로", "추위", "서리", "기온")
+
+
+def _too_much_weather(post, recent_issues, window=3):
+    """이번 글이 날씨·난방인데 최근 글 몇 개에 이미 날씨·난방이 있으면 True."""
+    this = post.get("category") == "날씨·계절·난방" or any(w in post.get("subject", "") for w in WEATHER_WORDS)
+    recent = list(recent_issues)[-window:]
+    return this and any(any(w in r for w in WEATHER_WORDS) for r in recent)
 
 
 def _subject_ok(post):
