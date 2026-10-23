@@ -1,0 +1,50 @@
+{
+  "id": "20261023-2201",
+  "created_at": "2026-10-23T22:01:02.910042+09:00",
+  "publish_at": "2026-10-24T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "에어프라이어 바스켓 아래 받침(망) 분리 세척 몰랐던 살림 팁",
+  "angle": "바스켓만 닦고 아래 받침망·바닥 기름은 안 빼서 냄새·연기 나던 습관",
+  "category": "주방",
+  "subject": "에어프라이어",
+  "hooks": [
+    "에어프라이어 닦다가... 나 뭐 한 거지? (9/10)",
+    "에어프라이어 냄새 왜 나나 했더니... (8/10)",
+    "얘들아 에어프라이어 바스켓에 이런 게 있었어? (7/10)",
+    "30년 살림했는데 에어프라이어 이렇게 쓰고 있었어... (8/10)",
+    "에어프라이어 바스켓 바닥 저거 원래 안 빠지는 거 아냐..? (6/10)"
+  ],
+  "text": "에어프라이어 닦다가... 나 뭐 한 거지?\n바스켓만 열심히 닦고 있었더라ㅋㅋ\n바닥 망이 쏙 빠지는데 그 밑에 기름이 한가득...\n난 이제 쓰고 나면 망 빼서 따뜻한 물에 10분 불려 닦아\n너네도 망 안 빠지는 줄 알았어?ㅋㅋ",
+  "image_prompt": "Casual smartphone photo in a Korean home kitchen, air fryer basket pulled out on the counter with its removable bottom grill rack lifted out, greasy residue visible in the basket bottom, sink and dish sponge in background, slightly tilted framing, ordinary indoor lighting, no people, no text, no logos",
+  "photo_query": "air fryer basket cleaning",
+  "product_keyword": "에어프라이어 바스켓 세척 솔",
+  "benchmark_note": "짜장면 글의 '~하다가... 나 뭐 한 거지?' 셀프 디스 첫 줄과 마지막 '너네도 ~?ㅋㅋ' 경험 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "프로쉬 독일 식기세척기세제 베이킹소다",
+      "price": 22000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8989598027&itemId=26377575619&vendorItemId=93354132546&traceid=V0-153-94447aa39524a42d&requestid=20261023220133036034681808&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/UTWFVHGBzfN96kUDUdHKPZ54puGdQKZGUb5Hl4sWDvCN9RqB13I5zEoUbFgMP4ucJRz7KJACU6Q7z80lEwu7dJ2O8-HCUUqa7-DV9sN2StxDZlyFpjL4bCaLlkUAlYjPrTNFfxXQAETtuJFVVHGwGm-hh5p73sBZABZilcCHFb9HareTETJpgB0Sl7N3dm0snCuBl7EhJgU4Npto-kFF2MXeKWRYUsTtF9oBJsT7qv_yk-m_SCkJ1NPvNWfx-dBCl-dhYQjrF6107jINcTCg2O7hYkTNFkUkiwSj334k4DMj0Hv7xuOGlZ8y7IIQcwsbHH9UTQOg_z02bZ0jLoX1H08kiBop-BN_v-w14Y84tggJBrLbOlpAcNV6mdBFiSVbDJW-ue2LIYMH14ZMmEocHkIGetQXi-AoAug6DB1GBW4NdyMhSU8YcYPNIB0XkCkOZ3wV9jdVpN3m1PZDPVIQSWJG7xSICWSet4j8m-YjPcdI1op3Ua1DiiN5cTH4FwDniYlhHGLEkxe7JEHBjUz9XQ=="
+    },
+    {
+      "name": "홈리아 올스텐 유리 풀오픈형 에어프라이어 5L",
+      "price": 89000.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8798740146&itemId=25617794042&vendorItemId=92014432411&traceid=V0-153-1dd64042d04d1003&requestid=20261023220133036034681808&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/ix9xfkOGd5Fyp0Wji_RJ2MD9R-5DOw4XX2I-xEYsZwHiikILcdhSfwBBufZGLgrVzaul5jvzUd5fXzaZZK8sMyMfaJdFj0wmljXykjSI0g9JL0kZzyqY_1bAtZbrfW9_ZmhJOFSnck-LM0rlMkiGmlfcAiwqeAHdwtDaQ3S5riWVbWJxhSMVJxPMC16sPG5-Vk7xKknEXyv54Ry5xdQODJszzPt-RUoz6MNoZUci0S0PTN94pwvFgTzjfmfvfDmuHVOlwGW2r4AEIJHg1j57FhwInjc0Be-FdPm64ssJ6I67yqWBF6r8NlIwZGB_y_RkbdO3jX2r-2bozvf1m01J_LDHByj435Nb5LzG0YPqOGp5FXa-zOHO3iOLRU-BAtVOhhKXQ6MgvHKGX-zFcqug30VasWqZlXMmr--R-kkbFB4_mCF8_5UixRDHjVx-746Be2Adt30LEcWZEDfm_fVIh7HaV7oMAMklISheKEn5ps5a63Hw_qZVPzm_cdbQXjrtui8EPhKrjCuDIe1Tm5PgBiosiW9dpPtNaJcD6-ZiRb8="
+    },
+    {
+      "name": "코멧 다용도 스테인리스 S자 고리 캡형",
+      "price": 3630,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7677021109&itemId=20495359529&vendorItemId=87573854078&traceid=V0-153-798a188c267a0a52&requestid=20261023220133036034681808&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/w-qfqwx5qB3W4NQBw8kOWnF6K37mf9TtdAZkOnkEe-qEea_yooZsq6Ek3Fo5behh7Lq7Lov8Fklq02zgfll8lTIIrXeQOI6XwRGsQvixhF08dwhCzig-wUukaGnzV5FHRJNop1x7YRbW-sip1J6hm_UuUHxSEIFHhfQMVsi7WhQZSv89FAv4v7wQm5pBXvIfsD3-wL5b05xAvtAvmWkQXUyW4vH6ZjSYOgY2RPC7wHNhKGsxy2jSCSsjs9o1DMlbiVBp8w4DBC995SfneKDVYPGBaPzpdpeIzNHZrf2_EVd70NEz8yH1XaI-W7txYzeK1709V6AaMW1d9atBIfLFASGjKYMBEyg_wTtvEqzAnmNndw_9026FSbLWj11KE4uNSYVtYaItUj8QyNo_u1O4O2gXPptoC330Cy9QUkDAcjKnv4aIczrF1ZOzKNXJ-BM9CugX2DEkg3nsDTH17mB9n8ZSR1k4dGTdpjKZGhviXiSB8aU-ST0nBHVvazwbueMRXJI87XF8sWAqOWVxmJPlalWTWySgZl6-FxTimoaIRvnJzms4Q4kWG7Ir"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 71,
+    "has_photo": true
+  }
+}
