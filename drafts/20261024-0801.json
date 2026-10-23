@@ -1,0 +1,50 @@
+{
+  "id": "20261024-0801",
+  "created_at": "2026-10-24T08:01:20.520846+09:00",
+  "publish_at": "2026-10-24T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "냉장고 야채칸 습도 조절 레버, 몰랐던 살림 팁",
+  "angle": "야채칸 습도 레버를 장식인 줄 알고 방치해 채소를 빨리 시들게 하던 손해 습관",
+  "category": "주방",
+  "subject": "냉장고 야채칸",
+  "hooks": [
+    "냉장고 야채칸 열다가... 나 뭐 한 거지? (9/10)",
+    "30년 살림했는데 냉장고 야채칸을 이렇게 쓰고 있었어... (8/10)",
+    "얘들아 냉장고 야채칸에 이런 게 달려 있었어? (7/10)",
+    "냉장고 야채칸 옆 작은 레버, 원래 장식인 줄 알았는데..? (7/10)",
+    "냉장고 야채칸에 채소 넣는 사람 다 봐봐... (5/10)"
+  ],
+  "text": "냉장고 야채칸 열다가... 나 뭐 한 거지?\n옆에 달린 작은 레버, 30년 장식인 줄 알았어ㅋㅋ\n습도 조절하는 거더라. 잎채소는 닫아서 촉촉하게\n사과·배는 열어서 습기 빼는 거래. 난 이제 칸 2개 나눠 써\n너네 집 레버는 지금 어느 쪽이야?",
+  "image_prompt": "Smartphone snapshot of an open refrigerator vegetable crisper drawer at home, slightly wilted lettuce and green onions inside, small plastic humidity slider on the drawer edge visible, uneven tilted angle, harsh fridge interior light, ordinary messy kitchen, no people, no text, no logos",
+  "photo_query": "refrigerator crisper drawer",
+  "product_keyword": "냉장고 야채 보관용기",
+  "benchmark_note": "짜장면 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄과 골목 사진 글의 '장식인 줄 알았어' 틀린 추측·열린 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "마치홈 냉장고정리함 야채 보관용기, 6개, 그린",
+      "price": 41800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8544340284&itemId=24739156203&vendorItemId=91747880411&traceid=V0-153-bc5bf989e1994d1f&clickBeacon=af3d4300-cf35-11f1-b808-538dd75dcd88%7E3&requestid=20261024080130485321846273&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/SeW4Huq1eHawDjgHSYFNZ_1cHCN4oAr3SR5WgLj52XAayWFePDe8U8I8Ca1pWcaDuw1NSTy3ymiElXpZ-Wvive9tec5WoQGw2VjvEogPkL8P4K1zvFyDgu_mtl5-__Cp0eBxOkJVexyricjjumlwY_tIV4dMEDt7MvALJcYiYXzsQ30AXBQWtI4mdEZBzen-ZeCrrh_8rZ4zZSYSsDbAfuJVIjAU7z2ESSuwb8vNBoL3ROhMxKu7Cog51gLCvZeIrPVfuZ8AQNLfs1k3dTMP0pc_2AmwL8RGMXzQmDHXBPL_m-oZSuZw8GRqRf1wVH7MPs0ub0mpQIF5cWp3v7OR5ym2CSzPABISnLXPsyNIUrf8gyZPwpehr7QZecSjX9lvXA1jlkVxtVrJ7FU9qgSR-5-lTVomXfsXOdvmJeDMj4OFTEBkUGQmQz8h-cYVyV9dwxUmLmijJe71yOEJNqfq0aQwILaSNRECFGxuznpS8dltNwpKYNMY3eIwxQrLNnXmZsInmpztjpGmYAI_BrBQ_sQLa1bEA_wJLQ=="
+    },
+    {
+      "name": "마치홈 냉장고정리함 야채 보관용기, 2개, 그린",
+      "price": 17600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8544340284&itemId=24739156182&vendorItemId=91747880363&traceid=V0-153-bc5bf989e1994d1f&clickBeacon=af3d4300-cf35-11f1-acbc-1095d34aed39%7E3&requestid=20261024080130485321846273&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/_7vkC0ggHGL8eB2K_94FHR1meu_DCavgDssmdsztIQMIIP2yX5lWcWX_er6jXGnfRdXYyKwdiSEamz41_f8-SJoVzH2mWf8lC8_kGh4LIlECnyJu2M29eWxTWLlPZKR34_iL13H3K0GzP2mgcVUiVOnt2ivNttPc315oZ72Ci_mvWkYI2Zi77UqTzqEzA6FvEJn6XbVQk7KgQhXXLxhEUdrE1eEIJ2qGM0JMSBebty_k9VCt6_nhi1sZ_cuy1ZujOxVrdefByO2e2_cnzROiLXEjep_j4cbXcTuE4PJSy76yUynK_EbaoR9V-NzXKy6yaUs0YAwG3Ob5HEvIZG7X1owZLLqxtbFEk6wf6cUvXUoRtNMgtWAUK3y_-U97NNgIBIxW5QskmzEEDtJBtbSun9d9DL_Kxa6QUlPjo7BUZrURhWnfp-ihM_Lm_YC395OK7axX2wccgdHUwNj4ChL2GoFAaTusYezbTqtBeVfDIZ2Y2IhZGlpdsFfTKIKGtzMABsRWsPvsggp6-hlLpGK60doPcvWW5jrW"
+    },
+    {
+      "name": "데일리쁘띠 페이퍼백 냉장고 정리 크라프트 다용도 바구니",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8982451715&itemId=26300026771&vendorItemId=93277804388&traceid=V0-153-8ca9e5ed2d11f884&requestid=20261024080130485321846273&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/upN9Yx2EKtpR98bIuh5MQdl8_JvxxQPhFinaMs0AMDYHpdlP7vnz8tIVc6Q9kAcikJBMqoc1m_rQX41u99249rXh-_kUQjlgvHXmnKIyHbUwUcVkV6oM7EMPzRgeKEYlIhd_WUwXSXJorKD8S8YYC5gSCcEOQa-xhX5PZxPhjg2XfEMyefjmFqIYXTnwDxdaxddA4nv4RBfhBRvZu7GtsNC2XR0Vl9YhHe65cREcFirmhRXn_vCBT0ovQG2AEkx6wuTAem__DzNrhv9xWuhox-LxsJLjHsFgiT_v7wJ0v2e_kTcBdZxBPEHXCOGoFj81PvxWnKS2hVm6ifjYIVyxttoYo7wcTGrOpDOAJPjDPHkulPsep4e5bPAovJQEdy4jWvRJE9AfwsqyWtHKd-Dnyq0JUoJBBkWzzS3G3mGHkvECabsBxfcu3nijo9FysILJClV_4fNtGN9HD9CwRIJ52rbbZXOFT2gJx8LGOSfe28prKNPVcChAwTBgkZuPJeexBn8Pd6JT1kr89TuohPnOd2gktGzO6N1tRgwlmy0JURkozyw="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 72,
+    "has_photo": true
+  }
+}
