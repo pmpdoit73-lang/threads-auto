@@ -1,0 +1,50 @@
+{
+  "id": "20261023-1802",
+  "created_at": "2026-10-23T18:02:14.234779+09:00",
+  "publish_at": "2026-10-23T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "세탁기 세제 투입구(세제함) 곰팡이·찌꺼기, 분리 세척 가능한 거 몰랐던 살림 팁",
+  "angle": "세제함이 통째로 빠지는 줄 모르고 겉만 닦다가 안쪽 곰팡이·굳은 세제 찌꺼기를 키우고 있었던 손해",
+  "category": "청소·세탁·정리",
+  "subject": "세탁기 세제함",
+  "hooks": [
+    "세탁기 세제함 당겨봤다가... 나 뭐 한 거지? (9/10)",
+    "30년 세탁기 돌렸는데 세제함 이렇게 쓰고 있었어... (8/10)",
+    "얘들아 세탁기 세제함에 이런 게 숨어 있었어? (7/10)",
+    "세탁기 세제함 원래 안 빠지는 줄 알았는데..? (7/10)",
+    "세탁기 냄새 원인이 세제함이었다니... (5/10)"
+  ],
+  "text": "세탁기 세제함 당겨봤다가... 나 뭐 한 거지?\n겉만 30년 닦았는데 안쪽이 까맣더라ㅋㅋ\n가운데 누름 버튼 누르면 통째로 빠지는 거였어.\n난 이제 한 달에 1번 빼서 미온수에 10분 불렸다 솔로 닦아.\n이거 원래 안 빠지는 건 줄... 나만 몰랐어?",
+  "image_prompt": "Casual smartphone photo of a front-load washing machine detergent drawer pulled fully out and sitting in a home bathroom sink, black mold and dried white detergent residue visible inside the compartments, small brush beside it, slightly tilted angle, ordinary indoor lighting, cluttered realistic home, no people, no text, no logos",
+  "photo_query": "washing machine detergent drawer",
+  "product_keyword": "세탁기 세제함 청소솔",
+  "benchmark_note": "조회 4만 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄과 경험 질문 끝맺음, 질문형 글의 틀린 추측('원래 안 빠지는 줄')으로 정정 댓글 유도를 가져옴",
+  "products": [
+    {
+      "name": "드럼 통돌이 세탁기 청소솔 3종 세트 고무패킹 세제함 틈새 창틀 브러쉬",
+      "price": 2340.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9773975390&itemId=29257972924&vendorItemId=96197693523&traceid=V0-153-ce442bc3d7dc039e&requestid=20261023180257251012701596&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/wTuxfm-ogcFd0LB3wb39cgPn1xX9dSqihfdw2n0Bh_uGm0d3F21AuBNUbm9hHQYcOAbKz9kPDNXjzTShAvTYYmyQgXwBEsykim8KA7Ja3i6nyb9zbbhkqL_cGIgvlc0JCw3W8qN54H_nbqEksYJP-kXUePwuGSAVh_HTXxkTb8P6v1FSyLpUVBzFZuzvXb7ErK-vcRJd2gtfUKbCBq-9DWvNQR3YAq2qQP_lvwixCPv5QZev-iqUYYEg4aiESs47XEsqgtRPcn181XOqVLUgmgWwAvxd_hBWxJBuu_KSBkfmWTQbrBN6x_T-9KrWVIQmW-1uvDcO52dQlzT6xLSy93ScN2ftVKm73zhfY1Xp9kiPXMocdvKx-b66reFb80avORaRFPmOmRpDVaE-jb7X0y9dTVju3ekAtUj2y0lpdGrRxvy4Pe8VsyJItyCN9xrZJuhE1ChHyU19T-3DzJa-D-6jW6llb-2PLikkWHVKuIsCY09WsivXCRgzZamaglhlnwp0YetIaRYAPakxB2_buKlIQbQUr7vtoKs1A_NshSA="
+    },
+    {
+      "name": "드럼 통돌이 세탁기 청소솔 3종 세트 고무패킹 세제함 틈새 창틀 브러쉬 3개",
+      "price": 6860.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9774741692&itemId=29260222250&vendorItemId=96162816724&traceid=V0-153-7556eca1493739c7&requestid=20261023180257251012701596&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/dAhkO_UlmWRXpi6XdK83FoREQk5eJJBkuZDpW4tA-9l6Ktia1sPNzS3oohU7SxQK6ehItKcEDv1Vs2Y06Ru4ut-Ji2F9n32l1CLite2JECuJ3BxSzGhNBTvRdtxMeGTWUevODJW0d7WF9bANynz8ZTywCRwK3xFOAsMtvaaAwF34Nv-JMYDinOa7XUzJ8Ohl9i8N_ECHghRADuqgZlr7Kbrk4X4Ev60VtMuCxr4WAfGww8Zn8QYx1NaA6G7nd_tVJpJ0vBy0JlDz40frY3boqpotDBHbpgOxjxR6eb-TjpCUOzcdjupxk_rSv-Ag5SpdC-3nZ2dOhjCxPdN4rJ1Rjq-Yi5Ndp0oqHdsdPg-6AGfKsgGEGuEn0_1rAEvF4gY58eMfrpYz44tB99fJSmiWesBzw3C9H8pbFlFGxKitCcbv54l0Q9N-jgMzdOVzVP2_BWSewIIY_2TFm79XHHQPseUJ8v-SXcWlex5suuXiK3hOqYRBItwuuh2c3v5OpFRvpA5u7GzB6NWPO4lWqk8a0QiNBR5_N5Z39x1vJyzK5A=="
+    },
+    {
+      "name": "라카쎄 모자 세탁망 변형방지 세탁틀 빨래망",
+      "price": 9990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9531062090&itemId=28423258407&vendorItemId=95374262977&traceid=V0-153-6a2f8d57a8580006&requestid=20261023180257251012701596&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/jfIkMaaAqs7LvETAjSs7X40ahbCkpJTAgRwO88eELaQpj1yhIav7hGzCEg-4n8HIX455wLkVh8iVM3eP3IJ_0AmZcWfTY39mNAeldF9davgKL67Pv8mnKllhBymtyEmIPijsZczYJklhlP4dU7anDkaqt1r80ea_Bwx-BLqRQ89E5HGT9XoIoBVJEc2bETfo_o6YP0MaVy8xdLXXxLR8DnqRuwnAACmxZXHTvmx3c-aO2NJy4YCTZbCREVRy30S2_Z8wqQYxIPLSQcBoMe63JhfvjwlpJD08EhaT9gDzSdlComx6953pXyBFneoAhiPq8_Vp4jQj1IRpIIoq8N1Yi2J7VzKjDMA6w9xwOsJzNEdLfMerWuD66ecgNOVa7suMi4csugHtN9Pii_RJmkfPyLRY4U6QzHqiS9Dp5e-0Jx2BMJ0Uci917MIPO0r7fKUf4xFlkSET_65xuQdyZBWPHIT02c86Dg9ZzFZcVMCqVuej0CySwGu8gcEP6mioOhRUC04wcax3x9EmjTUt2E-bWfsIrO6JabsM3g_KMSlyTQ=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 70,
+    "has_photo": true
+  }
+}
