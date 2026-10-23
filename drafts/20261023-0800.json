@@ -2,7 +2,7 @@
   "id": "20261023-0800",
   "created_at": "2026-10-23T08:00:55.768811+09:00",
   "publish_at": "2026-10-23T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "전기밥솥 보온 기능, 오래 켜 두면 손해 보는 사용 습관",
   "angle": "밥을 보온으로 며칠씩 두면 맛도 버리고 전기도 계속 쓴다는 점을 셀프 디스 실수담으로 짚음",
@@ -49,5 +49,9 @@
   "rejected_issues": [
     "아침 기온 5도 안팎 '쌀쌀'…오후부터 남부·제주 비"
   ],
-  "category": "주방"
+  "category": "주방",
+  "threads_id": "18120266681319695",
+  "permalink": "https://www.threads.com/@kingreview0669/post/De0b_ZZlU3y",
+  "reply_id": "18077144366551598",
+  "published_at": "2026-10-23T11:02:08.032540+09:00"
 }
