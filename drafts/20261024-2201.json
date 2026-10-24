@@ -2,7 +2,7 @@
   "id": "20261024-2201",
   "created_at": "2026-10-24T22:01:25.096503+09:00",
   "publish_at": "2026-10-25T07:00:00+09:00",
-  "status": "pending",
+  "status": "failed",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 건조기 습도 센서(문 안쪽 쇠막대) 청소",
   "angle": "센서에 섬유유연제 막이 끼면 빨래가 덜 마른 채 끝나는데, 고장으로 착각해 AS 부르는 손해",
@@ -46,5 +46,6 @@
   "message": {
     "message_id": 79,
     "has_photo": true
-  }
+  },
+  "error": "쓰레드 API 오류 (me/threads): {'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 0, 'fbtrace_id': 'A7i8Vj9y10__2dDEt2jhUy1'}"
 }
