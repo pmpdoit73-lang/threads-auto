@@ -1,0 +1,50 @@
+{
+  "id": "20261024-2201",
+  "created_at": "2026-10-24T22:01:25.096503+09:00",
+  "publish_at": "2026-10-25T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 건조기 습도 센서(문 안쪽 쇠막대) 청소",
+  "angle": "센서에 섬유유연제 막이 끼면 빨래가 덜 마른 채 끝나는데, 고장으로 착각해 AS 부르는 손해",
+  "category": "청소·세탁·정리",
+  "subject": "건조기",
+  "hooks": [
+    "건조기 돌렸는데 빨래가 덜 말라서 나왔어... (9/10)",
+    "건조기 문 열다가 나 뭐 한 거지? (7/10)",
+    "얘들아 와, 건조기 문 안쪽 쇠막대가 뭔지 알아? (8/10)",
+    "건조기 AS 부를 뻔했는데... 나만 몰랐어? (7/10)",
+    "건조기 문 안 쇠막대 두 줄, 장식인 줄 알았는데..? (8/10)"
+  ],
+  "text": "건조기 돌렸는데 빨래가 덜 말라서 나왔어...\n고장인 줄 알고 AS 부를 뻔ㅋㅋ\n문 안쪽 쇠막대 두 줄이 습도 센서래. 유연제 막 끼면 다 마른 줄 착각한대\n난 이제 한 달에 한 번 부드러운 천으로 닦아\n너넨 이거 장식인 줄 알았지?",
+  "image_prompt": "Casual smartphone photo taken at home of an open front-load clothes dryer door, close-up of the two metal moisture sensor bars inside near the lint filter, slightly dusty with a faint film, a damp gray cloth resting on the door edge, a few half-dry towels in the drum, dim laundry room lighting, slightly tilted careless angle, no people, no text, no logos",
+  "photo_query": "clothes dryer drum",
+  "product_keyword": "건조기 극세사 청소 행주",
+  "benchmark_note": "'나 뭐 한 거지?'식 셀프 디스 실수담 + 마지막 틀린 추측('장식인 줄 알았지?')으로 정정 댓글 유도하는 구조를 가져옴",
+  "products": [
+    {
+      "name": "초극세사 바둑판 이지타올 유리타월 주방행주 주방용품 손걸레 물걸레",
+      "price": 1700.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6069827594&itemId=11200974255&vendorItemId=78478687616&traceid=V0-153-2da3d1cdd9254584&requestid=20261024220143266323001921&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/gNGubVdprk-PkdGSgG0Vfu2InkRH_DzKH8VU3jPlLOhmMjC0CMtrrlAoXW-QGnN2xqT1C1D1vlxTWMdX7jBsYgcWyuK8KNPa4oznlv52H5tgxwn5E5O1QvA-HKBxyyHYLKzQynTgyzD7xl05NZwQFsPFV3EO51lx8YSdxB43NQPz-tXZw37-jRPfolGfrHpiNNHI3HqWKc6-Vuz50QUF-Ax8pjJtBjFwwZUv7fyEJCgVnHqT6wrNIZTWsrqPn5jILhc6b9b3iudmEpiQyKPr76c-ncg4Ry1H1NOUBeRR8ZJJnjmTn-ZU4MoFDGEeUd8Qk3CnP7eybTVTc4JBwMixaoxg1CYppFWZPhRZCOSVYLjzbE44sON9RrnOgumU-CBSlBp6NFfrcN_908vw_SnJlFiUM2gIZJkIrecMVLds9vp-UowfU56gFDK6tVJG4sdf2TEfzqG4jgP-XSLY8kat9wMjylOJK7DRxCpO1WIyMpJrSTJnCdwuBSin9KmD5Cv24AsUZRxQRcjwVIiZ2gNrIgCChpkwKksZkiZ9miPX8A=="
+    },
+    {
+      "name": "극세사 다용도 경편걸레 1p 40x60 행주 세차 손걸레 미소진",
+      "price": 1380.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6270828503&itemId=12822980469&vendorItemId=80088790332&traceid=V0-153-18e14b718de5f6a5&requestid=20261024220143266323001921&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/OlkjJQpP6jF8Yl1kOtBMLV_dhn5lTAbZF-93mKygIyAiAVmCYGXzuAfhK2b-nou5a6fTDYnD7YeG7sV5O1SR7Or9zYgR7byLXugH3TlXb1mfPqAt3VT-K6tmLNBeQ-olgRzoziLozGJ2ezWmsME9215aZ-16J58m07eIIGTiddEVBHWQLsNZWsMu2FQq_dlcp0u9ofjuE2LxYy0_JApDLV18UDMmyiUr30ioR9avv6R5lYEN0KXercwTeFcPnZp6eyTUMhEqJ5L1G0Ax_6Qc60TVSPyQCpUwDAVw_YP1H7ex8_LcVhB27uxNbjxU1gqJj3T5k84Oa58fF-bczCw4_6ov6l46qYO9FqmPNR3CxqNdtrmrxvfPWqRlzpuz6c2VWTEq0Y0CbNnZ7On0s3EDUJdxVDWe-q75mPvdsx8H__-2CVql1PNy2zVG_NQk3-7XCvoQUopvYS2FkjmPuQ8nptYlOQf7Zazl1ixuRnfZ4tv9ZW2vkTtrbQnqGKaiHaCbG4_-t08-Eatk2KC29UIGluus_zLjb1sjZtkwvMWoJYgzEKvm4zE8IlzbMmW4CSpQGqOhQgbMf9LRLUVICo2EEFzHXg=="
+    },
+    {
+      "name": "브로벤 렌즈클리너 일회용 티슈 200매 1세트",
+      "price": 5900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9683589319&itemId=28957756914&vendorItemId=95888058072&traceid=V0-153-9456d753fcb310d7&requestid=20261024220143266323001921&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/LemoejlBJfvDz2GVLUaXtFFENrPh7p-RzR8e_nBmngs6BCrHtnH-vMJWkfuOxO82CFFqkHrvtA1RzdKJskmFafoppJLgSnWD-VZLFITSNHTuw1gQ4VVo-feBHh2J1jzpkq6R7yIfev0tYOJqR0sJrGbzXklSZDBq5CkjZEkRqzRMjNY36ZzrpA118Vh8QHg54LQrdzLqM5XkjeuvQWDBo613BmLUH1reJaLj-OwAm-KE7_7ggX1Xa9kzpn8p1jdHVguvxJ-btmXPT3Pttg-sPgGhiKlMgPW09_JLhRcToDcVP-Gg9DW88SSoTICCvlZ2hk4JxN3B_yf0JIeeWzhrArow82Xjf2pq1BCpT8K79KVbX-fuAqiP9578iBkERIgAsQ0kAbkCj6aAhv31EyEYIggDSirQD8INQFwL1jr0fomX6yvvwklO-KqLYjP7S442UJHLdr3iSfWu9qsi2sGtIUAj0Nbu_EyIOtMv5wwgM59Gkm8Od5Fin2BvK_MF0FYcl8n-AIHOMHTmk5PN6hRGyqbeQWYDCUawpVbXkzHYOnM="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 79,
+    "has_photo": true
+  }
+}
