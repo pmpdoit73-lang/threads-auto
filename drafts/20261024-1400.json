@@ -2,7 +2,7 @@
   "id": "20261024-1400",
   "created_at": "2026-10-24T14:00:53.753633+09:00",
   "publish_at": "2026-10-24T18:00:00+09:00",
-  "status": "pending",
+  "status": "failed",
   "product": 0,
   "issue": "세탁기 거름망(먼지 필터) 청소, 몰랐던 살림 팁",
   "angle": "드럼세탁기 하단 배수필터를 한 번도 안 열어봐서 냄새·배수 불량 생기는 손해",
@@ -46,5 +46,6 @@
   "message": {
     "message_id": 73,
     "has_photo": true
-  }
+  },
+  "error": "쓰레드 API 오류 (me/threads): {'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 0, 'fbtrace_id': 'AqE47Oa2rgdTZLdNDAgRZIT'}"
 }
