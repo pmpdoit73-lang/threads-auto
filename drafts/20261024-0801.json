@@ -2,7 +2,7 @@
   "id": "20261024-0801",
   "created_at": "2026-10-24T08:01:20.520846+09:00",
   "publish_at": "2026-10-24T11:00:00+09:00",
-  "status": "pending",
+  "status": "failed",
   "product": 0,
   "issue": "냉장고 야채칸 습도 조절 레버, 몰랐던 살림 팁",
   "angle": "야채칸 습도 레버를 장식인 줄 알고 방치해 채소를 빨리 시들게 하던 손해 습관",
@@ -46,5 +46,6 @@
   "message": {
     "message_id": 72,
     "has_photo": true
-  }
+  },
+  "error": "쓰레드 API 오류 (me/threads): {'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 0, 'fbtrace_id': 'AWkNbY3fDG8Am-72AMJDNxx'}"
 }
