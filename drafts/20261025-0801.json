@@ -1,0 +1,50 @@
+{
+  "id": "20261025-0801",
+  "created_at": "2026-10-25T08:01:00.368375+09:00",
+  "publish_at": "2026-10-25T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "김장 양념이 남았네…재료별 사용량 적어 구매량 조절",
+  "angle": "김치냉장고 김치 보관 모드를 표준으로 두고 쓰면 김치가 빨리 시어지는데 대부분 모르고 씀",
+  "category": "주방",
+  "subject": "김치냉장고",
+  "hooks": [
+    "김치냉장고 30년 썼는데 나 뭐 한 거지...? (9/10)",
+    "얘들아 김치냉장고에 이런 버튼이 있었어? (7/10)",
+    "김치냉장고 문 열다가 남편한테 혼났어... (6/10)",
+    "김장김치 왜 맨날 일찍 시나 했더니... (7/10)",
+    "김치냉장고 이 버튼 원래 장식인 줄 알았는데..? (8/10)"
+  ],
+  "text": "김치냉장고 30년 썼는데 나 뭐 한 거지...?\n김장김치 맨날 1월이면 시어서 손맛 탓했거든\n알고 보니 모드를 계속 '표준'으로 둔 거ㅋㅋ\n난 이제 익으면 '보관(저장)'으로 바꿔서 온도 낮춰\n너네도 버튼 안 눌러 봤지..?",
+  "image_prompt": "Slightly tilted amateur smartphone photo of a Korean kimchi refrigerator control panel area with the lid open, red plastic kimchi containers inside, ordinary apartment veranda lighting, a bit cluttered, no people, no readable text, no logos",
+  "photo_query": "kimchi refrigerator storage",
+  "product_keyword": "김치통 밀폐용기",
+  "benchmark_note": "조회 4만 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄과 마지막 경험 질문+ㅋㅋ 구조를 가져옴",
+  "products": [
+    {
+      "name": "제오닉 블랙 김장 김치통, 4L, 2개",
+      "price": 10800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6835842313&itemId=16240636235&vendorItemId=83434027768&traceid=V0-153-d989e74740b395e8&clickBeacon=d3f44580-cffe-11f1-ad22-b0b7d233ff32%7E3&requestid=20261025080120891009439958&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/xL3aZzt1GiAiQarexK6eQm-tDN5OLR0NaGTDZ7iypf74vqc2PgCvhInyTyoXhe-noTDLVYRSuSLPMK5aq_7nsqYzP90wGVFtcyJgaY2CZ0J3J5TB4-4cJIgPAMBfYtsN0dSmAQVt8XS_hKI3SHcGJKl--hn-e-y-nxtPfqh7vzGcMk44NlUAjPAdsDjKJplHmCAoSkuII9pi7bM_lTRykQZKd2GBoTKYidkUzUbVf92gew4bdJVwV6rIjFnl1q0fmPqktYX-NeqH8g4SwiXxbn9qbM72yAHnG5BA51XQO6z2FeMk3g3F6LPmxE7V4_BTJgoS6oPN_jm8wYWBUv03uCQY8KqPBCrnsYWkjQBZJN3DHKKpctg8gSD6N1eo0kZtT2M1lswZRI4ecSLtBStRpxi4EagagAh8kzH1R6WPheMyMn9juXcIpFqA7MLEstmOJ2mbV6t4laVNDJof6VQT1GcVw1rbAa9MAp0iThtSZ8KmSfqayEBf0wX8_3wZFcgRxYoDuF4SUMSF-qhBtJXfk7xdoHtUtmw="
+    },
+    {
+      "name": "제오닉 코코아락 원핸들 김치통, 2L, 4개",
+      "price": 17270,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=2269494656&itemId=3891764863&vendorItemId=71876386438&traceid=V0-153-cb741cf0119144c4&clickBeacon=d3f44580-cffe-11f1-94e5-8cb0a65c2dc1%7E3&requestid=20261025080120891009439958&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/0XlN9nipttndQ1ng0S2TAvoP0NFmc_TwSDxkCpA8tUUCOvWk07XA_rcrLz6xNA3CL9-fu7TSbtMpdxwVu3TKXoJuNUiUzUY-E5w08YsJd-aENbCllE1lE7bPf2WMDzZ2lilI4m5Se2lGHRjOrUTP3IvVex3u8gSVkv3dPQCRXkDxsKTJrPQm-kZrKKzTUqSxuLx6ZvbfgslqZ5eReRr74JBA7jJoEO5L6jh3krQ7PfDYGBNmTW9DwtZ126UmJG9XlgcQ6vTmnzNnY2ezIhp7D3ggCNO59UgPkFwSjRg4SpzBxyHnMgkuZvVtFtl0ftj5sMYqNc8NKMOPzmkn4RO9z1CPNqxcTF4e0hlmnm3jp2kqRJoRQG6UdWngNb-65VAmpUjPGkYSIp2joVf_EYK6qxpPMwQaSgw4Dh-OD9aFASgdzQOAj5ExA0xWxtl0mNHn53MOhsuE6K4ZgTJA71qJ1UWUruDq8khP54m1Gym0LOzaHemZbU8WqKjMoK0_DQ_QOZJvYav-iwcg"
+    },
+    {
+      "name": "까사베니 연마제 없는 스테인레스 김치통",
+      "price": 14300,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7115546499&itemId=17801571897&vendorItemId=84965638933&traceid=V0-153-b395a3b9d422a85b&requestid=20261025080120891009439958&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/QiX9PPoTvTWccJUEQuqsvrbCB7jFGhh5DWEmz1TjAwy2b9tqMAJEJnbugDsbFJ53ooFWQopbV8kK1uwnCfck_24HE5E6c4S4WKfSiH6TOBxZ-m_yaaQqo6WlMTV1-qWyFNAJIv6cGXxqn-gJIJA8ETsQxxMvwStIXC25y4_L1ylwikNhDdx4NzcAPnWR-JBfC0roQ8Hipu8rVmVtnH4k_WtwKUH49CM7wxdZTvymdXZoOkyk4UIQDjFxPR3nhPBI719tDvilj4VLTufaSlHmvMJKswQ_HMKW8OoFJBRC-Vn68ofvDySFmqAgckFCtu6Vj4o5e8VPvDZ3OhLrXAGdkzeogHDQOvMfYn3BEN08UNny9NZ9P5QywMgIgctr6GGCaRiepKkB1cdnf9Vr7kECuz8QHaMtEUAng2K3MpSXm32K72Pu0QzfCqJcdAh1mSjzX_1-aRA7kisyHMddocL0GGE5uOvxVvws_BcP2Lsgusa8tGUyea4X8FjgImeUmkE0iWaI8WtTd6yBWMnc-gayos7bA17A"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 84,
+    "has_photo": true
+  }
+}
