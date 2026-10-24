@@ -1,0 +1,50 @@
+{
+  "id": "20261024-1801",
+  "created_at": "2026-10-24T18:01:23.138775+09:00",
+  "publish_at": "2026-10-24T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "식기세척기 하부 필터(거름망) 세척, 몰랐던 살림 팁",
+  "angle": "식세기 바닥 필터를 안 빼서 닦으면 냄새·세척력 저하로 손해 본다는 점",
+  "category": "주방",
+  "subject": "식기세척기",
+  "hooks": [
+    "식기세척기 냄새 원인이 이거였어...? (9/10)",
+    "식기세척기 3년 썼는데 나 뭐 한 거지... (9/10)",
+    "얘들아 와, 식기세척기 바닥에 이런 게 있었어? (8/10)",
+    "식기세척기 바닥 동그란 거, 원래 장식인 줄 알았는데..? (8/10)",
+    "식기세척기 그릇에서 비린내 나던 이유... (7/10)"
+  ],
+  "text": "식기세척기 3년 썼는데 나 뭐 한 거지...\n세척기 청소하는 기계라 안 닦아도 되는 줄ㅋㅋ\n바닥 필터 돌려 빼보니 찌꺼기가 한가득...\n난 이제 일주일에 1번 빼서 솔로 헹궈\n너네도 이거 있는 줄 알았어?",
+  "image_prompt": "Amateur smartphone photo in a Korean apartment kitchen, open dishwasher with bottom rack pulled out, a cylindrical mesh filter removed and held over the sink with food residue stuck in it, slightly tilted angle, ordinary dim kitchen lighting, cluttered countertop, no people faces, no text, no logos",
+  "photo_query": "dishwasher filter cleaning",
+  "product_keyword": "식기세척기 세정제",
+  "benchmark_note": "짜장면 글의 '나 뭐 한 거지?' 셀프 디스 실수담과 마지막 경험 질문 + ㅋㅋ 구조를 가져옴",
+  "products": [
+    {
+      "name": "프로쉬 그린레몬 식기세척기 세제 미니, 450g, 3개",
+      "price": 37800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8591416884&itemId=24180491542&vendorItemId=95277249688&traceid=V0-153-631d1931d0713a94&clickBeacon=826f08a0-cf89-11f1-a0d6-3f8aee0fb5f7%7E3&requestid=20261024180133032323005695&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/AFip5qNnV1sPzvZOAHaK3da0gx_bqvGkvCaFc19cWR8CNz9Cj5smpQF-645vyJ_k8rFzF_pyt6GAnJKL2xFnhi_EtLNWj2ZLqufpRtTaSBd9HRnKSwh3-JwjimQ8L2aSuorzlWny0YYA2IKS3XO6dfgS7-7CSw3b82KE6sLDQ0nrkXasXFfYHLMFVYFKrlV95dWWQlvNU5mEzv5gdazs8lIPLD10lbx5HLYCTCg8spP1c-fFNS9AEUO65bpxEms7cxPHrCowu-wwO87CuI29GnFpyKpaqxaLqCXswVlPBh5W3pPXeLYybBngkw7hCe3ic6PwFH_3Kh4rCuV_19rpTvFNfGSg5y528UpgYmu72E5qWM3FX-qBakVwzhmpyREJLAIn6nY_diyTy2qlXciMSv4lVpki946nNq_uZwR7qZod3C3zVcFRZRsMJhGGJ122iRBw9xLSq5lWb2-l_8qZhWvJ8x01pcQvvWhIKU7_Jez4qATDxVLTCzl2uU88tLHS0EtSMuZo"
+    },
+    {
+      "name": "공간케어 대용량 업소용 프리미엄 식기세척기 세제, 1개, 18.75L",
+      "price": 14990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8374497927&itemId=24199765401&vendorItemId=91217369577&traceid=V0-153-b6b01e848b2bfe17&clickBeacon=826f2fb0-cf89-11f1-a546-4f270608f942%7E3&requestid=20261024180133032323005695&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/ZPMio1Bn7HsjaazoZCPUCD-6wFyhAXmMxwy1zpznJstzKs_xaCcpbjxU_rXullFvT2qc5eP3Vmchn8IiQ4v4sSEMy2AQY_kKs3UDQq7lmQsjIHp0FZotZXMK2haZ6KUP20rcPk4gPCCrFCZ86jXelRWZqbf72GcjxSoP0rq_GQuEyjqoHtAsdVZdIpQRim2fGkdkw8O1FYx_T2b1req6wJBfn4cciGC7mJatZ6MhKpIPfdTVH0R0EGq8F_X349SvndnSQZaZXqJ9uKKHRte_LhAtJjmUEv85ooJ2dfEPhylkXyAZ5rv4GbbhveCu6qqYpAwv8hRvW69Ry22IvP0awUE2XLrYxKQr2uVzAFb7m5_xFK01xytdAM2XXqvSYppQH2ZCvb5ZSWqfsJNITWz_fKevHgc38RK7ibtR8SLlYNfe57dWB2jKLc9PKLYHgBEJXpU5jpeLpUwInItV0ftvbSpnj27bX0JPEIO62jY_SlGi0X6CrQIK3QhjF8X-2J01gCzm4UiVaH55gMundeer_tDS_bOztWDJ"
+    },
+    {
+      "name": "프로쉬 식기세척기 클리너",
+      "price": 6600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8702991591&itemId=24644717385&vendorItemId=92429182108&traceid=V0-153-6bb231187f8e0262&requestid=20261024180133032323005695&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/mqBP006Rm27Q0lZhmp9wpCS7VZXh6SZQeGs2-xXAjfR1KQDR14_i-6plkJstUBvpYkCU9xBQrBNOhni6Vb75zP76jG8CKGqQhK4tYpbUc99NOTFl5g1Gs8LGN9g0F0XTQckfbVttV7n8Qxz0pXH6ZIGN5TT4d7HrE5_kLBDgdkBu-QuCg0Sund7OUpMKAhnWfmYgtENMFEhAlBWkwHVoErnaicBAcZKSlKJXl-Z7k-Siy1stR859eDSiJHE4-EwumxA7pObWBOocIlqIQfr90EmIqQz4z4pI1b3U2uklNf3_WpLCjpYbfU07YhZuR96NdC2_LDIO5L2dqeezTEIFEmzliyX4r8AH2-EP3c_WOuaQM7v7xc8PvbnG7Ye-yoUZ_D5N69cnKFPmzhRE7NYsxOLOjkUSdTq8yec8NzM7kCldIxs561gzjpUeyvxo8oN6LhmE4oppDx8QplM2SPV2UakTZyhNCJK8z0Bm6RmyT_XyG3Ha6Fcu459FgaI4rY5wkTJv7wuTQJHzUfRydXvRH_PK"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 74,
+    "has_photo": true
+  }
+}
