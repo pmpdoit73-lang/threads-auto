@@ -1,0 +1,50 @@
+{
+  "id": "20261024-1400",
+  "created_at": "2026-10-24T14:00:53.753633+09:00",
+  "publish_at": "2026-10-24T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "세탁기 거름망(먼지 필터) 청소, 몰랐던 살림 팁",
+  "angle": "드럼세탁기 하단 배수필터를 한 번도 안 열어봐서 냄새·배수 불량 생기는 손해",
+  "category": "청소·세탁·정리",
+  "subject": "드럼세탁기",
+  "hooks": [
+    "드럼세탁기 아래 작은 뚜껑 열었다가... 나 뭐 한 거지? (9/10)",
+    "30년 살림했는데 드럼세탁기 이걸 한 번도 안 열어봤어... (8/10)",
+    "얘들아 드럼세탁기 앞에 이런 문이 있었어? (7/10)",
+    "드럼세탁기 아래 네모난 칸, 원래 장식인 줄 알았는데..? (8/10)",
+    "드럼세탁기 빨래 냄새, 세제 탓인 줄 알았지... (7/10)"
+  ],
+  "text": "드럼세탁기 아래 작은 뚜껑 열었다가...\n나 뭐 한 거지?\n배수필터에 동전, 머리카락, 휴지 뭉치가 꽉ㅋㅋ\n난 이제 한 달에 1번은 대야 받치고 열어\n이 칸 장식인 줄 안 사람 나만 아니지?",
+  "image_prompt": "Amateur smartphone photo taken at home, front bottom corner of a white front-load washing machine with the small drain filter cover opened, a plastic basin on the bathroom tile floor catching murky water, a pulled-out drain filter with tangled hair, lint and a coin on it, slightly tilted angle, harsh indoor lighting, casual unpolished snapshot, no people, no text, no logos",
+  "photo_query": "washing machine filter",
+  "product_keyword": "드럼세탁기 배수필터 청소 솔",
+  "benchmark_note": "42K 글의 '나 뭐 한 거지?' 셀프 디스 실수담 첫 줄과 '장식인 줄' 틀린 추측 질문으로 댓글 유도 구조를 가져옴",
+  "products": [
+    {
+      "name": "산코 청소 브러쉬 세탁기용 브러쉬 드럼식 물만으로도 더러움을 떨어뜨릴 수 있는 특수 섬유 깜짝 신선한 배수 필터 보풀 필터 청소 그린 BH-15",
+      "price": 13600.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9787416930&itemId=29304120374&vendorItemId=96219627884&traceid=V0-153-1fe6e2b81ca84225&requestid=20261024140106189185587489&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Ia1pjxbxR7YMfOKoIXYlFIE4EGg9UA4PG-lgE3VTVgVGCasz_v1AV0UcubZwuEfNqYDzGbOACytbUWGO3DeWxa46UGQdhr7i8S1CHC1B_wd7RC0h4Gbw2SzPJtUzLK6lTTJNGcXO1j1hdEclXqap8L0o75Uj-0l1Z_-R762l5gkkMnB1wmdU_cnnYNB1XBxNDMmQceoc5qU9mK2a8yU_QUaUsQxdDSio_qTKDATUBsufyKua3u2UosmyM4u-6ltYxl0syCMuc_hnbwvMXVGoBB5Pg4-zd0F_zMCxsHeIimCHOGPGxONRsMIySWroilew5ow3RSKqzUAZ5dq1aZSHOOUBQ5WTCW3o6lRnlfAXmMypMpX6rRWXiIrcEgGwQuVPakSpiIgDhXQd-ghZo-oBFeFF186ZkM_Yp1jnYsLRqQpqzfMKO4bs4EnBoemDo_1jQacFmKsxPdC_JGulHoiqU2PlGM-oU5XI1I1pLgR9PZ06CYunf3CZpVcYzPQ1WlUNM6KuFKNuTXG9NO1ZxwImb13c3cHOUcE9c2wg9ljNw9g="
+    },
+    {
+      "name": "도맥스 소핀 세탁조 클리너 300ml / 드럼 통돌이 세탁조청소",
+      "price": 9800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8391251421&itemId=24215156476&vendorItemId=72057416163&traceid=V0-153-61f4e092491ab36e&requestid=20261024140106189185587489&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/dxRmQSf1yypHRa_2dwzyROSkdqxgJhtM15sIGbyUgRmp66Xv4IY5qybuD9YI0EXOnIGT_e98ZQzwhjvt8Fyjkbc2x8Qg_x-9poN_LxfznRtGzw3VXR-jtpF4-hXApMVWYZTgA34A0EiQL_pvGC5QnFwuR0LsL_ad8Bsg4g-54sWmzkq8AMjhuK0UWOR7yAZhbwoVUq1nJrmBGic_klIKFY24Axi8PPsF-LsZoLKjJIP5yI2kZ53_XqnqBmDgxQrKt-1E6A0dmp0Ouw6k2HO6J1Nfrf2c4EqjHTg8MqtwhkAmaY68ZhpTI98nUtmYkBe_EF4kn-nupSERtg2fu5uoAqep_Wh50RUNSDAZZem2Htk0uEECkroSLAjiB2XFO9SoDGs01hLBonaLLHMQsDquZ--gK8wsFER70u9C0szi4YNnx1hUgQhfDNafbK26Hci5Bu-YSwv-YoN-Bhd-Msmy9B2X8oQbKmg8NuwUCg02Bt2b3XOo1AxgQPyvJucTqw65i76MD0z9tPfdsMQg7-HhSqUxIi2n0z9uF8YFSc9z1yA="
+    },
+    {
+      "name": "하이엉클 다용도 물기제거 먼지제거 스펀지 본품 3종 세트",
+      "price": 4700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8322940250&itemId=24024366161&vendorItemId=95557505697&traceid=V0-153-b91d6ccf32685f5f&requestid=20261024140106189185587489&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/E3fjVTmFBPu40L8zE8JJxgA8a6tcPTWc5veQhXzghPmXkP2pJYlAm-8sAx_Wpn06NsJ5g2mROkYjbCElQNOQA6WHHJ5ES_lDWJs7pcmQZViYBE4xrc8eKlclvQ0qukHZNxP8BNlgAHVopKanFCw1-SP9uITYC9xLdZKwRPnsV3xY5DmDDMibwz6ZvEf5yi9ZIhCbNDL0_ghI2SjQo7KIvZkf6-RsxwCEfkhH8amkCwW8T8Y-Au71MBWiB1fO0U9KG2xE2QrFkgKovVLohqoZW5FJwOGfyYn1EqWceYpUwBHojsWQQZZGy6f2PIzWkwa4M-odPNBtEyjOU1ye33D7yohFbkkx12IzJJZT7PyIJ8Tyzt7a1zxSuD8wAFhjtzb3OOz9NbIe2Q_BDYgy_qtJVKLnV91LFBE434s6HK_uvYtDM4h0n4V9WpyklNDB6eBVb4AyPBqHWng8gNGIh7YxDb7cndFScvu9UgjkFYvRxmBn6pO33zCkJncc-J4dO_ZfaZZILY4-WA3rXv7JDg5yEnxGyTePRoAqWvVXH8GV9g=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 73,
+    "has_photo": true
+  }
+}
