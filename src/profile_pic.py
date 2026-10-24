@@ -42,9 +42,13 @@ def make(scene):
 
 def main():
     telegram.send_text("🖼 새 계정 프로필 사진 후보예요. 마음에 드는 사진을 길게 눌러 저장한 뒤 쓰레드 프로필에 올리세요.")
-    for label, scene in CANDIDATES:
+    os.makedirs("state/profile", exist_ok=True)
+    for i, (label, scene) in enumerate(CANDIDATES, 1):
         try:
-            telegram.send_draft(f"프로필 사진 {label}", photo=make(scene))
+            img = make(scene)
+            with open(f"state/profile/profile{i}.png", "wb") as f:
+                f.write(img)
+            telegram.send_draft(f"프로필 사진 {label}", photo=img)
         except Exception as e:
             print(f"[profile_pic] {label} 실패: {e}")
             telegram.send_text(f"프로필 사진 {label} 만들기 실패")
