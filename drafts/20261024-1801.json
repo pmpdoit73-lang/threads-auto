@@ -2,7 +2,7 @@
   "id": "20261024-1801",
   "created_at": "2026-10-24T18:01:23.138775+09:00",
   "publish_at": "2026-10-24T21:00:00+09:00",
-  "status": "pending",
+  "status": "failed",
   "product": 0,
   "issue": "식기세척기 하부 필터(거름망) 세척, 몰랐던 살림 팁",
   "angle": "식세기 바닥 필터를 안 빼서 닦으면 냄새·세척력 저하로 손해 본다는 점",
@@ -46,5 +46,6 @@
   "message": {
     "message_id": 74,
     "has_photo": true
-  }
+  },
+  "error": "쓰레드 API 오류 (me/threads): {'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 0, 'fbtrace_id': 'AtE1b-lBiJSXVu-1yxKPF3b'}"
 }
