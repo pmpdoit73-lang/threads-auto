@@ -1,0 +1,50 @@
+{
+  "id": "20261025-1400",
+  "created_at": "2026-10-25T14:00:52.744353+09:00",
+  "publish_at": "2026-10-25T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "홍콩발 제주행 항공기서 보조배터리 발열···내열 가방 넣고 진화·승객 1명 화상",
+  "angle": "보조배터리를 이불·베개 밑에 두고 충전하던 습관, 열이 못 빠져 위험할 수 있다는 점",
+  "category": "살림템·가전",
+  "subject": "보조배터리",
+  "hooks": [
+    "보조배터리 충전하다가 나 뭐 한 거지...? (9/10)",
+    "30년 살림했는데 보조배터리를 이렇게 두고 있었어... (8/10)",
+    "얘들아 보조배터리 충전할 때 어디 둬? (6/10)",
+    "보조배터리 베개 밑이 제일 안전한 줄 알았는데..? (3/10)",
+    "보조배터리 뉴스 보고 우리 집 침대부터 봤어... (7/10)"
+  ],
+  "text": "보조배터리 충전하다가 나 뭐 한 거지...?\n비행기 발열 뉴스 보고 웃을 일이 아니더라\n난 맨날 이불 속에 넣고 밤새 충전했거든\n열이 못 빠져서 위험하대. 이제 딱딱한 데 두고 100% 되면 바로 뽑아\n너네도 베개 밑에 두지?ㅋㅋ",
+  "image_prompt": "A portable power bank charging with a white cable, half tucked under a rumpled blanket on a bed at night, dim bedside lamp light, casual smartphone photo, slightly tilted angle, ordinary Korean apartment bedroom, no people, no text, no logos",
+  "photo_query": "power bank charging bed",
+  "product_keyword": "보조배터리 파우치 내열",
+  "benchmark_note": "짜장면 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄과 남 얘기 웃다가 내 얘기 반전, 경험 질문+ㅋㅋ 마무리를 가져옴",
+  "products": [
+    {
+      "name": "LINJIN 리튬 배터리 방폭 가방 185*75*60mm 방화 내열 소재 충전 안전 보관함, 1개",
+      "price": 9930,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9754070&itemId=27286963382&vendorItemId=94253589045&traceid=V0-153-6010a42df48b8b2a&clickBeacon=14cd9bb0-d031-11f1-9f53-70c3d64a7bd5%7E3&requestid=20261025140104562289862935&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/cXGXXooJtLdcGg5AceTl-CtI56zij2CyImJBFgOBg8HHeUR7BLsjtIZAZVq2KdQWWDMgXtq8301-CCXXBueHga-JZDrKpHB-reThDPEkYo4RRzk9gtzeISux7qYBllGIjuw3HrUdfT5l3KhaTRE3XBvsK9wC-rdkY3rt4o87wCRBgq-9YeMSZw8Fj56d70URuPFVkOv2EQ2WWEaaNMbj7EUzZET1jYMp9ERNcD6rVBMWUfsx75prja9zHqYJtpcLxpCNT5w2l_UUll9WOQ0IHn5DUBNv7W0iCCTcm15_4RoyDBFFJMhEKDQ4Av8-mHhMfkIbo0KmxsaYrG7ZOnZIuurFOgdZ8vsV4ElziVWwknQP_JhUcQCN-nYz1g4FYSNGSU8qGbV_9WmhoXvAou6LcLU5wQSFXofOwU7GnP54cdJMVhAu02VglcyKxSW230DbRk2_TXQC-fsfjzWpy59hdhMkBdBI-ulxOtrmf4nvXdTyIULeXTNIQTQOET6HFePY92tNoEokCJHixIO9uTUWt7sK5A=="
+    },
+    {
+      "name": "내화 가방 보조배터리 방화 케이스 방폭 파우치 1200도 내열 3중 구조 블루 20x13cm",
+      "price": 21400.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9789865899&itemId=29310171579&vendorItemId=96225370460&traceid=V0-153-402b7e8480f2b8ff&requestid=20261025140104562289862935&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/_W22Z4TPpTsGZthm_WviN8AHDWgEFhM8taDfGHAqmID1gCqUvee2JgC3mqT66OHSaJ_p5zadBoA_iMmOQxhU3CkI7ZV6Bs5VrxKTH2xzcdM4zrva_wYuaqJdnfPy0DNfdqNJttrx8IdFHbNz0IdFp6zg5qef6lcnKgzqcHz2EfPDGxVYjAT9ljr0zjkEnxfnCotigN4cBtxiv5lkmNNTujt3t3tviLnGCPOKCXJs9j0BXec_RwN4lAtw9AVmaaCilnA7BTWL7ElNfexGb5rLG_hmQKVs7rHlUWBy6YyelnkzjKfrLjBhbwaDzW0x7EWuu6etgqJmc0APPGpcHIWQts5w5teFHnq6Jry7fCdVpwRaWWmVnVeSd2M-jqdzDvPYJxQT_Hdo5JdBvmYmGQmVPr1JU4caveoPtZuNvvxz-4dwf15hFpjBgezBhILRs4w6eNHJ6gX52p_hj7UlRMjZWs_us53MesdHargd2FSh72M9kIxBykX2wucXO1ZtwRQuweUsXJ4tPIboTmjNR-5ySZx57uA58iMjG1y2Ptc3dI1_WGc="
+    },
+    {
+      "name": "내화 가방 내화 케이스 내화 파우치 보조배터리 발화 방지 방수 방재 용품 1200도 내열 가정용 소형 그레이",
+      "price": 24430.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9789868441&itemId=29310176404&vendorItemId=96225375038&traceid=V0-153-808778d7a20d5112&requestid=20261025140104562289862935&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/JHIhnjiZT_WWWsu4JLOVnMN-dAgYNOYiq068P9scEqj6K8p3GXKCePjQafN5cK0xdkgvjD8KS7QF3BNSTc-B5Xzq9digMGPWE2yZVpQBI-Nkybgn7_8sAAGT5kp031z6wXM82U15vU8_Jz_BGQa_wTk746B6fFEKfc_x_epME2kjL8GDNgepNraFsSrgx4TlLRSYpDqa8fIHwlR--1-iOJFDvnamEKuidZgeLokUQQDx7mj2M-6e0QLdcB2DPeUYjLOWwHuOGoDh6GcZ-a1AQJvuqVl5f8xp3GpwN3c6T5j80emdMTZvdrJOI_LTivYDYe9KXgRj43rLRbLfA7mrFcvhr7BLzAPtenZMLTXt30hgHj_FVaExTEeMGjcnesVCtwSnjRXL8aj-bAg5Z7A78gNYLoaB1Qmx9KNCdavwG8Yyyzbo5zzAm3k2vDVAoJUGrjbe0xUu_oK0j32hYx4T_VPscM0iO50Y44RPpQVrA0r4ZqToQXjYwbMme-Im-P2oyBFTmjqIHDlKTpG3RuiWcOvQ30Ts4LdNndARZqkQt8Lo6Q=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 85,
+    "has_photo": true
+  }
+}
