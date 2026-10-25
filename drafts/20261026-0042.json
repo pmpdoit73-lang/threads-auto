@@ -2,7 +2,7 @@
   "id": "20261026-0042",
   "created_at": "2026-10-26T00:42:13.211844+09:00",
   "publish_at": "2026-10-26T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 정수기 출수구(코크) 물때 청소",
   "angle": "매일 물 받는 정수기 출수구 끝에 물때가 끼는 줄 모르고 겉만 닦던 습관",
@@ -46,5 +46,8 @@
   "message": {
     "message_id": 89,
     "has_photo": true
-  }
+  },
+  "threads_id": "18131320351872579",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/De7u1winHWu",
+  "published_at": "2026-10-26T07:01:08.733281+09:00"
 }
