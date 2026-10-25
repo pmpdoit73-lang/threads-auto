@@ -2,7 +2,7 @@
   "id": "20261025-0801",
   "created_at": "2026-10-25T08:01:00.368375+09:00",
   "publish_at": "2026-10-25T11:00:00+09:00",
-  "status": "pending",
+  "status": "failed",
   "product": 0,
   "issue": "김장 양념이 남았네…재료별 사용량 적어 구매량 조절",
   "angle": "김치냉장고 김치 보관 모드를 표준으로 두고 쓰면 김치가 빨리 시어지는데 대부분 모르고 씀",
@@ -46,5 +46,6 @@
   "message": {
     "message_id": 84,
     "has_photo": true
-  }
+  },
+  "error": "쓰레드 API 오류 (me/threads): {'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 0, 'fbtrace_id': 'AbY08AfTT35xjXr4v9Xy82Q'}"
 }
