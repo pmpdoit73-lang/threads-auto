@@ -1,0 +1,33 @@
+2026-10-26T00:39:42.336528+09:00
+Traceback (most recent call last):
+  File "/home/runner/work/threads-auto/threads-auto/src/make_draft.py", line 38, in <module>
+    main()
+  File "/home/runner/work/threads-auto/threads-auto/src/make_draft.py", line 31, in main
+    d = draft.create(slot)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/threads-auto/threads-auto/src/draft.py", line 194, in create
+    _fill_content(d)
+  File "/home/runner/work/threads-auto/threads-auto/src/draft.py", line 141, in _fill_content
+    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks, external)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/threads-auto/threads-auto/src/writer.py", line 89, in write_post
+    post = _ask(user_msg, SCHEMA)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/threads-auto/threads-auto/src/writer.py", line 146, in _ask
+    response = client.beta.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 294, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/anthropic/resources/beta/messages/messages.py", line 1266, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/anthropic/_base_client.py", line 1679, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/anthropic/_base_client.py", line 1230, in request
+    return self._request(cast_to, options, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/anthropic/_base_client.py", line 1333, in _request
+    raise self._make_status_error_from_response(response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgPCxGWA2ognwvpAn1wHe'}
