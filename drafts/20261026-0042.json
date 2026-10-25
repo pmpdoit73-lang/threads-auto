@@ -1,0 +1,50 @@
+{
+  "id": "20261026-0042",
+  "created_at": "2026-10-26T00:42:13.211844+09:00",
+  "publish_at": "2026-10-26T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 정수기 출수구(코크) 물때 청소",
+  "angle": "매일 물 받는 정수기 출수구 끝에 물때가 끼는 줄 모르고 겉만 닦던 습관",
+  "category": "살림템·가전",
+  "subject": "정수기",
+  "hooks": [
+    "정수기 물 받다가 출수구 밑을 봤는데... 이게 뭐야? (9/10)",
+    "정수기 겉은 매일 닦았는데 나 뭐 한 거지...? (8/10)",
+    "얘들아 와, 정수기 출수구 이거 원래 이런 색이야..? (8/10)",
+    "30년 살림했는데 정수기를 이렇게 쓰고 있었어... (6/10)",
+    "정수기 꼭지 끝에 달린 거 장식인 줄 알았는데..? (7/10)"
+  ],
+  "text": "정수기 물 받다가 출수구 밑을 봤는데... 이게 뭐야?\n겉은 매일 반짝이게 닦았거든 나 뭐 한 거지\n꼭지 안쪽에 거뭇한 물때가 껴 있더라\n난 이제 일주일에 1번 면봉으로 살살 닦아\n너네 정수기 꼭지 밑 한 번이라도 봤어?ㅋㅋ",
+  "image_prompt": "Close-up phone snapshot looking up underneath the water outlet nozzle of a white countertop water purifier in a Korean apartment kitchen, slight dark grime ring inside the nozzle tip, a few cotton swabs lying on the drip tray, uneven kitchen lighting, slightly tilted framing, casual amateur photo, no people, no text, no logos",
+  "photo_query": "water dispenser nozzle",
+  "product_keyword": "정수기 출수구 청소 면봉",
+  "benchmark_note": "높은 글의 '~하다가 나 뭐 한 거지?' 셀프 디스 첫 줄과 마지막 '너네 ~봤어?ㅋㅋ' 경험 질문, 5줄 짧은 구어체 형식을 가져옴",
+  "products": [
+    {
+      "name": "비코드 데일리 액상 면봉 귓속청결제, 1개, 50개입",
+      "price": 9800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8314563004&itemId=23851096281&vendorItemId=92141069320&traceid=V0-153-c5cc01cb1fe119ea&clickBeacon=afe96990-d08a-11f1-901c-42a5adb1eb2f%7E3&requestid=20261026004229987157215973&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/hTg5IzbbSQo49I4ChYhPanXcYb33dKYSwWezypU0ndBqm8Mwpcce5WWejwUlA8sA7omIjntCvatAD3qp3sLwqK_z3pw1eN0l_qgIvRztUQNVlNWtO4T7u0kpRuNv-Diz-V1soSsPAmyByOmiezo3luk4tdAZLKC7CkWkHSAmMm3UWsI2J2Bga5mL9RhxWDiCt9qu7ResRxvL8YE94xEbLEbdyynHuUyiaWXk9j8HDKBINH5bDKPDPQv_ZYUMPCOZpQIdQOEYxf_iSK-sEI6tzppcra_58CcjBW2UlKlhEhGtOkR0jbiW6BF7rt_5nfWQbjV2tkMB-Vt0ywDqDC2Z36uGhC6A5-M6uqNh1vjRZJVTF9aj-p6tqG0d9vKl0Tap5Cm55K78WDcDvsUzfivTUsIbJPAgQqSMwsMte6lT0cjQtSsXgOtYgBhWJnMDNNZXMVR206QEJQNQOUCowVzZ6ZU4Oz6zNh41bavV5JflYh3UfHIVB9Z6qz6mXLIYEKpHpqmZV_4I0-lnkVvDE-C-HAoCUodr7WH62vTPXVwosgU0HKE2a9KcCFRZi96QXxz2RfUlQtu9Hj5f_JZgLV7krwSg"
+    },
+    {
+      "name": "비코드 데일리 액상면봉 귓속청결제, 1개, 100개입",
+      "price": 15200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8314563004&itemId=24039688546&vendorItemId=91341314420&traceid=V0-153-c5cc01cb1fe119ea&clickBeacon=afe96990-d08a-11f1-a560-624e04a0b72f%7E3&requestid=20261026004229987157215973&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/q3bvMrsi3REmOSn3q6Ek12fi5sUwZL9x_NR7tSBfZe8BPVmVkC79wSkeMkaQY4NYuNto5ImcwBMvxK99NXkFAg2NdeDu3AI6hj7-d2MyI3wAUDM8hD6Kt-t2gYSKjoSpLagQ9JDbovejZZCuUglOsBvGsEU-5Wm4FE3r7q15P9cK9YksNBRe-I4skjctcdRHt-mXLuD56b5oJFkIbWKt4ekBFbjLsbIcfs-gICGT4w5Y3QNbndyzQwQfgBsZJKSm1K3go424ydvJe7PUywcx93_FLg42TK1PqZ6MXss45QWX-86NC4gygNJ5GZgiVAwQbGd8Ub5UWjdikHNpNyujmdbMMgcdj3-NPq-kJaQWFwuE4M1eQXcQauqQdEGZXIH8eYzhFoeoGLta_ipnmE6h2cTC-BVW1snkSvQCTsQNalLxmOfsEvIAJmM5m8scHC4Z-Ov69ZGNe6FTC2pECuvbvhpxJutYElQksq4fRfFBvyZc6A9NFxQIQUJDSsBbGehl7otFCuBYdYc9wTfrtRyvv9_wD0vDroGQxWRgpjX5EiG9TQmgfBh9GvqOKfjZM4y1sQ7hGtWcZ5XHl7PUYib7KQRBwQ=="
+    },
+    {
+      "name": "퓨리얼 클린서비스 키트",
+      "price": 22980.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=26965040&itemId=104190840&vendorItemId=81644619384&traceid=V0-153-52274e130a6a8548&requestid=20261026004229987157215973&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/81NwfhfXJf_oYMK687RpUV8VUUHe8qyy2sSLwYJwtEFN5stNHj3QI5lHQzCOQKq7HgJjPs5CMVATbP0tAY-Y5-2jKUg87BrOPYQuLSpEaCd3DPuQGEFQkYN6xQjNW32dxv_zd6zpNyY53UNF_JLB4MK_U6bIK13qBXjv7uU1HYOOrj5glWw5UqJ4itrhKqQCEtnL6uikwmrNd5pCxKRnjf9UG7QNDXzIcMbdOO3L5Szrj29JtWtDJet8CYSmICEEIZAR0oI2iMue1ipFlE_wto2F6FF-noBENMk6606um40ZNub5AUdmuyk-EccGakFMinwTGb2Zji3RvUXqnO2HJfNQUzBWJb2-SMcxW6e6ECW_jNeAt5JrDqrgoxoWWA3waQ0lnyi3t_240OkZmioGQFNpsTwhU1RMEVbWn2e5eGEgB4S-OwATW1aj1tCydGRRh3Yqaql5MHXKsBynUWRkleq7S-C3Y3R19am_mtDIbdP1Ncd53PC7qttSbUtnJFHCvuboey2EX5HP2keIT-IVzbr-lfoLAtchoA1QRRPr6xXbdvMVCi_ZLddS_pPNw5sCQ-dsw2ZiiwXaGtsiqE5-FfuFwQEWaPvrlmI="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 89,
+    "has_photo": true
+  }
+}
