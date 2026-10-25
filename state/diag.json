@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-25T02:43:25.476711+00:00",
+ "checked_at": "2026-10-25T02:52:32.444815+00:00",
  "token_shape": {
   "length": 46,
   "stripped_length": 46,
@@ -15,13 +15,33 @@
   "starts_with_bot": false
  },
  "threads_token_shape": {
-  "length": 71,
-  "starts_with_TH": false,
-  "colons": 1,
-  "has_slash_or_dot": true,
+  "length": 202,
+  "starts_with_TH": true,
+  "colons": 0,
+  "has_slash_or_dot": false,
   "first_part_is_digits": false
  },
- "threads_login_error": "쓰레드 API 오류 (me): {'message': 'Invalid OAuth access token - Cannot parse access token', 'type': 'OAuthException', 'code': 190, 'fbtrace_id': 'AysaMWCRTfbGwW8dte1xGEM'}",
+ "threads_login_ok": "salim.kkultip",
+ "threads_profile": {
+  "name": "살림꿀팁",
+  "bio": "30년 살림하며 써보고 고른 꿀템만 🍯\n가전·주방·청소 몰랐던 기능까지\n매일 하나씩 알려드려요"
+ },
+ "my_posts": [
+  {
+   "date": "2026-10-25",
+   "views": 0,
+   "likes": 0,
+   "replies": 0,
+   "text": "충전기가 너무 많아서 스티커를 붙였더니 찾기가 쉬워졌어"
+  },
+  {
+   "date": "2026-10-24",
+   "views": 0,
+   "likes": 0,
+   "replies": 0,
+   "text": "50대에 쓰레드 하려니 뭐가 뭔지 모르겠다 ㅎㅎ\n하나 하나 천천히 다시 해보자\n스친이들 도와줘"
+  }
+ ],
  "webhook_set": false,
  "pending_update_count": 0,
  "last_error_message": null,
