@@ -5,6 +5,7 @@
 
 import os
 import sys
+import traceback
 from datetime import datetime
 
 import draft
@@ -37,6 +38,10 @@ if __name__ == "__main__":
         main()
     except Exception as e:
         print(f"[make_draft] 실패: {e}")
+        # Actions 로그를 못 볼 때를 위해 오류 내용을 저장소에 남김 (비밀값은 안 들어감)
+        os.makedirs("state", exist_ok=True)
+        with open("state/last_draft_error.txt", "w", encoding="utf-8") as f:
+            f.write(f"{datetime.now(draft.KST).isoformat()}\n{traceback.format_exc()}")
         try:
             telegram.send_text(f"⚠️ 초안 만들기 실패: {e}")
         except Exception:
