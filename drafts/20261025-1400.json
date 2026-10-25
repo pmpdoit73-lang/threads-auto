@@ -2,7 +2,7 @@
   "id": "20261025-1400",
   "created_at": "2026-10-25T14:00:52.744353+09:00",
   "publish_at": "2026-10-25T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "홍콩발 제주행 항공기서 보조배터리 발열···내열 가방 넣고 진화·승객 1명 화상",
   "angle": "보조배터리를 이불·베개 밑에 두고 충전하던 습관, 열이 못 빠져 위험할 수 있다는 점",
@@ -46,5 +46,8 @@
   "message": {
     "message_id": 85,
     "has_photo": true
-  }
+  },
+  "threads_id": "18413668612091241",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/De6VoSPm66R",
+  "published_at": "2026-10-25T18:01:42.965211+09:00"
 }
