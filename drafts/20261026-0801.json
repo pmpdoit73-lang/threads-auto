@@ -1,0 +1,50 @@
+{
+  "id": "20261026-0801",
+  "created_at": "2026-10-26T08:01:18.981380+09:00",
+  "publish_at": "2026-10-26T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 가스레인지 버너캡(불꽃 나오는 뚜껑) 구멍 막힘 청소",
+  "angle": "불꽃이 빨갛고 들쭉날쭉한 게 화력 약해서가 아니라 버너캡 구멍이 찌꺼기로 막힌 탓일 수 있다는 점",
+  "category": "주방",
+  "subject": "가스레인지",
+  "hooks": [
+    "가스레인지 불이 빨갛게 올라오는데... 이거 나만 이래?(9/10)",
+    "가스레인지 닦다가 버너 뚜껑 들어봤는데... 나 뭐 한 거지?(8/10)",
+    "얘들아 와, 가스레인지 버너 뚜껑이 그냥 빠지는 거였어?(7/10)",
+    "30년 살림했는데 가스레인지 불꽃을 이렇게 보고 있었네...(7/10)",
+    "가스레인지 불꽃이 들쭉날쭉한 거 원래 그런 줄 알았는데..?(6/10)"
+  ],
+  "text": "가스레인지 불이 빨갛게 올라오는데... 이거 나만 이래?\n난 화력 약해진 줄 알고 새로 살 뻔했거든\n알고 보니 버너 뚜껑 구멍이 국물 찌꺼기로 막힌 거ㅋㅋ\n난 이제 식으면 빼서 이쑤시개로 구멍 뚫고 바짝 말려 끼워\n너네 불꽃 무슨 색이야..?",
+  "image_prompt": "Casual smartphone photo of a home gas stove burner with the burner cap removed and lying next to it, slightly greasy with brown food residue in the small flame holes, a toothpick beside it, ordinary Korean apartment kitchen countertop, uneven lighting, slightly tilted framing, no people, no text, no logos",
+  "photo_query": "gas stove burner",
+  "product_keyword": "가스레인지 청소 브러쉬",
+  "benchmark_note": "짜장면 글의 상황+말줄임표 첫 줄과 셀프 디스, 내 정수기 글의 5줄 흐름, 마지막엔 답하기 쉬운 열린 질문을 가져옴",
+  "products": [
+    {
+      "name": "영글마켓 다용도 주방 틈새 청소솔 가스레인지 오븐 기름떄, 25개, 화이트",
+      "price": 28000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9726688152&itemId=29107333108&vendorItemId=96032188125&traceid=V0-153-5a3e8d12b0cd757f&clickBeacon=07763520-d0c8-11f1-9e71-61701b1b00d7%7E3&requestid=20261026080136139201685751&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/AZ22LET32MJl1vw4ARhPVpmZHbjWi3wjCTw3fD_OGSrzhJWMHbMXaYU2SVD1qdDEARhJU7SN4VF1khK24HYANNeFHRVdaOWuYWZ77c1as39gJmvL57Ae1hBQLS29TMED9vYVplHapEkNDT0454sc3LWcs8-HpUOQbAixjHjMlaLO6ropsU6BVc0uMurKLipU9sDH93ZXNynn6W4IUAvNqhM1U23_gPGq8MvLw0Yqj6Emz_ocpf1ulGXxGybyYXatfvlGBOqluT4Q_ke1WP9Ufy9jn7sgfYn3aCWi1FWQ4K9n684i-dHkO5PhOSI8T8mjekPSl6PZYKSiCzMduaI8M75ea-0qSZAkaTMnnSy4hq42DeKGM9XPtwLZZX1sMuypfq-3MqT38YaU8rDjxbukNaqhBSRUWtaLA2BzZfB5rx-6-qcmivHxFNUxf3L-38tii2ci5Gl-DwZYnKqO9gmKCA2i-2N2RgA0RbxOoDTanz7kRXDUK4bjsz-OR5w32bWX1HrYAYZuPzw37mi7v95bMwD9UIwn"
+    },
+    {
+      "name": "BestStar 가스레인지 청소 브러시 8종 세트 기름때 욕실 틈새 창틀 홈 청소솔, 1세트, 다용도 브러시*8",
+      "price": 13990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9692173817&itemId=28988372936&vendorItemId=95942431347&traceid=V0-153-7f13c0a7ba623b56&clickBeacon=07763520-d0c8-11f1-8937-ecc15caa5cdc%7E3&requestid=20261026080136139201685751&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/3T2zgLZE6n-EU7AC3bXWGeIRoKZyBlCKRGSy8wabwpSrjrXEgyOm7-gfNrYVb7asg8WrM99NOw-SmWJfoq608nZLomSw_8d52mQK5zurnIMj_424up_sUSxOt76Kjp62VxnqvBq1-3XOYBRv7WSTgkumACHceQ8Y0HndYUpbL5d_ZSte4G-EKPbF-Dz9xeQDT9GKhcT6hiKfoRonfEUYY_YXoA86W5IW7EEsmy97cuRvF9O6E0yDLSXLDf2gL53tQUi2yfemRVifCWJWYUSi-d_0rK-pUzUpBXJyKzUgBYHEREmfGj2rpwpeiWxduwi2QHcwYDauif8Sx2kzZnRqgO4-QhZiOc2wKchPwexuYi7k5klAxQZnCHSX4xxw9YadR9Y6C0QhcoFhIbA5Uol42Cc68LUO4HqE1sXUpr7vPdcmAxgxUtfZhrwTb5xLRd5VHrSdUppcyim5q9yt0tI5M01d6gP7BRDgh1ENCYCkPzO9XK3cGK9GYVEzZK0E5CEKi8PCo7MBeYDgZ1iGmfq4AF_A0ON0mdOS"
+    },
+    {
+      "name": "펀코 가스레인지 청소솔 버너 스크래퍼 세척솔",
+      "price": 4190.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9791516898&itemId=29315838723&vendorItemId=96230885070&traceid=V0-153-f0b1ae808d85e98a&requestid=20261026080136139201685751&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/dpWFyF8v2XayJPlhdpQ1I9EN9Pv5scfFkStIL2iZvoIotfu4KPE5wX2Lpi4LrGbQcirVbYg63Xt_67bZY24dyj9_cmmxXp4dFrSouOl1BRkhRN3Ll0kzOQXzsian1dI9RZJXV_mPDo13YYO43VUERQ3x_yiLRACm5_9ByFfMsQviM03UM62CU-PCGy8KNigkULZZC9e4k50lLbfCZUFEmZdqZv9arWbUuArXcm3XnCQk3ysw_CcfpAZxr822SMsobvPSZNTKdjkV8VeyYGmazXac_pkfWfhoHJ0aAKj3AHnPTGuEEv2_hdWt49dFRmVkDOiw3u-DzhaIYhZS79KmLSrjzFrCpFTAeUVvuG25DEkgMKDgoVciIhYTk2UHscxIXrOU2vIdZY0ztZ96AfRw4jTAaMftAdlqTDQgh9MtGRaq_Sd3Wu2-xYQaHh372osIJDWV5GSBizYkghey7zEpV91QdkTkHeSsxtuKEOqvyC16kKmDXvl1gtbI77Yn8gua9Xbi3mYvbpKL1PB_KH4WhxznXu5p--oFmX9Y67JD85QauMA="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 90,
+    "has_photo": true
+  }
+}
