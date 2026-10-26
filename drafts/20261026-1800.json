@@ -1,0 +1,50 @@
+{
+  "id": "20261026-1800",
+  "created_at": "2026-10-26T18:00:59.616097+09:00",
+  "publish_at": "2026-10-26T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 전기포트 바닥 하얀 물때(석회) 구연산 세척",
+  "angle": "전기포트 바닥 하얀 얼룩을 녹인 줄 알고 방치했는데 물때라 끓는 시간·전기만 더 먹는 걸 몰랐던 점",
+  "category": "살림템·가전",
+  "subject": "전기포트",
+  "hooks": [
+    "전기포트 뚜껑 열었다가 나 뭐 한 거지...? (9/10)",
+    "전기포트 바닥에 하얀 게 껴 있는데... 이게 뭐야? (8/10)",
+    "얘들아 전기포트 물 끓는 게 왜 이렇게 느려졌지..? (7/10)",
+    "30년 살림했는데 전기포트를 이렇게 쓰고 있었어... (7/10)",
+    "전기포트 바닥 하얀 점, 원래 코팅인 줄 알았는데..? (8/10)"
+  ],
+  "text": "전기포트 뚜껑 열었다가 나 뭐 한 거지...?\n바닥 하얀 얼룩, 원래 코팅인 줄 알았거든ㅋㅋ\n알고 보니 수돗물 석회 물때래\n난 이제 한 달에 1번 구연산 1스푼 넣고 끓여서 30분 뒀다 헹궈\n너네 포트 바닥 한 번 열어 봤어?",
+  "image_prompt": "Casual smartphone photo taken at home looking down into an open electric kettle on a kitchen counter, white chalky limescale spots on the stainless steel bottom, slightly tilted angle, ordinary indoor lighting, a bit cluttered counter with a dish towel, no people, no text, no logos",
+  "photo_query": "kettle limescale",
+  "product_keyword": "구연산 세정제",
+  "benchmark_note": "짜장면 글의 '나 뭐 한 거지?' 셀프디스 첫 줄과 택배함 글의 틀린 추측(코팅인 줄), 내 정수기 글의 5줄·'너네 ~봤어?' 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "가성비가브랜드다 구연산 다목적세제 용기형, 1kg, 2개",
+      "price": 10800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7248491279&itemId=28398003691&vendorItemId=95349366649&traceid=V0-153-aafa4f2f6ad3e72f&clickBeacon=cdcf67c0-d11b-11f1-90af-7c727bfd7e08%7E3&requestid=20261026180117173155120438&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/_nbKt12qixplfrPx_mYhbSZBZeIvDDZqJ3bPWfN2AjQ9s5ijzcdF99TGsW0rPaO4apW1Ob71F1JQ2TA-I5QQkhmBQZ_LhZYEDMpBZu9bjtdwcTLCFOZu47bAcF17QS6FWl5ROEAOCjoMIm6tuDxNNaqCoQhrpWN1wPrkIDmQOyi410TucTab4j5L0UbuX9r6uLAU_Eb-XjQ8rLAkPLHrWRt3Bgiavh8hspmHGA81lO8sI5jqUd84hc_GL4JmkW5Rc8K9nX7YTn3b1J3DvNco098nurLJVXeiLzZ1Ulr5rp8zaeFMuuKP4gQzBIpOE-krBaaglEY0qIBYBj4NeNjbtwgSd3hcdrbMbVaBXG5LuyQInXrFa89ozjMZFnI16-X3rmqF8BgUd9zAyZAYwhUijccAwYrC8Urr596m-CmzT-vfJk2XJNOqQr8-OklDEa5BOd0bnODWyIIs6XBtLQOg35Kf3Vi2uOGCrhUuxAa_7-uxUj6vY_LhUHH_HIweEK8gCj8V2aUwOs9e8w=="
+    },
+    {
+      "name": "폴리보이 오가닉 욕실 클리너 스프레이, 500ml, 2개",
+      "price": 18300,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5470252951&itemId=18741623799&vendorItemId=91001658315&traceid=V0-153-2cf2e68a1169cd09&clickBeacon=cdcf67c0-d11b-11f1-a408-9459ffd34b5d%7E3&requestid=20261026180117173155120438&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/J_05nWSWqwosiTJeJyav_8bjJJVbr0w28RX2H_dZfZdT-aoKp9FHRs_smx_gZT0_PuNvHDLRh4jGY7A1PHZ9gA3jGdKMtb_TafIx0trZ1ufSieNVH8qkhwaqfx2fkQKvCc_I8xmCodAEzUuZD51q1KBQsQjdERdI5VSP5Am1IlKXDNhzquGr1V86zIwP1Ee5WuJcMbR0_xN2L9Twgk4xjmuieKi2i5NTCSkmztzdSvqII2EnInMcCJfj1UCak0ASBRpXSSVSnrI1yEj9lLd9ypKd8HWOdSG5wz6AjkkBpnBkg2heUKAsh8NQX_hv-GbR3Bo5mgaHwfuIfErmVBOK0WDchZcroypuAyA1A7i4XXRAvcto19eMzm0xPdFZlatSdPppW1qjbivUEv6O3_hbfp2p70CYFNRC33-qXkzrGxhgihqwZO8zP53ke9L1gT2adakI1ScEEhgk0KE7XFLEVwdkMxS1OY32XrRR2UK1BULankBIwTW32DWWZV2DjdLBQr8899DZ6c6x"
+    },
+    {
+      "name": "레인보우샵 구연산 워터 다목적세정제",
+      "price": 10900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=24942058&itemId=25948949547&vendorItemId=3175671817&traceid=V0-153-1b559aa0d20cac41&requestid=20261026180117173155120438&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/EJoY_W0CNnDdFrlsEGe2xwOPxMwCzQ9CuoTr2ZJfTJU8n8IFA9AGUQc5OCj0THT7DMozfvbvQkS8Xp7oQE_2f5GAr1cAznfzFl72-BwC6jvymMduNpuyuJ3uKc9mXlZJaUfVPbH5uLWKe_e73VCCJJsamUiL4ihNvzI_F_GoxpJ0gXkaXQAEdoEpEGfhrz_8C7b9kB2Xy8EEJtH7ZtAY-esYTJqtJa16GGCtKpKC9gUsjFSL-rJG-AehwjX4B91MHoo0c5QNJGOalxXeNyNCFkeuok5msxW_fqIaY9kMnGXMgVgBuuJuP4o8IY3q9vsZkN78Mhb8D910cc0OpEsYqWEodhIdiDLqKthWSuKCHsmz7FWdsjzsLXQYaZtqNBvDdCSN7lYX-ZfUV2pipFR_oSXwd0M1pvXMpNDsLYOUb6WJZ7jL7y_BCz2S0KaLeWL-4V6Pq8ypaLmNUev_1tLLtMSGskY3Y-stwT30IXTAa0FdD-zlJvz3OH5mvz5VTdINwVZb6ALJTcwifcdObdhP"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 92,
+    "has_photo": true
+  }
+}
