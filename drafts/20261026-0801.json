@@ -2,7 +2,7 @@
   "id": "20261026-0801",
   "created_at": "2026-10-26T08:01:18.981380+09:00",
   "publish_at": "2026-10-26T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 가스레인지 버너캡(불꽃 나오는 뚜껑) 구멍 막힘 청소",
   "angle": "불꽃이 빨갛고 들쭉날쭉한 게 화력 약해서가 아니라 버너캡 구멍이 찌꺼기로 막힌 탓일 수 있다는 점",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 90,
     "has_photo": true
-  }
+  },
+  "threads_id": "18206107348373442",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/De8KTeGCQJY",
+  "reply_id": "17935228122142273",
+  "published_at": "2026-10-26T11:01:33.343926+09:00"
 }
