@@ -1,0 +1,50 @@
+{
+  "id": "20261026-1401",
+  "created_at": "2026-10-26T14:01:24.435247+09:00",
+  "publish_at": "2026-10-26T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 전자레인지 회전접시 아래 바퀴(롤러) 청소",
+  "angle": "전자레인지 접시 덜컹거림·소음이 고장이 아니라 회전접시 밑 바퀴에 낀 찌꺼기 때문일 수 있다는 점",
+  "category": "살림템·가전",
+  "subject": "전자레인지",
+  "hooks": [
+    "전자레인지 돌리다가 나 뭐 한 거지...? (9/10)",
+    "전자레인지가 덜컹덜컹... 고장인 줄 알았어 (8/10)",
+    "얘들아 전자레인지 접시 밑에 이런 게 있었어? (8/10)",
+    "30년 살림했는데 전자레인지 이렇게 쓰고 있었네... (7/10)",
+    "전자레인지 소리 원래 이렇게 큰 거 아니야..? (7/10)"
+  ],
+  "text": "전자레인지 돌리다가 나 뭐 한 거지...?\n덜컹거려서 새로 살 뻔했거든ㅋㅋ\n접시 들어보니 밑에 바퀴에 국물 찌꺼기가 떡져 있더라\n난 이제 한 달에 1번 접시랑 바퀴 빼서 물로 닦고 말려 끼워\n너네 접시 밑 바퀴 본 적 있어?",
+  "image_prompt": "Amateur phone photo inside a Korean apartment kitchen, microwave door open, glass turntable plate lifted out and placed on counter, plastic roller ring with dried brown food crumbs visible on microwave floor, slightly tilted angle, ordinary fluorescent lighting, cluttered counter, no people, no text, no logos",
+  "photo_query": "microwave turntable cleaning",
+  "product_keyword": "전자레인지 회전접시 롤러",
+  "benchmark_note": "내 정수기·가스레인지 글의 '물건 이름+나 뭐 한 거지...?' 첫 줄과 '새로 살 뻔' 셀프 디스, 마지막 경험 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "MS23C3513AW MS23C3513AK MS23C3535AK 사용 전자레인지 유리접시 회전유리판B 호환",
+      "price": 14500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9705608979&itemId=29036105871&vendorItemId=96012413062&traceid=V0-153-5c601d8b042d2f90&requestid=20261026140139089134498000&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/txyU3JoDQdtSKK4Ht7_7jTXUDL64zgZMbr1ZcTGrlEt1EjJ_pQVkNK-qX3zzrmBNPcrbiFYm7Q-S6P2OyTCWeix8awiQ7ApTCDgG1oCeuVn5m-7MVBgpOMGL21O_qQr_p8FZKA2tZBDC7IhVx8FGNZP50-KVTbP_rXdl_5U23hPpLY31qZLSFTg2_JhcRAYAD5GUy_DkYcr81SGBQ6LUi8-hzj2Ltu4s9J0yYlJxaSlW94lmLiJ7r3acu2Uv2kaG4CEaiFrVrqSrRkjaCG_gFw1gq3YEQRQgOKDmUiHwsALE6IBk2hQF8dUaSbFzAQhpi2mwV9VT6QhnH-mcc-AAvrFg6P_x__4S4ZxYFD0jdaKsniKalsDqvaU7h10K_ZSju6nq2syDHpMw0Bbg1v5FFJf8oof5PUKY405RDCUi-sot6iGnGXsPP93r2kBbtUbj7Be9-SlXaB0wttnf_4yMEK6EuCa4EJb6dNDQm_fOqNvncWjZeUdhJNIyy39Fh7CJIM5j7ohNmMZJ16rQEGtuyAXbF0I2hL_k7L9winkz-w=="
+    },
+    {
+      "name": "전자레인지 회전판 부속 회전 룰러 27cm 유리접시 호환 롤러 축심 레인지 유리",
+      "price": 18800.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9778272970&itemId=29273085488&vendorItemId=95513200514&traceid=V0-153-969b343795225fba&requestid=20261026140139089134498000&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/D45q8bL7NgpGOjnMDxTmEnlvBPiEwmQVOvHeoevI0Ko9FxLF5rF10uqTJxceKZmeU9HOcgmeRn3yPzm5RoMcw32yC9V3YOmwDB9Rw0X6_yD8fXWFn6zdGUTA1IwTmsHkmEYtbjCuJW2s_J7R8IeoK15lgwjVqniZIhtg8K52VbTTkHqeCnLIGhOo-jwLXGv-xFDKxhBsYCsHt8ZgfXQBRY86P4ivz_rnbr5kvKOplLLBB7y4Yyde8kBDs6QgWP1t9Zyd1VXzwXpCqlAlrGJzyVR4qvo3JHjKP5QKco9UXf5rcmMAKVmIojtlLK6c0i1rSHc-wDcH0uzkdmggPWn4d8Lj349yY2KxZ-4r2XgSClRuLcXVskVNb9nPXTSmDO4FV69oHYnXEAZ0mNmRAlonBTHwD2HP7sRirBVNdO0-Worssl4LOPoUjnSWIqaHA6sS2HKbPAXkqNWmxaJgfU2i0PLNskUW4Qjw-nhDawtXH2bn-vEX2oHL_L4Lfic08p9Qj8yr4mktMPLxUD8OqB7X7kDmSw9-bGFB7IxJzd8vD8pS"
+    },
+    {
+      "name": "전자레인지용 삼중 암 삼각형 모양 유리 플라스틱 접시 트레이 지지대 홀더 회전 링 롤러 가이드 스탠드 부품",
+      "price": 5560.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9746164117&itemId=29177147094&vendorItemId=96098428649&traceid=V0-153-9c3bc211edb8fd97&requestid=20261026140139089134498000&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/UCqH_PX6kL-52QnYUErsbpTEHn71lSIk85D2cC2Kv9CJHg28-f9M9NnjjtYY0GblYvbL8naVcA6-SZqoOFkmlj4FMfQSsn5-faor7CUVIDg09BBAh-es2SDIFyLiYsSrN9P5i13BnHDhOKogS-q_zvLhbidG550Mqz6TCitwhJV8HDD0eRM19o-I9-TFUifBtLc9OeGm0ZcLZ6gaguut8futgxH4sbQN9Wx2I3phpk1wnojP4T2oDA7Ar08iUDAoMULiQB0tDbK0ZxEhAi2U0Xs_AnLDIH5Nr47v7RTYQDIt1Z9b4r2ZCXoRmenifrE-fdXQ-HiUmcOD6eahPyTdJ-tFhYD5OyzLicrO8la-b_L9_8IGMLGpRqpNc4JKY3T_BXwD6CZUIgrJmCX85qwOAgxEWxUfauZfnM2tIZEteZMHZ3vIwk0cfeoSghfrkyATWHVWRXljS4eXKDdI7z10qZy1ggpt3ZMUoDqsV026GvCmMF46J9dw6U1mJOvEDO9WA0zHz0UA6MQM6dfbgyMLuegQPx-FHNVOEcNZFpkUmxo="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 91,
+    "has_photo": true
+  }
+}
