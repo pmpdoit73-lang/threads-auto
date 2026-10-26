@@ -2,7 +2,7 @@
   "id": "20261026-1401",
   "created_at": "2026-10-26T14:01:24.435247+09:00",
   "publish_at": "2026-10-26T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 전자레인지 회전접시 아래 바퀴(롤러) 청소",
   "angle": "전자레인지 접시 덜컹거림·소음이 고장이 아니라 회전접시 밑 바퀴에 낀 찌꺼기 때문일 수 있다는 점",
@@ -46,5 +46,8 @@
   "message": {
     "message_id": 91,
     "has_photo": true
-  }
+  },
+  "threads_id": "17937444447404521",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/De86fCpFoEJ",
+  "published_at": "2026-10-26T18:02:14.687984+09:00"
 }
