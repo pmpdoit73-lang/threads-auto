@@ -1,0 +1,50 @@
+{
+  "id": "20261027-0801",
+  "created_at": "2026-10-27T08:01:25.045533+09:00",
+  "publish_at": "2026-10-27T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 냉장고 문 고무패킹 틈 곰팡이·이물 청소",
+  "angle": "냉장고 문 고무패킹 틈에 낀 찌꺼기를 방치하면 냉기가 새고 곰팡이가 생기는 걸 모르고 지나치는 손해",
+  "category": "청소·세탁·정리",
+  "subject": "냉장고 고무패킹",
+  "hooks": [
+    "냉장고 문 닫다가 고무 틈을 벌려 봤는데... 이게 뭐야? (9/10)",
+    "30년 살림했는데 냉장고 문을 이렇게 쓰고 있었어... (7/10)",
+    "냉장고 안은 맨날 닦는데 나 뭐 한 거지...? (7/10)",
+    "얘들아 냉장고 문 고무에 이런 게 숨어 있었어? (8/10)",
+    "냉장고 문 고무 원래 회색인 줄 알았는데..? (8/10)"
+  ],
+  "text": "냉장고 문 닫다가 고무 틈을 벌려 봤는데... 이게 뭐야?\n선반은 매주 닦았거든 나 뭐 한 거지ㅋㅋ\n주름 사이에 국물 자국이랑 거뭇한 곰팡이가 껴 있더라\n난 이제 한 달에 1번 식초 탄 물에 적신 행주로 틈까지 닦아\n너네 냉장고 고무 틈 벌려 본 적 있어?",
+  "image_prompt": "Close-up smartphone photo of a fingertip pulling back the gray rubber door gasket of a white home refrigerator, revealing dark grime and food residue in the folds, kitchen at night under ordinary ceiling light, slightly tilted framing, a little blurry, casual snapshot, no faces, no text, no logos",
+  "photo_query": "refrigerator door gasket",
+  "product_keyword": "냉장고 고무패킹 청소솔",
+  "benchmark_note": "내 정수기 글(조회 245)의 '~하다가 ~봤는데... 이게 뭐야?' 첫 줄+'나 뭐 한 거지' 셀프 디스+마지막 '너네 ~봤어?ㅋㅋ' 경험 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "듀벨 올스텐 욕실 청소 샤워기 수동세트",
+      "price": 23900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8989816369&itemId=26331478264&vendorItemId=93308731843&traceid=V0-153-f2bb1fe1f823da12&requestid=20261027080139157038090939&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/935xUqIHpb48rN389zhjDxWyl2N_kw6j5NjVSuaFmZ4Zr_eJPrlyF_8OYeIVjM8lS99-2-oMKL92dLpnpLsSUMnnxSDpfITQlTZWvXgSIo0fWrrzDKrHv2-JLrp_h1QTPEtTnrQ2ykkUgoDHtemTC2JrIFGAN0jbSx_58lUc1GPdWL30EO23K0T5i6mTgF_fbJbm2g3-dxhzH7lRN2v1XMUNF59bkvgDPEB5M-OWLWeHHyhOsVcMofBKdaQJsBcJPs7xjkiHMlgGZa4EvRZZFcW0_nAE2wEOR2J8E--KEKrJuo4xI7UdyIf7cXrR3AfTKg0dXIToakCLpc4nWkMSNxFTs2R4w4V_ibwgWsIzYELAu3KwgiXjDf5dtLj42lxiq2ACWfuCHPxB6UU88nmv-RdnhFTwV-7Rbk2VX7hJlW1UUI9REzKHrFRcF_JPMI-3XX9cVCtwppPIsBoBTe6jQainRX4y2COTZyAeiiAey0oMe1rw8gW8ziTOpb3Wuod08LzjjlbAtD3gS14wTWPUl3k="
+    },
+    {
+      "name": "업소용 스팀기 세차기 분사기 스팀살균기 산업용 고압 휴대용 가정 청소 고압스팀기",
+      "price": 250300.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8803190915&itemId=25635596756&vendorItemId=92915281603&traceid=V0-153-f7e972c651a588ef&requestid=20261027080139157038090939&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/VVZHsIAn4fsfJKJtVfhT63AMH3Fosf7eyZa4ylbVlgujJKX0K-kEquJ_QmYLXgSb1RJK05h7UkMji9vjy_D6P4YcsJ1nfqhfK2PdVLSXqhjyx6f4g7aMBXEgr5lCZru5oPF0Jqn24ilVxKXmS8uYKQZsA19HHwuF5lAq9EA12y0cSkhTk42XXZX---jOwzSMlJHvFrtf6ZAyzu93nR68wzzMcMkMm_Nh9riI-KstniT3wIz6JhT6ijb01PoWvwCoS3wYKZg-44-P0hveFrGrerS3VvGZweX0Jr0Xs9evDzh7RkK062Wj_dSyyeZ6TY0ET8WfUmfM4sIp_W8B7z-7xGGo5fby_sxMjkP84MtwEqqSlEUm7OBik3K-i8YcZ1SP8Fc1kDuegBx4IS_bzciOjTziNH_WmpfLQffRUsoi71VeGBSi5-JyiwruaFrdoyvwM-is4-IOsv-H-a-I_8sP-3sWoKQz4yfTN1dTjJjXc-TERK2ZULRYXXftuVr437eGFK1GK8edPlFqyS9y-UGEFsrc-JC305g7y7vBAR5QgwI="
+    },
+    {
+      "name": "별오점 컵 물병 틈새 텀블러 세척솔",
+      "price": 6950.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8662878254&itemId=25142573981&vendorItemId=92141500100&traceid=V0-153-c7ec4716a9f88c74&requestid=20261027080139157038090939&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/876W3xF8egTWtTc88yMybODeFVFizyrDvyaTzjw8G-Dygv_J-ew6Yo8K8kiqwdj_tUgm2baIkec2Uot94BtJCz4XVyctg64rR7c2y1IkiwjpRow4Fz0HBAuSdrIKtFeRzEfUqZKJI4QfsbGz4Ymu2qf3J95oV7w0jyKKkoGGkNh7ov8hznBSgSRmzlJVE_Hxq7mnzOzC50yDhVDGlt99MQMh0bFiFGj5lZmyGJieEFugymf38BJw9bmWQDqRKzZTLUp--Yn0mBvpjmf1Lop3_VwQc_Bii4NQNcQfrtn71U7SZm0gyGu2qfgwY2QLtj2b4wPELpUQuPg7UPS60wpn4Wdfyeq9Qulfsc9KznVMyNn1kuwabhGryv-ig83wdSuI5oYhGcNxqmVedhpL51sqsSs3suwV5SxRgoO6xBxZ9c9tkSlBSJe11ObTt6v5CNNhcxKPC1AcUwVi6ZLJlhvKnvP_8JNO5J-wXbMkF7YPXyVYkdOZWgutM2LZvBTXK6xCCuPaDf9I-U6UAWXCubzTMlsQSDt42_eIKj1a-IY85uI="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 94,
+    "has_photo": true
+  }
+}
