@@ -1,0 +1,50 @@
+{
+  "id": "20261027-2201",
+  "created_at": "2026-10-27T22:01:33.711430+09:00",
+  "publish_at": "2026-10-28T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 식기세척기 바닥 거름망(필터) 세척",
+  "angle": "식세기 돌리기만 하고 바닥 거름망은 안 빼봐서 냄새·세척력 떨어지는 손해",
+  "category": "주방",
+  "subject": "식기세척기",
+  "hooks": [
+    "식기세척기 그릇에서 냄새가 나는데... 나 뭐 한 거지? (9/10)",
+    "식기세척기 3년 썼는데 바닥 이거 처음 봤어... (8/10)",
+    "얘들아 식기세척기 바닥에 이런 게 있었어? (7/10)",
+    "식기세척기 바닥 동그란 거 그냥 장식인 줄..? (7/10)",
+    "식기세척기 새로 살 뻔했는데... 이유 듣고 민망 (8/10)"
+  ],
+  "text": "식기세척기 그릇에서 냄새가 나는데... 나 뭐 한 거지?\n세척력 떨어진 줄 알고 새로 살 뻔했거든\n바닥 동그란 거름망 돌려 빼보니 음식 찌꺼기가 한가득ㅋㅋ\n난 이제 일주일에 1번 빼서 칫솔로 닦아\n너네 그거 빠지는 거 알았어..?",
+  "image_prompt": "Smartphone photo taken at home of an open dishwasher with the bottom round mesh filter removed and held over a kitchen sink, small food scraps stuck in the filter, slightly greasy, ordinary Korean apartment kitchen, uneven lighting, slightly tilted casual angle, no people faces, no text, no logos",
+  "photo_query": "dishwasher filter cleaning",
+  "product_keyword": "식기세척기 세정제",
+  "benchmark_note": "내 정수기·세제통 글의 '~하다가 나 뭐 한 거지?' 셀프디스 첫 줄과 '빠지는 거 알았어..?' 마무리 질문 형식, 5줄 구성을 가져옴",
+  "products": [
+    {
+      "name": "공간케어 대용량 업소용 프리미엄 식기세척기 세제, 1개, 18.75L",
+      "price": 14990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8374497927&itemId=24199765401&vendorItemId=91217369577&traceid=V0-153-b6b01e848b2bfe17&clickBeacon=92b331d0-d206-11f1-809a-97b260169a90%7E3&requestid=20261027220149720273439111&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/6HBG7X06XipsUtNo6ILJJ1AQtmbeuJaoSzuShAhKz8sSjQHlI_lUTcrqMACQcSSU2yybY09OVZUNbMyc7KSXApQkagpctMbpXMQcZouCTl3beaoBYL5eanlK7ywVwC5m1xJj3dG6StcCixVf7vtPqTOFLjPiPSo3l8sMuqMCUNnhNCYyDrZmDAW5caz-PQMIkl79_uSB4X87LwCHnyEjBVtLwIespEsoVgo-8dlLJ6ymFHOzsVbnDgn6IWbBz6m_8hAzIuuQDntio3sWlevrWm7yvvTV1u-qKOksXAs3mHu-MPsWmIk319eE3B2_iDYVJ1n5E9bTmmLTj0mEax3fm-UdjLPSAUtMEIMoDLDtfdll2pVm0xDlJt7RNcKFItjirZEhV4PaBUFUMrdGdARYQmns7irDkRwY7_0Ds5GLGAJzjAFQDxZKDk8fpbphJbeo75Cb43mjPgkGOJdTLgYA_Jom5N7hgJ_tws_vDyjQCAcEwbuNcO3Sd4qnxDaNu6uHlSRxfltRs8K5lLi5UCm5rKEK6WbEbUMp"
+    },
+    {
+      "name": "아이리벳 내츄럴 식기세척기 액체 세제, 1L, 2개",
+      "price": 24780,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7658293157&itemId=20395425437&vendorItemId=93546624483&traceid=V0-153-a8a4cb33f7a7e1a0&clickBeacon=92b358e0-d206-11f1-b320-bff296213f37%7E3&requestid=20261027220149720273439111&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/by9cjCtv-hA0Y-jub65dD6osnxix2fQ3RpykAd5EwqFM6KhevAKfz_r6G6Ac1RIYKexnCA8oqP1TkHheB62KAhjl-9cNQeXsK8IsWPBNNGl2QDT_xqBfpnHII1KrQ3IjkAcDxN4qrbHCME9VF2SkSZhOP4gXZen1hVHg-U-EvRZXujfnrgoHndky9EfUP2LZW4uzlxJDJGsVmmcENaL_ypzLg4AvubXMl4WJ7Ei8xscKBz85GWIZe6JRTld7lKnR_HVRKmzzLXnBoWCuH5lAir4VspZl9PE99onz648X5ubu5UEL8WbdYeco8oTXBPC80nUSvwLyTJNvvirz9f_o1Emxj_6AnjgkgNsgUzTJN1YQ6K0hrgMYbbvlZTfU3706eqArX-wxJHG0VZFct9w-f9OAiCZ8KpRXLOZa3eYvMLFEKr0eg5hEJlEh5hcbpAtdb49b17F61Po_ASN5lGt18rCNDB13mjBTwatnvwacjmb8X-5_5GPVZEYAs6u-DEGw6ozPRCl-oOHd7kng_AQOGmcDURUT"
+    },
+    {
+      "name": "프로쉬 식기세척기 클리너",
+      "price": 6600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8702991591&itemId=24644717385&vendorItemId=92429182108&traceid=V0-153-6bb231187f8e0262&requestid=20261027220149720273439111&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/jahLpwvxJWm_5pDjjSh7y4mcCb3Zbi1IO8VX6XruaIcAjSME-Golr10eGWm4qp_hKKITVDFN27nm3OzqodVONZQ3On4PPlTc4Jt3K-K9VIagXohUFcdUQTX0UaXvx0oZjR_UqJntx3eZHYLVcvQabWan-g8ZzkhetrMPLkB-AAP83faZmSBv4FJ0Mge2-Ka1CeS7daUaMNYxXsYOMuL23YHus_TXOG4I895y-qQHg71FFKMcJpQqKSURO_CVm9R7R0U14lHiY_tRDssGX-95EieV0X51YjJzi8vbOMlTv96jTYaHgXhMrU0FuNFf2mupUv1NdbfSiDcilJCxP5X5dkVl4sxuWqYaptVLS2qBpCr-Z2xeebLRXi4K6qOGJu-evnzBZnNwp1MKGjL6WAw4TFFj30b_tYpSuDYKGeLRv3eeau8Uh364lhw1jdkDdWA4NMUa5TOfKEIMoUJdKT2yLEnZCF1cLFDkvXkLqlEZHGlv9K33EoiY1LJXGyjlrlPsFoz69rnnWkik37b9KD95Z4bU"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 97,
+    "has_photo": true
+  }
+}
