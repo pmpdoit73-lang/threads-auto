@@ -73,6 +73,12 @@ def publish(d):
         except Exception as e:
             print(f"[poll] {d['id']} 쿠팡 댓글 실패: {e}")
             d["error"] = f"본문은 올라갔지만 쿠팡 댓글은 실패했어요: {e}"
+    elif draft.wants_insta(d):
+        try:  # 쿠팡 댓글과 같은 이유로 실패해도 게시 완료로 둠
+            d["reply_id"] = threads_api.post(draft.insta_comment(d), reply_to_id=post_id)
+        except Exception as e:
+            print(f"[poll] {d['id']} 인스타 댓글 실패: {e}")
+            d["error"] = f"본문은 올라갔지만 인스타 댓글은 실패했어요: {e}"
     d["status"] = "published"
     d["published_at"] = datetime.now(draft.KST).isoformat()
 

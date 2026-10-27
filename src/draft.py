@@ -246,6 +246,25 @@ def wants_coupang(d):
     return d["format"] in ("both", "coupang") and d.get("products")
 
 
+INSTA_HOURS = {7, 18}  # 쿠팡 없는 07·18시 글엔 인스타 홍보 첫 댓글
+INSTA_URL = "https://www.instagram.com/salim.kkultip/"
+INSTA_COMMENTS = [  # 매번 같은 문장이면 광고처럼 보여서 날마다 돌려 씀
+    "살림템 직접 써보는 영상은 인스타에 올리고 있어 📷",
+    "말로만 하면 감이 안 오지? 영상은 인스타에 올려놨어 📷",
+    "이런 살림 꿀팁 영상으로 보고 싶으면 인스타로 와 📷",
+]
+
+
+def wants_insta(d):
+    return publish_time(d).hour in INSTA_HOURS and not wants_coupang(d)
+
+
+def insta_comment(d):
+    when = publish_time(d)
+    line = INSTA_COMMENTS[(when.toordinal() * 2 + (when.hour > 12)) % len(INSTA_COMMENTS)]
+    return f"{line}\n{INSTA_URL}"
+
+
 def chosen_product(d):
     products = d.get("products") or []
     return products[d.get("product", 0)] if products else None
@@ -264,6 +283,7 @@ def caption(d):
         *([f"📊 벤치마킹: {d['benchmark_note']}"] if d.get("benchmark_note") else []),
         f"🖼 사진: {d.get('image_note', '')}",
         f"📦 형태: {FORMATS[d['format']]}",
+        *(["📷 첫 댓글: 인스타 홍보"] if wants_insta(d) else []),
     ]
     products = d.get("products") or []
     if products:
