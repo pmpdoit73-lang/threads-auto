@@ -1,0 +1,50 @@
+{
+  "id": "20261028-0801",
+  "created_at": "2026-10-28T08:01:28.669462+09:00",
+  "publish_at": "2026-10-28T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 에어프라이어 바스켓 안 철망(분리형 받침) 아래 기름때 세척",
+  "angle": "바스켓만 닦고 철망 밑 기름은 방치해 연기·냄새가 나는데 고장인 줄 알고 새로 살 뻔한 손해",
+  "category": "주방",
+  "subject": "에어프라이어",
+  "hooks": [
+    "에어프라이어 돌릴 때마다 연기가 나는데... (9/10)",
+    "에어프라이어 바스켓 닦다가 나 뭐 한 거지? (8/10)",
+    "얘들아 와, 에어프라이어 바스켓 안에 이런 게 있었어? (7/10)",
+    "30년 살림했는데 에어프라이어 이렇게 쓰고 있었어... (8/10)",
+    "에어프라이어 바스켓 속 이 철망 원래 붙어있는 건 줄 알았는데..? (6/10)"
+  ],
+  "text": "에어프라이어 돌릴 때마다 연기가 나는데...\n기계 수명 다 된 줄 알고 새로 살 뻔했거든\n바스켓 안 철망 들어보니 밑에 기름이 흥건ㅋㅋ\n난 이제 식힌 뒤 빼서 따뜻한 물에 30분 불려 닦아\n너네 그 철망 빠지는 거 알았어..?",
+  "image_prompt": "Casual smartphone photo taken at home of an air fryer basket on a kitchen sink counter, the removable inner grill plate lifted out and tilted, greasy brown oil residue pooled at the bottom of the basket, slightly crooked angle, ordinary home lighting, a bit cluttered countertop with a sponge nearby, no people, no text, no logos",
+  "photo_query": "air fryer basket",
+  "product_keyword": "에어프라이어 바스켓 세척솔",
+  "benchmark_note": "내 글 상위작의 '상황+말줄임표 첫 줄 → 새로 살 뻔한 셀프디스 → 발견 → 난 이제 숫자 경험 → 빠지는 거 알았어..?' 5줄 흐름과 42K 글의 셀프디스·경험 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "프로쉬 식기세척기 린스",
+      "price": 12300,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8627561762&itemId=25248625355&vendorItemId=92416024733&traceid=V0-153-835714a12c363e2e&requestid=20261028080154309225089648&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/PSKJ0VeQGFDad1HsPZ-n3Lop_lEifMDciSOzlMsnn61ExKHkmcSphBab03kHxgD-QTVXRTQBqcW5kUOc1xx1nNdr7Apg2jExXs2mgLSD8fDH77fF2PKfDUmAkIhMZzHER42aoVab-2p3gDXYgyZk1wD8Nzv_nAT4LbEryCz67bHrjGc47CaDkStwGAfzYPUoMLD_Wca2pQKtR9efGFWU8e7Zu2NkSvfOl7edaXRRFLgRBJBvEdApotmLWL9EWXca3e5UlzeZgQISPP2jVuF3_yKnxYvoW_Th70-cXA4K3tQLluTKO_G9p-stnI6mmWFKymnry81qIwVCEGw8NFmKsHbQjXCrbRk2TEr3Ruv9-BX9zxg8lkUICuD-whh1WksUOCufUeDMChh15EOX6WWeSNrNBf7Orzg3Y94xCQVDJXafxU1l9i8sZ-t6Soj7uxUcekLw0JyK1gBl8_5zGyCLOGVas-kIwoKJAu7JimmAIO7D0hnDUUwUd05vxUnDn-Xe6ZADF9pkXh0AJzrHgWmMRQ=="
+    },
+    {
+      "name": "코멧 다용도 스테인리스 S자 고리 캡형",
+      "price": 3630,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7677021109&itemId=20495359529&vendorItemId=87573854078&traceid=V0-153-798a188c267a0a52&requestid=20261028080154309225089648&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/p0qiazHHXBwWJHVYp8930inMMb83tHYz5a9Gd93RVcFQPQM0RfpN58NMgQbg8ELQ6-Bsm2pF6yaEuaCqfx71E4Z9RnEJdo_A-koLNW0PJ2weHAlYoSSN4aH4bnh6Tl8cDsNTKKWBIAY96S_mk2jy3SoVHswoQPHUBDsQSUFLDy69nh4NfEImUHDlTCYngLRcG0PUkX3pJSBsES0W9R5NcZIVCN_Th5EPZgXNqSEuXBAgr5kjygDOKznhIsLylcdU2qdFc7WRB_FjIL5szc4CzOSMxuCEaoPe3hq39htAA9yE23gKltlL6FB9-G8YiOW_l5YpWBDYROykVQxb3Su-YPF2k9slNdlMRpioze6K0fpD0Ics1_N8CiumLyunsRp5GRppX7To-SiT79Yk8NzR13IiIQZjvlUquwRJeJqFETvxurWKzGmCxG9nFGhomzgMCNbKmI5UjRM-ZvQiRIms3BIt3Fl6Emc-9oAWXKZkrrbsdWdYAomL8zKBWW1WSmThvJXOXfQltF8Pwg0nxIS0p_fpu9icbsTau2F4jjQTcffw8UOWxUUKpQ=="
+    },
+    {
+      "name": "코멧 싱크대 배수구 거름망",
+      "price": 5990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6403395461&itemId=13700241463&vendorItemId=80951667111&traceid=V0-153-9427547f572ad1a8&requestid=20261028080154309225089648&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/xf1W7lFFomnJe380xQuIwNsDemTnQgnUWxDHqw0t2YQnZoVcmvXmw74c15N4qpdkzTdeRI-rmIowalctc_6eNnp7VogLKrcH__9wPuonmeevISOAkwFYWmcZkAIt6CWvWg4vsHPqMZBqJuvy8N2Edyo6BjC4K2Pq_wXouRB_zdZi7kglMc-nDqa3kxylel_F05___sPHyLhPgAEEhjjZe5whES8haLgQCtPBwxW6bZplmYk59wDZYIb8lpoqmiDDofjhXwiHVt7lx3eXsosQDZyh_wdyQsB5e8alpAHYSVO5FPApl2eWOAutC4ayEHPZyxT4wMkYWs8GKjrkOkHfzH1hqZT1OMAIRehNNSlgGqAVbI4-dKiR41YCnDXhmtH4J-JzwL2qrCuYWsX-_bCMeFa3fUNRxlGOql_jhC4XW7pDXsEQ_MMuUquNtqoM3XJwDzI3t8lgG3xc0qlJcjV_ReUPdAWgBORpRwOV35XMMUtnWFqTxQXr76PkTRQHhdSRa0ItL-6jIZeFJZl0Z_EvrdI="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 98,
+    "has_photo": true
+  }
+}
