@@ -1,0 +1,50 @@
+{
+  "id": "20261027-1802",
+  "created_at": "2026-10-27T18:02:02.050742+09:00",
+  "publish_at": "2026-10-27T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 세탁기 세제 투입구(세제통) 서랍 분리 세척",
+  "angle": "세제통 서랍이 통째로 빠진다는 걸 몰라 안쪽에 낀 세제 찌꺼기·곰팡이를 방치하던 손해",
+  "category": "청소·세탁·정리",
+  "subject": "세탁기 세제통",
+  "hooks": [
+    "세탁기 세제통 당기다가 쑥 빠져버렸는데... 이게 원래 빠지는 거야? (9/10)",
+    "세탁기 세제통 열었다가 나 뭐 한 거지...? (7/10)",
+    "얘들아 와, 세탁기 세제통 안쪽 본 적 있어..? (7/10)",
+    "빨래에서 꿉꿉한 냄새 나서 세제만 세 번 바꿨는데... (8/10)",
+    "세탁기 세제통 밑에 버튼 있는 거 장식인 줄 알았는데..? (8/10)"
+  ],
+  "text": "세탁기 세제통 당기다가 쑥 빠져버렸는데...\n이게 원래 빠지는 거였어? 안쪽 보고 소름ㅋㅋ\n굳은 세제랑 거뭇한 곰팡이가 잔뜩\n난 이제 한 달에 1번 빼서 미지근한 물에 칫솔로 닦아\n너네 세제통 빠지는 거 알았어..?",
+  "image_prompt": "Smartphone photo taken at home of a front-loading washing machine detergent drawer pulled fully out and lying in a bathroom sink, inside crusted with dried white detergent residue and dark mold spots, an old toothbrush beside it, dim yellowish bathroom lighting, slightly tilted casual angle, ordinary cluttered background, no people, no text, no logos",
+  "photo_query": "washing machine detergent drawer",
+  "product_keyword": "세탁기 세제통 청소솔",
+  "benchmark_note": "내 245조회 정수기 글의 '~하다가 ...봤는데' 첫 줄+말줄임표 형식과 벤치마킹 질문글의 살짝 틀린 추측·열린 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "브라이프 세탁기 청소솔 사각지대 청소혁명, 1세트, 7종",
+      "price": 10400,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9609441002&itemId=28688903844&vendorItemId=95630318112&traceid=V0-153-8a4135276147df42&clickBeacon=1d9906c0-d1e5-11f1-900a-db13abf91944%7E3&requestid=20261027180219807303346810&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/BV7cpcey85aJOkcFBWWijPe8gA1Ao80N-pLqhYaj68_wXWkwbnV6Vtn0XizEX6G_AScvOKIi88emKtQfsHLb4ZW8TcHbECuz6KHFrPtaaRfIQ3eXmxitQaCYVWy-fifNztj7WoE3muqlzhofyV0x3yv3FF40_FPWoQyLNAJB25tJvs1FoVc38EKQIhNGO0rkxUPk8WrREpGJvzjHgUgX4zojm0ttWkHs61cBeZ-hGMhHs3LnQcCQnLsRESNVm8Tcutctzp4_OG0eX0iCKzjcAeEGFb4Oymj6uFvDav4Tp_I6Uj2xC_BrzriKcW2rPPWjjrKtm2BzmwAb69AmWASamKdirc4Co0-K-ljoqSU_1RlmOJJBpfjBfSrPesXxA9xM9UNLsYP0D6rLF_9njuvlAVGaukiNdaoWOJkecIQhVyQvJ-O3TAV-gYSJY9H_OVmsXdjouwVvTNwNFuH81yyyg4XGG07F8erGIeoETO_J5Ckl5YWmHN3AkYh5mMpPe1Ri34WN9xbkVbpzPNgHMJiqFU82Q8pUhT8="
+    },
+    {
+      "name": "살림공작소 드럼세탁기 작은 공간사이 다용도 틈새 청소솔 6p, 6개, 화이트",
+      "price": 17900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9359737652&itemId=27771388837&vendorItemId=94731856808&traceid=V0-153-fec3360d983c8aff&clickBeacon=1d9906c0-d1e5-11f1-93c2-9e8e4c588413%7E3&requestid=20261027180219807303346810&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/_uLqXUjo-w4XaYLv_jHXpcvJ5S2YLkwUnCRK7SjZxj8isdkc9xLtXv0d38f8gYEwlmJF5mFVTJpiyZYaolOwcXWUEAqnOl2V6SN0qjACV-IcbExBA-SPpWEjwMsnZKqNPgXcJquO6PnCBV7NvGpgCuwZ6EgOkQZp1osX6bf50ZFQ8vDQdz7cNn-wqfsZBnTeYtD0DFHFBPWfIreFIhIBrvcx_ATxNhfhAk-VL5VmOMizMtbYckOREPE5X190_9lB7v33cAA9P47Zs7YiZJ8pOTCxDRofgLcl-uuEXlJcuNQmyTQi2Qq4JR_jBhM7SEasRhRFGch9GKdIfYoltOb0u4Ok5Kuw0BQX4JDsPu8_Lq9iEL-3k0qhfv3q4cKJZ9gYB2DEHYQ0ARBRGTxND_ASPvj8q2y_XZARqH3G8uv6WmIpXBjf1RNmrkgp-BpzVvsJstW9TrTPUOmzcawBEgmPLeIvD3PmtXnVHcpeFGV7mjIEZb798U3_tTEvWqD68m0c1G3f4zNZpyIuhJHn7kIpQ3vQSsijrte9"
+    },
+    {
+      "name": "월드크린 미니 틈새솔",
+      "price": 6700.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7043557738&itemId=17426421986&vendorItemId=75665052555&traceid=V0-153-cf03577bf24d18f4&requestid=20261027180219807303346810&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/hDQwA-kE1nJ3k4ddhNzOvoN-UFOAkqkRLiiB83bI6igFURigJ8F4j1ZVoJiGO0rkG9G7AOzbkq0Bok-52APSArfWq1Xy0EIDxEzM9O73cY6ksECZUo1Pk855w2L9-64O8zltqZy6LPFLhE3Y3H7Cs3KOtGdpNvv4o_JdPcV6gSkdHkyl1UL-DkoN57174LSAFLfVxJ0X-jteZ6CuXZAUWaRARp6ofuZTvT_vb-UfW_smAyGHLjyEvySziVVbVhF-mqNyEIiY3APlw18Go_JPW8nX3jSCU-pa3atDP0W3V1e7cH8tPAS2xR5WKWaNItSHFjSj9pBgoaaPOReZ3JcifhBa8BTDYcxxTxVVC_2-_6VnEqLvIvsB_tjk50Agd5VXw3Aq-ys8UXpyvspaWRY0SuT93yK90B2o9bwQG7CooL7QwZ6THuVSwvrwg2N_3cgdXWsqGIrKvjvNWnRNeApI8OUFlsBIgihJC633_dx_dVrUeOR6LUtBEh1ghHlTrhfYI093LsGGlpEVeQ=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 96,
+    "has_photo": true
+  }
+}
