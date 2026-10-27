@@ -1,0 +1,50 @@
+{
+  "id": "20261027-1400",
+  "created_at": "2026-10-27T14:00:53.816496+09:00",
+  "publish_at": "2026-10-27T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 전기밥솥 뚜껑 안쪽 분리형 커버·고무패킹 세척",
+  "angle": "밥솥 뚜껑 안쪽 커버가 분리되는 줄 모르고 안 씻어 밥에서 냄새가 나던 실수",
+  "category": "살림템·가전",
+  "subject": "전기밥솥",
+  "hooks": [
+    "전기밥솥 뚜껑 안쪽 보다가 나 뭐 한 거지...? (9/10)",
+    "30년 밥했는데 전기밥솥 이렇게 쓰고 있었어... (8/10)",
+    "얘들아 와, 전기밥솥 뚜껑에 이런 게 숨어 있었어? (7/10)",
+    "전기밥솥 밥에서 쉰내 나는 거 나만 그래..? (7/10)",
+    "전기밥솥 뚜껑 안 이거 원래 붙어있는 건 줄 알았는데..? (6/10)"
+  ],
+  "text": "전기밥솥 뚜껑 안쪽 보다가 나 뭐 한 거지...?\n밥에서 쉰내 나서 애꿎은 쌀 탓만 했거든ㅋㅋ\n알고 보니 안쪽 커버가 쏙 빠지는 거였어\n난 이제 3일에 1번 빼서 고무패킹이랑 같이 씻어\n너네 이거 빠지는 거 알았어?",
+  "image_prompt": "Amateur smartphone photo in a Korean home kitchen, an electric rice cooker with its lid open, the detachable inner lid cover removed and lying on the counter next to a sink, slight grime on the rubber gasket, cluttered counter with dish rack, uneven fluorescent lighting, slightly tilted casual framing, no people, no text, no logos",
+  "photo_query": "rice cooker lid",
+  "product_keyword": "전기밥솥 고무패킹",
+  "benchmark_note": "내 정수기·전기포트 글의 '물건 이름+나 뭐 한 거지...?' 첫 줄, 착각 고백→알고 보니→'난 이제' 숫자 습관→'너네 ~알았어?' 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "쿠쿠 6인용 압력밥솥 패킹세트 [압력패킹+분리형패킹+고무손잡이] CRP-P0610FD, 1개, CRP-P0610FD / CCP-DH06",
+      "price": 32000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4625217404&itemId=5737553308&vendorItemId=72451897556&traceid=V0-153-e73486ed323684d1&clickBeacon=7061edd0-d1c3-11f1-8cf9-f76a747d952c%7E3&requestid=20261027140115886298653366&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/jgzrzA_hxZV-u1ixjv-tt7BM-c6oU837pJHeQP7c_0mXg5TkyQgwjCSSdxAp5mrGAAuYI-3tEwDbWf_WVvj513XS-cdmJD3ahC8pT8StB30ISLJ6FYsAEJ__1D-MC9S0lWUEjBtuUOqtft70uA8UViQvukeGgz_Qi4A0BCYtgDzQqkYqG5dGzi5JIRy92tTSa9oHZP0KpWOwd6CVz0lmoYNNrdDf5oCnGwtk2urqzqIyVcsW4Upz1S5p6phd4uswFnAzQEtFoyVUaTl_vu5dmcD2Jm-682cCJxk7qELbwMl2TP17CmdRT2hh2fi9mNT8Bi4Y012U0_brzuMLbYNA2b5FWxmaljtNGIhe8aSwXeaRftfrrF6cTepNkcgcjlFMGICZhgrN-kB4TtiignbuxcSPmEwyA5vR4oHHqQs46idPPqKzr2DBrK5q4Dtqgg8ezYr87WQvohZgooXqpA0qbjnEN9aELjLhzcUaLzH-SPqb-RW86BEvgWNnhb5utytWrs8cQvyCfOKV54RkKHg9kDw5h2lSd4U_lA=="
+    },
+    {
+      "name": "쿠쿠 10인용 압력밥솥 CRP-QS1020FGM 전용 정품 고무패킹 3종세트(압력패킹+분리형패킹+고무손잡이) + 키친타이머, 1세트, CCXCCT-QS1020FGM",
+      "price": 35000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9280996954&itemId=27477702419&vendorItemId=94442892330&traceid=V0-153-046a344f3660ae1d&clickBeacon=7061edd0-d1c3-11f1-91c7-f2e834f62af0%7E3&requestid=20261027140115886298653366&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/IvdlFt2JDIzlrsRaIlmp59llapZ8WKQhdSunPRFuzhubVV_iSoT_wqyX1CDb5aIfy_aQ_zFibaL-1l4qL0iNrBIDByDMA0R1Q9wZV123XKFXmGNP1IHjIgNHuP6zEXhv0ROTsrxVyfoV2Fs34F5_Be-7ZazdGTjjPUiSKWeK09K6b4bWfLl67JgET5JYcZDD-8trLbARzLbG5VZb2YUP11bN7Cv2H3qEyBMYEiT8MYj0qWACARt3JvhFgPEmrynUqnyeGsSuJL4lSEboHqZRYF2xp0ts15r0VxtXo6Fa_t7Cr0P49wSILRR-ucb8EJmKt173DuTiKHnj5L--y0FMrCs79XXsQA_w4Zq2aVmfdEC80wv5pvB0aQw0ZG-msFXR_bKTDgyzNQx4uKQDRpBwqjMA8UwKJOzOryAvYjtde6ZsOZ6SgBl1Y5zpGnn3QTyHTIWseGX1DojrzeON0OM4Mrlqr-EpPEjwhctDDg3r57Wd9uysPZXJGUlUDjioNwA8vd2pQeG5L_fHnWBGlmwVVnX6mHXjY08="
+    },
+    {
+      "name": "쿠쿠 압력밥솥 정품 고무 패킹 CRP-CHS1010FS 전용 압력패킹",
+      "price": 16060.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9685079560&itemId=28963272077&vendorItemId=95352087482&traceid=V0-153-53121f57f16ccf14&requestid=20261027140115886298653366&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/RCmcQMB8hiUksl8FRObudccNF_R7O5cif7AQiI2A8ucGtE29S0wXgMlRVz2ciehaplEXsDDmq322-8lTjqCqqjZ2ZBKjPrFRQp73uR8xJxjZcJNCaHCIx9Yi4zvEAf8LnL1aJBLx5yH_micDCXAulieJFTzpx9rhGAofsk2_wE6mFCOX67E5gwdD4RNBz_WtOpQtgWvc6Y7yhHp0ewbiJjmF0VRRGAjcr00wCzoJieNqKKFvNN421u6Q6kABz-iQYH8ePQO1e8CK1bfk1xKSvo3k9W-y5CZ1ZqO7SQqXYDbG89MgC8rLlYBF7v8IoYv1ZFXXQqU_8Eqnv8BdBlyvrvAc9gp7Hzpys0vcDBVIVBqFrHueXtEeZhvhFh0W0S2HLomnvmReIFVoapswd7DS2x5LZe6NAJAByZm1j3V_tQ3eNNxwrrnvnC6A0I7MNhvG71g2WBkvA-8MUHMU26sUP5UDGu7nKsWOXFN5upwGwYDx0KKilCX30G0gs5pRVtWUQRv9rXt8mwylBtnps_SUXeU43NeSkFH7WJiZ0wRYgGS3Z1MmerCBoGAM"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 95,
+    "has_photo": true
+  }
+}
