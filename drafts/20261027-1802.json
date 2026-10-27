@@ -2,7 +2,7 @@
   "id": "20261027-1802",
   "created_at": "2026-10-27T18:02:02.050742+09:00",
   "publish_at": "2026-10-27T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 세탁기 세제 투입구(세제통) 서랍 분리 세척",
   "angle": "세제통 서랍이 통째로 빠진다는 걸 몰라 안쪽에 낀 세제 찌꺼기·곰팡이를 방치하던 손해",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 96,
     "has_photo": true
-  }
+  },
+  "threads_id": "17866973205678659",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/De_zyCpEWQD",
+  "reply_id": "18126820015684818",
+  "published_at": "2026-10-27T21:01:37.105949+09:00"
 }
