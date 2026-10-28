@@ -1,0 +1,50 @@
+{
+  "id": "20261028-2200",
+  "created_at": "2026-10-28T22:00:57.612335+09:00",
+  "publish_at": "2026-10-29T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 가스레인지 후드 기름망(필터) 세척",
+  "angle": "후드 기름망을 안 닦으면 흡입력이 떨어져 냄새·연기가 집에 남는데, 대부분 기름망이 빠지는 걸 모름",
+  "category": "주방",
+  "subject": "주방 후드",
+  "hooks": [
+    "주방 후드 켜놨는데 냄새가 집 안에 그대로야... (8/10)",
+    "주방 후드 아래 손 넣어봤다가 나 뭐 한 거지? (9/10)",
+    "얘들아 와, 주방 후드에 이게 빠지는 거였어? (8/10)",
+    "30년 살림했는데 주방 후드를 이렇게 쓰고 있었어... (7/10)",
+    "주방 후드 망 원래 고정된 장식인 줄 알았는데..? (7/10)"
+  ],
+  "text": "주방 후드 아래 손 넣어봤다가 나 뭐 한 거지?\n고장인 줄 알고 바꿀 뻔했거든ㅋㅋ\n망 당겨보니 쑥 빠지고 뒤에 기름이 끈적끈적\n난 이제 한 달에 1번 빼서 따뜻한 물에 30분 불려 닦아\n너네 후드 망 빠지는 거 알았어..?",
+  "image_prompt": "Casual smartphone photo taken at home of a greasy metal kitchen range hood filter removed and placed in a sink with warm soapy water, sticky yellow-brown grease visible on the mesh, ordinary Korean apartment kitchen, slightly tilted angle, uneven indoor lighting, unpolished amateur snapshot, no people, no text, no logos",
+  "photo_query": "range hood filter",
+  "product_keyword": "후드 필터 세정제",
+  "benchmark_note": "내 상위 글의 '물건 이름+나 뭐 한 거지?' 셀프디스 첫 줄, 새로 살 뻔한 반전, '난 이제 한 달에 1번' 숫자, '너네 ~알았어..?' 마지막 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "하츠후드필터 하츠렌지후드필터 e-clean 4중망 튼튼, 1개",
+      "price": 13600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7379119824&itemId=24502811014&vendorItemId=75339058715&traceid=V0-153-2824c73305b2972a&clickBeacon=a879e4e0-d2cf-11f1-9121-4b493cd914a7%7E3&requestid=20261028220115110223650196&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/wfSoh2Ynkf7e5jVSwcSDStzHi7qpNy6P5JmX3IIzIKeS6idyousFma2mevvj8tq4tNl8mTUthvZioCx8b3p8uVSd5LRAta37oedx63Pi9GMA7elEDJPJsJ-yxOzL5SFLbZRCC1IMtbcCHLTM2SETQoFgKlrIbDqhO4PPNPqjhHrIJxJWri0IOLrvPo3ddJJaojzkKwNQkEjlVvVT7o0GZBaAPv2ulU6LqL-dsF0vH0DrKf9R3vAT9yZL2o_vPm_bJ2mJ_XlAZXgwRzQQdUQ8Jl9kmqFhLvdktO7El8JDMG2s-uORNjhDY0sgUzRFeyZHvU09aCOhNyhGjUCM8N4pJETWrh2j_iI3zc4w5Kbv2nkpb4MFNAqftYz9bOTa88qnGuaMJbnnsADr-VVxROdo9zxoCkMRnnStP_N9HfYbglwO1_Ups6jqGfHZmyHmL6yqHXjc7bEHbcBuxnQTaolSxsRicclWWhfvKxxUq_KxPbo1OfEK6nhnD-Pyn3QTdyLVMw5L8YOY_hY-l-tZ-Vd-lWCPvJbYH_8="
+    },
+    {
+      "name": "코코즈 오븐크리너 골드, 4L, 1개",
+      "price": 14450,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7126978062&itemId=491076413&vendorItemId=4242907999&traceid=V0-153-bc0c82bc8fb04f34&clickBeacon=a879e4e0-d2cf-11f1-9d3e-73e8d7a3710b%7E3&requestid=20261028220115110223650196&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/aOJmuPV-ZqG9T4X_aMXC6GdcSXDm4e2bElGaOLD9wYKqoljtA0e3ZEnPqHkR_uHpwJjmAItTsfHTsBqY_Lgy62kjCquzSpL2yGe-tiWmdUAOW_FAAt5GtDzNy1L-P_7gHmAF_Q_q_abh1VTe7sw2rmhxyEBL0qJnzkouUTllmAoCvxPLUuCqLAFaCiOKT3KG6oKhagu7Yle48ZFIT45KiDCkh3EVqRgSqLbLLVta7kvgmHEjPRtTkHdZcTUm0-gfMgs4NOnIS1kXsNAmP8AJVqbT9p-XMarhe73nHuSNb29kRPMP0blBRWWElKgeqRyfBek7YSBj4nObWeMWVfINxZP-QZSoWOW3ZOkUhu_LREE-VXP-5lKeSQaoHG11Wq_vn4EfrCiX-HwW4tyXNfHQwJshTWE35hz776PsR-MYBI_PdqquCXUIAaeRs1J6EENtEpSVN7PQ8zfUZX7LPiw1Lldk9DlsbaVnvC2EqaG_8KI80jz6weOvDuvTf4ZDsjVUhQZ6w-RI"
+    },
+    {
+      "name": "탐사 퍼펙트 클린 렌지후드 클리너",
+      "price": 5590,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9369527673&itemId=27807451335&vendorItemId=94767333844&traceid=V0-153-80dd36800304ab20&requestid=20261028220115110223650196&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/eaqQ0oVZVJIXR-sbeaoL5OuyzPEnl44cVj54tEnE8E0pUfiVZOInrfyiZ-JjX7bse2cWfMrtcGC65UQ85Xcnb2bBCOxJ8UOMNNOE5DqoAbbEtbnLyZYLNHhoKiJrXCLpvnVjdFOlQnepqMOFtyWB9Q1tHRX6PfxAzVhN1fhBup2KiLCltm8k4pZ56WSBIUIEuRVHbqauB8gExtbH8FFlBQ8dfQ_WN40hjFu9e-W9EoUGozXhwxjDESigAN_goWg-Heiv2tlHuBOL7j_iXryQcGVYHOWxRxrBVvg7LIP98jfQI_HzLpEwratBNcE_rlvzYT2_9DToCZCrrBi7qEkHxHiRzwIyEQiMy8XHxXjC8WhCModbxBHZdehVvlabTDCMCFkLGbHPukcAZg1tCsLiM5151V0IPnTKaCuf5FKeEJuaR4VWibH0h5_2GyJy0zsTPIs-a7QxZINKJcp6KY-GqimKcSpIMOMXTyrmTurZEGVMFur1c0Uy0gEzOuc7RxLFV3USyF8V3HkmGM-ZsVVS-d6n"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 101,
+    "has_photo": true
+  }
+}
