@@ -2,7 +2,7 @@
   "id": "20261028-1401",
   "created_at": "2026-10-28T14:01:06.551351+09:00",
   "publish_at": "2026-10-28T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 세탁기 배수필터(거름망) 청소",
   "angle": "드럼세탁기 아래 작은 뚜껑 속 배수필터를 몰라서 냄새·배수 불량을 세탁기 탓으로 착각하는 손해",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 99,
     "has_photo": true
-  }
+  },
+  "threads_id": "18132829120705343",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfCEDXhlVYn",
+  "reply_id": "18116293352023064",
+  "published_at": "2026-10-28T18:02:14.270221+09:00"
 }
