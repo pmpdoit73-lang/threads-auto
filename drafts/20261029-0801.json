@@ -1,0 +1,50 @@
+{
+  "id": "20261029-0801",
+  "created_at": "2026-10-29T08:01:19.867314+09:00",
+  "publish_at": "2026-10-29T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 전자레인지 회전접시 아래 롤러링·바닥 찌꺼기 청소",
+  "angle": "회전접시만 닦고 밑의 바퀴 받침(롤러링)과 바닥은 안 닦아 덜컹거림·냄새가 나는데 고장인 줄 아는 손해",
+  "category": "살림템·가전",
+  "subject": "전자레인지",
+  "hooks": [
+    "전자레인지 돌릴 때마다 덜컹덜컹 소리가 나는데... (9/10)",
+    "전자레인지 접시 들었다가 나 뭐 한 거지? (8/10)",
+    "얘들아 전자레인지 접시 밑에 이런 게 있었어? (7/10)",
+    "전자레인지 바퀴 같은 거 원래 장식인 줄 알았는데..? (6/10)",
+    "30년 살림했는데 전자레인지 이렇게 쓰고 있었어... (7/10)"
+  ],
+  "text": "전자레인지 돌릴 때마다 덜컹덜컹 소리가 나는데...\n고장인 줄 알고 새로 살 뻔했거든ㅋㅋ\n유리접시 들어보니 밑에 바퀴 받침이랑 바닥에 국물 찌꺼기가 눌어붙어 있더라\n난 이제 일주일에 1번 둘 다 빼서 주방세제로 닦고 바짝 말려 끼워\n너네 그 바퀴 빠지는 거 알았어..?",
+  "image_prompt": "Casual smartphone photo taken at home of an open microwave oven on a kitchen counter, glass turntable plate removed and set aside, plastic roller ring with small wheels lying on the counter, dried food stains and crumbs on the microwave floor, slightly tilted angle, ordinary kitchen lighting, a bit cluttered background, no people, no text, no logos",
+  "photo_query": "microwave turntable roller",
+  "product_keyword": "전자레인지 회전접시 롤러",
+  "benchmark_note": "내 글 '에어프라이어 연기·가스레인지 불꽃'처럼 첫 줄 증상+말줄임표, 둘째 줄 '새로 살 뻔' 셀프 디스, 마지막 '너네 ~빠지는 거 알았어..?' 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "전자레인지 회전판 부속 회전 룰러 27cm 유리접시 호환 롤러 축심 레인지 유리",
+      "price": 18800.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9778272970&itemId=29273085488&vendorItemId=95513200514&traceid=V0-153-969b343795225fba&requestid=20261029080137604143491350&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/uUSji3ClseQAZ3TIucOUeJO1UicY6zGgvDmCJtpR718xRjDwHHNooGv7cnUuHoEQfcMyizxnaVzkiXi6AJ13J6c77H4wBslphmAttyxiSRBMnaHf06fMTdy2gb6YQR9aL7st2MxCL6XBvC0kt-fFm7B-LGfzOv1pkkjz4DUaJRgkfVNqU0PMKYH_QX8T21TewbmDcWr3nL37M-Ixz_AWh6t05bK9AY0ZECbS408HjIqiJXAqQDi79FgrHhbD2WL1hZ118TrqOeddtWdq4vvAa_U8Yq6lzvle3mYDRfOPc9Suy5GxTcctbS7LH7YGAfv1nVbWPEhogH_OcuggVahbCrJ-m8hoJiDPBPOw2uC6b6T9PZcpdeyuYIxxHuUJgkQ75eYbRT9W6LwpQgkLxWGTk-wDFURUOFeTUdMyUkLye4dlZ9hPcXS_T5LoZO57AtWGUGnLztDxMpNP_FoqE8MKEXVe5HEMKH6YiTwgCDiBDQ9aDkYwTmUu9c4FVM8Morp_qNZo0jwMGmiVyZv7A68sfHwkgQvuF5FW98g-1TxyEw=="
+    },
+    {
+      "name": "MS23C3513AW MS23C3513AK MS23C3535AK 사용 전자레인지 유리접시 회전유리판B 호환",
+      "price": 14500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9705608979&itemId=29036105871&vendorItemId=96012413062&traceid=V0-153-5c601d8b042d2f90&requestid=20261029080137604143491350&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/tuovNfbI2lPKbujutsFprJWzJIs1rP1TsmaEW1ZWUuVh-Ul2ICngPGA5AU9Q2gv0DR_c4nEaKWytlRjOb6T7WA21hW7KRT9M8DbenKbDWk1y9Q8MlyoFukF_DrSfrTEQxb78y7w121Z2EZWSBhkzPQemq1lvk5Kmh76EHMa57pN34Qkc7Du-8X17iPbTi1-Xow4OZ3pU2uDGZo-mSkOWmfMG3QGgq6niKdZgCbT-bTu_UAzcGYq76EfEabbIxHs907PmL9IGNf589aX37fsxdoUTCQqr1qxIQVG2T5I0AeQ4jH7T5N58_k3sZHvDykwmi4L3SzeQbL45H3YQw6VduTaHMoEAH_4oJRYVL6k1-EU3BJYiXC-1dqZrT5JAudDhozafUdUgCfkeaCmZWNsyN48iLZzVJ2vixLtiUQquVAjnibrJQIfwk4pAjPEMCCWqh6gkLW0XRHFoy46yo8xDxNkI77_Qoa6Lq06qauzr91_yYGJ_gOIY1g60flzthvrEEQovzNDzpbZRBXvw_3KuK3BIw1rq56H_qFXzpvJ35CY="
+    },
+    {
+      "name": "전자렌지 운모판 운모패드 MICA 11.6x6.5cm 2개",
+      "price": 4800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8425480127&itemId=24788548296&vendorItemId=91685324974&traceid=V0-153-ec92ff993bce33b0&requestid=20261029080137604143491350&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/oYLO4RZyp5-HDCzhoYYbGRuuPREXDW4QaNTDoqLbNubvhwvb54yHt3-ulgwpari8ntWYPzMHkA8OSThLNxgo8v144omPCnjMdBdCal1c7e7vySxE_oGQvpwDV0Uhif91zmQgE-AqNsUlBAUcY-XEC8VVjy_XPw9KaUdKcacm7jvwFbaUhjrl9BzgA7DZJKI3xbTeFuPS885v-JhBHmquPn4iJUaTFkivTecmyuRV1f8Fx5oTAKeaC8G9YOP1YAZuggOAsA0qVpmU9J-Oe57Fd_yvrawayJ74nQTGHYgOMNj6r2gSiKsOY_rupBibaK2vngEJBQRYBDMpTkKyxrV1fGq9_yi-PbIVLYByqzdsc8QsDxPwl5isjP-kosUt_eDaLZwHs_WfumV6OAbv-kk3ZZ8UBpj_G2qng6Jh2me0RSHQ3aS04jkn_C1YsYa4Clohld6vpBvYqy0MXQw8IDLsO6oh_9zJglcQtDZKYCGwYOonJu6mYTUbJEhMdT80mbVI9FUWXhIlz9_1iPQIJOc5W7a50vvMUF5rv7lQIsFhIg=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 102,
+    "has_photo": true
+  }
+}
