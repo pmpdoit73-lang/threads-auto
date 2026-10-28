@@ -2,7 +2,7 @@
   "id": "20261028-1800",
   "created_at": "2026-10-28T18:00:54.697530+09:00",
   "publish_at": "2026-10-28T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 싱크대 배수구 거름망 아래 트랩(봉수) 청소",
   "angle": "거름망만 닦고 그 아래 물 고이는 트랩 통은 안 닦아서 냄새가 계속 올라오던 실수",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 100,
     "has_photo": true
-  }
+  },
+  "threads_id": "17926326378205385",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfCYjchlXnQ",
+  "reply_id": "17955674661035474",
+  "published_at": "2026-10-28T21:01:23.651034+09:00"
 }
