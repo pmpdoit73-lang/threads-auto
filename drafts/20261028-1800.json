@@ -1,0 +1,50 @@
+{
+  "id": "20261028-1800",
+  "created_at": "2026-10-28T18:00:54.697530+09:00",
+  "publish_at": "2026-10-28T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 싱크대 배수구 거름망 아래 트랩(봉수) 청소",
+  "angle": "거름망만 닦고 그 아래 물 고이는 트랩 통은 안 닦아서 냄새가 계속 올라오던 실수",
+  "category": "주방",
+  "subject": "싱크대 배수구",
+  "hooks": [
+    "싱크대 배수구 냄새 잡으려고 별짓 다 했는데... (9/10)",
+    "싱크대 배수구 거름망 들어 올렸다가 나 뭐 한 거지? (8/10)",
+    "얘들아 싱크대 배수구 안에 통이 또 있었어? (7/10)",
+    "싱크대 배수구 이 통 원래 고정인 줄 알았는데..? (7/10)",
+    "30년 살림했는데 싱크대 배수구를 반만 닦고 있었어... (8/10)"
+  ],
+  "text": "싱크대 배수구 냄새 잡으려고 별짓 다 했는데...\n거름망 매일 닦았거든? 근데 범인이 따로 있더라ㅋㅋ\n그 밑에 물 고이는 통이 돌리면 쏙 빠져\n난 이제 일주일에 1번 빼서 솔로 닦아\n너네 이 통 빠지는 거 알았어..?",
+  "image_prompt": "Smartphone photo taken at home of a kitchen stainless steel sink with the drain basket removed and a grimy plastic drain trap cup lifted out, placed next to the drain, wet sink surface, a used dish brush nearby, ordinary household lighting, slightly tilted casual angle, no people, no text, no logos",
+  "photo_query": "kitchen sink drain",
+  "product_keyword": "싱크대 배수구 트랩 청소솔",
+  "benchmark_note": "내 세제통 글의 '결과 먼저+말줄임표 첫 줄, 둘째 줄 셀프디스, 숫자 넣은 경험 말투, 너네 ~알았어..?' 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "외경 9cm 14cm 싱크대 배수구망 거름망 단품 뚜껑 세트",
+      "price": 2700.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8588521887&itemId=25101279098&vendorItemId=94716828552&traceid=V0-153-49705640940386d1&requestid=20261028180114574085374138&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/lajVUk0xzXSyIkSYlSfrKUAX5-Qx51YNCV3dE__hdiJnmT0ZgkWdru_suGJc2gVJs-FZpQMHsOJVDER4bFOWdlFyIBUZWJOvNzOpiqJz12SCrd68r79U0xERcL1YqNtJhYbwfGcTCH962q5i-39KnfSA7w7ryEiDxsc2TbYtzs_cqaZCDlIl0Vb28vmK3fwojbVnaONlvR4YlXHNk4ec7z4PVpdrFFPWpaW5s1CueNy-aPvjN7VECStUg8pYOtOmFXI070ibQF27U8ysTfZmzvoTpHXp0Mbjxe8AFsIfsg291kJxy8ReqfzYTLKTT46pLkMjawfxJdEulo8nHMZnD8PGFQYhd0I0RNow3S1ZJEJ7Wp7Khu9gRYSklMofmP8p4HzBD3sGHWSCOUkAV44O9cjFdnp4pURw60AscEJ-SDvfTfUzUvTwWfKf2NlCMpRNIpUyoccMBxCtaiWL6WQo5ogb8UYuauhRQAOZoOvLBS0TZtYVLPMlYqS_2kWTvAD8jZ2JAVA3_jpYRmGlX_73Zx-EeyeeETspRpX8Hxismg=="
+    },
+    {
+      "name": "배수구 청소 클리너 후크 5개",
+      "price": 7400,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8529475445&itemId=15105545938&vendorItemId=86114522011&traceid=V0-153-dcc40f69f167d99d&requestid=20261028180114574085374138&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/4Gkl-cl_e6K2q-Ih4N9jk0dwkH47Wb4q2bI4CiyncFaW8tXtZO4TwM6MSgo6dHNeVz1geJu0p37m8G2UONNhNqJDCk0YZV7Els2zbclwmBsrpADhyJMWDKrn1pKY3P3rvWr_kaEHoM-F9xPsOiXdPouUoLZ2BUrdPZ134USbsuKMUKXUwysFzObf1EClJZM1fLqbMY0xZ8sReMlyhNFyq_sM1hd0gf6mFBZGy908IISPtNMfDAtG5rIAlb-ruOGp5Zcvm1_Tx6d8JQYcwQkJIQjbGXSoC3X8ls1n9WD_xZfq0G23fmIZAYfbQf-rhckkJuEJz5T5M87XasdIY6sLb8UHe3EGMsAq1koalzJKFjW9mur0ep2Qbccd6JXIxYHEYkpZGRK0dNdFUz5DeLUF9k2Gcj79mnqX9nQ9pOZBJW7f4aqn5lz3xGN-8y3RK9C10AN9QT981y4tDEJyqr00Y56Z_yp1NoRmsTIDQ0QjnIZmp3HONH2WB8NhUZFGVvqGUYT_Jf1JhMSkAbNsGgX8ZU8kqRanN2ig5d7jH9IYNlOH"
+    },
+    {
+      "name": "영스타 반짝이 아크릴 수세미 레몬 5종 세트",
+      "price": 5100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8709896953&itemId=28941361163&vendorItemId=95872257500&traceid=V0-153-2a79c9c380c041fd&requestid=20261028180114574085374138&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/q420p3wJT2wMEspoq80ZWXZBKbxjc3jPvbxtVdyOrv2ESFQR63jrFZg7khkJ5x2ZZ8B8n3U45iMnLBV8f55aFerBM6tJ_BGWup9EU8t4cz78EnmYA3Ei3pYLlK1CjA-RtSheAXoXX60K0Hi7WXvSvuYElHrbeMeMHdzaUsiKRgtpu88gYFwVMVg469EnqVQCIIMqSf7kVAw7qDq5cskopyTSUe3eXIx0y23-MBxMgj5tskX0Rd_hRqYas0F1h58VPd26QAbNcA3RL00QqzZW9_KbaNRY509uaoN2jmdJhSwl02kCDCS6_hy0Xu1dRQBAcWwzjti1XAwprF8UEtn6FlAlVkzZGzytJE6F3PhiKShDM48mqN2rIGWLj5_8lSTE3E35UEDNej47_028BYnICgzvIOrMbQ0ug7jQHonvqLapul6dtxnxOwKz6aEDY15Ed1WgmwoUPpWjDsBt868-LJVlop_Ia0S0P_VFPOxkMh8B3s7JEmatdM73uYCJOu-zURczsgIRzZdOQLrsZaeDLA=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 100,
+    "has_photo": true
+  }
+}
