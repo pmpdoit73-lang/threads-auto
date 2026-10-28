@@ -1,0 +1,50 @@
+{
+  "id": "20261028-1401",
+  "created_at": "2026-10-28T14:01:06.551351+09:00",
+  "publish_at": "2026-10-28T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 세탁기 배수필터(거름망) 청소",
+  "angle": "드럼세탁기 아래 작은 뚜껑 속 배수필터를 몰라서 냄새·배수 불량을 세탁기 탓으로 착각하는 손해",
+  "category": "청소·세탁·정리",
+  "subject": "드럼세탁기",
+  "hooks": [
+    "드럼세탁기 아래 작은 뚜껑 열었다가... 나 뭐 한 거지? (9/10)",
+    "드럼세탁기 빨래에서 쉰내 나는데... 세제 탓인 줄 알았거든 (8/10)",
+    "얘들아 드럼세탁기 앞쪽 아래에 문이 하나 더 있었어? (8/10)",
+    "드럼세탁기 아래 네모난 칸, 원래 장식인 줄 알았는데..? (7/10)",
+    "30년 살림했는데 드럼세탁기 이렇게 쓰고 있었어... (6/10)"
+  ],
+  "text": "드럼세탁기 아래 작은 뚜껑 열었다가... 나 뭐 한 거지?\n빨래 쉰내 나서 세제만 계속 바꿨거든ㅋㅋ\n안에 배수필터에 머리카락이랑 동전이 꽉\n난 이제 한 달에 1번 대야 받치고 물 빼고 돌려 닦아\n너네 그 뚜껑 장식인 줄 알았지..?",
+  "image_prompt": "Amateur smartphone photo taken at home, crouching low in front of a white front-loading washing machine in a cramped Korean apartment utility room, the small square service panel at the bottom open, a plastic basin on the tiled floor catching murky water, a removed drain filter with tangled hair, lint and a coin lying beside it, slightly tilted framing, harsh overhead light, a bit blurry, no people, no text, no logos",
+  "photo_query": "washing machine drain filter",
+  "product_keyword": "드럼세탁기 배수필터 청소솔",
+  "benchmark_note": "4만 조회 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄+말줄임표, 내 세제통 글의 '원래 빠지는 거였어?' 구조, 틀린 추측('장식인 줄') 마지막 질문을 가져옴",
+  "products": [
+    {
+      "name": "1+1 초강력 캡슐 세탁조 크리너 클리너 고농축 드럼 통돌이 세탁기통세척 세탁기세척 세탁기통세척제 세정제 밤쉘향+머스크향 이브앤로엘",
+      "price": 26640,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8597468022&itemId=24929157142&vendorItemId=91935341089&traceid=V0-153-ac7ac7d054f4d24d&requestid=20261028140126009156971206&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/fc6mD_E91fG3wnCAfax-_3ESe9RzZ4DBGFEaiqbv2ImIEFpFRRAiInlQPmSUtyC13evaslo-SKaJohTLklXSgez19n-jsRqM5xhYY7rWxy-E8UR-_pUhRZA2cKZXwnTskhwau4VfTErTks_-Ly5tUNEZZfuTrferGk4xShwU_RhKpSd0VuWUBuf1CewrkcCRdv6i3BaN1YGuuGgJWwfPbBs8xlEE3rMBNZ6Lyv090WCPYCfQRfCKPkxoiUcCUM_cP-fimEb787yElb1J2Fc8xjxVtbvvt2Gm9uUYtF40SFQ8SUoUmIuZhjXNXXxcjU8d1LnTYrPFU9nQ2CR6Tyft1N7mwmj7ylirWEzk4vhtG6wH-seOKiEUgNgdz0mpz8C-ZhR2c1iOAjbse_Ln2-_YXw033_f74_XsJQJsYFzeCvdQro3KJqf3Bo35uETJBUqGPtM8l1ot48RFMcJ9Us9GgZRra-F6zbAD8iQiX6Hyd8WnTOQN9EQDVMBh5hf12wSsPke9O-1JXzobWhy349_BDPROr-2cAUBmvGpL1CdcPoqp"
+    },
+    {
+      "name": "틈브릭 드럼세탁기 건조기 틈새 튼튼한 2026년형 8세대 먼지제거 청소솔 브러쉬 5종 세트",
+      "price": 7800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9585358995&itemId=28613221438&vendorItemId=95556605096&traceid=V0-153-4d6db6d4e85f6fe4&requestid=20261028140126009156971206&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/-TU6catwzpGpeUbf-bnMew2pnWmlQKp05Kh4JyWbuxr4-tK8bG9PVLWgmTKmSWlw6DKy8jtantbibm-K59O4hO23CJeuhOwORWZk3jAH9WJmg-C9uK4wIkkftw9EmtGkmDOYcvVqjqabYnEqfE0GyIj3EMSuMfX2Xcmh-JnCIxTIMdW6XhHYdVu7dumL1gQl3vvVGLuY3vRDXELBvhxYaaAuMQAHb91qu1yp0E1U08cZmX55DPnPW4m2Dh-1V19tu_ppWfUfGYdHeKN54jbmajDGpDjoIiL5HalcWq0hO0EyQkwprVRqAV49uJ6SjbpDvdwS-hKGPlCwwSE3QR2oPC5AoTQpoDcbEJtZTbUSFnSht0d9lLrR2vg6VV5T4EzSDOtDib64mUkxrrknv5kQcwWb28ircYY05OOxZClFwYVThgSj9s5D3Tq-5xUT9vdxEJltBshOFUAuqcnNwUGq37HX376dXY9UeclfU7OJPGihIXy0tGM_-NXtmFDjt5OcC-OLDyI_bNtaGc5i02gBaYqyvTpua3V4oi5I_6BhY1tFINzCT6ms4JUD5SmxJiMbm0vJ_B-kNeBUL63DJtQHse22"
+    },
+    {
+      "name": "도맥스 소핀 세탁조 클리너 300ml / 드럼 통돌이 세탁조청소",
+      "price": 9800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8391251421&itemId=24215156476&vendorItemId=72057416163&traceid=V0-153-61f4e092491ab36e&requestid=20261028140126009156971206&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/Hq3xmeh6UKPSISrIHsOx66rBLYcKp-Sfh3hoZRvQHbAqhxpHVLmDAgnCbZO0vzHvCTSkRB_90QIT5nTK3JeXV0TkF9m-Tm2uMLRe6r7P32CCFfTLDmNMm0e9KEpKc6r1V46tb35jx5_XMEVBUS2-JBkcvcK0lKcBE5aw83UNt0rtwLcWaXXz5df6aQpNtEA79nJfwoioKbc5Z1KYkPrQl5di3IQBKiw8myB72nmvs-seSxO78o2ZTGuFIqDDhvy6kNUdYbUCQFGdU9Vn6cY4dG0OdeeVNtX6EQp-p6g9tAtzX1fZv18NfKkdNA3CsO9uP8Q99Qmdz-LvPoQGHLT8viI4-ZZ1ChhGdkBu4mfgn_-RwPtPjpgNuL9QwTeHYD5RCcCcEEo3h5Hr4dIlG04_Ra6aEEOkGiJnEyA3DAr7Uxj-PJbuv-YUz1bjx8LsPRssdCYvEgMlL4n-xAMj70O5jVOa2rYpRfSIZTvF5z74LwaRAfqsJv4HxZp_0RsWWgF4TApi9RT6ijAPOt66Rd1BvfcsjT1LtGa8qREStINSaQ=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 99,
+    "has_photo": true
+  }
+}
