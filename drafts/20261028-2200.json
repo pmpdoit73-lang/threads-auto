@@ -2,7 +2,7 @@
   "id": "20261028-2200",
   "created_at": "2026-10-28T22:00:57.612335+09:00",
   "publish_at": "2026-10-29T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 가스레인지 후드 기름망(필터) 세척",
   "angle": "후드 기름망을 안 닦으면 흡입력이 떨어져 냄새·연기가 집에 남는데, 대부분 기름망이 빠지는 걸 모름",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 101,
     "has_photo": true
-  }
+  },
+  "threads_id": "18146531377589376",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfDdODFlsNz",
+  "reply_id": "18114952421127132",
+  "published_at": "2026-10-29T07:01:18.753652+09:00"
 }
