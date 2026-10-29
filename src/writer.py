@@ -2,6 +2,7 @@
 
 import base64
 import json
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import anthropic
@@ -50,7 +51,7 @@ def _benchmark_text(benchmarks):
     )
 
 
-def write_post(trends, recent_issues=(), benchmarks=None, external=None):
+def write_post(trends, recent_issues=(), benchmarks=None, external=None, used=()):
     """trends: {출처: [제목...]}, recent_issues: 최근에 다룬 이슈(중복 방지)."""
     lines = []
     for source, titles in trends.items():
@@ -58,11 +59,15 @@ def write_post(trends, recent_issues=(), benchmarks=None, external=None):
         lines.extend(f"- {t}" for t in titles)
     trend_text = "\n".join(lines)
     recent = "\n".join(f"- {r}" for r in recent_issues) or "(없음)"
+    used_text = "\n".join(f"- {day} {subject}: {issue}" for day, subject, issue in used) or "(없음)"
 
     user_msg = (
         "아래는 오늘 한국 뉴스·검색 목록이야. 소재 참고용이야.\n\n"
         f"{trend_text}\n\n"
         f"최근에 이미 다룬 글 (주제·물건·분류가 겹치지 않게 골라):\n{recent}\n\n"
+        f"최근 30일 동안 이미 올린 글 전체 (같은 물건의 같은 팁은 절대 다시 쓰지 마. 같은 물건이면 2주 안엔 아예 고르지 마):\n{used_text}\n\n"
+        "주의: 요즘 글이 '필터·거름망·물때 청소'에 몰려 있어. 청소 말고 다른 각도도 골고루 골라 — "
+        "몰랐던 숨은 버튼·기능, 전기요금·물값 아끼는 설정, 보관·정리법, 흔한 사용 실수, 고장 오해, 살림템 활용법.\n\n"
         "1. 주제를 이 순서로 골라 (페르소나 '다루는 주제' 참고):\n"
         "   ① 프로필('가성비있고 신박한 아이템을 리뷰합니다')에 맞는 살림템·가전 숨은 기능·주방·청소세탁 정보.\n"
         "      목록에 가전 신제품·리콜·요금·새 제도 소식이 있으면 계기로 삼고, 없어도 '이거 몰랐네' 싶은 정보면 돼.\n"
@@ -91,6 +96,11 @@ def write_post(trends, recent_issues=(), benchmarks=None, external=None):
         print(f"[writer] 날씨·난방 주제가 또 나옴 ({post.get('subject')}) → 다시 씀")
         post = _ask(user_msg + "\n\n주의: 날씨·계절·난방 주제는 최근에 너무 많이 썼어. 이번엔 절대 쓰지 말고 "
                     "프로필 주제(살림템·가전 기능·주방·청소세탁)나 최근 이슈로 골라.", SCHEMA)
+    repeat = _repeated(post, used)
+    if repeat:  # 최근에 올린 물건이 또 나오면 다시 쓴다
+        print(f"[writer] 최근에 쓴 물건이 또 나옴 ({post.get('subject')} ← {repeat}) → 다시 씀")
+        post = _ask(user_msg + f"\n\n주의: '{post.get('subject')}'은(는) {repeat}에 이미 올렸어. "
+                    "최근 30일 목록에 없는 다른 물건으로 골라.", SCHEMA)
     if not _subject_ok(post):  # 첫 두 줄에 주어가 없으면 한 번 더 쓰게 한다
         print(f"[writer] 첫 두 줄에 주어 '{post.get('subject')}' 없음 → 다시 씀")
         post = _ask(user_msg + "\n\n주의: 지난번엔 첫 두 줄에 주어(누가/무엇이)가 빠져서 무슨 일인지 몰랐어. "
@@ -106,6 +116,23 @@ def _too_much_weather(post, recent_issues, window=3):
     this = post.get("category") == "날씨·계절·난방" or any(w in post.get("subject", "") for w in WEATHER_WORDS)
     recent = list(recent_issues)[-window:]
     return this and any(any(w in r for w in WEATHER_WORDS) for r in recent)
+
+
+def _norm(text):
+    return "".join(text.split())
+
+
+def _repeated(post, used, days=14):
+    """이번 글의 물건(subject)이 최근 N일 안에 올린 글과 같으면 그 날짜를, 아니면 ''."""
+    subject = _norm(post.get("subject", ""))
+    if len(subject) < 2:
+        return ""
+    since = (datetime.now(timezone(timedelta(hours=9))) - timedelta(days=days)).strftime("%Y-%m-%d")
+    for day, old, _issue in used:
+        old = _norm(old)
+        if day >= since and old and (subject == old or (min(len(subject), len(old)) >= 3 and (subject in old or old in subject))):
+            return day
+    return ""
 
 
 def _subject_ok(post):

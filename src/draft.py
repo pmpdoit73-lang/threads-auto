@@ -77,6 +77,19 @@ def recent_issues(n=10):
     return result
 
 
+def used_topics(days=30, exclude_id=None):
+    """최근 N일 동안 올렸거나 올릴 글의 (날짜, 물건, 주제). 실패·건너뛴 글은 사람들이 못 봤으니 뺌."""
+    since = (datetime.now(KST) - timedelta(days=days)).strftime("%Y%m%d")
+    result = []
+    for f in sorted(DRAFT_DIR.glob("*.json")):
+        if f.stem[:8] < since or f.stem == exclude_id:
+            continue
+        d = json.loads(f.read_text(encoding="utf-8"))
+        if d.get("status") in ("published", "pending", "approved") and d.get("subject"):
+            result.append((d.get("publish_at", "")[:10], d["subject"], d.get("issue", "")))
+    return result
+
+
 # ---------- 시간 ----------
 
 SLOTS = [(7, 0), (11, 0), (18, 0), (21, 0)]  # 하루 게시 시간 (한국 시간)
@@ -138,7 +151,8 @@ def _fill_content(d, avoid=()):
         benchmarks = None
     external = bench_store.load()
     print(f"[draft] gil이 보낸 벤치마킹 글 {len(external)}개")
-    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks, external)
+    used = used_topics(exclude_id=d.get("id"))
+    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks, external, used)
     print(f"[draft] 글 작성: {post['text']}")
     d.update(post)
     try:
