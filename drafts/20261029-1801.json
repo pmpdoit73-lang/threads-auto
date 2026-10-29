@@ -4,47 +4,50 @@
   "publish_at": "2026-10-29T21:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 청소기 먼지통 안쪽 필터(헤파·스펀지) 세척",
-  "angle": "흡입력 약해져 청소기 바꿀 뻔했는데 알고 보니 먼지통 안 필터가 막혀 있던 것, 버릴 돈 아끼는 점",
-  "category": "청소·세탁·정리",
-  "subject": "무선청소기",
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기레인지(인덕션) 잠금 버튼 오해",
+  "angle": "인덕션 버튼이 안 눌려 고장인 줄 알고 AS 부를 뻔했는데 잠금(차일드락)이 걸린 거였다는 고장 오해",
+  "category": "살림템·가전",
+  "subject": "인덕션",
   "hooks": [
-    "무선청소기 흡입력이 갑자기 약해졌는데... (9/10)",
-    "무선청소기 새로 사려고 장바구니 담다가 멈칫...? (8/10)",
-    "무선청소기 먼지통 비우다가 나 뭐 한 거지? (8/10)",
-    "얘들아 무선청소기 먼지통 안에 이런 게 숨어 있었어? (7/10)",
-    "무선청소기 먼지통 안 스펀지, 원래 장식인 줄 알았는데..? (6/10)"
+    "인덕션이 갑자기 먹통이 됐는데... (8/10)",
+    "인덕션 AS 부르려다 전화 끊었어 나 뭐 한 거지? (9/10)",
+    "얘들아 인덕션에 이 버튼 원래 장식인 줄 알았는데..? (7/10)",
+    "인덕션 고장 난 줄 알고 새로 살 뻔한 썰... (8/10)",
+    "인덕션 자물쇠 그림, 너네 눌러봤어? (6/10)"
   ],
-  "text": "무선청소기 흡입력이 갑자기 약해졌는데...\n수명 다 된 줄 알고 새로 살 뻔했거든ㅋㅋ\n먼지통 안 필터 빼 보니 먼지로 꽉 막혀 있더라\n난 이제 2주에 1번 털고, 물세척 되는 건 하루 바짝 말려 끼워\n너네 청소기 필터 빠지는 거 알았어..?",
-  "image_prompt": "Amateur smartphone photo taken at home, a cordless stick vacuum's clear dust bin removed and placed on a cluttered laundry room floor, a grey cone filter and sponge filter pulled out next to it clogged with thick dust and hair, slightly tilted angle, dim indoor lighting, casual messy snapshot, no people, no text, no logos",
-  "photo_query": "vacuum dust filter",
-  "product_keyword": "무선청소기 필터",
-  "benchmark_note": "내 상위 글의 '가전 이름+...' 첫 줄, '새로 살 뻔했거든' 셀프 디스, '난 이제' 경험 말투, '빠지는 거 알았어..?' 질문 끝맺음 형식을 가져옴",
+  "text": "인덕션 AS 부르려다 전화 끊었어 나 뭐 한 거지?\n아무 버튼도 안 먹혀서 고장인 줄 알았거든\n알고 보니 행주 닦다 잠금 버튼이 눌린 거ㅋㅋ\n자물쇠 그림 3초 꾹 누르니 바로 풀리더라\n너네도 이거 고장인 줄 알았어..?",
+  "image_prompt": "Amateur smartphone photo of a black induction cooktop in an ordinary Korean apartment kitchen, a damp dish towel lying on the glass near the touch control panel, slightly tilted angle, uneven indoor lighting, small crumbs on surface, casual unstaged snapshot, no people, no text, no logos",
+  "photo_query": "induction cooktop control",
+  "product_keyword": "인덕션 보호매트",
+  "benchmark_note": "내 790뷰 글의 '실수 상황 첫 줄+말줄임표→새로 살 뻔 셀프디스→난 이제 숫자 방법→너네 ~알았어..?' 5줄 구조와 4만뷰 글의 '나 뭐 한 거지?' 셀프 디스 후킹을 가져옴",
   "products": [
     {
-      "name": "퓨어퍼스트 샤오미 미니청소기 필터 SSXCQ01XY 호환, 5개, filter",
-      "price": 8500,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8522629768&itemId=24674232818&vendorItemId=91684423628&traceid=V0-153-f15fb42eb2fb2702&clickBeacon=69f6ffc0-d377-11f1-866b-bab3c150f776%7E3&requestid=20261029180205692102602944&token=31850C%7CMIXED&pt=1&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/vqfdnPMIqspUqQC7vhyiD_xU9mp6sofHeBeAC4_UNi74vFDZNUKfUcRneWh4FIDbBvO_3qezrHSmN-w78iYh8wedDzkhN0N1sUMkXzI8FCSht8MQbIMxRAr-ovpBoZnGKptX9UC8daMbfooFdDAiWG-6MuanK1AOGmSb_0tlyLcgitHTFmmEq-Rexv9atrv86-j7sj4mch2ZtY6ANU-g9v13ciQ2eSaqFHZp0bP3-7OONtQOJPZJ1gpzt8bB22uusvqtbAckbBKn3gzoV0Z7z2sjbXRRv-4X_JJOfG_Q_qn3hkkYWiWvDwkXPb7mGWfYStBdcyQAGXg2pMlhGSikaTf1jxyDUfZEkHvSZ_duJs4Qh9cAa09q9iRMNgO91ZKCZenPhdoq4EQhZuDoh_6JrlhA0kwyexhTDnySz7Dz_2ulOGpWmIMLLLXur53EjoI1HiyDjDpR4G4g6asTBW--yKB1sxkQvhtXR2ZUnMmD79WV_7oIxSvuYDadqjOEXeMe6lhthKQLuhSKGltYlu_oAFNWHDD-Iw=="
+      "name": "레오센트 프리미엄 300도 내열 인덕션 보호 매트, 3개, 헤리티지 네이비",
+      "price": 20000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9510869533&itemId=28342343436&vendorItemId=95299894832&traceid=V0-153-992db341708e5841&clickBeacon=557d5750-d378-11f1-a0b5-522ded6fad37%7E3&requestid=20261029180840794128798269&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/ZEgHUUY2V7pJrCzsZIlHKlyOI-Q-lGc-xUVxDNOvy-bvLN2794yTqOWh8OBJnOuP8XGiBT4LY0cLJZs845DdZ2metQa2s9ti_2xjr031iK9JBQrrzU3TGTNO1Frz72_PZcgjY8Z7o68PAZKW8a4Og7iTsS052F33CnNt6tnMcWcdcI_BIoTVTSRueYzqiQj45jOrskja2Jcy3AsbwzvMw-bQStWCBA5lMP1HoUAARoWaUlZ4LUgYGNDZ9kA7IO90IxKk87YLqDsC6PywraXkSd6sNjplPLjg09ZcwzI6JFCs7Q5Ro__T03L93RDdSz9GBdJyAVYTWPidwI68nwC7SUGZnGOErQJfP3_5CvZUZtdgq3Me0YgGAfc_MwheEQfZXNRkzYmTa7sgH22cD1YVy9_T68wb-HLK6LtWMnqX5HdHEDnXThBzOrRvMnk42ENag1qToRzT1HT3rBUHIMxZ4rKs9XujnFA_U95mxjBsQvuvXpu_ERlYyQzxQ0yRIPc_JMlNdLTlXp_QwDDFad0IIrPwhQtAVcc="
     },
     {
-      "name": "대한우리필터 아이닉 무선청소기 i50 아이타워 itower 호환 먼지봉투 더스트백, 5개, 수량",
-      "price": 13750,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9161420492&itemId=26986022016&vendorItemId=96126287124&traceid=V0-153-8abc8085766d2dc6&clickBeacon=69f6ffc0-d377-11f1-9721-4c0f45cd8ce0%7E3&requestid=20261029180205692102602944&token=31850C%7CMIXED&pt=1&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/9OY8-MZRaUQW0bUl9G23vmrhvZyhCvEig98lfBviP1jM7tPOAbBo_Lzy19jhgRBXyfxQ4SnGZ5YczE3kF-S5ZW5Enow6SW5b1wqA0US8spXi5WMh3uKBbRlP85YXvatmc641R_iVjYkoO9gPkr4jGNKkMBDdOuDsPflFXSeb0LMTtC8vJWKNi4v5L9yPT40RJuCIXyrcQnOLEKFYgZk-NuBPcI7WIG8iHTbnZsOzGINwGmcgkK18UCKoUs5Qi3U3AHFsuRNztNtI3BzsuSZZSsQ6ES7q6woTnV0t7ow40k78N6F5gDIV923kp8ORAqLzd_4X0NS2Kj0FnCZpaUGpAdcuR-ncqbB0vyAGa_Rtzf25UQ7By-S4bELhknfRRYdLHN0Xm754wCRtUtZgL8_C1R8PITFt1KbMr83wAFlv9aERU5OGz9lYWqPKbmfXYemM1KRgFzIpiosAWQqCL3ZRDLu__ObvwEo_RNmrV6GxQTyPrUbu76lrYz5lDwwKhvtfSjU-iG4Qs68DgLU2jQZEz0OPkhiOsRM="
+      "name": "라피에스 시그니쳐 300도 내열 인덕션 보호 매트, 3개, 메탈릭 그레이",
+      "price": 24000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9723571305&itemId=29098342592&vendorItemId=96062851426&traceid=V0-153-e2ee813c537d847f&clickBeacon=557d7e60-d378-11f1-a68e-444ba3acf091%7E3&requestid=20261029180840794128798269&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/D8PeJYyEmdewm_M8D1q-6yA2cKLR9XkzgVwY9huc9Ld50Z6DeZEvbQ0G0dnqYNnD3SiILMNL2pH9cwD3tDMuKvIxvNTNRuKs-R8XA11PZtIRBNgRK5FNk6w91LBIOrQm9eEV4mLFilPchnghD_9OD8Sx5qoOuabMLdk4eC1Gb1hm2UWFvQdbKtcmh5hv97TfUKV67tqnBnhAn_Y9J7FMzoOCdVtRMch9R33yT6sT7R2ozYFaqCdzK0PORJ7V5LpBZHJ-51Q0vOqm8xU9Ll8sUW64pyUCZg5Y_kAUha5J1oeokfwYz3e2kgbrVOknOYLohwohXbvr_-ODpPy8_PvpvUaYNU_L9el0w7hQge0kitJpgTJCU30b4f3B0CsOPSRvfEy0dVn9zVdWVFBqJ4sD167U9eQtKZdyU7en9mbcf5_NFDyALFTNktSySjyIOHMzTz_mMpyv3jKsT9AdaNZRrAot_s7jfK0MFTBAdVKO4n2-Y6qEnxfQODXbXb3moyLVVRN2m8lXfRQFWhziQ1V7OcBMfSFi0d45dg=="
     },
     {
-      "name": "비브르 무선청소기 V25000_헤파필터 V25000",
-      "price": 12000,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8777648818&itemId=25537066553&vendorItemId=93903310397&traceid=V0-153-cbeee4e50874694b&requestid=20261029180205692102602944&token=31850C%7CMIXED&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/eOuMoDFerwcW1A_LeBHYlWIdACIbmaZkyv3WiYySv4wPXJsE1ioW_JmEsvF7M10TXo0wWciw_ZxguaqKMZDAjml1Zzp7OgMHZ2Uq-X83UbuyVQQ0ijcTeWdiFW1wrgEOb7N-bUZQw8pfb-dNY8kti7MU_IwHW4FjDuxvMs4DSerQxV5m3MHy4lKgbcTuaBtRAwYQgBDC-4GPWoHSXrNQml1fwZ9gDj908cXQBzf38elbHGwNxu7Rqk-P6urp1-6wBUFeelxti6lM6eJyRVJpkUYQ5-OjGCmSZHjXmBRlz0dQOUv9B2globChYQDULy7L1Z__VKyqKOBI_TNdacoXpFNr28JWxnzB4O9gkgKCVoOzKAqge-ikW5GKrctV-bB-MDS8LBuiMdx3yqyCG06OVphWlZcR_A1LvHFtub7sT3tnAkOfYyuscYu5QNrHHGEn9G-cNnJvarGdeCBfRLFO8-w9nCRTovASdZnA5G1eRKc2wGwNa2uqdzwbIcQLJSBTRvn70cvpGC7aZGRZ2M-lFFfwmB2FnY5nLt_i9DQxgOhPhSA0"
+      "name": "라피에스 시그니쳐 300도 내열 인덕션 보호 매트",
+      "price": 23700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9723571305&itemId=29098342587&vendorItemId=96062851424&traceid=V0-153-e2ee813c537d847f&requestid=20261029180840794128798269&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/vRfYUkaR1KaeZ_i-vZCcGBi8PtMjsPQVN6ystnsnpRebxJ2L3xo7LWLwUacsu_YxamGigXKstta-7Rx9n62FoWA1qYIE5QYaIv7sDmqJfPvhsJjDsW7eRfltCjSbe4nxUQIJyNRLF9fjebOU1wg9YaaZrMD5vF44Nd5dA7veN_Sn7Oix6pwYvNFPNHL2QmZYHyvPsV9G4poQ6M8PrFaezEuw2S13XHaioCkQOPP3tdNKS4TWvD4TV2KXdgVAEOlOFFHOq32x20efrlFPApE0-gOXkuyLwh4dQky0by1EofM9PA_L_IV6nd7yXEP3MX1TBXUEkcl8uNkVISaAQNw-8R7SVjAFv0Q0QY84Rh35GcDQvxIJyfnl10DuQFui1tPEOiYNudgj7SwyOEcFab9JbZ-nGXIaq1Bo_1oGiQr5tuLiqVJ_vliYUN896xBlK3vqyD5Sm6Lraun6_kCXQd-VqCUEYM0l1w1ULOqpgqJ7TMfDxbwrZK7bNIgchY945Ifu6pzgQm4da531HNIDSZfHKrcJDO07blPKgmTiOVL7a9SYQKE="
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "both",
   "message": {
-    "message_id": 104,
+    "message_id": 105,
     "has_photo": true
-  }
+  },
+  "rejected_issues": [
+    "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 청소기 먼지통 안쪽 필터(헤파·스펀지) 세척"
+  ]
 }
