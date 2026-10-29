@@ -1,0 +1,50 @@
+{
+  "id": "20261029-1801",
+  "created_at": "2026-10-29T18:01:50.242811+09:00",
+  "publish_at": "2026-10-29T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 청소기 먼지통 안쪽 필터(헤파·스펀지) 세척",
+  "angle": "흡입력 약해져 청소기 바꿀 뻔했는데 알고 보니 먼지통 안 필터가 막혀 있던 것, 버릴 돈 아끼는 점",
+  "category": "청소·세탁·정리",
+  "subject": "무선청소기",
+  "hooks": [
+    "무선청소기 흡입력이 갑자기 약해졌는데... (9/10)",
+    "무선청소기 새로 사려고 장바구니 담다가 멈칫...? (8/10)",
+    "무선청소기 먼지통 비우다가 나 뭐 한 거지? (8/10)",
+    "얘들아 무선청소기 먼지통 안에 이런 게 숨어 있었어? (7/10)",
+    "무선청소기 먼지통 안 스펀지, 원래 장식인 줄 알았는데..? (6/10)"
+  ],
+  "text": "무선청소기 흡입력이 갑자기 약해졌는데...\n수명 다 된 줄 알고 새로 살 뻔했거든ㅋㅋ\n먼지통 안 필터 빼 보니 먼지로 꽉 막혀 있더라\n난 이제 2주에 1번 털고, 물세척 되는 건 하루 바짝 말려 끼워\n너네 청소기 필터 빠지는 거 알았어..?",
+  "image_prompt": "Amateur smartphone photo taken at home, a cordless stick vacuum's clear dust bin removed and placed on a cluttered laundry room floor, a grey cone filter and sponge filter pulled out next to it clogged with thick dust and hair, slightly tilted angle, dim indoor lighting, casual messy snapshot, no people, no text, no logos",
+  "photo_query": "vacuum dust filter",
+  "product_keyword": "무선청소기 필터",
+  "benchmark_note": "내 상위 글의 '가전 이름+...' 첫 줄, '새로 살 뻔했거든' 셀프 디스, '난 이제' 경험 말투, '빠지는 거 알았어..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "퓨어퍼스트 샤오미 미니청소기 필터 SSXCQ01XY 호환, 5개, filter",
+      "price": 8500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8522629768&itemId=24674232818&vendorItemId=91684423628&traceid=V0-153-f15fb42eb2fb2702&clickBeacon=69f6ffc0-d377-11f1-866b-bab3c150f776%7E3&requestid=20261029180205692102602944&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/vqfdnPMIqspUqQC7vhyiD_xU9mp6sofHeBeAC4_UNi74vFDZNUKfUcRneWh4FIDbBvO_3qezrHSmN-w78iYh8wedDzkhN0N1sUMkXzI8FCSht8MQbIMxRAr-ovpBoZnGKptX9UC8daMbfooFdDAiWG-6MuanK1AOGmSb_0tlyLcgitHTFmmEq-Rexv9atrv86-j7sj4mch2ZtY6ANU-g9v13ciQ2eSaqFHZp0bP3-7OONtQOJPZJ1gpzt8bB22uusvqtbAckbBKn3gzoV0Z7z2sjbXRRv-4X_JJOfG_Q_qn3hkkYWiWvDwkXPb7mGWfYStBdcyQAGXg2pMlhGSikaTf1jxyDUfZEkHvSZ_duJs4Qh9cAa09q9iRMNgO91ZKCZenPhdoq4EQhZuDoh_6JrlhA0kwyexhTDnySz7Dz_2ulOGpWmIMLLLXur53EjoI1HiyDjDpR4G4g6asTBW--yKB1sxkQvhtXR2ZUnMmD79WV_7oIxSvuYDadqjOEXeMe6lhthKQLuhSKGltYlu_oAFNWHDD-Iw=="
+    },
+    {
+      "name": "대한우리필터 아이닉 무선청소기 i50 아이타워 itower 호환 먼지봉투 더스트백, 5개, 수량",
+      "price": 13750,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9161420492&itemId=26986022016&vendorItemId=96126287124&traceid=V0-153-8abc8085766d2dc6&clickBeacon=69f6ffc0-d377-11f1-9721-4c0f45cd8ce0%7E3&requestid=20261029180205692102602944&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/9OY8-MZRaUQW0bUl9G23vmrhvZyhCvEig98lfBviP1jM7tPOAbBo_Lzy19jhgRBXyfxQ4SnGZ5YczE3kF-S5ZW5Enow6SW5b1wqA0US8spXi5WMh3uKBbRlP85YXvatmc641R_iVjYkoO9gPkr4jGNKkMBDdOuDsPflFXSeb0LMTtC8vJWKNi4v5L9yPT40RJuCIXyrcQnOLEKFYgZk-NuBPcI7WIG8iHTbnZsOzGINwGmcgkK18UCKoUs5Qi3U3AHFsuRNztNtI3BzsuSZZSsQ6ES7q6woTnV0t7ow40k78N6F5gDIV923kp8ORAqLzd_4X0NS2Kj0FnCZpaUGpAdcuR-ncqbB0vyAGa_Rtzf25UQ7By-S4bELhknfRRYdLHN0Xm754wCRtUtZgL8_C1R8PITFt1KbMr83wAFlv9aERU5OGz9lYWqPKbmfXYemM1KRgFzIpiosAWQqCL3ZRDLu__ObvwEo_RNmrV6GxQTyPrUbu76lrYz5lDwwKhvtfSjU-iG4Qs68DgLU2jQZEz0OPkhiOsRM="
+    },
+    {
+      "name": "비브르 무선청소기 V25000_헤파필터 V25000",
+      "price": 12000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8777648818&itemId=25537066553&vendorItemId=93903310397&traceid=V0-153-cbeee4e50874694b&requestid=20261029180205692102602944&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/eOuMoDFerwcW1A_LeBHYlWIdACIbmaZkyv3WiYySv4wPXJsE1ioW_JmEsvF7M10TXo0wWciw_ZxguaqKMZDAjml1Zzp7OgMHZ2Uq-X83UbuyVQQ0ijcTeWdiFW1wrgEOb7N-bUZQw8pfb-dNY8kti7MU_IwHW4FjDuxvMs4DSerQxV5m3MHy4lKgbcTuaBtRAwYQgBDC-4GPWoHSXrNQml1fwZ9gDj908cXQBzf38elbHGwNxu7Rqk-P6urp1-6wBUFeelxti6lM6eJyRVJpkUYQ5-OjGCmSZHjXmBRlz0dQOUv9B2globChYQDULy7L1Z__VKyqKOBI_TNdacoXpFNr28JWxnzB4O9gkgKCVoOzKAqge-ikW5GKrctV-bB-MDS8LBuiMdx3yqyCG06OVphWlZcR_A1LvHFtub7sT3tnAkOfYyuscYu5QNrHHGEn9G-cNnJvarGdeCBfRLFO8-w9nCRTovASdZnA5G1eRKc2wGwNa2uqdzwbIcQLJSBTRvn70cvpGC7aZGRZ2M-lFFfwmB2FnY5nLt_i9DQxgOhPhSA0"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 104,
+    "has_photo": true
+  }
+}
