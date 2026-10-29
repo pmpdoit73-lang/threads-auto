@@ -1,0 +1,50 @@
+{
+  "id": "20261030-0800",
+  "created_at": "2026-10-30T08:00:57.092548+09:00",
+  "publish_at": "2026-10-30T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 정수기·세탁기 말고, 세탁기 '예약' 버튼이 끝나는 시간 기준이라는 것",
+  "angle": "세탁기 예약 버튼을 '몇 시간 뒤 시작'으로 오해해 빨래가 통 안에서 오래 방치되는 흔한 사용 실수",
+  "category": "청소·세탁·정리",
+  "subject": "세탁기 예약 버튼",
+  "hooks": [
+    "세탁기 예약 버튼 눌러놓고 잤는데... 아침에 나 뭐 한 거지? (9/10)",
+    "30년 살림했는데 세탁기 예약을 이렇게 쓰고 있었어... (8/10)",
+    "얘들아 와, 세탁기 예약 버튼 숫자가 그 뜻이었어? (8/10)",
+    "세탁기 예약 8시간 눌렀는데 빨래가 쉰내 나는 이유..? (7/10)",
+    "세탁기 예약 버튼 그냥 타이머인 줄 알았는데..? (7/10)"
+  ],
+  "text": "세탁기 예약 버튼 눌러놓고 잤는데... 아침에 나 뭐 한 거지?\n빨래가 새벽에 끝나서 축축하게 몇 시간 방치ㅋㅋ\n알고 보니 숫자가 '끝나는 시간'이더라\n난 이제 일어날 시간까지 남은 시간 넣어, 7시간 뒤면 7\n너네도 시작 시간인 줄 알았어..?",
+  "image_prompt": "Casual smartphone photo of a front-loading washing machine control panel in a small Korean apartment utility room, slightly tilted angle, early morning dim light, damp laundry visible through the door glass, plain tiled wall, slightly blurry, no people, no text, no logos",
+  "photo_query": "washing machine panel",
+  "product_keyword": "세탁망 세트",
+  "benchmark_note": "내 글 '세탁기 세제통' 형식(첫 줄 상황+말줄임표, 셀프 디스 '나 뭐 한 거지', '난 이제~' 숫자 공개, '너네도~..?' 질문)과 4만 조회 글의 셀프 디스 구조를 가져옴",
+  "products": [
+    {
+      "name": "도크민 이중필터 세탁망 6종 세트 무형광 아기빨래, 6개, 웜베이지",
+      "price": 22900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9409772324&itemId=27958320947&vendorItemId=94976837421&traceid=V0-153-2e7e583a5e3402bf&clickBeacon=a6848000-d3ec-11f1-9c4d-afb34a418cde%7E3&requestid=20261030080118377194467973&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/HAsxIJ6JO0fdzZE8HOtxYTxUy1jT0snbKdsP5eRrGOGfh3tVzZ-k1l5ZwrtcDy_PCsUiT67aVx0y3dh-LSJV4VBfdj5-3TLMG09NSmakPaccIxWvn3EH7ZHXZYA6g0bxka5EdOR0OMeLpYHwMo3QaSMcVQrzTsbwLgMEx0H4-uRQlX-UpiRJ--u8bFRbrWAXipPDEThzVmauz6bwmg-Mf5IaSAQMjxH6IYhhZmb6cz8YTNDAxk0WQ-hNYOm12aico2wQGICokFAjxmrfqQYD-18FFkDdXyTtcyXEnEb-eRGiFfTyTj7CNIV0HQr38oDdUpWE0vwWPXEN5PcKG8PzRkldfIyCROPVapkiUTQAF7a75XaQ3HZ3R-o-0CW-aNoqvIhxYa1A6QhwtJ7FzcmfnbmuqNm3wn_yCi2S0Ics-KkY6Sz4rnX4xIO5caiRxc7CtVH5uSkythoAPJnC9qnBiZf4v3wPZo-dIlS6KtleAujSdj-ATgBI-9bOhbOXGM0OStxzya42tmoSmv7V4lWLERAtUXVQF36d"
+    },
+    {
+      "name": "버라인 안심 메쉬 다용도 프리미엄 세탁망 5종 세트, 1개, 범선",
+      "price": 13080,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8420998654&itemId=24356679784&vendorItemId=91372261705&traceid=V0-153-cf5bee614d9dd2f8&clickBeacon=a6848000-d3ec-11f1-8183-e702a494cd03%7E3&requestid=20261030080118377194467973&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/K8MMz5nqDdiCaWTVK0Jzl9fspVzxp8c0Wy9Ot5GJo1SjIina3S0pltLXqBJTsRxKB0bhzFGrdfFRNVfN2v4VEjAHug9R_VpwoQS34R8ElzQ-M4XqmOPmup8bMkfkg6OdIjE9RgxMFZ-E-Za7dp-U0zzPIDls2vxAjp6RWyopY_vNjwkSy4N84KbveLO0gWbXBWposglQ_VQyrfQx6qvfBL8WEnY3WkxrzdVwwUphdapfsGXQTm1HoFlgPoqOr2u4uxzxFZomssrAs5Y1yVVf0Q34YLa8l-A4CstmN0eFqO-VqqvlLsVbCSrE9KCj3jRgxTRp9yBKKytMLHcV1fgBfJbEjg_bF6FAomb3Wkv2OWbZE0mcl26o-7t-kiztSWRK45vWwfM_N96a5mkC-5dJYTKsQ-ih6y-m2a3Tz6eUFdxkdYAWNd6qQaKo4lJ-B2hF2uKObBZ0VmkjpaIHy5H-tSiv-dY70gYaQwbLeOkYA3pCvJafSmOLn_ZsK3shK7Qo37cz2XVpq_3mwyI-xXrurcmJwCVOTkv9"
+    },
+    {
+      "name": "마더스홈 무형광 2중 세탁망 6종 세트",
+      "price": 9900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6342621688&itemId=13313130299&vendorItemId=80569453926&traceid=V0-153-27908aaf36e8fbf4&requestid=20261030080118377194467973&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/al5oABqeT6bz9p_fahXyIP85vK-x2xH4jkjaD7dqLDLA-vbKsXSPvXEXbZbmlNEj74aDhjgZ6NTyL_h4NJbPa2IJEr9GZkX-XAYM_-rr8dRnle8tzF0qUqOvnv6ejfnqYHqDMm6Pvi9T5lAOewQWSRammQZCmH_pkdG7Oy4X78WHN5ytApL3vIzIPCMr4P7Fcm97uguKt-fF2RevjtP1cwvos0EWM5F7M1BEzZUviCgWyDL1s32iD0hJrM_Jx7h4pnA1sEaOyVYs11eBcSJAPbuo0JZtYNPoNWHj_wI0Jq_IYSSHp4m_5LzOeZGCgNrWOS7KrRysBGl4GgkPaMjoejILQ13u2Sp1tn9RiVV_O1UmYgkbv-WL3_S5f9hCeVJvGbL09-hPsIe2U-r-QZRUlMMxTcFTr2NEsWEs3PWQzVhMgDk85SMtcLC7aA6tG826wldOcQO03C6ZMAXs_Re05D3HBlqc6as2LyDURHITjgoWqioT-8lYIbC8iFOPSMoX4kY3LQZDign8FOVeyEZMGyJj7bsohho9apLLwXKlxvGN2A=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 107,
+    "has_photo": true
+  }
+}
