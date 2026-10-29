@@ -1,0 +1,50 @@
+{
+  "id": "20261029-1400",
+  "created_at": "2026-10-29T14:00:52.543203+09:00",
+  "publish_at": "2026-10-29T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림 팁: 전기포트 바닥 하얀 물때(석회) 구연산 세척",
+  "angle": "전기포트 바닥 하얀 얼룩을 고장·녹으로 착각하는데, 사실 물때라 구연산으로 쉽게 지워진다는 점",
+  "category": "주방",
+  "subject": "전기포트",
+  "hooks": [
+    "전기포트 뚜껑 열었다가 나 뭐 한 거지...? (9/10)",
+    "전기포트 바닥에 하얀 게 생겼는데... 이거 녹이야..? (8/10)",
+    "30년 살림했는데 전기포트 이렇게 쓰고 있었어... (7/10)",
+    "얘들아 와, 전기포트 바닥 이거 뭔지 알아? (7/10)",
+    "전기포트 새로 살 뻔했는데... 나만 몰랐어? (6/10)"
+  ],
+  "text": "전기포트 뚜껑 열었다가 나 뭐 한 거지...?\n바닥에 하얀 게 잔뜩, 녹슨 줄 알고 버릴 뻔ㅋㅋ\n알고 보니 그냥 물때(석회)더라\n난 이제 한 달에 1번 물 가득에 구연산 1스푼 넣고 끓여서 1시간 두고 헹궈\n너네 포트 바닥 무슨 색이야..?",
+  "image_prompt": "Casual smartphone photo looking down into an open stainless steel electric kettle on a Korean apartment kitchen counter, white chalky limescale spots on the bottom, slightly tilted angle, ordinary home lighting, cluttered counter edge visible, no people, no text, no logos",
+  "photo_query": "electric kettle limescale",
+  "product_keyword": "구연산 세정제",
+  "benchmark_note": "내 상위 글의 '나 뭐 한 거지' 셀프디스 첫 줄+새로 살 뻔한 착각+'무슨 색이야..?' 열린 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "이너홈 깔끔 구연산 세제, 1kg, 3개",
+      "price": 12670,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8885211384&itemId=25946638692&vendorItemId=92929785951&traceid=V0-153-6578fd31c332efab&clickBeacon=c2e2cb40-d355-11f1-afa7-909411696f40%7E3&requestid=20261029140111961018748335&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/H5t0ui_z3iMFxiL-H6KtHwQFPYZ5-9fPJiS4_r-vH2KB4S66o83-IlL_Tpj1O1GggKGDXlfyKyEStIxnEVz06B2wBBvlOXDZUVpscI1uKmbDxjex8rostL9ivmV8ALkJ1H9M5RT1sYeg2xQ96jKEbeOKpmkAnefqaCyfXTfqKRRvmXpkoU1n6_jHgqdnLlV_aaEcw308bWcV3EXpZjnwukJXTv1uS1G42mbD-zYwcP8_2lH6BeTUKjk-NR1kuNfSCemyVvCaHG43_xgrPsJonwf17jqoBvmEvRLWJZl_cKmy7Styrnr0O5ngD1AEkL2_Hr5_yQfujK7K7oo3g-tuQ8LXneb572wjXAVd0GH7kCv98FphRqlh1DfALWtKO31VRWzB47i_rNUrpH0HDtT2-FD8h3i5-KQU96A_FY0HqWkTLpEkY-5K8kRiLWbbh_2w28-8B-fY36FJA9ucifSM65oygr2a2ZKlXPuln5ifDf61Np_8r7zB1B-vkDx8fGSjutDcs1jQpA=="
+    },
+    {
+      "name": "어슬릭 가습기 세정제 석회질제거 액체 구연산, 4개, 1L",
+      "price": 22660,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9753968338&itemId=29205929775&vendorItemId=96126071679&traceid=V0-153-46f66dc6d0e5f47e&clickBeacon=c2e2cb40-d355-11f1-bedb-85763f39dc14%7E3&requestid=20261029140111961018748335&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/_bQ7I6HJ0zaQeGvW_atWNuQw6okJxPCOrJLoQXnyG8ZnHI5UorN7reVnB52cmGMOEXoZoveZGDhhqdPq7IC_BzkG7E5LQ6cbZtXqvIBo8nJj_Yea1N6lLjlPJmVRgiCEeDIhM6vEbE4R6gJ2ETp9-apbbl4vecUzbz5xlA13u7DAksvY_N1T5DW5_MBvCOKKKNmQ58qnx26i-MxQXrYpgQIY8dNo2dxNkPhtApt0360NvIiUmw64rsDJboWHZI_jfWLHit7kPa5REYo-rVblojxcZwof65iJJ8YpWIbRFweQHV8dTvvrM0v0H9d1yzQbBNvcKJiTT0aGCJXIfFZAjvaY05DrpmRNMf9x_y6ZZ2PrWffnHamltfF0gOo_sSxQURdl9_OwHVOv_NIffaZXOh0t_XoquxDMpFc7f7W-GO-yciYfA02AIKAdKu8NhTg97fUtrQCcBSGphqoTNAq61BrRvqdrGlw0kQN6IlmrwpWh5Ovi8eTgJpGrz8MkKfECmGUV6YGsTDiN3yY0KMW67yK4PBIaGTT1"
+    },
+    {
+      "name": "레인보우샵 구연산 워터 다목적세정제",
+      "price": 10180,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=24942058&itemId=25948949547&vendorItemId=3175671817&traceid=V0-153-1b559aa0d20cac41&requestid=20261029140111961018748335&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/2bRe7BZItfplp92r2WKFvkmDn3rJuPilc1b7Rmq0_0OmQ7gghSYGV4G8IfQr67Wi-Aw6niOCsy3k3BQTp93euLsEYL46g2zPTveANBgh2iUpIQrGeuzRRIB1blgzrikEDFN5XTow2bpX48HZVUKo6olLSuXOCQCalzcc_0x1a9RmRTySYJ7Xj2FBuExM0X88f58JibVki78toHrpTV3QUZpEEV7lEvc9sfklha3wLdvD3wPOUOCqoKALqebULLZoVm7_h0vHJE_abYsUF3CbpKTpMF6FD8TUwahxqhueIi1GrKX44c6f3XpKHr52dNWhwqVIHOijLfbuNsQthpyOGb9V8QgYTHro0ALJQ_CwgQvUZUItChDD8PYXjk9UBHlSIq-K9iSzqv2K9wnAe26fOIe-WtI0vwMmnknTTYjmeZiypEt3UB0alOOSdzRPzSq2jMNnfp-cqLAsQh5-LtKqoqzRyq3IBQ7sYIu2px8qmBM808MBT2N1jtJg9dnTpX9N1bTR3TLUwrT2kzuVSzyE"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 103,
+    "has_photo": true
+  }
+}
