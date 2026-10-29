@@ -1,0 +1,50 @@
+{
+  "id": "20261029-2200",
+  "created_at": "2026-10-29T22:00:56.131496+09:00",
+  "publish_at": "2026-10-30T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 문 안쪽 계란칸·문 선반 보관 실수",
+  "angle": "냉장고 문칸은 여닫을 때마다 온도가 오르내려 우유·계란 보관에 불리하다는 흔한 보관 실수",
+  "category": "주방",
+  "subject": "냉장고 문칸",
+  "hooks": [
+    "냉장고 문칸에 우유 넣다가 나 뭐 한 거지?... (9/10)",
+    "30년 살림했는데 냉장고 문칸을 이렇게 쓰고 있었어... (8/10)",
+    "얘들아 와, 냉장고 문칸이 제일 위험한 자리였어? (7/10)",
+    "냉장고 문 계란칸... 원래 계란 넣으라고 있는 거 아니야..? (8/10)",
+    "냉장고 문칸 우유만 유독 빨리 상하는데... 나만 이래? (8/10)"
+  ],
+  "text": "냉장고 문칸에 우유 넣다가 나 뭐 한 거지?...\n유독 우리집 우유만 빨리 시큼해지더라고ㅋㅋ\n알고 보니 문칸은 열 때마다 온도가 확 올라가는 자리\n난 이제 우유·계란은 안쪽 칸, 문칸엔 소스병만 둬\n너네 계란 어디 넣어..?",
+  "image_prompt": "Slightly tilted casual smartphone photo of an open Korean home refrigerator door, door shelves holding a milk carton, egg tray and sauce bottles, ordinary kitchen lighting, a bit cluttered, realistic everyday snapshot, no people, no text, no logos",
+  "photo_query": "refrigerator door shelves",
+  "product_keyword": "냉장고 정리 트레이",
+  "benchmark_note": "내 글 상위작의 '물건+나 뭐 한 거지?...' 첫 줄, 실수담→'난 이제' 경험 공개, '너네 ~..?' 열린 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "하코리 냉장고 정리 대형 다용도 트레이, 10개, 클린",
+      "price": 29990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8819129406&itemId=28930609917&vendorItemId=95861900334&traceid=V0-153-545c5fa08a441d7a&clickBeacon=d34fd430-d398-11f1-bb19-805023be775d%7E3&requestid=20261029220115799185769477&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/OoZeZPBIUChPScbcOpmYwLcIuXpil05H7OwCHK35f99GdDdkcINwjvPKSUlTQMw85WEHHn3FpqAVYzyYhZzkdDU5OGYM95WOy9titguJAqaPrHCcgTn1rHGrJF8FnuNKxPuUWhUCeMh27KtJe9j248mR8BQqCz0tpWENrzWJT6paeAuaQGriVguA5SnnUq63VzfBbpB7NEz_Vx5pWRPAGwXXeCALVguqn7hYlPfS6t1T1qZUNJE0PQEp34FBZMg9XFGO6uvrYokqLRbOssP7NIksBKfHeusVhoEBfAnzIN122Ve5k2JnqC90ujtNw3BWfleZvb10lgMPtlFWWNiKj_ixflkAWgojU2g6_Amq7Kn1eNTNSymRXYmxWquykH7bBfKtszHau8_GE9fhFDvtCq0S5Y2NjjzKHQB8aKS96dxux4vzIIXryHFCH__MCBIVNHuQwygRnqsUWHXaesKbrSNymTyA0nO7y-8z8IcgtNtOImfhP__cthRBCdQA7MTkOjwccq8RXDf6Jo_Uv_pnXdGXWBhleAtl"
+    },
+    {
+      "name": "하코리 냉장고 정리 대형 다용도 트레이, 4개, 투명",
+      "price": 18900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8819129406&itemId=29069148054&vendorItemId=95995403921&traceid=V0-153-545c5fa08a441d7a&clickBeacon=d34fd430-d398-11f1-af33-e35fcd19bad0%7E3&requestid=20261029220115799185769477&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/toPnX4vWmEEwoIUwtj8yONdVxNakqus7XuwMAQnixo1yKUhDhFvVhQXnAD25yOhI20nUphWvQSMgN-YtpEoao1uJrpj1GExMVegy5yjTVXdwUufXibO-nm-xtRk3itHO_Xit5pDQeawTnf4WICmGavNYy5ihg_eXBWhQUv1o_BMFmiCuGUotHvhHhPMN_GkEnwhmUL3Ija486ZgxyEgTLL-DFdHBdOUKXWGAgsE5dcngQS5G63IGuTh8qV47xE5FloaR_g4dCfag8l_h_bQGd1n9OUB_t8KeZlOm1oRJS_sAaqaY22mIwNcqsWwRmLo24YPAqLQVDlVmPjarncUn8qYxOWrVLaEcQo5ILeU_-VN3-RNf1ntRsmrfVysj5nFwYetPTIfvERODKn5Yr7UXXZsrDJt6WPcK9pE9q9jWk4aoK-SN0g6br9WBdTDoPGpjfT_hmypsKElhHmuv2S_4P8CcoaKN7VQfdStt46y34DDSenZxL6_uiySkTnLTZOhyKlztPr1uide4CaH2bJVIBptT-2zAJJY="
+    },
+    {
+      "name": "한누네 국내생산 다용도 냉장고 정리함",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9472473568&itemId=28195520033&vendorItemId=95149932700&traceid=V0-153-ea6b9b52d214a290&requestid=20261029220115799185769477&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/wWDecAgQHiCMah8XwU0UxEWh50NwwfltEyZsdaTL-r4mzK9k8YFDt3o31ccvCxP76vRWE7NjZiowJAPkqQY-M6MiId15kglA7aqxW9DtXJGCU3hgNuHQUxJka9-mriw1DL6SIZxeK8h31roAxT3OydYXvEVyKCp6GM5ptMMl7KyEyT1ujqPNLxsRyAQ45zQ_mpuuSAhUvbXrocV207Znx2Fb1KxY_9M9mgTP1qsyIN6chqd4pY5I3EAR4FGjPT9Cw0Q5UgpnOoDzUlmFQCLssdqrJwU2p0pGn478VgeLxvNUqh_agcblq4xVZBBZtPNbG4_X7I6z_aRUm3mFzzsrop0M7vFz3RRqw_hyqeT8whj6EPkfZ79rwFQveq6vle-DJNBKed7yf2jqopl-Zst9oSDGbEpojwIaQO3l2GrHU2_LNXpQODJE_3PdcnK5A7irTRokFp4OHJ7LI-TpQ-9gQq9vvVkGjYilA14ZkdMHzDhshiYxA_mjabrxfPxAYqIZmgAMMubiahfhEkTxauOfreZNkt7UhCkivLoGiHLx-AsnQb5I"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 106,
+    "has_photo": true
+  }
+}
