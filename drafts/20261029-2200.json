@@ -2,7 +2,7 @@
   "id": "20261029-2200",
   "created_at": "2026-10-29T22:00:56.131496+09:00",
   "publish_at": "2026-10-30T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 문 안쪽 계란칸·문 선반 보관 실수",
   "angle": "냉장고 문칸은 여닫을 때마다 온도가 오르내려 우유·계란 보관에 불리하다는 흔한 보관 실수",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 106,
     "has_photo": true
-  }
+  },
+  "threads_id": "18119446007068299",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfGCBHmGGew",
+  "reply_id": "17959437222256938",
+  "published_at": "2026-10-30T07:01:24.200898+09:00"
 }
