@@ -1,6 +1,6 @@
 """gil이 봇에 보낸 영상·링크를 받아 두었다가 초안에 붙인다.
 
-받는 것 (텔레그램 봇에 그냥 보내기, 한 줄 메모 필수):
+받는 것 (텔레그램 봇에 그냥 보내기, 제품명은 설명란이나 바로 다음 메시지로):
   - 쓰레드 게시물 링크 → 그 글을 '인용'해서 우리 글을 올림 (영상은 원래 주인 글로 보임)
   - 구글 드라이브·드롭박스 공유 링크, mp4 주소 → 영상을 받아서 우리 글과 함께 올림
   - 영상 파일 (20MB 이하) → 그대로 올림
@@ -10,7 +10,10 @@
 예약 글과 1시간 넘게 떨어진 시간(보통 1시간 뒤)에 자동으로 올라간다.
 """
 
+import json
 import re
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
 import requests
@@ -18,6 +21,7 @@ import requests
 import telegram
 import threads_api
 
+KST = timezone(timedelta(hours=9))
 MAX_MB = 200       # 임시 저장소가 받아 주는 크기 안으로
 TELEGRAM_MB = 20   # 텔레그램 봇이 내려받을 수 있는 최대 크기
 URL_RE = re.compile(r"https?://\S+")
@@ -122,6 +126,37 @@ def probe(url):
         head = next(resp.iter_content(4096), b"")
     if b"ftyp" not in head[:64]:
         raise RuntimeError("영상 파일(mp4·mov)이 아니에요. 공유 설정이 '링크가 있는 모든 사용자'인지 확인해 주세요")
+
+
+# ---------- 제품명 기다리기 ----------
+# 영상을 먼저 보내고 제품명을 다음 메시지로 보내도 되게, 영상을 잠깐 맡아 둔다.
+
+PENDING_FILE = Path(__file__).resolve().parent.parent / "state" / "pending_media.json"
+PENDING_FOR = timedelta(hours=2)  # 이 시간 안에 온 글만 제품명으로 봄
+
+
+def save_pending(item):
+    PENDING_FILE.parent.mkdir(exist_ok=True)
+    PENDING_FILE.write_text(json.dumps({**item, "at": datetime.now(KST).isoformat()}, ensure_ascii=False, indent=2),
+                            encoding="utf-8")
+
+
+def load_pending():
+    try:
+        item = json.loads(PENDING_FILE.read_text(encoding="utf-8"))
+    except (FileNotFoundError, ValueError):
+        return None
+    if datetime.now(KST) - datetime.fromisoformat(item["at"]) > PENDING_FOR:
+        return None
+    return item
+
+
+def pop_pending():
+    item = load_pending()
+    PENDING_FILE.unlink(missing_ok=True)
+    if item:
+        item.pop("at", None)
+    return item
 
 
 def label(item):
