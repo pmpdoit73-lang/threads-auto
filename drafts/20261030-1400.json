@@ -4,47 +4,56 @@
   "publish_at": "2026-10-30T18:00:00+09:00",
   "status": "pending",
   "product": 0,
-  "issue": "영상: 가면 마스크",
-  "angle": "쌀쌀해진 날 얼굴 시린 불편함, 마스크가 가면 모양이라 웃기면서도 의외로 쓸모 있다는 점",
-  "category": "청소·세탁·정리",
-  "subject": "가면 마스크",
+  "issue": "영상: 부채",
+  "angle": "찬바람 부는 철에 굳이 부채? 서랍에 박아두기 아까운 부채 쓰임새를 영상으로 보여주며 궁금증 유발",
+  "category": "살림템·가전",
+  "subject": "부채",
   "hooks": [
-    "가면 마스크 보고 웃었는데 나 지금 뭐 하는 거지...? (9/10)",
-    "아침 산책 나갔다가 얼굴 얼어서 가면 마스크를...? (8/10)",
-    "얘들아 와, 가면 마스크가 이런 데 쓰는 거였어? (7/10)",
-    "가면 마스크 쓰고 나갔더니 이웃이 쳐다보는데... (8/10)",
-    "가면 마스크 이거 원래 파티용인 줄 알았는데..? (7/10)"
+    "부채 서랍에 넣으려다 손이 멈췄어... (8/10)",
+    "여름 끝났다고 부채 버리려던 나... 뭐 한 거지? (9/10)",
+    "얘들아 부채 이렇게 생긴 거 처음 봐..? (7/10)",
+    "부채 하나 정리하다가 30년 살림 반성함ㅋㅋ (8/10)",
+    "부채는 여름에만 쓰는 건 줄 알았는데..? (7/10)"
   ],
-  "text": "가면 마스크 보고 웃었는데 나 지금 뭐 하는 거지...?\n찬바람에 볼 얼어서 투덜대던 게 엊그제인데\n영상 봐봐, 얼굴 통째로 덮으니 눈만 빼꼼ㅋㅋ\n남들 쳐다봐도 안 시린 게 이기는 거더라\n너네는 이거 쓰고 동네 나갈 수 있어?ㅋㅋ",
+  "text": "여름 끝났다고 부채 버리려던 나... 뭐 한 거지?\n근데 이 영상 보고 손이 딱 멈췄어\n부채가 이렇게 생길 수도 있는 거였어?ㅋㅋ\n30년 살림했는데 이런 건 또 처음이네\n너네는 부채 겨울에 어디다 둬?",
   "image_prompt": "Casual smartphone photo of a home refrigerator control panel on the freezer door, a small glowing indicator light next to a button, slightly tilted angle, kitchen at evening with warm ceiling light, a plastic grocery bag of frozen meat on the counter edge, slightly blurry, ordinary Korean apartment kitchen, no people, no readable text, no logos",
   "photo_query": "refrigerator control panel",
-  "product_keyword": "가면 마스크",
+  "product_keyword": "부채",
   "benchmark_note": "짜장면 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄과 내 세제통 글의 실수 고백→'난 이제'→'너네 ~?' 마지막 질문 흐름을 가져옴",
   "products": [
     {
-      "name": "웃긴 괴짜 마스크 3D 바라클라바 큰 웃음 겨울 방한 풀페이스 스키 스노우보드 안면마스크",
-      "price": 14400.0,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9764505259&itemId=29224328980&vendorItemId=96143851764&traceid=V0-153-1d6b01effc6a6145&requestid=20261030140644659193793532&token=31850C%7CGM&pt=0&slot=1",
-      "image": "https://ads-partners.coupang.com/image1/AZAtA4zt-heQw22TAcW2yxPs0_fOcNCJbVhd-rvUaYT8ofNJ_LhkZ1yVMjmjNuwfSGV29jNccZ1uST1sp_LO7vDiC47b7YwDW3yTvZkiSEycjG6f_48h7dibIDqhm6FzkB_rjBLuPFsucoP_v_jc9tcExwazdYsMpS2abje4j4w9gbt6aenKdzPRJIGYQi5uuicip8Y-IwB6VjaWJxpg1UKKJAuw_NhOrxJMSN3hekfjPI_ZWO_MT4nsDjhgeyPZzU5i4KeZAuoyBbEBnv0yVlCpVwxJ3b0_7a8GwyMRISbmeknAcmZqO7Qm3BgCWLIRplCqq9qcbcGURHPisE7HTq9x0bakPlcX1nbUzEJ8hfNWNrDBzNgf4yg-LpRkgHrbN3Kr1pa0_IgyqOjWPM4GGa1gUDnY95q96HSwZkK4_rSEJwQdDI0vXLOb-axD3sNHEf448okgnIPEZJ-YawpPmjNfzSiqpLwSpytQtRuAzU3ppjQjY0dlyjH5ElcnNsZDhQQZB1lvQpOw1_e-Zkwuz3a6bzl4xi1TX_yP8gyAVQ=="
+      "name": "수묵화 접이식 60cm 대형 고급 실크 전통 부채  대나무 수공예품",
+      "price": 6180,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9560263742&itemId=28529272322&vendorItemId=95475409591&traceid=V0-153-06064d23a54a8739&requestid=20261030141738845037247960&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/lFcMwWn5tTZ_2FR4lC6mBC3WGENEE-QASe3sTaJ4dh36yVHpmd0Bl1H_mUPtv8JG80b9NwxfQPVsKiQMD_vopdLam1RdXXAQlqUDmKAOqsl_cTaXYP5pSQDtngAIlRzN8ICwQDd80xobKqMV9LzYrTB6T4max4jrUJC3ff4Gu-ANqwh-oZzHRV9d2q-4scWxjwr6KJJto1iu0nbOvl2ycOhTtNRoQSPu1ZspwsbtsYK-T13NssmzxEBN3gLGkZxj9T2n2Fab6yVM8jgyW0zk0OIPMrIAAIkUdT0eErKWnnp28K-fSfPP16HhIE1JTIsGWSEeD7hPT4jWNir-xueSv0y4ymXEE9EwUp7jV-AqtDzfb_WNPc8y-7T1Uuuz04jeqJmMNTszPiP0w_P3yrS4EKNMnfyW16bUkeHE22JMhv_kOBknj-nPYzUEC7QFalZ_ebf7U-VuhA03aEY-Z4A3ri0yikEzUbNocOiRF4xsbfUhAmRgAkfweEDgCeBh1KXL1QrS6Mn2H6Rg5QoNVls2Z9PgboQUaD-mzbjpIW57IhsSSWckJWSciN7gSYTP-LDgSdE2oXmdpk7AALYwCquvnDU="
     },
     {
-      "name": "웃긴 괴짜 마스크 3D 바라클라바 큰 웃음 겨울 방한 풀페이스 스키 스노우보드 안면마스크",
-      "price": 14400,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9764505259&itemId=29224328970&vendorItemId=96215694225&traceid=V0-153-1d6b01effc6a6145&requestid=20261030140644659193793532&token=31850C%7CGM&pt=0&slot=2",
-      "image": "https://ads-partners.coupang.com/image1/sfEDrxlDaCD2YjcysUNFxO24Xyixve5q61c8ChJNqxNPn4GSqdWGujLcuqeDy8cQbZYzUue8Xc5-CNPXymbjMPgf8qxTd2U_MSxmhaUeePxGrut_ZNfYL9VHESTdQfZMs7npjEEz8UIN_lL_FrWM0uAu_-L0qOdYsGR6OtHdg_YBd1JXo8sdFbmgdFPLTIwF2zrI5D-w-E6ZTFGLEu9vER1j3K8rW46OIUn2megx_B6WhYcenbHWXuXGUIBYrPfxizhCan0iOFEDjtZKLRUHep2KO99ANPyM5wvpKpxYQVygqOdEHU1qatVjn3IN6IZsCL2E2KQLWf_1CZ5-kr2McJseqFLLLx25yoi-yLhCDj-Yx4-8FWqDWSZwSph2sqsXCriguYiVto3gg7lEuuUijqV3kYQejm34xIT_B_cnl9gcIqH8oGfewSVrO5l7y1M_FeEDRY7pp3bCwM820qvh21FfA2HEy4i6zAYcw38dpLy6bVgdZTmat3ANOXS6Kj4H89k3T3MWIC-5vUXGuNAIHx0gD6Tj8NXO9iaBcLfYKg=="
+      "name": "한지접선 부채 대",
+      "price": 7500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1434987151&itemId=2477381761&vendorItemId=73892279146&traceid=V0-153-a9421de39f474a72&requestid=20261030141738845037247960&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/gqQCgcmA34UyEf2xgk5NYOkb-8llyOtVcCXY5Mb898FUHyDF8jBYT53rLpV48BBMWIw2XUPZF2oZ9Fjggrxj7DuvQVz0uRmoGyJKlESo4paIJkcbtRn-HqxOYK_7SiklSQyd2g2LIu3PcXwbFaUJPhs9uwaUFW0Ne6yH7t6YyGi0l5Z2BhZlNoiwIkbvkcGLP0XA6-8UTR1eFcU7Q1lbqpzjmPivE9yF7Ca1KDgZ3r7430tS3eSqNLyOp4v6tQmXI9RY84wV4JxGJjB6eM7YLM_VQXsZhvGmunQfOQr_PIqM1a4_DAI9w7PH9-SeSWaTRfkz-FN5dz9kVnJSn3oHwYY5BqHUAnF70PNNYNG1QlGaDQH3rN6dgQC4m6A4CwGEHq1q5QTmRlcfhWAGQaU0x0AI6Z5eG3OqbpUI7F1MsEBLP_td6qHj1EXy8Ul-jG_K6lnlD0Y1vBQsSP7Rg4bc5raulZ8lTDAIXlCMjM6W5JAw0nmepNC6qmoBdchppKyBCdyha0zATW8I6-9CCEv2gIc="
     },
     {
-      "name": "에이런 할로윈 LED 마스크 Halloween mask costumes",
-      "price": 8900,
-      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9785330387&itemId=29296935231&vendorItemId=96211248726&traceid=V0-153-f3264a4cc6b3d11e&requestid=20261030140644659193793532&token=31850C%7CGM&pt=0&slot=3",
-      "image": "https://ads-partners.coupang.com/image1/lEi8cqbr1fJxlsrilJ4G-qu4Yy989xXwQG818tU7e3NMXFYhNBGkuyswV_HoeTEZZ9HRUOnr-3WdJ556RiiPNJDHvXN6rgskjDH2r84j_bZm1RlEwrmtrurECU2YyD95njtRr67bxcmFSf_IBKGoZlyvvs0-tIM2ufx0jEGyRyL9slKTtAarsnONlEcH34HJtNzxMHnf4HhR9RQ-wVtAxb8DmzGSTwC_YZISh-4224H0uNN3MqeLLxx2ONiNgwZ-295TovCoT20KCsAHqlZUN_Mu9v8N6IRilyZx489NmEz55xeQBu98cSTPqyZoSgPYPKK4ENjfEV6S3YejJdk39yPrx4yAWAeIWkPFEwAktY8wq1pYH5e7lxifb65jRppRiA99IcL8FN_QIj0lU-S7UZEItqki-St9jU26ViQg-ygf-oMH-pQPubTQ2-sDEe1dS_RGb4_o_gEKu5x8MuKubzzSE9PLvCTtGAfHRBwvCu7AdGpZ97zAy4kmC5M3qvSs7jls3aVmFsNmalDHcM8nB0YdchmjYvZtWZzlDR7QJw=="
+      "name": "접이식 대나무 부채 휴대용 손부채 4개 세트",
+      "price": 6900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9568660492&itemId=28558536236&vendorItemId=94896461661&traceid=V0-153-f3284111d354f277&requestid=20261030141738845037247960&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/C5CqOpgJXMvIL3QIC4oFr2yFcstlYbsIVjVqRQjkJHv7rgtN05ashCfMIzudkHm-0X3LJkyUP5_v6bfWfpLODAFPbOIb9S6gAUYGZN4add3isdA8OEmg12HzScmWE7bHwhqiD6U-RFymdmTJBV69TUnt8xXbfSbzsUA67NOc3oIgxS3ZF8_CGYAuC5SqyAq4AHIWDAWnK_nLmcw2A6nQ_7IfmpwTIFL3f8aFS-sNYpTAEXtVtgwdBrLsCZrWRPejlfpVDAiHPw6TfCKm82Ngqej3PNVc86DViipW_drpqtK7mnsfucdGefiUVRvBO8tRV70N_0TK7d1RM46RcDS0RNCBF4BkSsq-87IQwJOb-XfXveBa9BnsRWnP7sKcEKH3eDPuwl1xm4WFw2HDoF8Cn3qebGPFNOcySIbOlxhXcSTQNA4qq9wWuqfc0rI6i7CtKsBSf6l-5e1lBM4FwqUs0xcbpwDJLFNk0B72mXib14mp2QxchSLfPXmgIdFOekkxSzbUKlTLhnOIU9N8arQ9lOimcPFwtQ9knrcc74nLc-q6"
     }
   ],
   "image_note": "제미나이 생성",
   "has_photo": true,
   "format": "text",
   "message": {
-    "message_id": 110,
+    "message_id": 114,
     "has_photo": false
-  }
+  },
+  "media": {
+    "kind": "quote",
+    "url": "https://www.threads.com/@m_ing_racle/post/DfCIBuuEjne",
+    "shortcode": "DfCIBuuEjne",
+    "memo": "부채",
+    "quote_id": null,
+    "added_at": "2026-10-30T14:14:38.439822+09:00"
+  },
+  "credit": ""
 }
