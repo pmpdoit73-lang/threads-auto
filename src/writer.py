@@ -168,6 +168,39 @@ def rewrite_text(issue, angle, old_text):
     return _ask(user_msg, TEXT_SCHEMA)
 
 
+MEDIA_SCHEMA = {
+    "type": "object",
+    "properties": {k: SCHEMA["properties"][k] for k in
+                   ("issue", "angle", "category", "subject", "hooks", "text", "product_keyword")},
+    "required": ["issue", "angle", "category", "subject", "hooks", "text", "product_keyword"],
+    "additionalProperties": False,
+}
+
+
+def write_for_media(about, kind, used=(), external=None):
+    """gil이 보낸 영상(또는 인용할 글) 위에 얹을 글을 쓴다. about: gil이 적은 물건 설명."""
+    used_text = "\n".join(f"- {day} {subject}: {issue}" for day, subject, issue in used) or "(없음)"
+    where = ("이 글은 다른 사람의 쓰레드 영상 글을 '인용'해서 그 위에 얹는 글이야. 영상은 아래에 따로 보여."
+             if kind == "quote" else "이 글은 영상과 함께 올라가. 영상에서 물건을 직접 써 보는 장면이 나와.")
+    user_msg = (
+        f"{where}\n영상 속 물건 (gil 메모): {about}\n\n"
+        f"최근 30일 동안 올린 글 (같은 문장·같은 팁은 되풀이하지 마):\n{used_text}\n\n"
+        "1. 영상 내용은 위 메모로만 알 수 있어. 메모에 없는 기능·숫자·가격은 지어내지 마.\n"
+        "2. 페르소나의 '후킹 문법'으로 첫 줄 후보 5개를 만들고 스스로 채점해. 첫 줄에 정답이 있으면 0점.\n"
+        "   불편 장면으로 시작해 '나만 그래?' 같은 공감을 부르는 방식이 잘 맞아.\n"
+        "3. 가장 센 후킹으로 시작해 100~150자, 4~5줄로 써. 첫 줄에 물건 이름(subject)을 꼭 넣어.\n"
+        "   해결(이 물건)은 셋째 줄부터. 영상을 가리키는 말('영상 봐봐', '이거 봐')을 한 번 넣어.\n"
+        "4. 마지막 줄은 누구나 답할 쉬운 질문으로 댓글을 불러.\n"
+        "5. issue 칸에는 '영상: ' 뒤에 물건을 한 줄로, product_keyword는 쿠팡에서 같은 물건을 찾을 키워드로."
+        + _external_text(external)
+    )
+    post = _ask(user_msg, MEDIA_SCHEMA)
+    if not _subject_ok(post):
+        post = _ask(user_msg + "\n\n주의: 첫 두 줄에 물건 이름이 빠졌어. 첫 줄에 subject를 그대로 넣어서 다시 써.",
+                    MEDIA_SCHEMA)
+    return post
+
+
 def _ask(user_msg, schema):
     client = anthropic.Anthropic()
     response = client.beta.messages.create(

@@ -12,6 +12,7 @@ from pathlib import Path
 import benchmarks as bench_store
 import coupang
 import images
+import media
 import telegram
 import threads_api
 import trends
@@ -185,6 +186,9 @@ NO_COUPANG_HOURS = {7, 18}  # 하루 첫째(07시)·셋째(18시) 글은 쿠팡 
 
 
 def default_format(d):
+    if d.get("media"):  # 영상·인용 글은 사진 없이, 쿠팡 시간대면 쿠팡 첫 댓글
+        no_coupang = d.get("publish_at") and datetime.fromisoformat(d["publish_at"]).hour in NO_COUPANG_HOURS
+        return "coupang" if d.get("products") and not no_coupang else "text"
     if d.get("publish_at") and datetime.fromisoformat(d["publish_at"]).hour in NO_COUPANG_HOURS:
         return "photo" if d.get("has_photo") else "text"
     if d.get("has_photo") and d.get("products"):
@@ -245,6 +249,61 @@ def set_text(d, text):
     save(d)
 
 
+# ---------- 영상·인용 붙이기 ----------
+
+MEDIA_LEAD = timedelta(minutes=30)  # 게시 30분 전까지 남은 초안에만 붙임 (gil이 볼 시간)
+
+
+def attach(d, item):
+    """줄 서 있던 영상·인용 링크로 이 초안의 글을 새로 쓴다."""
+    about, credit = media.split_memo(item.get("memo", ""))
+    post = writer.write_for_media(about, item["kind"], used_topics(exclude_id=d.get("id")), bench_store.load())
+    d.update(post)
+    d["media"] = item
+    d["credit"] = credit
+    d.pop("edited_by_hand", None)
+    try:
+        d["products"] = coupang.search_products(post["product_keyword"])
+    except Exception as e:
+        print(f"[draft] 쿠팡 검색 실패: {e}")
+        d["products"] = []
+    d["product"] = 0
+    d["format"] = default_format(d)
+    save(d)
+
+
+def attach_queued(only=None):
+    """줄 서 있는 영상·인용 링크를 비어 있는 대기 초안에 붙이고, 붙인 초안들을 돌려준다."""
+    now = datetime.now(KST)
+    targets = [only] if only else [d for d in open_drafts()
+                                   if d["status"] == "pending" and not d.get("media")
+                                   and publish_time(d) - now >= MEDIA_LEAD]
+    done = []
+    for d in sorted(targets, key=publish_time):
+        item = media.pop_queue()
+        if not item:
+            break
+        try:
+            attach(d, item)
+        except Exception:
+            media.push_front(item)  # 실패하면 다음에 다시
+            raise
+        done.append(d)
+    return done
+
+
+def detach(d):
+    """영상·인용을 빼고 원래처럼 사진 글로 다시 쓴다."""
+    d.pop("media", None)
+    d.pop("credit", None)
+    rewrite(d)
+
+
+def final_text(d):
+    """실제로 올릴 본문 (출처 줄이 있으면 끝에 붙임)."""
+    return f"{d['text']}\n\n{d['credit']}" if d.get("credit") else d["text"]
+
+
 def new_photo(d):
     _fill_photo(d, prefer_free=d.get("image_note", "").startswith("제미나이"))
     save(d)
@@ -253,7 +312,7 @@ def new_photo(d):
 # ---------- 텔레그램 표시 ----------
 
 def wants_photo(d):
-    return d["format"] in ("both", "photo") and d.get("has_photo")
+    return d["format"] in ("both", "photo") and d.get("has_photo") and not d.get("media")
 
 
 def wants_coupang(d):
@@ -295,7 +354,8 @@ def caption(d):
         "",
         f"🔥 이슈: {d.get('issue', '')}",
         *([f"📊 벤치마킹: {d['benchmark_note']}"] if d.get("benchmark_note") else []),
-        f"🖼 사진: {d.get('image_note', '')}",
+        *([media.label(d["media"])] if d.get("media") else [f"🖼 사진: {d.get('image_note', '')}"]),
+        *([f"🙏 {d['credit']}"] if d.get("credit") else []),
         f"📦 형태: {FORMATS[d['format']]}",
         *(["📷 첫 댓글: 인스타 홍보"] if wants_insta(d) else []),
     ]
@@ -329,6 +389,18 @@ def keyboard(d):
         return [[_btn(d, "🚀 지금 게시", "a", "now"), _btn(d, "↩️ 승인 취소", "a", "undo")]]
     if d["status"] != "pending":
         return []
+    if d.get("media"):
+        rows = [[_btn(d, "🛒 쿠팡 댓글", "f", "coupang", d["format"] == "coupang"),
+                 _btn(d, "📝 댓글 없이", "f", "text", d["format"] == "text")]]
+        products = d.get("products") or []
+        if products:
+            rows.append([_btn(d, f"상품 {i + 1}", "p", str(i), d.get("product", 0) == i)
+                         for i in range(len(products))])
+        return rows + [
+            [_btn(d, "🔁 글만 다시", "a", "retext"), _btn(d, "🎬 영상 빼기", "a", "nomedia")],
+            [_btn(d, "✅ 승인", "a", "ok"), _btn(d, "🚀 지금 게시", "a", "now")],
+            [_btn(d, "⏭ 건너뛰기", "a", "skip")],
+        ]
     rows = [
         [_btn(d, FORMATS["both"], "f", "both", d["format"] == "both"),
          _btn(d, FORMATS["photo"], "f", "photo", d["format"] == "photo")],
@@ -356,7 +428,7 @@ def send(d):
             telegram.edit_draft(old, "↓ 아래 새 초안으로 바뀌었어요", [])
         except RuntimeError as e:
             print(f"[draft] 옛 메시지 정리 실패: {e}")
-    photo = photo_bytes(d)
+    photo = None if d.get("media") else photo_bytes(d)  # 영상 글엔 예전 사진을 안 보여 줌
     quiet = datetime.now(KST).hour < 7  # 새벽에는 알림 소리 없이
     msg = telegram.send_draft(caption(d), photo, keyboard(d), silent=quiet)
     d["message"] = {"message_id": msg["message_id"], "has_photo": bool(photo)}

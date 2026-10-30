@@ -41,8 +41,8 @@ def _wait_ready(container_id, tries=10):
     raise RuntimeError("쓰레드 준비가 너무 오래 걸려요")
 
 
-def _publish(container_id, tries=4):
-    _wait_ready(container_id)
+def _publish(container_id, tries=4, wait_tries=10):
+    _wait_ready(container_id, wait_tries)
     for i in range(tries):
         try:
             return _post("me/threads_publish", creation_id=container_id)["id"]
@@ -52,17 +52,26 @@ def _publish(container_id, tries=4):
             time.sleep(15)
 
 
-def post(text, image_url=None, reply_to_id=None):
-    """글(또는 댓글)을 올리고 게시물 ID를 돌려준다."""
+def post(text, image_url=None, reply_to_id=None, video_url=None, quote_post_id=None, link_url=None):
+    """글(또는 댓글)을 올리고 게시물 ID를 돌려준다.
+
+    video_url: 영상 글, quote_post_id: 다른 글 인용, link_url: 글 아래 링크 카드 (글만 있을 때)
+    """
     params = {"text": text}
-    if image_url:
+    if video_url:
+        params.update(media_type="VIDEO", video_url=video_url)
+    elif image_url:
         params.update(media_type="IMAGE", image_url=image_url)
     else:
         params["media_type"] = "TEXT"
+        if link_url:
+            params["link_attachment"] = link_url
+    if quote_post_id:
+        params["quote_post_id"] = quote_post_id
     if reply_to_id:
         params["reply_to_id"] = reply_to_id
     container = _post("me/threads", **params)["id"]
-    return _publish(container)
+    return _publish(container, wait_tries=50 if video_url else 10)  # 영상은 처리가 오래 걸려 최대 5분 기다림
 
 
 def permalink(post_id):

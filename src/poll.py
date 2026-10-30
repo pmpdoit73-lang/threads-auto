@@ -10,6 +10,7 @@ from pathlib import Path
 import benchmarks
 import draft
 import hosting
+import media
 import telegram
 import threads_api
 import writer
@@ -58,10 +59,16 @@ def resend_open_drafts():
 # ---------- 게시 ----------
 
 def publish(d):
-    image_url = None
-    if draft.wants_photo(d):
+    image_url = video_url = quote_id = link_url = None
+    item = d.get("media")
+    if item and item["kind"] == "video":
+        video_url = hosting.upload_temp(media.fetch(item), f"{d['id']}.mp4")
+    elif item and item["kind"] == "quote":
+        quote_id, link_url = item.get("quote_id"), None if item.get("quote_id") else item["url"]
+    elif draft.wants_photo(d):
         image_url = hosting.upload_temp(draft.photo_bytes(d), f"{d['id']}.png")
-    post_id = threads_api.post(d["text"], image_url=image_url)
+    post_id = threads_api.post(draft.final_text(d), image_url=image_url, video_url=video_url,
+                               quote_post_id=quote_id, link_url=link_url)
     d["threads_id"] = post_id
     d["permalink"] = threads_api.permalink(post_id)
 
@@ -141,6 +148,10 @@ def handle(callback):
         draft.retext(d)
         draft.send(d)
         return "같은 이슈로 글만 새로 썼어요"
+    elif value == "nomedia":
+        draft.detach(d)
+        draft.send(d)
+        return "영상을 빼고 사진 글로 다시 썼어요"
     elif value == "photo":
         draft.new_photo(d)
         draft.send(d)
@@ -164,7 +175,10 @@ def handle_text(message):
     """초안 메시지에 답장으로 보낸 글 → 그 초안의 글을 바꾼다."""
     target = (message.get("reply_to_message") or {}).get("message_id")
     if not target:
-        return  # 그냥 보낸 대화는 무시
+        item = media.parse_link(message.get("text", ""))
+        if item:
+            add_media(item)
+        return  # 링크 없이 그냥 보낸 대화는 무시
     d = find_by_message(target)
     if not d:
         telegram.send_text("✏️ 이 메시지는 지금 고칠 수 있는 초안이 아니에요. 가장 최근 초안 메시지에 답장해 주세요.")
@@ -202,6 +216,41 @@ def handle_snapshot(message):
     print(f"[poll] 벤치마킹 글 저장: 조회 {views}")
 
 
+MEMO_HELP = ("영상 속 물건이 뭔지 한 줄 메모를 같이 보내 주세요.\n"
+             "예) 360도 돌아가는 자석 충전 케이블\n출처: 판매자 OO (허락받음)")
+
+
+def add_media(item):
+    """gil이 보낸 영상·링크를 줄 세우고, 비어 있는 대기 초안이 있으면 바로 붙인다."""
+    if not media.split_memo(item.get("memo", ""))[0]:
+        telegram.send_text("🎬 " + MEMO_HELP)
+        return
+    if item["kind"] == "quote":
+        item["quote_id"] = media.resolve_quote_id(item["shortcode"])
+    elif not item.get("file_id"):
+        media.probe(item["url"])  # 영상이 맞는지 미리 확인 (게시 때 실패하지 않게)
+    waiting = media.enqueue(item)
+    attached = draft.attach_queued()
+    for d in attached:
+        draft.send(d)
+        print(f"[poll] {d['id']}에 영상·링크 붙임")
+    if attached:
+        when = draft.publish_time(attached[-1])
+        telegram.send_text(f"🎬 접수! {when:%m/%d %H:%M} 초안에 붙였어요. 바로 위 초안을 확인해 주세요.")
+    else:
+        telegram.send_text(f"🎬 접수! 대기 {waiting}개. 다음 초안이 만들어지면 거기에 붙일게요.")
+
+
+def handle_video(message):
+    """봇에 직접 보낸 영상 파일 → 줄 세우기."""
+    video = message.get("video") or message["document"]
+    if video.get("file_size", 0) > media.TELEGRAM_MB << 20:
+        telegram.send_text(f"🎬 텔레그램으로는 {media.TELEGRAM_MB}MB까지만 받을 수 있어요. "
+                           "구글 드라이브에 올리고 공유 링크를 메모와 함께 보내 주세요.")
+        return
+    add_media({"kind": "video", "file_id": video["file_id"], "url": "", "memo": message.get("caption", "")})
+
+
 def process_buttons():
     offset = read_offset()
     updates = telegram.get_updates(offset)
@@ -217,12 +266,19 @@ def process_buttons():
                 except Exception as e:
                     print(f"[poll] 스냅샷 읽기 실패: {e}")
                     telegram.send_text(f"📊 스냅샷 읽기 실패: {str(e)[:150]}")
+            elif str(msg.get("from", {}).get("id")) == allowed and (msg.get("video") or
+                    (msg.get("document") or {}).get("mime_type", "").startswith("video/")):
+                try:
+                    handle_video(msg)
+                except Exception as e:
+                    print(f"[poll] 영상 받기 실패: {e}")
+                    telegram.send_text(f"🎬 영상 받기 실패: {str(e)[:150]}")
             elif str(msg.get("from", {}).get("id")) == allowed and msg.get("text"):
                 try:
                     handle_text(msg)
                 except Exception as e:
-                    print(f"[poll] 글 고치기 실패: {e}")
-                    telegram.send_text(f"✏️ 글 고치기 실패: {str(e)[:150]}")
+                    print(f"[poll] 글 고치기·링크 받기 실패: {e}")
+                    telegram.send_text(f"✏️ 처리 실패: {str(e)[:150]}")
             write_offset(offset)
             continue
         cb = u.get("callback_query")
