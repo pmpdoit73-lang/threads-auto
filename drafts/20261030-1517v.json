@@ -2,7 +2,7 @@
   "id": "20261030-1517v",
   "created_at": "2026-10-30T15:17:46.311709+09:00",
   "publish_at": "2026-10-30T16:20:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "영상: 싱크대거름망",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 120,
     "has_photo": false
-  }
+  },
+  "threads_id": "18125517248314363",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfG7NWhjgCw",
+  "reply_id": "18348146587255155",
+  "published_at": "2026-10-30T15:21:20.483818+09:00"
 }
