@@ -29,10 +29,6 @@ def main():
         print("[make_draft] 지금 채울 회차가 없어요 (이미 초안이 있거나 아직 이름)")
         return
     d = draft.create(slot)
-    try:  # gil이 보내 둔 영상·링크가 있으면 이 초안에 붙임
-        draft.attach_queued(only=d)
-    except Exception as e:
-        print(f"[make_draft] 영상·링크 붙이기 실패, 사진 글로 보냄: {e}")
     draft.send(d)
     print(f"[make_draft] 초안 {d['id']} 전송 완료 (게시 예정 {d['publish_at']})")
 

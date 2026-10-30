@@ -6,13 +6,11 @@
   - 영상 파일 (20MB 이하) → 그대로 올림
 허락받은 영상만 보내기. 메모에 '출처: OO' 줄을 쓰면 글 끝에 그대로 붙는다.
 
-받은 것은 state/media_queue.json에 줄을 서 있다가, 가장 가까운 대기 초안에 붙는다.
+받으면 예약 글(07·11·18·21시)과 따로 '추가 초안'이 하나 만들어지고,
+예약 글과 1시간 넘게 떨어진 시간(보통 1시간 뒤)에 자동으로 올라간다.
 """
 
-import json
 import re
-from datetime import datetime, timedelta, timezone
-from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
 import requests
@@ -20,8 +18,6 @@ import requests
 import telegram
 import threads_api
 
-KST = timezone(timedelta(hours=9))
-QUEUE_FILE = Path(__file__).resolve().parent.parent / "state" / "media_queue.json"
 MAX_MB = 200       # 임시 저장소가 받아 주는 크기 안으로
 TELEGRAM_MB = 20   # 텔레그램 봇이 내려받을 수 있는 최대 크기
 URL_RE = re.compile(r"https?://\S+")
@@ -126,39 +122,6 @@ def probe(url):
         head = next(resp.iter_content(4096), b"")
     if b"ftyp" not in head[:64]:
         raise RuntimeError("영상 파일(mp4·mov)이 아니에요. 공유 설정이 '링크가 있는 모든 사용자'인지 확인해 주세요")
-
-
-# ---------- 줄 세우기 ----------
-
-def load_queue():
-    try:
-        return json.loads(QUEUE_FILE.read_text(encoding="utf-8"))
-    except (FileNotFoundError, ValueError):
-        return []
-
-
-def save_queue(items):
-    QUEUE_FILE.parent.mkdir(exist_ok=True)
-    QUEUE_FILE.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
-
-
-def enqueue(item):
-    item["added_at"] = datetime.now(KST).isoformat()
-    items = load_queue() + [item]
-    save_queue(items)
-    return len(items)
-
-
-def pop_queue():
-    items = load_queue()
-    if not items:
-        return None
-    save_queue(items[1:])
-    return items[0]
-
-
-def push_front(item):
-    save_queue([item] + load_queue())
 
 
 def label(item):

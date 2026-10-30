@@ -216,12 +216,12 @@ def handle_snapshot(message):
     print(f"[poll] 벤치마킹 글 저장: 조회 {views}")
 
 
-MEMO_HELP = ("영상 속 물건이 뭔지 한 줄 메모를 같이 보내 주세요.\n"
+MEMO_HELP = ("영상 속 제품명을 한 줄 같이 보내 주세요.\n"
              "예) 360도 돌아가는 자석 충전 케이블\n출처: 판매자 OO (허락받음)")
 
 
 def add_media(item):
-    """gil이 보낸 영상·링크를 줄 세우고, 비어 있는 대기 초안이 있으면 바로 붙인다."""
+    """gil이 보낸 영상·링크로 예약 글과 따로 추가 초안을 만든다."""
     if not media.split_memo(item.get("memo", ""))[0]:
         telegram.send_text("🎬 " + MEMO_HELP)
         return
@@ -229,16 +229,12 @@ def add_media(item):
         item["quote_id"] = media.resolve_quote_id(item["shortcode"])
     elif not item.get("file_id"):
         media.probe(item["url"])  # 영상이 맞는지 미리 확인 (게시 때 실패하지 않게)
-    waiting = media.enqueue(item)
-    attached = draft.attach_queued()
-    for d in attached:
-        draft.send(d)
-        print(f"[poll] {d['id']}에 영상·링크 붙임")
-    if attached:
-        when = draft.publish_time(attached[-1])
-        telegram.send_text(f"🎬 접수! {when:%m/%d %H:%M} 초안에 붙였어요. 바로 위 초안을 확인해 주세요.")
-    else:
-        telegram.send_text(f"🎬 접수! 대기 {waiting}개. 다음 초안이 만들어지면 거기에 붙일게요.")
+    d = draft.create_extra(item)
+    draft.send(d)
+    when = draft.publish_time(d)
+    print(f"[poll] 추가 초안 {d['id']} 만듦 (게시 {when:%m/%d %H:%M})")
+    telegram.send_text(f"🎬 접수! 예약 글과 따로 추가 초안을 만들었어요. 그대로 두면 {when:%m/%d %H:%M}에 올라가요.\n"
+                       "바로 올리려면 🚀 지금 게시, 안 올리려면 ⏭ 건너뛰기를 눌러 주세요.")
 
 
 def handle_video(message):
@@ -324,9 +320,6 @@ if __name__ == "__main__":
             resend_open_drafts()
             write_offset(0)
         process_buttons()
-        for d in draft.attach_queued():  # 줄 서 있던 영상·링크를 빈 대기 초안에 붙임
-            draft.send(d)
-            print(f"[poll] {d['id']}에 줄 서 있던 영상·링크 붙임")
         process_schedule()
     except Exception as e:
         print(f"[poll] 실패: {e}")
