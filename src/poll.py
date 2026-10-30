@@ -230,7 +230,7 @@ def add_media(item):
     if not media.split_memo(item.get("memo", ""))[0]:  # 제품명은 다음 메시지로 받음
         media.save_pending(item)
         print("[poll] 제품명 없는 영상·링크 받음, 제품명 기다림")
-        telegram.send_text("🎬 영상 받았어요! 이제 제품명을 한 줄 보내 주세요.\n"
+        telegram.send_text(("📷 사진" if item["kind"] == "photo" else "🎬 영상") + " 받았어요! 이제 제품명·주제를 한 줄 보내 주세요.\n"
                            "예) 360도 돌아가는 자석 충전 케이블\n출처: 직접 촬영")
         return
     if item["kind"] == "quote":
@@ -241,8 +241,32 @@ def add_media(item):
     draft.send(d)
     when = draft.publish_time(d)
     print(f"[poll] 추가 초안 {d['id']} 만듦 (게시 {when:%m/%d %H:%M})")
-    telegram.send_text(f"🎬 접수! 예약 글과 따로 추가 초안을 만들었어요. 그대로 두면 {when:%m/%d %H:%M}에 올라가요.\n"
+    icon = "📷" if item["kind"] == "photo" else "🎬"
+    telegram.send_text(f"{icon} 접수! 예약 글과 따로 추가 초안을 만들었어요. 그대로 두면 {when:%m/%d %H:%M}에 올라가요.\n"
                        "바로 올리려면 🚀 지금 게시, 안 올리려면 ⏭ 건너뛰기를 눌러 주세요.")
+
+
+POST_WORD = "글"  # 사진 설명란이 이 말로 시작하면 게시용 사진
+
+
+def post_topic(message):
+    """게시용 사진이면 주제를, 벤치마킹 캡처면 None을 돌려준다."""
+    caption = (message.get("caption") or "").strip()
+    if not caption.startswith(POST_WORD):
+        return None
+    rest = caption[len(POST_WORD):]
+    if rest and rest[0] not in " :\n":  # '글자', '글씨' 같은 말은 게시용이 아님
+        return None
+    return rest.lstrip(" :\n")
+
+
+def handle_photo_post(message, topic):
+    """설명란이 '글'로 시작하는 사진 → 그 사진과 주제로 추가 초안."""
+    if message.get("photo"):
+        file_id = max(message["photo"], key=lambda p: p.get("file_size", 0))["file_id"]
+    else:
+        file_id = message["document"]["file_id"]
+    add_media({"kind": "photo", "file_id": file_id, "url": "", "memo": topic})
 
 
 def handle_video(message):
@@ -264,6 +288,14 @@ def process_buttons():
         msg = u.get("message")
         if msg:
             if str(msg.get("from", {}).get("id")) == allowed and (msg.get("photo") or
+                    (msg.get("document") or {}).get("mime_type", "").startswith("image/")) and \
+                    post_topic(msg) is not None:
+                try:
+                    handle_photo_post(msg, post_topic(msg))
+                except Exception as e:
+                    print(f"[poll] 사진 글 만들기 실패: {e}")
+                    telegram.send_text(f"📷 사진 글 만들기 실패: {str(e)[:150]}")
+            elif str(msg.get("from", {}).get("id")) == allowed and (msg.get("photo") or
                     (msg.get("document") or {}).get("mime_type", "").startswith("image/")):
                 try:
                     handle_snapshot(msg)

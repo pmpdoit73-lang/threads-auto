@@ -161,6 +161,8 @@ def pop_pending():
 
 def label(item):
     """텔레그램에 보여 줄 짧은 설명."""
+    if item["kind"] == "photo":
+        return "📷 gil이 보낸 사진"
     if item["kind"] == "quote":
         how = "인용 게시" if item.get("quote_id") else "링크 카드 (인용 번호를 못 찾음)"
         return f"🔗 {how}: {item['url']}"
