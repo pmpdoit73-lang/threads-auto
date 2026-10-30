@@ -1,0 +1,50 @@
+{
+  "id": "20261030-1400",
+  "created_at": "2026-10-30T14:00:51.954110+09:00",
+  "publish_at": "2026-10-30T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 급속냉동 버튼을 켜 둔 채 잊어버리는 실수",
+  "angle": "급속냉동 버튼은 장 본 직후 잠깐 쓰는 기능인데, 켜 두고 잊으면 계속 세게 돌아가 전기를 더 먹는다는 점",
+  "category": "살림템·가전",
+  "subject": "냉동실 급속냉동 버튼",
+  "hooks": [
+    "냉동실 급속냉동 버튼 눌러놓고... 나 뭐 한 거지? (9/10)",
+    "30년 살림했는데 냉동실 급속냉동 이렇게 쓰고 있었어... (8/10)",
+    "얘들아 냉동실 급속냉동 버튼 그거 원래 계속 켜 두는 거야..? (8/10)",
+    "냉동실 급속냉동 불 들어와 있는 집 손... (7/10)",
+    "냉동실 급속냉동 버튼 원래 장식인 줄 알았는데..? (6/10)"
+  ],
+  "text": "냉동실 급속냉동 버튼 눌러놓고... 나 뭐 한 거지?\n고기 사 온 날 켜고 몇 주째 그대로였어ㅋㅋ\n이거 계속 세게 돌아가서 전기 더 먹는 거더라\n난 이제 장 본 날만 켜고 하루 지나면 꼭 꺼\n너네 냉장고에도 불 들어와 있지 않아..?",
+  "image_prompt": "Casual smartphone photo of a home refrigerator control panel on the freezer door, a small glowing indicator light next to a button, slightly tilted angle, kitchen at evening with warm ceiling light, a plastic grocery bag of frozen meat on the counter edge, slightly blurry, ordinary Korean apartment kitchen, no people, no readable text, no logos",
+  "photo_query": "refrigerator control panel",
+  "product_keyword": "냉동실 정리 용기",
+  "benchmark_note": "짜장면 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄과 내 세제통 글의 실수 고백→'난 이제'→'너네 ~?' 마지막 질문 흐름을 가져옴",
+  "products": [
+    {
+      "name": "비트리 휘어지는 냉동실 정리용기 혼합세트3 600ml x 6p + 1L x 4p, 10개, 1세트",
+      "price": 40300,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6066327487&itemId=11179269324&vendorItemId=78457188195&traceid=V0-153-6e403f77130db8df&clickBeacon=ec952220-d41e-11f1-a4f7-ef6f94640e5b%7E3&requestid=20261030140110780070267136&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/oD2-LaEcul39X7YHoIkL3cuBb6YYm6AU3K-8Hg0qN73CYEfD8LRmmr63pPSXDcbRyKaT56OrmiyjLoo-5I6ih0AeYVq3xccpmgrE_aEO7Jzxj28Xm11SraiIY_7XKkP4HQff_p8yqoF_qfmYkeuP9wo1Y-lUHBVZAqSgKNx4CUwc2LNYBPXdnlP4lCpHObiOxA1mmteao3LgqtknV6D7nYmo7DMEm7K1VVexPnAItIe5V1brd4tWFqZbeiMvoIoJOdBiAbOT6uS2jF0WpUJHLVV6CEuCbJ61orDV6RZRzY5Sphp73NUO03ljqXtcysoM598rSw9NtGZ-0ZyxTpzgEsx8-ILtlCEkXtWgo7_V3Gc7Ll-y9YR_-5vQHikJxHXM2m5KGC_pIW7_p8ld8w8BTKQMp8kpEj5JshueXHPerWJ6xauE0nGyFYaCITLshyhSgOapwyANOK-A0EWzAkLavE82qDgZBBOGZd_98ENrkVKvmoxu3XxHx5L8aBrxAyTfuYAZ4aTeUAt26lYk9PCTrt5FBISfa_o="
+    },
+    {
+      "name": "비트리 시즌2 부드럽게 휘어지는 냉동실 냉장고 정리용기 30p 세트 핑크, 1세트, 1개",
+      "price": 65900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8703450713&itemId=25275246183&vendorItemId=92634239467&traceid=V0-153-f254d028919db0a6&clickBeacon=ec954930-d41e-11f1-8ce0-3cf7f90ea7cc%7E3&requestid=20261030140110780070267136&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/4UBP6ZnsNPl7Hzx14efcH6TY4zhC1s99RiBr5xDJDWHj2ny2CoJ6kHUiH9VboZNT8wJbveGHnpPGVOo7M4jHTOq1I5NH9FH4oQPc0YBiDM64HM60AcB0GhNHUnq8u7Y9mRTSXXusUNhzEhqL0H7OK9kUHel_ykXHbHL17nrDJLO98eFP1uYf1Q5ddw3ty9hEHB0bkE2eYPp7tgq6gjfucUCzeyrUs1V0eZJcHTJ_-Ru3LkVHRrDASFJDl4jDKI0eBx9LLPfkQBk1xr5VJEVYhjKSRcPVNQQdTBFwpNhce0RC1MBIXYD1_7Lrk9MUZzwLuOLQDDOiau4YwJBHp2dZ5Bxiumly1aOoqNsx_TSLJJ-ZbqQUkdCBw6fp-dA1EEEK651qbKxGy0zOsPyY23pIFNZp1YyYEYJHgvLfbRdSLbqZkvCUfZ5yp8JVLp5uHzaX7UUdshhgn3QiG2gNCOIMp8-xOL-YYd7fVkbaF48sw17HdgorUC_V1AfmSBpMI2peuQIKLzhPXA=="
+    },
+    {
+      "name": "말랑핏 휘어지는 냉동실 정리용기 250ml x 4p + 600ml x 2p +1300ml x 2p +2000ml x 2p 세트",
+      "price": 23400,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8565679029&itemId=24810377178&vendorItemId=94529241619&traceid=V0-153-7017bd962e8bf440&requestid=20261030140110780070267136&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/RQ6U6Wx65O1cb8__RaroA-ffDrJyc1Zj0QsU0ioIbr64o3QXeKk2dFBCLXUXKfr6SQs-KO8QaoqZCeUHRNJpFUCRHKvDOct50swaWCsfWr1esWgEv3zIq4lBDxbeWURyGaC0VYRNiS7-UhEpugA7HwUHCxpfH8VBH1EyXWprol8mFqiRFzhdzV7lkL1Gy0hydV2VlLcaMzaXJoDl9zeOEeVZhrY2GjEvZ3Id_ulAjwp7nKebL3jwoqDk6Vu4M8FDZYp5L5MrsjoRxaU26UcymEeiBxbgembtDsOHIrufo76ndD8ijxrFLmOctVr9XdnSMbs1LXprfBZuoa5aCkuKSVQCCitP53gwYE1MGrfs1QlkE8nfbq15bQ-DXiycTYuVOpvmS-FEMJAbsW2xxEld8Eo7nNhSH-rV-TDo6QiGVRnMXYibz2TU7yb00Q-E-c0aj3T6NhFjnXyaSVv9BYq-W8i8saMLhcssPjKJlMH2FeghmCzy33giTlc2cuw_o76yAPbjZ_B6DcQgG9VXnpK0xkvVvg=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 108,
+    "has_photo": true
+  }
+}
