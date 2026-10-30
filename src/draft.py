@@ -186,9 +186,8 @@ NO_COUPANG_HOURS = {7, 18}  # 하루 첫째(07시)·셋째(18시) 글은 쿠팡 
 
 
 def default_format(d):
-    if d.get("media"):  # 영상·인용 글은 사진 없이, 쿠팡 시간대면 쿠팡 첫 댓글
-        no_coupang = d.get("publish_at") and datetime.fromisoformat(d["publish_at"]).hour in NO_COUPANG_HOURS
-        return "coupang" if d.get("products") and not no_coupang else "text"
+    if d.get("media"):  # 영상·인용 글은 사진 없이, 쿠팡 후보가 있으면 쿠팡 첫 댓글
+        return "coupang" if d.get("products") else "text"
     if d.get("publish_at") and datetime.fromisoformat(d["publish_at"]).hour in NO_COUPANG_HOURS:
         return "photo" if d.get("has_photo") else "text"
     if d.get("has_photo") and d.get("products"):
@@ -251,45 +250,58 @@ def set_text(d, text):
 
 # ---------- 영상·인용 붙이기 ----------
 
-MEDIA_LEAD = timedelta(minutes=30)  # 게시 30분 전까지 남은 초안에만 붙임 (gil이 볼 시간)
+EXTRA_DELAY = timedelta(hours=1)   # 영상을 보내고 이만큼 뒤에 자동 게시
+EXTRA_GAP = timedelta(hours=1)     # 예약 글·다른 초안과 이만큼은 떨어뜨림 (조회수 나눠 먹지 않게)
+EXTRA_HOURS = (6, 23)              # 버튼 확인이 도는 시간 (06:00~23:40) 안에서만
+
+
+def extra_time(now):
+    """추가 초안을 올릴 시간: 1시간 뒤부터, 예약 글·다른 초안과 1시간 넘게 떨어진 가장 빠른 때."""
+    busy = list(upcoming_slots(now)) + [publish_time(d) for d in open_drafts()]
+    t = (now + EXTRA_DELAY).replace(second=0, microsecond=0)
+    t += timedelta(minutes=-t.minute % 10)  # 10분 단위로
+    for _ in range(100):
+        if not EXTRA_HOURS[0] <= t.hour < EXTRA_HOURS[1]:  # 밤이면 다음 날 아침으로
+            t = (t + timedelta(days=1 if t.hour >= EXTRA_HOURS[1] else 0)).replace(hour=EXTRA_HOURS[0], minute=20)
+            continue
+        clash = [b for b in busy if abs(b - t) < EXTRA_GAP]
+        if not clash:
+            return t
+        t = max(clash) + EXTRA_GAP
+    return t
+
+
+def create_extra(item):
+    """gil이 보낸 영상·링크로 예약 글과 따로 추가 초안을 만든다."""
+    now = datetime.now(KST)
+    d = {
+        "id": now.strftime("%Y%m%d-%H%M") + "v",
+        "created_at": now.isoformat(),
+        "publish_at": extra_time(now).isoformat(),
+        "status": "pending",
+        "product": 0,
+        "extra": True,
+    }
+    attach(d, item)
+    return d
 
 
 def attach(d, item):
-    """줄 서 있던 영상·인용 링크로 이 초안의 글을 새로 쓴다."""
+    """영상·인용 링크로 이 초안의 글을 쓴다."""
     about, credit = media.split_memo(item.get("memo", ""))
     post = writer.write_for_media(about, item["kind"], used_topics(exclude_id=d.get("id")), bench_store.load())
     d.update(post)
     d["media"] = item
     d["credit"] = credit
     d.pop("edited_by_hand", None)
-    try:
-        d["products"] = coupang.search_products(post["product_keyword"])
+    try:  # gil이 적은 제품명으로 먼저 찾고, 없으면 Claude가 정한 키워드로
+        d["products"] = coupang.search_products(about) or coupang.search_products(post["product_keyword"])
     except Exception as e:
         print(f"[draft] 쿠팡 검색 실패: {e}")
         d["products"] = []
     d["product"] = 0
     d["format"] = default_format(d)
     save(d)
-
-
-def attach_queued(only=None):
-    """줄 서 있는 영상·인용 링크를 비어 있는 대기 초안에 붙이고, 붙인 초안들을 돌려준다."""
-    now = datetime.now(KST)
-    targets = [only] if only else [d for d in open_drafts()
-                                   if d["status"] == "pending" and not d.get("media")
-                                   and publish_time(d) - now >= MEDIA_LEAD]
-    done = []
-    for d in sorted(targets, key=publish_time):
-        item = media.pop_queue()
-        if not item:
-            break
-        try:
-            attach(d, item)
-        except Exception:
-            media.push_front(item)  # 실패하면 다음에 다시
-            raise
-        done.append(d)
-    return done
 
 
 def detach(d):
@@ -397,7 +409,8 @@ def keyboard(d):
             rows.append([_btn(d, f"상품 {i + 1}", "p", str(i), d.get("product", 0) == i)
                          for i in range(len(products))])
         return rows + [
-            [_btn(d, "🔁 글만 다시", "a", "retext"), _btn(d, "🎬 영상 빼기", "a", "nomedia")],
+            [_btn(d, "🔁 글만 다시", "a", "retext")]
+            + ([] if d.get("extra") else [_btn(d, "🎬 영상 빼기", "a", "nomedia")]),
             [_btn(d, "✅ 승인", "a", "ok"), _btn(d, "🚀 지금 게시", "a", "now")],
             [_btn(d, "⏭ 건너뛰기", "a", "skip")],
         ]
