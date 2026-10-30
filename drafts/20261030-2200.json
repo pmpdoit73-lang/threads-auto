@@ -1,0 +1,50 @@
+{
+  "id": "20261030-2200",
+  "created_at": "2026-10-30T22:00:58.218107+09:00",
+  "publish_at": "2026-10-31T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 주방가위 손잡이 사이 톱니(병뚜껑 따개) 용도",
+  "angle": "30년 동안 장식인 줄 알았던 주방가위 손잡이 톱니가 꽉 낀 병뚜껑 따개였다는 숨은 기능",
+  "category": "주방",
+  "subject": "주방가위",
+  "hooks": [
+    "주방가위 손잡이 사이 톱니... 30년을 그냥 봤어 (9/10)",
+    "주방가위 쓰다가 나 뭐 한 거지? (7/10)",
+    "얘들아 주방가위에 이런 기능이 있었어? (7/10)",
+    "주방가위 가운데 울퉁불퉁한 거 뭔지 아는 사람? (8/10)",
+    "병뚜껑이랑 씨름하다 주방가위 보고 소름... (8/10)"
+  ],
+  "text": "주방가위 손잡이 사이 톱니... 30년을 그냥 봤어\n장식인 줄 알았는데 이유 듣고 웃음 터짐ㅋㅋ\n꽉 낀 병뚜껑을 거기 물리고 돌리는 거래\n난 이제 고무장갑 안 끼고 한 번에 따\n너네 가위 그 부분 손 미끄럼 방지인 줄 알았지..?",
+  "image_prompt": "Casual smartphone photo taken at home of a stainless kitchen scissors lying open on a cluttered Korean kitchen counter next to a glass jam jar with a metal lid, close view of the serrated grip area between the handles, slightly tilted angle, ordinary fluorescent kitchen light, a bit of clutter like a dish towel and cutting board in background, no people, no text, no logos",
+  "photo_query": "kitchen scissors jar",
+  "product_keyword": "주방가위 병따개 겸용",
+  "benchmark_note": "42,193 글의 '첫 줄 상황+말줄임표' 열린 고리와 옛날 골목 글의 살짝 틀린 추측('~인 줄 알았지..?')으로 정정 댓글 유도, 내 글의 5줄·고백 말투 형식",
+  "products": [
+    {
+      "name": "장미 주방가위 5호 1P 잘드는 식가위 병따개 조리기구",
+      "price": 9300.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9796525154&itemId=29333494284&vendorItemId=96247473512&traceid=V0-153-64dcb1f160d259bb&requestid=20261030220136657307136545&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/jBKaJgQyuE3aV3p0jKAub3YuW-4PnOjsP8vXp72hBijHvBy-qlSENo7VAPgpzC0ZV3wIxeahzst0mr26kN_6UxK1HGFoUf1nxPqn-Qiu-g3OslqUulKL2VyPWoQczVJ-rixIiOLx8kopjoX30GVu0yAtV-V4TZqkC4H2TAsmJHXWGbs0f9e_w93dVgpOQqkYJmV6Qbh7w7c9frSO6U_dMKzCiO0NeSBSdG3aXqUCpMXcSo9WMOZQ5r8CxL49Yk4LxsUC6yJMriEyEA0R6kjjm9m2gEcFoJvYqfw3HNy3ZEHJya-VYnpUEx30SOCD14HybQGfIg5Jmtd0toR6kZm7puU4Qll8Q5AX1D9LngkFzt8P4p6jwCRMHXtkMZjjAlXTUzsEJIkMQFiR8z7DG9fiIGmwa8k7-2HRQk3JxBewFCwy_HAOPJPyQzIdn3MkRAWFpof1mddYsrxMi6naW0XjvibXapifvZnFvHOSd0RYOti2QRfBuzs_KoEPGnloaLX7xc3bq8vLgINWqZsShG-UOSd7CPHi3gFPOKf2N3bsMw=="
+    },
+    {
+      "name": "록슨 KS2E 미니 가위 다용도 멀티툴 휴대용 맥가이버칼",
+      "price": 55000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8217192370&itemId=23606233764&vendorItemId=95431713573&traceid=V0-153-281283ace7175c36&requestid=20261030220136657307136545&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/saNzT3k5i6PSU3uSsdEmp5hlT2jA-OIE5BhERzNHcSoTJcPTE-TVZoBpyknzB9KRWsY1YWy6O3V3Ke4BUic5SiWll1BCV0Sw2JWDVWz42LN2_ur0-SiTjER-TiixDIhw1tfsGJbKNhopGRe_d5gvtd7aIdTsQb0vH8v1hVFcsIxxWVxY1WSnCDcI7COsZbPvA2lHMgu2sRtPWVZeSJ25j_wGWJ4uiLjMCCGE--kLw8mP3k2ZG7IfdL20sUa0Q1DwtSGftWxmAkdLgkXVPtsKstOKg6t9VhbCiEznvDkmXy57FmxuaE3LDXRHQJ1BDQ1QuJmJgLunEZodgBOOaeP_C1Zwr1UR8d-at56lP9hwuecyhenW556asrzQSXToJIUflvTehBQcvP7YJhAk5qN_24sPHMCX876dpBvth7UpbIWf6C232q1JuzSafcIzKN1XyNbymQYIeggktA-zaItleC0yNr1Rwrk8CI5SkqeiiPTs8pN4o9biC2_oBj92isNIg1f8t-3qbngaGLi9C3RQgBhAihWjPSxh4fSiK_ulRg=="
+    },
+    {
+      "name": "다용도 캡 양손가위 가위 병따개 칼 문구용 사무용",
+      "price": 3500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=157522321&itemId=453228295&vendorItemId=4122641627&traceid=V0-153-f31ce3257919ebb5&requestid=20261030220136657307136545&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/zCPl5I2bWcN9S4IizBaMtwXkU7xuKWgH6DTzGCyJqWTdZ2EONCLohkp2tCfepucwyto21QtoKVKiAOksrAvz4Ea57XdrQ9REJpS9PWExZkzWpsOCAWgmfbriMgDHZpnslE83Oxg1IOl5UG_wCCXx9m1NcOvPqFjmU0-hZil1jFAa5dDyNwrqrgwA0ueTkYgfgvKc9KP-1iTwM3W75mOR0wrCLx_cMKMve58tUWNkt58_B1XDFixecl7RqY2bmVA-caA18iZ8kkdfi9OTY3GU6ggk7OF2omqnqiUFXd6QA43FobJrFPWdvcePwt2L5B0svWMGuOXQKxGejY-JYA9dEHQR1bMMKIcinurdXFU9GaZvSmNwlFDIpAWyWeJVKZILkG-BCWp5r5YO1e4mVkJH8D4GZcZnejFLXt_5TJUFu7iktY0xyrnOxnVhE9DdB7ALvFIZPweyfW0h2eYAc5O39bjlg2uU2xt4Xm9o0kqoTAJVZoLHFyizreLRG_HnpuBdqh-WNUzdinRnjqq80HVhhztKV7NQXu9S"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 123,
+    "has_photo": true
+  }
+}
