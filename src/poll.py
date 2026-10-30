@@ -178,6 +178,11 @@ def handle_text(message):
         item = media.parse_link(message.get("text", ""))
         if item:
             add_media(item)
+        elif media.load_pending():  # 제품명 없이 먼저 보낸 영상이 있으면 이 글을 제품명으로
+            item = media.pop_pending()
+            item["memo"] = message.get("text", "")
+            print("[poll] 기다리던 영상에 제품명 받음")
+            add_media(item)
         return  # 링크 없이 그냥 보낸 대화는 무시
     d = find_by_message(target)
     if not d:
@@ -222,8 +227,11 @@ MEMO_HELP = ("영상 속 제품명을 한 줄 같이 보내 주세요.\n"
 
 def add_media(item):
     """gil이 보낸 영상·링크로 예약 글과 따로 추가 초안을 만든다."""
-    if not media.split_memo(item.get("memo", ""))[0]:
-        telegram.send_text("🎬 " + MEMO_HELP)
+    if not media.split_memo(item.get("memo", ""))[0]:  # 제품명은 다음 메시지로 받음
+        media.save_pending(item)
+        print("[poll] 제품명 없는 영상·링크 받음, 제품명 기다림")
+        telegram.send_text("🎬 영상 받았어요! 이제 제품명을 한 줄 보내 주세요.\n"
+                           "예) 360도 돌아가는 자석 충전 케이블\n출처: 직접 촬영")
         return
     if item["kind"] == "quote":
         item["quote_id"] = media.resolve_quote_id(item["shortcode"])
