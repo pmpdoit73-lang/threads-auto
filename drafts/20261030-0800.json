@@ -2,7 +2,7 @@
   "id": "20261030-0800",
   "created_at": "2026-10-30T08:00:57.092548+09:00",
   "publish_at": "2026-10-30T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 정수기·세탁기 말고, 세탁기 '예약' 버튼이 끝나는 시간 기준이라는 것",
   "angle": "세탁기 예약 버튼을 '몇 시간 뒤 시작'으로 오해해 빨래가 통 안에서 오래 방치되는 흔한 사용 실수",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 107,
     "has_photo": true
-  }
+  },
+  "threads_id": "18171308782479138",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfGdebgm5aD",
+  "reply_id": "18146667211579775",
+  "published_at": "2026-10-30T11:01:19.789388+09:00"
 }
