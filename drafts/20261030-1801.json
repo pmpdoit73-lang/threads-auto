@@ -2,7 +2,7 @@
   "id": "20261030-1801",
   "created_at": "2026-10-30T18:01:16.983188+09:00",
   "publish_at": "2026-10-30T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 냉장실 온도 설정을 겨울에도 여름 그대로 두는 실수",
   "angle": "냉장실 온도를 1~2도로 너무 낮게 둬서 채소가 얼고 전기도 더 쓰던 습관, 권장 3~4도로 바꾼 경험",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 122,
     "has_photo": true
-  }
+  },
+  "threads_id": "18104703515014617",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfHiJu9EUTw",
+  "reply_id": "18108933524337848",
+  "published_at": "2026-10-30T21:01:41.319216+09:00"
 }
