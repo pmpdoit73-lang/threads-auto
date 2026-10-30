@@ -1,0 +1,50 @@
+{
+  "id": "20261030-1801",
+  "created_at": "2026-10-30T18:01:16.983188+09:00",
+  "publish_at": "2026-10-30T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 냉장실 온도 설정을 겨울에도 여름 그대로 두는 실수",
+  "angle": "냉장실 온도를 1~2도로 너무 낮게 둬서 채소가 얼고 전기도 더 쓰던 습관, 권장 3~4도로 바꾼 경험",
+  "category": "살림템·가전",
+  "subject": "냉장고 온도 버튼",
+  "hooks": [
+    "냉장고 상추가 자꾸 물러지길래... 나 뭐 한 거지? (9/10)",
+    "냉장고 온도 버튼 30년 동안 이러고 있었어... (8/10)",
+    "얘들아 냉장고 온도 숫자 몇으로 해 놨어..? (7/10)",
+    "냉장고 온도 버튼 원래 장식인 줄 알았는데..? (6/10)",
+    "냉장고 채소가 얼어 있는 거 나만 그래? (7/10)"
+  ],
+  "text": "냉장고 상추가 자꾸 물러지길래... 나 뭐 한 거지?\n냉장고 고장인 줄 알고 AS 부를 뻔했거든ㅋㅋ\n온도 버튼 보니 냉장실이 1도로 돼 있더라\n난 이제 권장대로 3~4도에 맞춰 둬\n너네 냉장실 몇 도야..? 낮을수록 좋은 거 아니었어?",
+  "image_prompt": "Smartphone photo taken at home of a Korean refrigerator front temperature control panel slightly out of focus, open fridge door showing a wilted frosted lettuce in the vegetable drawer, ordinary kitchen lighting, slightly tilted casual angle, no people, no text, no logos",
+  "photo_query": "refrigerator temperature lettuce",
+  "product_keyword": "냉장고 온도계",
+  "benchmark_note": "내 글 상위권의 '물건+...나 뭐 한 거지' 첫 줄, 새로 살/AS 부를 뻔한 셀프디스 둘째 줄, 숫자 공개 후 틀린 추측 질문으로 끝내는 형식을 가져옴",
+  "products": [
+    {
+      "name": "카스 디지털 냉장고 온도계 T014R, 화이트, 1개",
+      "price": 14550,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6804846107&itemId=16078545815&vendorItemId=96047607950&traceid=V0-153-0db926689614eff8&clickBeacon=81ae3830-d440-11f1-a972-9a9a56eee20a%7E3&requestid=20261030180134312245347308&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/oVWG0hT_JZAqhHZOoSpptFYco1h7XysHuTsSgnp-fB55Jo3QndjBNXJRRjWfVEQ7eSsUQ1Q4i-iBlvqAZ0K1maHkRTAc57UF8_sOEInecDjI9n9ZhNE5148Ja5eQmW8KAs1TGC9l34pltN6fT8lbmQ1vId85pnJjk_zOXRZxs42Vaj_G16MespGDI0PUl8heI85V6jgrcTVO6Tb2geWfrWHg3GCQaGLUBJMlw1gZqU8AJmPisMDsAnzmMj917PQ_YOjLcXOhI_iJRhC5exXse5CDnYuwa19z_gxs-pb10pHd-MECxCZTQmPGUnM-Ean97PTNPYtlyyqS9cdvRDa-Sks8P3J3ZAh-5JzZu0xasBPMOw7D5CaUy8DrZF803I2Pw-U7mSnpydFktXQ9X5OWy1XynJNh7N7X1WUJodeIsAQYhkYIOAoqzJr3rbvPuGAt8YXgjhzEUW452tMQp1kKd3i9d-8kvNIXpTuBYHC4vB6iS5cWUCKvktuxbptFazt4pXoHZJKyC3foxBi9e0W9dg54VNNMvgg="
+    },
+    {
+      "name": "LCD 디지털 온습도계 일반형, 혼합색상, 1개",
+      "price": 5900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5624149414&itemId=9127405242&vendorItemId=76413448501&traceid=V0-153-29e42c234d936471&clickBeacon=81ae3830-d440-11f1-8052-63f947771791%7E3&requestid=20261030180134312245347308&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/uFz7-FdZx3WxlJ_OuJjRY_fwznyMFLisZjf59qaT53xyNDEX4tCnVCeMXNWCkuhycijvtbWmXJkPYWbKpqCNwpPjE99riYvt1MOlaopJh9xzK5Rsami-00IYoO9ByWn8apjZmSsgPl1ANAeRhFGgXdsfzAfoKfzQdeMRyP6uC_e9iry3n6jv-mUFN6NZTQcUKHqXg16vx5wC8myuUI8gmA5OpqFkN9K33KPRezcBW9nGl-8EBsPZqHWq4lxqAd96TvBIji3oSzZ9V9ea5rK6SO14AC7p9mauopc2F8tJLLUyb8tjIZKZveDbEv3nw9-TOGPwTIM2O5OAb8Au4UcKSlnBqbbsOPV-IAoCodpKmYWXmr92DG2ylogsVBu71IsscTEIPIMsOehFoqD-FCe6JYEkmj2MvbqHBDAETE9DFVl7eCyqbPmPjov3opfd-A6jwoLTUdA2ENoaKxjDygaMeu22ihXvT2k99xCNsenYxKlGGnlqqcwZIzRy87z7i-2AjK2shvryCqAce88YENAQ_26GveS6vhtT"
+    },
+    {
+      "name": "랩앤툴스 냉장고 온도계 LT-144",
+      "price": 6230,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9672944951&itemId=28922107643&vendorItemId=95733555217&traceid=V0-153-1a0b3d5c29633016&requestid=20261030180134312245347308&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/43Gn063G8jp_GAJn43_CzMt-oySApRcHXrXnxXn45ewcl7EUoMOPfnpKq-t_6mxJHbEjuLUfyhgG2VTSjlGmtGk6pOaD4dSIjN-Q6wxPJjZGkxBHS5F9FKINw0w4K6tTeTe8wnv692pIVwQvnKs-CPaQnJgosfNP61C5GW7gM6MV5S1wQ8kbzJQf_kcuUaSyIrS81TwdmwrPQPIbOS76Xc80D44iWmUY6XHmih5l6l4LTn0svsSDEbLtdjy8r1VCzlnID2GXdWHc_bxYmesrrAh7R-uVsdwyzuiqVBhGxROe6hcHgaKVoRfPlCzDO9LtqBgpF2AmaCb1rTj1OuC1nJdYdEqXSsT6sgPm0JkA5v_4S7iqZn_5lN8vmytxpQMFfItXMniU2e4fwdTbDiH6lWuu0fGS2Mec4Zft2thAZqiXj__t2Z_Eqissee3Tz51lVIDW8UXbBsfPQkzxYATxXTkR7yDa4QqvNjV_VoU8ZvuQ9jFG0rfeXYk5h1KUdlj0oaTcOQA39PBphjsUEeK-ERaIPQ=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 122,
+    "has_photo": true
+  }
+}
