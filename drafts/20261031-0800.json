@@ -1,0 +1,50 @@
+{
+  "id": "20261031-0800",
+  "created_at": "2026-10-31T08:00:52.325857+09:00",
+  "publish_at": "2026-10-31T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 식기세척기 말고, 세탁기 '헹굼+탈수' 대신 이불·운동화용 '건조 전 탈수 추가' — 아님, 김치냉장고 아닌 '냉동실 급속냉동 버튼' 활용",
+  "angle": "냉동실 '급속냉동' 버튼을 장식인 줄 알고 안 쓰다가 고기·밥이 성에 끼고 맛 떨어지던 손해",
+  "category": "살림템·가전",
+  "subject": "냉동실 급속냉동 버튼",
+  "hooks": [
+    "냉동실 급속냉동 버튼 처음 눌러봤는데... (8/10)",
+    "냉동 밥이 맨날 푸석했는데... 냉동실 버튼 하나 때문이었어? (7/10)",
+    "얘들아 냉동실에 이런 버튼이 있었어..? (7/10)",
+    "냉동실 급속냉동 버튼, 10년 동안 장식인 줄 알았는데...나 뭐 한 거지? (9/10)",
+    "냉동실 버튼 중에 하나 아무도 안 누르지 않아? (6/10)"
+  ],
+  "text": "냉동실 급속냉동 버튼 10년 동안 장식인 줄...\n나 뭐 한 거지? 고기 얼리면 맨날 성에 꼈거든ㅋㅋ\n천천히 얼면 얼음 결정이 커져서 그렇대\n난 이제 장보고 와서 넣기 전에 눌러 둬, 몇 시간 뒤 알아서 꺼져\n너네 그 버튼 눌러본 적 있어..?",
+  "image_prompt": "Casual smartphone photo of an open refrigerator freezer compartment in a Korean apartment kitchen, slightly tilted angle, frosty packs of frozen meat and rice in plastic bags, a small control panel button area visible near the top but not readable, ordinary indoor lighting, slightly cluttered, no people, no text, no logos",
+  "photo_query": "freezer frozen meat",
+  "product_keyword": "냉동 소분 용기",
+  "benchmark_note": "42K글의 '나 뭐 한 거지?' 셀프 디스 + 내 803회 글의 '오해→안쪽 사실 공개→난 이제→너네 ~알았어..?' 줄 흐름을 가져옴",
+  "products": [
+    {
+      "name": "오컴멀 국내산 갓반 전자렌지 용기 환경호르몬 불검출 젖병소재 냉동밥, 10개, 갓반세트",
+      "price": 18000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9288768123&itemId=27508428066&vendorItemId=94473674152&traceid=V0-153-be96fdda5bcb76a3&clickBeacon=ce567e20-d4b5-11f1-9230-912d0ff2e5e2%7E3&requestid=20261031080113979011969656&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Y0FHpCR_HTnFh4TiY7-groMGqrcfvu-7twOJXfdQBGJRZLJlMcY3LaI7V8kZCeWBgHlE4K9tI5HA7aIpEIqq8mxWJ13qcHKCdO5-oq3XDhaCSngQXR6a5RXA7AkcOoki85Q9OrfzInAR2ixb33safcc-qWYkbxjRFA10SghXn2N7X6pEI1kTSMQvCW7nZvWX7wGaLvJMvVwgVQDcKdRP-Snt1JGPsUZcU1BO45g_uspz1vQkewHybhXmAo2Zx1Zm8bTgx1TYwpb90BU1Hn3ce0g9IOAsYK2b5tTRMHUpzoDUiN1pOlhWdqsLgt7tq45rriNw0qoJN2TNhNGhIod1R68GA8D52-pUovlIPsInIQ1ZmJ8wt3Q39y67aRxTAqnepzPdLXBHSIZylu1hov0SSaqQ7nLOYQkzPS04UhLV6cjRH4tgVNtLUH253Z3AI3rEkXaFBjuqBbGxo6R62F4j0EjNr8jOHGh7cTdkhJjUHZ91oa6jcc-lTpSNteY9yulNHi0vrMjIDPlze-zUpycogdb149b17jz8"
+    },
+    {
+      "name": "울본 국내생산 젖병소재 냉동밥 전자레인지 용기 환경호르몬 불검출, 10개, 소프트 그레이",
+      "price": 14000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9698296963&itemId=29010311675&vendorItemId=95938508020&traceid=V0-153-69cb6f3d8de16e4b&clickBeacon=ce56a530-d4b5-11f1-99f0-20dbb4caa368%7E3&requestid=20261031080113979011969656&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/bhxS60hoCVSyqIRkbklDMxJmBl3x8qkgT-RGoJSBAo6RizXbC7JHoK2WoUxzRhN-MQrH2aro78oQAB_rK3sYrNf9BGs-vJq9_yPYxo_p6TCbeD3sfqPwBPq_tQqfPfSzuuWYzEZt9t4laP0AWnWPmMJDWBZQT3oEQLsH_ciEx8wpieSVPneGSuthwat3JTWKsMLZOfbHoranaEdA9MJ61dfDilJsKC7aYGxGuAdGDOjx6ZpFYEI5PTji2di2aAhMiwye2dx01k1whgcPi4Y5cxyRJtJdUuWz81DY1GSbVS7xU8B7-ut-6Qqb71XueXpfgSLxYXTJeVhWXRHbcOSQJFq6fUUCuF2nok3jRNBaXp9eKpidSd-lIQhP45Dk3Er6GgOVReojZ2Cwo2PqzftVR7SXiGZpoVJfEPRUlbS0ogLUi8ivHk4gpk8hMR1xrrsuKjPwqzmy596SPT-06MABdAsbOjQI5EWqilEEC50IBYvWcksUqzWzYX7UUR55WLUY7DJDTJmRVQdnook6m0jcrf9k4gdg6I8A"
+    },
+    {
+      "name": "이지앤프리 블랙킵 에디션 냉장고 정리 용기 750ml",
+      "price": 10480,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7937483270&itemId=21851640770&vendorItemId=88899893429&traceid=V0-153-63af1892effca7c9&requestid=20261031080113979011969656&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/R4omq_u5a0mqvELoR6_7lg6V2xF1YhHZexMoprzRmqiicpM1JMvMMB0zl7BOLGe1mAuYEU4cAn2cYr8I6YS0gl4KZLhDEwTRWEvyGHaEBEFPP6RwYc8oSS02noWxITxNUqzX-3sVwsHObn64gOBlWf0DYRt1R4NoQVDZ7lVGsZMMZYeWXy16faYND7tEwQvYDyab0NYTd0G_zWQlHa017jCuPRXdn_y9bnOfXTTGDypkfHUuqwdiKp-eNc_4YtKgy66botm6rmxWxYXM9OH587wLbhzvEzoEp7zi2e3yhzWMHrR6F5chK72s7V7xVWtFRmzrN2jn64sQ2OXij9XzUEpEgdGFr4i92nb10bUqqb-3vpi--BpUsRQW6B3AMNqFrbpUOVpj_NEFtiffwUYJMvhgqU9vVHaJlyaHOR5D45dbbursX7u1h7enQmgKJwiQopxf55wRUPmeuAgfKRm20604CMk1YdxGO1vbXB6Ky4rwgHEaWKVXZdmdRvHzYWYL_cZgiiMHJ55yeXkfEzbeZ5RS91GwzXVyb8snzMi5-rGpIH0cqWYyNgSZWQ=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 124,
+    "has_photo": true
+  }
+}
