@@ -324,6 +324,9 @@ if __name__ == "__main__":
             resend_open_drafts()
             write_offset(0)
         process_buttons()
+        for d in draft.attach_queued():  # 줄 서 있던 영상·링크를 빈 대기 초안에 붙임
+            draft.send(d)
+            print(f"[poll] {d['id']}에 줄 서 있던 영상·링크 붙임")
         process_schedule()
     except Exception as e:
         print(f"[poll] 실패: {e}")
