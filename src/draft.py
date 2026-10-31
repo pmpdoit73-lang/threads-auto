@@ -287,15 +287,23 @@ def create_extra(item):
 
 
 def attach(d, item):
-    """영상·인용 링크로 이 초안의 글을 쓴다."""
+    """영상·인용 링크·사진으로 이 초안의 글을 쓴다."""
     about, credit = media.split_memo(item.get("memo", ""))
-    post = writer.write_for_media(about, item["kind"], used_topics(exclude_id=d.get("id")), bench_store.load())
+    image = telegram.download_file(item["file_id"]) if item["kind"] == "photo" else None
+    post = writer.write_for_media(about, item["kind"], used_topics(exclude_id=d.get("id")), bench_store.load(), image)
     d.update(post)
-    d["media"] = item
+    if image:  # 사진은 보통 사진 글처럼 저장 (텔레그램 미리보기·게시가 그대로 됨)
+        path(d["id"], "png").write_bytes(image)
+        d["has_photo"] = True
+        d["image_note"] = "gil이 보낸 사진"
+    else:
+        d["media"] = item
     d["credit"] = credit
     d.pop("edited_by_hand", None)
-    try:  # gil이 적은 제품명으로 먼저 찾고, 없으면 Claude가 정한 키워드로
-        d["products"] = coupang.search_products(about) or coupang.search_products(post["product_keyword"])
+    # 영상은 gil이 적은 제품명으로 먼저, 사진은 주제라서 Claude가 정한 키워드로 먼저 찾음
+    keywords = [post["product_keyword"], about] if image else [about, post["product_keyword"]]
+    try:
+        d["products"] = coupang.search_products(keywords[0]) or coupang.search_products(keywords[1])
     except Exception as e:
         print(f"[draft] 쿠팡 검색 실패: {e}")
         d["products"] = []
@@ -411,6 +419,18 @@ def keyboard(d):
         return rows + [
             [_btn(d, "🔁 글만 다시", "a", "retext")]
             + ([] if d.get("extra") else [_btn(d, "🎬 영상 빼기", "a", "nomedia")]),
+            [_btn(d, "✅ 승인", "a", "ok"), _btn(d, "🚀 지금 게시", "a", "now")],
+            [_btn(d, "⏭ 건너뛰기", "a", "skip")],
+        ]
+    if d.get("extra"):  # gil이 보낸 사진 글: 사진은 그대로, 쿠팡만 고름
+        rows = [[_btn(d, FORMATS["both"], "f", "both", d["format"] == "both"),
+                 _btn(d, FORMATS["photo"], "f", "photo", d["format"] == "photo")]]
+        products = d.get("products") or []
+        if products:
+            rows.append([_btn(d, f"상품 {i + 1}", "p", str(i), d.get("product", 0) == i)
+                         for i in range(len(products))])
+        return rows + [
+            [_btn(d, "🔁 글만 다시", "a", "retext")],
             [_btn(d, "✅ 승인", "a", "ok"), _btn(d, "🚀 지금 게시", "a", "now")],
             [_btn(d, "⏭ 건너뛰기", "a", "skip")],
         ]

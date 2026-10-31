@@ -177,9 +177,11 @@ MEDIA_SCHEMA = {
 }
 
 
-def write_for_media(about, kind, used=(), external=None):
-    """gil이 보낸 영상(또는 인용할 글) 위에 얹을 글을 쓴다. about: gil이 적은 물건 설명."""
+def write_for_media(about, kind, used=(), external=None, image=None):
+    """gil이 보낸 영상·사진(또는 인용할 글) 위에 얹을 글을 쓴다. about: gil이 적은 물건·주제."""
     used_text = "\n".join(f"- {day} {subject}: {issue}" for day, subject, issue in used) or "(없음)"
+    if kind == "photo":
+        return _write_for_photo(about, used_text, external, image)
     where = ("이 글은 다른 사람의 쓰레드 영상 글을 '인용'해서 그 위에 얹는 글이야. 영상은 아래에 따로 보여."
              if kind == "quote" else "이 글은 영상과 함께 올라가. 영상에서 물건을 직접 써 보는 장면이 나와.")
     user_msg = (
@@ -201,7 +203,36 @@ def write_for_media(about, kind, used=(), external=None):
     return post
 
 
+def _write_for_photo(topic, used_text, external, image):
+    """gil이 직접 고른 사진과 주제로 글을 쓴다. 사진은 Claude가 함께 본다."""
+    user_msg = (
+        "이 글은 gil이 직접 보낸 사진과 함께 올라가. 사진을 보고, 아래 주제로 써.\n"
+        f"주제 (gil 메모): {topic}\n\n"
+        f"최근 30일 동안 올린 글 (같은 문장·같은 팁은 되풀이하지 마):\n{used_text}\n\n"
+        "1. 주제와 사진에서 보이는 것만 써. 확실하지 않은 기능·숫자·가격은 지어내지 마.\n"
+        "2. 페르소나의 '후킹 문법'으로 첫 줄 후보 5개를 만들고 스스로 채점해. 첫 줄에 정답이 있으면 0점.\n"
+        "3. 가장 센 후킹으로 시작해 '글 흐름'대로 100~150자, 4~5줄로 써. 첫 줄에 물건 이름(subject)을 꼭 넣어.\n"
+        "   정답(방법·이유)은 셋째 줄부터. 안전하지 않은 방법은 절대 쓰지 마.\n"
+        "4. 마지막 줄은 누구나 답할 쉬운 질문으로 댓글을 불러.\n"
+        "5. issue 칸에는 '사진: ' 뒤에 주제를 한 줄로, product_keyword는 이 글과 어울리는 쿠팡 상품 검색어로."
+        + _external_text(external)
+    )
+    content = user_msg
+    if image:
+        media = "image/png" if image[:4] == b"\x89PNG" else "image/jpeg"
+        content = [{"type": "image", "source": {"type": "base64", "media_type": media,
+                                                "data": base64.b64encode(image).decode()}},
+                   {"type": "text", "text": user_msg}]
+    post = _ask(content, MEDIA_SCHEMA)
+    if not _subject_ok(post):
+        retry = "\n\n주의: 첫 두 줄에 물건 이름이 빠졌어. 첫 줄에 subject를 그대로 넣어서 다시 써."
+        post = _ask(content[:-1] + [{"type": "text", "text": user_msg + retry}] if image else user_msg + retry,
+                    MEDIA_SCHEMA)
+    return post
+
+
 def _ask(user_msg, schema):
+    """user_msg는 글자, 또는 사진이 섞인 내용 목록."""
     client = anthropic.Anthropic()
     response = client.beta.messages.create(
         model=MODEL,
