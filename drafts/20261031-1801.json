@@ -1,0 +1,50 @@
+{
+  "id": "20261031-1801",
+  "created_at": "2026-10-31T18:01:51.040394+09:00",
+  "publish_at": "2026-10-31T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥·냉장고 말고, 세탁기 아닌 '건조대' 대신 욕실 환풍기와 다른 '다리미 수직 스팀' 기능",
+  "angle": "다리미를 꼭 다리미판에 눕혀서만 쓰는 줄 알았는데, 스팀다리미는 옷걸이에 건 채로 수직 스팀이 된다는 숨은 사용법",
+  "category": "청소·세탁·정리",
+  "subject": "스팀다리미",
+  "hooks": [
+    "스팀다리미 30년 썼는데 나 이러고 있었어... (9/10)",
+    "스팀다리미 버튼 하나 눌렀다가 다리미판 접었잖아..? (8/10)",
+    "얘들아 와, 스팀다리미 세워서도 쓰는 거였어? (6/10)",
+    "스팀다리미 꺼낼 때마다 한숨 쉬던 나 뭐 한 거지 (7/10)",
+    "스팀다리미 그 버튼 원래 물 빼는 건 줄 알았는데..? (8/10)"
+  ],
+  "text": "스팀다리미 30년 썼는데 나 이러고 있었어...\n아침마다 다리미판 펴느라 진 다 빠졌거든ㅋㅋ\n알고 보니 옷걸이에 건 채로 세워서 스팀이 되더라\n난 이제 셔츠 걸고 2~3cm 띄워서 쭉 쏴줘\n너네 집 다리미도 세워져..?",
+  "image_prompt": "Casual smartphone photo at home, a wrinkled light blue shirt hanging on a wire hanger on a door frame, a steam iron held upright nearby with a little steam, cluttered hallway background, slightly tilted angle, ordinary indoor lighting, no people faces, no text, no logos",
+  "photo_query": "steam iron shirt",
+  "product_keyword": "스팀다리미",
+  "benchmark_note": "내 조회 상위글의 '물건 이름+고백 첫 줄... → 새로 살 뻔/나 뭐 한 거지 → 난 이제 숫자 → 너네도 ~..?' 5줄 구조와 42k글의 셀프 디스 첫 줄 말줄임표를 가져옴",
+  "products": [
+    {
+      "name": "[백화점 입점]풀라스 2in1 접이식 휴대용 핸디형 스팀다리미 1위 추천 여행용 가정용 미니 핸드 핸디 스팀 다리미 초경량 의류 clothes steam iron 여행 집들이 선물, 민트, FL-IR2000",
+      "price": 70980,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9388115642&itemId=27876909823&vendorItemId=94836027481&traceid=V0-153-f3831e030260afa1&clickBeacon=ca31f690-d509-11f1-ac67-0824cd2deb39%7E3&requestid=20261031180224810268498143&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/8NsZ1710IbbxKHtS8KVHgk1Ar0ObN60zf4RDXp-b1_SWpTpnCfno23mKyGbF29Y4_4IU3tJ5bFi-JGp3L0X4iBQN-7GeRQA7mCRcFYRtMLzwYbRiKBJfLLauh_gm-xIqv_EqvfD3QaxI7Z0__D_BkHMFx2YNkupMLwpGkLznfI_q9BZXsLFMy5IaFo0ungLjxEDutWEZsYlibmUZZYmTKLT4Msb9056VtQApexp7WboIq03ugdf0gtRSJTUbu--0gjZNHOEh4kW60zW-xfQNWq3bHbyKRny1vnYIn_p5V26r6Bgs42naWboMqZs2EpPFjBUx3b6lHG5pQ24Iz-qYeYoa74BXSG9nu9v2-Q8KL8l_Ce44nhh0wDXAuOFeNipp2HCU8DBkYrU1ylfphZjj5DGTFmTJ3vIxlL4X-EJCvGaGoyFAuUJsLvCoKsw1TAqzGUMsahrP0qTXiDgMJ3HGJ-4JAIdO7bM3K0x0CkRY2vuXWsYpu14gG1B4fLKjetY0UHUxcokL-iMzoXabiPMKXTCemHgQ7HiKoVCr4_gmfzF_"
+    },
+    {
+      "name": "스팀엑스 초고압 스팀다리미 세탁소급 올인원 다리미판일체형 다리미, 블랙, BCSI001B",
+      "price": 219000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9611579438&itemId=28696165424&vendorItemId=95694512610&traceid=V0-153-861ec02bb9d18303&clickBeacon=ca31f690-d509-11f1-8e1f-b649768f5037%7E3&requestid=20261031180224810268498143&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/dlP0zadUVaIXLuVMduISqZ9zSsoMu7g2flP3WJdpS_lp6meBFI_rYTBgLLtvjYEhQ5KhTnWQI12pCZRDgjAeSccpN_WeDXpXaiZ10AxiwyMcFb-k-kZe8hlJdTIkREWQeGP9TziBOD2sYH4h-wTReFDkV7y-y_Y5pFIQlr1qQxw1pymQoFZMkrBKkLI695OZe6-39RsL7QBG0rBYjArBPrvPdmX_m9oIIi4dBm_GfNy8SBsi9PKsCtqNC_oHYlzyR3jAIpoI5oJcmfWVh7TAFhzhpUCdc9BWntKpMqE3yGTlBmhDpE10h9TQ5HhDlF_INVYVZVMXjSwRM97qsh7Q1izQwfW0DhJ4MckCzPHdiBRBiSjpVt5hmmqxufcF1qlPerK-0ctlxwN76ko3_CFh85_f1dseFDlwj19Zg9ZKKnKSCRWrjoZgsJRZvBzLkXIhds5Ywd5Z9qsfJvjYD0we0qVCu2-vCwFmGEYZqwmxGpcQjTkLgQ3hGQnmQIPQYoNa9JRg0ePUFOAwSh0_NnjWsOozwVcoe9vZ"
+    },
+    {
+      "name": "홈플래닛 핸디형 스탠드 스팀다리미",
+      "price": 26990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=310080038&itemId=977484067&vendorItemId=5392665218&traceid=V0-153-c73a6d2a7fbf4b52&requestid=20261031180224810268498143&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/ZRu8YiUilSeyhXHQZSA6h7EA022YbRwq312W6CkjISPLByqLH1yfB_7CJZ5aDdVdvA_vn7JHpyEgPQMlwevR7TYZgW6hJpRvG1vJGfLeLPOH4t8CCkYMMSeUUwIv40S_XPiGXq3QUrux_eex2pAb084spLTrZgONHdN8R3Bloouyz4L-lWk4ARoso0PqShOs6-8SHYpRiP5kHM8ZSMKz5awnlBuAZUG-wtUgqHJ_1zFVU5GICsGtZ8qokBtVgtc6zaLxEsOFdwEyec6Wq9K3IGiohJpMy6vrOaJuXuOxn1zInaid331yigVcv44RFxEn-jWvLVssKneSEzQ2nyqhdZMF4sdRbMa0cjDRB4Sx2px8alLzNV1gfJ5igoqfsbwO-CHaJ8csWwrOwZB0Ep80x0uWwT6x-CiWrfRSYwDkL2Dr8ZTU_z8cax5XoZgqVZs2aJv7Mt31Zd161zoZ62DY83fy6xSdDRluQ4uiorwQzYP2CwZkeXzcTcRtwQ3x7PQCSVKaA6ovK25bA5DYtIcY"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 126,
+    "has_photo": true
+  }
+}
