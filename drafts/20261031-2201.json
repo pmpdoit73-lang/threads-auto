@@ -2,7 +2,7 @@
   "id": "20261031-2201",
   "created_at": "2026-10-31T22:01:47.488834+09:00",
   "publish_at": "2026-11-01T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 세탁기 '물 온도' 설정을 늘 40도로 두는 습관",
   "angle": "빨래 때마다 온수 40도 돌리던 습관, 세탁기 전기의 대부분이 물 데우는 데 쓰인다는 손해 포인트",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 152,
     "has_photo": true
-  }
+  },
+  "threads_id": "18157786060518827",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfLLmvCga9X",
+  "reply_id": "17918840040529937",
+  "published_at": "2026-11-01T07:01:40.226120+09:00"
 }
