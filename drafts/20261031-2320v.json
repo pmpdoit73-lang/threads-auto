@@ -1,0 +1,60 @@
+{
+  "id": "20261031-2320v",
+  "created_at": "2026-10-31T23:20:57.697239+09:00",
+  "publish_at": "2026-11-01T10:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "extra": true,
+  "issue": "사진: 실리콘 트레이 (230도 내열·열탕소독 되는 2,000원 집게 받침 트레이)",
+  "angle": "그냥 소품 접시인 줄 알았는데 230도 내열에 열탕소독·식세기까지 되는 2천원 주방템이라는 점",
+  "category": "주방",
+  "subject": "실리콘 트레이",
+  "hooks": [
+    "실리콘 트레이 2천원짜리 보고 그냥 지나칠 뻔... (9/10)",
+    "얘들아 와, 2천원 실리콘 트레이 뒷면 봤어? (8/10)",
+    "실리콘 트레이 그냥 비누받침인 줄 알았는데..? (8/10)",
+    "다이소 가서 실리콘 트레이 들었다 놨다 나 뭐 한 거지? (7/10)",
+    "실리콘 트레이 230도까지 버틴대 (0/10)"
+  ],
+  "text": "실리콘 트레이 2천원짜리 보고 그냥 지나칠 뻔...\n뒷면 읽다가 멈칫했잖아\n230도 내열에 끓는 물 열탕소독, 식세기까지 된대\n고기 굽다 집게 올려둘 데로 딱이겠더라\n너넨 이거 어디 둘 거야? 욕실?ㅋㅋ",
+  "product_keyword": "실리콘 트레이 집게받침",
+  "has_photo": true,
+  "album": [
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAObauX1W4fiNL8M1wYTGOIVf8Qw4BUAApIVaxtHjTFX6SJ1m1kiCvkBAAMCAAN5AAM9BA"
+    },
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAOcauX1W9OLd2KdKKPOb_-XBtvhSV0AApMVaxtHjTFX3h97VwgSxvkBAAMCAAN5AAM9BA"
+    }
+  ],
+  "media_group_id": "14347643615610845",
+  "image_note": "gil이 보낸 사진 2장 (넘겨 보기)",
+  "credit": "",
+  "products": [
+    {
+      "name": "디아르 유아용 플래티넘 실리콘 밀폐 냉동 이유식 트레이 9구, 아이보리, 2개",
+      "price": 12400,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7158030641&itemId=23950677401&vendorItemId=90972381775&traceid=V0-153-bdeab4cf3975bf45&clickBeacon=52eb2b10-d536-11f1-901c-18941d3b6f6f%7E3&requestid=20261031232112050221559541&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/-tSsNVHpRPtEDPcp-mX_CSEIMVOiY_7B-o-k419kx0e35Y1Al2visIfWL3UmSW0lN8M6kijym5Dv35gA8jtcmpPLEJjCq_CphWB6G8v1ef9RbETy1TzZLKFtQaotD28p0rQBfSPkk-kQRLOie5kJPjp3CsNRl5Pkh-a_mi8v5Q1GCgZS4HyAfQMhtqNtur0ebzy1mmRAt_oPCd6pZeUub-maWedtXcVM7SBlbSUB_3QdE9IGszBAytUk4RV-LJtRqHYGaTxjNl4Y7hyWho0lkWJMjk9ttwow5203oHC5CFYco_-GhcEvycPQWthMHOr2g1FJW6l9fP4DGYJ9Hrsae6vmFsTNxUdC0lsnw5kNmwDaqbUkeSrli1eozUuOnXHHSydsO09BwzbTZTaAUBhMbhhxRC58ud7iUD_L_FX8HB5TKxrp0ayVY6Qhx_rq08aPAY1NOFoJTDnhj1IhSCrDs2TW6SdTdojzJAEWJiq4_ayZl49RaV56AdTz3YZPRdWvOhWIY9ldPdI="
+    },
+    {
+      "name": "코지톡 특대형 주방 물빠짐 식기건조매트 실리콘 드라잉매트 트레이, 1단, 화이트, 1개",
+      "price": 15040,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8147781354&itemId=25211861688&vendorItemId=92261147647&traceid=V0-153-5db0e2e956bebc72&clickBeacon=52eb2b10-d536-11f1-b0ef-5e499e27b541%7E3&requestid=20261031232112050221559541&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/g8gDhIdL1vQ3Oiq_gzuJY2bQfN0K0Wmh2nSSxl6Cw7zC7iQdlvDonjqvVsOSiWo04mvg47vNSMmU79t7UgF7yhr5gNRhAKhL53vdVSOgo3mt4u1dlRDZ0p-CCQEIyzfBnbEf-MCKPEy17UZ7BkVT5--TC6jpdvjmS9qKpRq7dbTg_1lqzMsPhox5MMCuaP4r1MQlcYu_61hL4PuW5ZemtAw8sG3Ku0Pp0cjzWxzRPaFCGNZ54L2X0U2OrjlcqRw6Qvqejyvw5XQM8OEL7-XGtA06yaavd72g4uQwjRHngvcw6Jo67PpApUkMXdvRAqBkXW15h8iIzS_JQCGJ4tJV9t2HKiFIZ-ukK0oY6v4sF7n_sU8oxZzy0k3sXgDJl199DvV_7z79wWPEgURLllapOskw3DB_k38xjDCDwkClFGs8VoMb44mUutnQN6Sy2ccBGG-tCZx_wAr6_uW0O6FfmHeeRmIA1fQ6t6m7C8i5c5WBw9CbCpYIq8LJdtKDi4IlYM2Yy_vL7c6yjcm1xJtw_0uedtOD6cRMPA=="
+    },
+    {
+      "name": "에이드엘 일립스 실리콘 트레이 2p",
+      "price": 8630.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4697886365&itemId=2253818568&vendorItemId=70251168713&traceid=V0-153-e6dbb55392b1ae07&requestid=20261031232112050221559541&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/PfgFdmL2-NKtBaBEPR7QcMHLDdiwhAOA1KOD_TtJ7XMfohZEpYMZaxyv6NZGNSIhwvRGwqwqhgg5XNpJAzPQtKmG1XD6Sswld4Gw05l7Gz9WC7H0wxzjI3OZyHZB2MuqZs_B7-9gcdgh5mOLvmqjj15Lntlij7su2bINCAB6znTxWYobTpw0TQyeVradBJqVWJoPw2Leb3zHKq049x6wQbu34heZGTOcAYzNeqnLJB-dTZfUTx5p0Of37lXywnfOnKBLsRBYJf4lLTpJLuRvMi3siDbY09RuEid4f7tB38fx_voN5VjEqWAlXVzA_nYaTWpCu9UScyDvzMUB1D-JSYNvjmGcIrekCGAPJh4DqdHBXJCd5Zepao8yACdQk69XvyFX_9As7uYaVmK511n_6TZUPXCXa2VO5SvJieTOrFCCotgiglxLO8Bs1Elz_hDnwWZApBAZynrliJFyGp3lK2vb0ntef4hiQDmgAhn_R-bNKhlQNFaKppmYkPBnahmYxzJCR8lqnFjKiP9J4HewWg0uM5z6XLiFHyOBMau5Eka4fGx_5i0N_mPy5D0="
+    }
+  ],
+  "format": "both",
+  "message": {
+    "message_id": 159,
+    "has_photo": true
+  }
+}
