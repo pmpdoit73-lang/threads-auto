@@ -2,7 +2,7 @@
   "id": "20261031-1945v",
   "created_at": "2026-10-31T19:45:52.679343+09:00",
   "publish_at": "2026-11-01T08:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "사진: 실리콘 스트랩 (병뚜껑 감아서 여는 1,000원 병따개)",
@@ -56,5 +56,9 @@
   "message": {
     "message_id": 150,
     "has_photo": true
-  }
+  },
+  "threads_id": "18108588698211244",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfLStRAnQ2b",
+  "reply_id": "18136608301737698",
+  "published_at": "2026-11-01T08:03:33.928131+09:00"
 }
