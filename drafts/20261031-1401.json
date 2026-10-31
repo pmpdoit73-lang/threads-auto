@@ -1,0 +1,50 @@
+{
+  "id": "20261031-1401",
+  "created_at": "2026-10-31T14:01:10.890800+09:00",
+  "publish_at": "2026-10-31T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 수세미·고무장갑 말고, 싱크대 수전 헤드 당기면 늘어나는 샤워 호스 기능",
+  "angle": "싱크대 수전 헤드가 당겨서 빠지는 줄 몰라 개수대 구석·큰 냄비 씻을 때 고생하던 실수",
+  "category": "주방",
+  "subject": "싱크대 수전",
+  "hooks": [
+    "싱크대 수전 30년 썼는데 오늘 처음 알았어... (8/10)",
+    "싱크대 수전 잡아당겼다가 깜짝 놀랐는데..? (9/10)",
+    "얘들아 와, 싱크대 수전에 이런 기능이 있었어? (7/10)",
+    "싱크대 수전 물줄기 버튼 원래 장식인 줄 알았는데..? (7/10)",
+    "싱크대 수전 옆에 두고 바가지로 물 퍼 나르던 나... (8/10)"
+  ],
+  "text": "싱크대 수전 잡아당겼다가 깜짝 놀랐는데..?\n큰 냄비 헹굴 때마다 바가지로 물 퍼 나르던 나 뭐 한 거지ㅋㅋ\n헤드가 호스째 쭉 빠지는 당김형이더라\n난 이제 50cm쯤 빼서 개수대 구석까지 샤워로 헹궈\n너네 집 수전도 빠지는 거야..?",
+  "image_prompt": "Casual smartphone photo of a home kitchen sink, a pull-out faucet head stretched out on its hose over a large stainless pot in the sink, water droplets, slightly tilted angle, ordinary cluttered countertop with dish soap and sponge, dim indoor lighting, no people, no text, no logos",
+  "photo_query": "pull out faucet kitchen",
+  "product_keyword": "주방 당김형 수전",
+  "benchmark_note": "내 글 상위권의 '물건 이름+말줄임표 첫 줄 → 나 뭐 한 거지 셀프디스 → 난 이제 숫자 → 너네도 ~알았어..?' 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "세타필 모이스춰라이징 크림, 550g, 1개",
+      "price": 13260,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9303936790&itemId=14017346930&vendorItemId=80519514869&traceid=V0-153-5ab312a2120cbdec&pt=0&requestid=20261031140132734001393880&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/_TV8X0lFrPAy7CXD_T5Raw34JAokqJoUW35ZMRKUNSBcSJkxoBQWZiDHqM1448KrJD9PozQL4ZpnaNSVteFFEow2nxt_eLmoihGTvtr_pY1lbDOrW-knpi7py3MoEyQayVR0aeInF-sD7U4BvfbogQ6MztfLch9QudAtEnWCqX1i1VwjK34Nx0gLiqrbUGhDiWemQzeXXIuUPkMixaU6aw8NZ7Amrlwl4ocC30qsHhsF3mDxlf_W-GSbKbOJynyPk7T7ur_dgDjdZYuRxMlZjbTKTRj_ILVt3Cl34I7xIV813P2jqYbfcrCroj7cJ5T7KPV8ycoQu0eGrX4kfUGXa4tn9J4m10NvDzHIR4KT-ARCeYNVEb5ds4tepHumvbWaYhBRb9E0WJAUHi3wfLnzpyJatDT99X4Qe_e5eHG8nUY0nVnTjD8wppbZPUcFNW9M3jzOxdBsGrOb2Bo-78JbozQ0vhFVzCcGUx4J5tawQ8PzYIlEvZGevLPYCBoEC-PnALN7rLeTRrh35dUegcXzllc="
+    },
+    {
+      "name": "코멧 오리지널 유아용 아기물티슈 캡형, 50g, 100매, 10개",
+      "price": 8990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=188227098&itemId=537550763&vendorItemId=4403776090&traceid=V0-153-91fd29a018dd6edb&pt=0&requestid=20261031140132734001393880&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/gApy9PyVU7QNHBlagI8FXDMVPcsat-fNOgz28t5Pu8Vnqw5_mYOVe4FYfuSa0tVfsDUraPhYE1G1Go6NozqzqDmdz8reCiEbAwubEWvJMQicWREgGDRsydxVzlLAbiSwhnsVeValP60ickdj3wwb5fRaHlFipmjxxvmPGH_6VFGS4FJT4SK8-O_phkTJylANj7g4tNut0zN25pfF5hSCwlP5w90zFEOyxmejsc7E3QqfNGue-bhET8uULPDMTa0KfqyxR4rgTgAHlep4HHvr3k-WtED9oX4mtzVc68s_gASLp4sEgptOFf_DQXNV83Jjo5NJzaL3Und1nHT_vVmThVeS8y9E83PH7K6k5HKtJb-U54_VZOKPJFsSORFzMcK72vCXcgJwviVhBe8p5Kvrap1Iq9J_Qpocd1zR2DUPvny-VJvUsxPbEw9cZdebeX1j5FALcWY-nKywO5xoA6uJFCcQgpgIHZTbZVwDoqMN7xUn6cy47Ko6DztQw384izmrDsAQ8vlZAg-DGBC-cpMm"
+    },
+    {
+      "name": "리큐 진한겔 꿉꿉한 냄새 원인물질 싹 일반드럼겸용 프레쉬 런드리향 액상세제 리필, 2.1L, 6개",
+      "price": 19070,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6746052927&itemId=18714537128&vendorItemId=85322527876&traceid=V0-153-85557433e12a0031&pt=0&requestid=20261031140132734001393880&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/EYe4SED0F9lZMzlaEVte3JdsK6Yv3fAD2DwzqrWQpgUy5idPIPEI3Icq2qIViIFapigcMEuexzn3XwPmjgHpCuHf8fm_Pb8UyfBeafg-p1B8dr-E-l49EfaSN6RFURSd-LlkhSJPzDadCk1e5b4pa2mhLlQuAb9jOuiyRsZCIW33RYmknvMp1czjEfaBIRFq0ZlqqvTQFKePuiE0UKuHJEBgLPr0cZKzwUC5wCSzTG2Sx52o35_GbBFsM1Uf7To7xzVBN3SohzpYU8fAvV-WYRphs0mVkXeoMvJzotH7OaoU4IurcD6nLRwKjoEPw1UyOyrmk811o9o498Lm4o7WV6sE65buBOZjuFJP3FrruHGcVbq6hJQq_JB8H2r7kZriN9SMTbMSqwig3xtpICjMHgcMwhIwmRQyFNh7NtowEZudVbOtrMYMtq1CXxY82q-BZ7bUVupmssxFDUBAxFEyI3nHntC7w3TUdef4--5_jJhPFM9zyEPH0C5242jdNZ3pz3URmKi8MiGbaCEivGUKtbo="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 125,
+    "has_photo": true
+  }
+}
