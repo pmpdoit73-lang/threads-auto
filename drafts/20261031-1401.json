@@ -2,7 +2,7 @@
   "id": "20261031-1401",
   "created_at": "2026-10-31T14:01:10.890800+09:00",
   "publish_at": "2026-10-31T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 수세미·고무장갑 말고, 싱크대 수전 헤드 당기면 늘어나는 샤워 호스 기능",
   "angle": "싱크대 수전 헤드가 당겨서 빠지는 줄 몰라 개수대 구석·큰 냄비 씻을 때 고생하던 실수",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 125,
     "has_photo": true
-  }
+  },
+  "threads_id": "17914702275513210",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfJyVhBlcle",
+  "reply_id": "18121102895063258",
+  "published_at": "2026-10-31T18:01:28.210386+09:00"
 }
