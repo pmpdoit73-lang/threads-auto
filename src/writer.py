@@ -177,11 +177,11 @@ MEDIA_SCHEMA = {
 }
 
 
-def write_for_media(about, kind, used=(), external=None, image=None):
+def write_for_media(about, kind, used=(), external=None, images=(), videos=0):
     """gil이 보낸 영상·사진(또는 인용할 글) 위에 얹을 글을 쓴다. about: gil이 적은 물건·주제."""
     used_text = "\n".join(f"- {day} {subject}: {issue}" for day, subject, issue in used) or "(없음)"
     if kind == "photo":
-        return _write_for_photo(about, used_text, external, image)
+        return _write_for_photo(about, used_text, external, images, videos)
     where = ("이 글은 다른 사람의 쓰레드 영상 글을 '인용'해서 그 위에 얹는 글이야. 영상은 아래에 따로 보여."
              if kind == "quote" else "이 글은 영상과 함께 올라가. 영상에서 물건을 직접 써 보는 장면이 나와.")
     user_msg = (
@@ -203,10 +203,15 @@ def write_for_media(about, kind, used=(), external=None, image=None):
     return post
 
 
-def _write_for_photo(topic, used_text, external, image):
+def _write_for_photo(topic, used_text, external, images, videos=0):
     """gil이 직접 고른 사진과 주제로 글을 쓴다. 사진은 Claude가 함께 본다."""
+    many = ""
+    if len(images) + videos > 1:
+        many = (f"사진 {len(images)}장" + (f"과 영상 {videos}개" if videos else "")
+                + "가 한 글에 넘겨 보기로 올라가. 영상은 너에게 안 보이니 사진과 메모로만 판단해.\n")
     user_msg = (
         "이 글은 gil이 직접 보낸 사진과 함께 올라가. 사진을 보고, 아래 주제로 써.\n"
+        f"{many}"
         f"제품명·주제 (gil 메모): {topic}\n(제품명이면 그 물건이 주인공이야. 첫 줄 subject에 그 물건 이름을 넣어.)\n\n"
         f"최근 30일 동안 올린 글 (같은 문장·같은 팁은 되풀이하지 마):\n{used_text}\n\n"
         "1. 주제와 사진에서 보이는 것만 써. 확실하지 않은 기능·숫자·가격은 지어내지 마.\n"
@@ -218,15 +223,15 @@ def _write_for_photo(topic, used_text, external, image):
         + _external_text(external)
     )
     content = user_msg
-    if image:
-        media = "image/png" if image[:4] == b"\x89PNG" else "image/jpeg"
-        content = [{"type": "image", "source": {"type": "base64", "media_type": media,
-                                                "data": base64.b64encode(image).decode()}},
-                   {"type": "text", "text": user_msg}]
+    if images:
+        content = [{"type": "image", "source": {"type": "base64",
+                                                "media_type": "image/png" if img[:4] == b"\x89PNG" else "image/jpeg",
+                                                "data": base64.b64encode(img).decode()}}
+                   for img in images[:10]] + [{"type": "text", "text": user_msg}]
     post = _ask(content, MEDIA_SCHEMA)
     if not _subject_ok(post):
         retry = "\n\n주의: 첫 두 줄에 물건 이름이 빠졌어. 첫 줄에 subject를 그대로 넣어서 다시 써."
-        post = _ask(content[:-1] + [{"type": "text", "text": user_msg + retry}] if image else user_msg + retry,
+        post = _ask(content[:-1] + [{"type": "text", "text": user_msg + retry}] if images else user_msg + retry,
                     MEDIA_SCHEMA)
     return post
 

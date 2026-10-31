@@ -289,13 +289,19 @@ def create_extra(item):
 def attach(d, item):
     """영상·인용 링크·사진으로 이 초안의 글을 쓴다."""
     about, credit = media.split_memo(item.get("memo", ""))
-    image = telegram.download_file(item["file_id"]) if item["kind"] == "photo" else None
-    post = writer.write_for_media(about, item["kind"], used_topics(exclude_id=d.get("id")), bench_store.load(), image)
+    files = album_files(item)
+    images = [telegram.download_file(f["file_id"]) for f in files if f["type"] == "photo"]
+    videos = sum(f["type"] == "video" for f in files)
+    post = writer.write_for_media(about, item["kind"], used_topics(exclude_id=d.get("id")), bench_store.load(),
+                                  images, videos)
     d.update(post)
-    if image:  # 사진은 보통 사진 글처럼 저장 (텔레그램 미리보기·게시가 그대로 됨)
-        path(d["id"], "png").write_bytes(image)
-        d["has_photo"] = True
-        d["image_note"] = "gil이 보낸 사진"
+    if item["kind"] == "photo":  # 사진은 보통 사진 글처럼 저장 (텔레그램 미리보기·게시가 그대로 됨)
+        if images:
+            path(d["id"], "png").write_bytes(images[0])
+            d["has_photo"] = True
+        d["album"] = files  # 2개 이상이면 게시 때 텔레그램에서 다시 받아 넘겨 보기 글로
+        d["media_group_id"] = item.get("media_group_id")
+        d["image_note"] = album_note(files)
     else:
         d["media"] = item
     d["credit"] = credit
@@ -309,6 +315,32 @@ def attach(d, item):
         d["products"] = []
     d["product"] = 0
     d["format"] = default_format(d)
+    save(d)
+
+
+def album_files(item):
+    """gil이 보낸 사진 글의 파일 목록 (한 장이면 그 한 장)."""
+    if item["kind"] != "photo":
+        return []
+    return item.get("files") or [{"type": "photo", "file_id": item["file_id"]}]
+
+
+def album_note(files):
+    photos = sum(f["type"] == "photo" for f in files)
+    videos = len(files) - photos
+    if len(files) == 1:
+        return "gil이 보낸 사진"
+    return "gil이 보낸 " + " + ".join(x for x in (f"사진 {photos}장" if photos else "",
+                                                f"영상 {videos}개" if videos else "") if x) + " (넘겨 보기)"
+
+
+def add_to_album(d, files):
+    """나중에 도착한 같은 묶음 사진·영상을 초안에 더한다."""
+    album = d["album"]
+    known = {f["file_id"] for f in album}
+    album += [f for f in files if f["file_id"] not in known]
+    d["album"] = album[:20]
+    d["image_note"] = album_note(d["album"])
     save(d)
 
 
@@ -332,7 +364,7 @@ def new_photo(d):
 # ---------- 텔레그램 표시 ----------
 
 def wants_photo(d):
-    return d["format"] in ("both", "photo") and d.get("has_photo") and not d.get("media")
+    return d["format"] in ("both", "photo") and (d.get("has_photo") or d.get("album")) and not d.get("media")
 
 
 def wants_coupang(d):

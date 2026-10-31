@@ -65,10 +65,13 @@ def publish(d):
         video_url = hosting.upload_temp(media.fetch(item), f"{d['id']}.mp4")
     elif item and item["kind"] == "quote":
         quote_id, link_url = item.get("quote_id"), None if item.get("quote_id") else item["url"]
+    elif draft.wants_photo(d) and len(d.get("album") or []) > 1:
+        post_id = threads_api.post_carousel(draft.final_text(d), album_urls(d))
     elif draft.wants_photo(d):
         image_url = hosting.upload_temp(draft.photo_bytes(d), f"{d['id']}.png")
-    post_id = threads_api.post(draft.final_text(d), image_url=image_url, video_url=video_url,
-                               quote_post_id=quote_id, link_url=link_url)
+    if not (draft.wants_photo(d) and len(d.get("album") or []) > 1):
+        post_id = threads_api.post(draft.final_text(d), image_url=image_url, video_url=video_url,
+                                   quote_post_id=quote_id, link_url=link_url)
     d["threads_id"] = post_id
     d["permalink"] = threads_api.permalink(post_id)
 
@@ -88,6 +91,18 @@ def publish(d):
             d["error"] = f"본문은 올라갔지만 인스타 댓글은 실패했어요: {e}"
     d["status"] = "published"
     d["published_at"] = datetime.now(draft.KST).isoformat()
+
+
+def album_urls(d):
+    """여러 장 글의 사진·영상을 텔레그램에서 다시 받아 공개 주소로 올린다."""
+    items = []
+    for i, f in enumerate(d["album"]):
+        data = telegram.download_file(f["file_id"])
+        ext = "mp4" if f["type"] == "video" else "png"
+        if f["type"] == "video":
+            media._check_video(data)
+        items.append((f["type"], hosting.upload_temp(data, f"{d['id']}-{i + 1}.{ext}")))
+    return items
 
 
 def try_publish(d):
@@ -260,13 +275,54 @@ def post_topic(message):
     return rest.lstrip(" :\n")
 
 
-def handle_photo_post(message, topic):
-    """설명란이 '글'로 시작하는 사진 → 그 사진과 주제로 추가 초안."""
-    if message.get("photo"):
-        file_id = max(message["photo"], key=lambda p: p.get("file_size", 0))["file_id"]
-    else:
-        file_id = message["document"]["file_id"]
-    add_media({"kind": "photo", "file_id": file_id, "url": "", "memo": topic})
+def is_photo(msg):
+    return bool(msg.get("photo") or (msg.get("document") or {}).get("mime_type", "").startswith("image/"))
+
+
+def is_video(msg):
+    return bool(msg.get("video") or (msg.get("document") or {}).get("mime_type", "").startswith("video/"))
+
+
+def media_file(msg):
+    """메시지 속 사진·영상 하나 → {"type", "file_id"}."""
+    if msg.get("photo"):
+        return {"type": "photo", "file_id": max(msg["photo"], key=lambda p: p.get("file_size", 0))["file_id"]}
+    if msg.get("video"):
+        return {"type": "video", "file_id": msg["video"]["file_id"], "size": msg["video"].get("file_size", 0)}
+    doc = msg["document"]
+    kind = "video" if doc.get("mime_type", "").startswith("video/") else "photo"
+    return {"type": kind, "file_id": doc["file_id"], "size": doc.get("file_size", 0)}
+
+
+def handle_photo_post(messages, topic):
+    """설명란이 '글'로 시작하는 사진(여러 장 묶음이면 묶음 전체) → 그 사진들과 주제로 추가 초안."""
+    files = [media_file(m) for m in messages]
+    big = [f for f in files if f.get("size", 0) > media.TELEGRAM_MB << 20]
+    if big:
+        telegram.send_text(f"🎬 텔레그램으로는 {media.TELEGRAM_MB}MB까지만 받을 수 있어서 큰 영상 {len(big)}개는 빼고 만들게요.")
+        files = [f for f in files if f not in big]
+    if not files:
+        return
+    for f in files:
+        f.pop("size", None)
+    first_photo = next((f["file_id"] for f in files if f["type"] == "photo"), files[0]["file_id"])
+    add_media({"kind": "photo", "file_id": first_photo, "files": files, "url": "", "memo": topic,
+               "media_group_id": messages[0].get("media_group_id")})
+
+
+def add_late_album_part(messages):
+    """묶음 사진이 확인 시간을 걸쳐 나뉘어 도착했을 때, 이미 만든 초안에 붙인다. 붙였으면 True."""
+    gid = messages[0].get("media_group_id")
+    d = next((x for x in draft.open_drafts() if gid and x.get("media_group_id") == gid), None)
+    if not d:
+        return False
+    draft.add_to_album(d, [{k: v for k, v in media_file(m).items() if k != "size"} for m in messages])
+    try:
+        draft.refresh(d)
+        telegram.send_text(f"📷 같이 보낸 사진·영상을 초안에 더했어요: {d['image_note']}")
+    except Exception as e:
+        print(f"[poll] 묶음 더한 뒤 알림 실패: {e}")
+    return True
 
 
 def handle_video(message):
@@ -283,15 +339,33 @@ def process_buttons():
     offset = read_offset()
     updates = telegram.get_updates(offset)
     allowed = str(telegram._chat_id())
+    # 텔레그램은 여러 장을 한 번에 보내면 한 장씩 따로 오고, 설명란은 한 장에만 붙는다 → 묶음별로 모음
+    groups = {}
+    for u in updates:
+        m = u.get("message") or {}
+        if m.get("media_group_id") and str(m.get("from", {}).get("id")) == allowed and (is_photo(m) or is_video(m)):
+            groups.setdefault(m["media_group_id"], []).append(m)
+    done_groups = set()
     for u in updates:
         offset = max(offset, u["update_id"] + 1)
         msg = u.get("message")
         if msg:
-            if str(msg.get("from", {}).get("id")) == allowed and (msg.get("photo") or
-                    (msg.get("document") or {}).get("mime_type", "").startswith("image/")) and \
-                    post_topic(msg) is not None:
+            gid = msg.get("media_group_id")
+            members = groups.get(gid, [msg]) if gid else [msg]
+            topic = next((post_topic(m) for m in members if post_topic(m) is not None), None)
+            if gid in done_groups:
+                pass  # 묶음은 첫 장에서 한꺼번에 처리함
+            elif gid and gid in groups and (topic is not None or add_late_album_part(members)):
+                done_groups.add(gid)
+                if topic is not None:
+                    try:
+                        handle_photo_post(members, topic)
+                    except Exception as e:
+                        print(f"[poll] 사진 글 만들기 실패: {e}")
+                        telegram.send_text(f"📷 사진 글 만들기 실패: {str(e)[:150]}")
+            elif str(msg.get("from", {}).get("id")) == allowed and is_photo(msg) and post_topic(msg) is not None:
                 try:
-                    handle_photo_post(msg, post_topic(msg))
+                    handle_photo_post([msg], post_topic(msg))
                 except Exception as e:
                     print(f"[poll] 사진 글 만들기 실패: {e}")
                     telegram.send_text(f"📷 사진 글 만들기 실패: {str(e)[:150]}")
