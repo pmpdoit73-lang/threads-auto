@@ -2,7 +2,7 @@
   "id": "20261031-1940v",
   "created_at": "2026-10-31T19:40:40.318224+09:00",
   "publish_at": "2026-10-31T22:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "사진: 선반 걸이형 컵 건조대 (선반 밑 빈 공간에 끼우는 2,000원 컵걸이)",
@@ -52,5 +52,9 @@
   "message": {
     "message_id": 146,
     "has_photo": true
-  }
+  },
+  "threads_id": "18347704384264317",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfKNzOwFtWj",
+  "reply_id": "18121099240770768",
+  "published_at": "2026-10-31T22:01:26.800635+09:00"
 }
