@@ -2,7 +2,7 @@
   "id": "20261031-1928v",
   "created_at": "2026-10-31T19:28:44.876280+09:00",
   "publish_at": "2026-10-31T22:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "사진: 엄지장갑형 때타월 (손목밴드로 안 벗겨지는 1,000원 때타월)",
@@ -56,5 +56,9 @@
   "message": {
     "message_id": 143,
     "has_photo": true
-  }
+  },
+  "threads_id": "18440247550199498",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfJ8uIGHB0Q",
+  "reply_id": "18351233005255731",
+  "published_at": "2026-10-31T19:32:02.756286+09:00"
 }
