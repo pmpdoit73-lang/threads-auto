@@ -74,6 +74,20 @@ def post(text, image_url=None, reply_to_id=None, video_url=None, quote_post_id=N
     return _publish(container, wait_tries=50 if video_url else 10)  # 영상은 처리가 오래 걸려 최대 5분 기다림
 
 
+def post_carousel(text, items):
+    """사진·영상 여러 개를 넘겨 보는 글 하나로 올린다. items: [("photo"|"video", 공개 URL), ...] 2~20개."""
+    children = []
+    for kind, url in items[:20]:
+        params = ({"media_type": "VIDEO", "video_url": url} if kind == "video"
+                  else {"media_type": "IMAGE", "image_url": url})
+        children.append(_post("me/threads", is_carousel_item="true", **params)["id"])
+    has_video = any(kind == "video" for kind, _ in items)
+    for child in children:  # 묶기 전에 하나하나 준비가 끝나야 함
+        _wait_ready(child, 50 if has_video else 10)
+    container = _post("me/threads", media_type="CAROUSEL", children=",".join(children), text=text)["id"]
+    return _publish(container)
+
+
 def permalink(post_id):
     try:
         return _get(post_id, fields="permalink").get("permalink", "")
