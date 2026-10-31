@@ -1,0 +1,50 @@
+{
+  "id": "20261101-0800",
+  "created_at": "2026-11-01T08:00:54.887046+09:00",
+  "publish_at": "2026-11-01T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 도어 알람 말고, 전기밥솥 아닌 '전자레인지 일시정지 후 뒤집기' 대신 '수납장 문 안쪽 공간 활용' — 지퍼백 보관 실수",
+  "angle": "지퍼백을 눕혀 쌓아 서랍 공간을 날리던 습관, 세워서 파일처럼 꽂으면 자리·찾는 시간 다 아낀다는 보관법",
+  "category": "주방",
+  "subject": "지퍼백",
+  "hooks": [
+    "지퍼백 정리하다가... 나 뭐 한 거지? (8/10)",
+    "냉동실 지퍼백 30년을 이렇게 넣었어... (9/10)",
+    "얘들아 지퍼백 이렇게 넣으면 자리가 두 배야? (6/10)",
+    "냉동실 지퍼백 꺼내다 와르르... 이유가 있었네 (7/10)",
+    "지퍼백 원래 눕혀 넣는 거 아니었어..? (7/10)"
+  ],
+  "text": "냉동실 지퍼백 30년을 이렇게 넣었어...\n꺼낼 때마다 와르르, 뭐가 뭔지도 모르고ㅋㅋ\n알고 보니 납작하게 얼려서 세우면 되는 거였어\n난 이제 1~2cm로 펴서 얼린 뒤 책처럼 꽂아\n너네도 차곡차곡 눕혀 쌓고 있었어..?",
+  "image_prompt": "Snapshot taken with a phone inside a home freezer drawer, several flat frozen zipper bags of food standing upright like files, slightly crooked angle, frost on edges, ordinary kitchen lighting, no people, no text, no logos",
+  "photo_query": "freezer bags organized",
+  "product_keyword": "냉동실 정리 트레이",
+  "benchmark_note": "내 글 807조회의 '물건 이름+실수 고백...' 첫 줄, '난 이제 ~해' 숫자 공개, 마지막 '너네도 ~했어..?' 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "존글로벌 다용도 보관함, 4개, 투명",
+      "price": 7990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9174369730&itemId=27631955826&vendorItemId=94044785569&traceid=V0-153-2bcadb510196d7ad&clickBeacon=fb8a5aa0-d57e-11f1-8aae-229bc4f23dcb%7E3&requestid=20261101080118691129832254&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/alXSOPqk2evS0CB6apR5ZRPnqiIZE_HbpWalVucHdO1K5hQ18nLkhd2ej_KJv_mTl-v4iAz0XvAhntJdmSBn3zd42QEp7OftPjlUrWritoGZGsI1oc0iQM5oyqLlyc1JhsEnIj67QvbPMAEP8VDDD9Z-nS_6mYxGcggFeh-oU34DwLatc3p6mfjHi4PPLq3FleLuGgi7C8a0tQDjhzTfaIsEy8kRoJV-QnuSamUeDrZiml82aGKFaEP1vY3myfzge6C_qs0hTfJtz7qfeC375z91Wd0rnhHlIX4uC71HdqLyGVG_8x3RP4e0XPOrixdFBA6Bl_qAxnK80HAwPMY2k_TZTqjkWLWyf7_4_GMaHz1Rcmu5UGAhTqRyd62tXGnJ3EAVDs7P-DeJRE1MpgyploBARpO9quJrxhXwZO7_SMRyxPNTEvWXsPEx4fD5XzUn_9BgvvaeVkP1vFa_2UFgFUT0ayh3YoDfAFB5Ka4SrNpkfgSDcBYBJLgUiZLdSRrz3bsbvju7jqk="
+    },
+    {
+      "name": "하코리 냉장고 정리 대형 다용도 트레이, 4개, 투명",
+      "price": 18900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8819129406&itemId=29069148054&vendorItemId=95995403921&traceid=V0-153-545c5fa08a441d7a&clickBeacon=fb8a5aa0-d57e-11f1-9cb6-272bffab3838%7E3&requestid=20261101080118691129832254&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/K78Aq6yueohHL6U5KxQRS4dsKDAvfs-alh5H_hypV70l0qS4-8Q2AdssrMRBC6J-9YepSOWXtLyWS6bMNzO2cq5vnMXjIOTlB3LdQ47pQ1dt7iXifOcRTeeDhw4czhe2BGrdO2Pn6crARp61aZh7_63THwszaN6Dzrgha8lLwm4qFw94oBFK1gKTLxL-95bnMXOW-fErNj6itQamJfJMmve5GyFD5kbwDrB2ebR5P18k6bYDU8u4KWU57Lmm0y6o-XNER1d3eq0iIo_YtwtedU7PXmq7TsQ4qx7mGCXP9dpupiuHgJf2a3bzEe0JvlBohnwQAIG4EUlkCDyfCIsKQ_RiTXPnp7ZWrzvGo6erDVIltFNpv6dE06EjEsBepE_BMp0wcESGIhmcu_9SfinFKAqQSIPkhRPvjwC0P5fXBiSy-ieME7YoZGwzuOmfBLcypZy__URiofPzEsc7v7-k37Zk5OPJMVeEPy3MJqDLev-Qc65sh-UhzEvK_wjnIAMljPWpjhUhHS_EGEprEBG7IEhZmFTy2OrQ"
+    },
+    {
+      "name": "한누네 국내생산 다용도 냉장고 정리함",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9472473568&itemId=28195520033&vendorItemId=95149932700&traceid=V0-153-ea6b9b52d214a290&requestid=20261101080118691129832254&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/YgtSS1rovaqokFV2YvVtEwN2zRvB_SG2Thbsx474BOquWF_xh-VC797UiFOLbhURr3VWUHGoZcsNrRFpg7UjUpvMBnz_Skzb-R2QfokjJsNMa8tiVFGdCOeqlK-VF0QA1NOv7nTM4ernKYNkOzMSkhc-CMOo6KXXBU3icUT3S06Z1E3zNd-jWHM2TRcgJxiFnu4cf9ZibFJJBUd_4bmxHSHHnMjGp9zwv_pvNkRI8DaxS4ZrA-JqxVHqn7WBDZ3qV7BPtG0u17Bk8XslWslBuMornNprOMkFjCle1hZU3Fk5kl4FBm2n4LGjSBgtVY94qfnaXAq9_Bc6-l2WzeIGFfSQ7hVx3xQyD9ze6gek2n94ZxiraEHrIGWJYSYYF3A8brHgkPJ5hG0WEbm43DEXmE1VBDr3C_aR-Xz-r5j6EyOFycQk2C9zJ1X7J9WT7C8JtSydKKfkZLTg-5JJ5eVI-eW9sLT-WWRJJsID7gUBTygHb26sGkHDC9ZEPd1Q4UXhumNb84UvDvqitmbhU26ol5UMdHwDgZnuYnxl8lybjipjDoA="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 161,
+    "has_photo": true
+  }
+}
