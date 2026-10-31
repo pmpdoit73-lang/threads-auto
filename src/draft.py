@@ -300,8 +300,8 @@ def attach(d, item):
         d["media"] = item
     d["credit"] = credit
     d.pop("edited_by_hand", None)
-    # 영상은 gil이 적은 제품명으로 먼저, 사진은 주제라서 Claude가 정한 키워드로 먼저 찾음
-    keywords = [post["product_keyword"], about] if image else [about, post["product_keyword"]]
+    # 영상·사진 모두 gil이 적은 제품명으로 먼저, 없으면 Claude가 정한 키워드로 찾음
+    keywords = [about, post["product_keyword"]]
     try:
         d["products"] = coupang.search_products(keywords[0]) or coupang.search_products(keywords[1])
     except Exception as e:
