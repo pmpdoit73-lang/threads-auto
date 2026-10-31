@@ -1,0 +1,60 @@
+{
+  "id": "20261031-1945v",
+  "created_at": "2026-10-31T19:45:52.679343+09:00",
+  "publish_at": "2026-11-01T08:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "extra": true,
+  "issue": "사진: 실리콘 스트랩 (병뚜껑 감아서 여는 1,000원 병따개)",
+  "angle": "안 열리는 잼병 뚜껑 때문에 고무장갑·숟가락으로 씨름하던 실수, 1,000원 스트랩으로 감아 돌리면 끝",
+  "category": "주방",
+  "subject": "실리콘 스트랩",
+  "hooks": [
+    "실리콘 스트랩 하나 보고 30년 헛고생한 거 알았어...(9/10)",
+    "잼병 뚜껑 숟가락으로 두드리던 나, 실리콘 스트랩 보고 현타...(8/10)",
+    "얘들아 와, 실리콘 스트랩이 이런 데 쓰는 거였어?(7/10)",
+    "실리콘 스트랩 이거 머리끈인 줄 알았는데..?(7/10)",
+    "실리콘 스트랩으로 병뚜껑 쉽게 열어.(0/10)"
+  ],
+  "text": "실리콘 스트랩 하나 보고 30년 헛고생한 거 알았어...\n잼병 안 열리면 숟가락으로 두드리고 난리였거든ㅋㅋ\n이건 뚜껑에 감아서 길이 맞추고 손잡이 잡고 돌리면 끝\n4cm 페트병부터 10cm 잼병까지 되는데 1,000원이야\n너네는 안 열리는 뚜껑 어떻게 열어?",
+  "product_keyword": "실리콘 병뚜껑 오프너",
+  "has_photo": true,
+  "album": [
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAOUauXGmvPNDjx2TvfR0i983OYBHbUAAhIVaxtHjTFXciitt0yT5LUBAAMCAAN5AAM9BA"
+    },
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAOVauXGmodPSNstdygpSOZwFmehtrYAAhMVaxtHjTFX3zCzlqczCVMBAAMCAAN5AAM9BA"
+    }
+  ],
+  "media_group_id": "14347547862973861",
+  "image_note": "gil이 보낸 사진 2장 (넘겨 보기)",
+  "credit": "",
+  "products": [
+    {
+      "name": "아워웍스 베이킹 요리용 실리콘 스파츌라 4종 세트, 블랙, 1세트",
+      "price": 9700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9395354425&itemId=27902881327&vendorItemId=94861695063&traceid=V0-153-c294ec1dc7c12eac&clickBeacon=45555e30-d518-11f1-9f79-5614e213b492%7E3&requestid=20261031194604319221555522&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/hKo_0uqqVcGZDJR3hHnLiweJFUWgSflqAWy8tDBzFWehbd9iHMm43KXm2XUldiSOFUWBaCfE828cMnFm4xNWqH519OALHeMf_GcHV7GhDdO1VRU1NBaf9k_qKq5q7VuVNHc8UKkaFIWd4IpXxEvPPtHqtUuWoWOPPJzxUvoz_ZsLBkSrvZXlatQ5jkwq9jYuLbL_PD0UnoMuHRIpoQRRcisymiHhkl9Ajl_3LI2uTIWPBoOuPwvHYjX8GZCwKXFCMMV1UFxxJY4ggDfV4RaPuIawaP65FKdztfCyQwcVOdENnUO5QSr13uulq4XZms-y0jsa3DU2VgqIVpgHnnTwPzcvI3CL9oP6daGo5TAcZon9_Zcr7EDpQJa1bi7u4TuKhZN7Qv3_IBogS2cnRnEbedLyJGa8OKx_dAjdtE21NxYfdj61C5fs_ptmkU6W0OyqA3ryovC1zIprJiv9uiSPGW43_mLi1mz9ukpEuCly24zN5ekmKjdmufYF9by9hvjUVn81OPGhsuk="
+    },
+    {
+      "name": "모아 실리콘 스파츌라 와이드 실리콘주걱, 그레이, 1개",
+      "price": 19470,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6606763105&itemId=14963568167&vendorItemId=83106647668&traceid=V0-153-e12359a6383131de&clickBeacon=45555e30-d518-11f1-ad39-865d87a053f2%7E3&requestid=20261031194604319221555522&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/brKv9oqtHV_TRB2vbvy3meJPFuh-wzENU72z619kpaz7n7QtLeLPIbOBbH8vHirvGt-kCeOEnb5_-5qJdqStnLy3tmxS8ZFKkQ1eFRuDYwmyeUE93J0fI8mkdjb4ZolMd4U-Ht_mSqBvhZY973JmOfoSwN2qVTskL2VippCrvf65RDa7uSZcpE0-zLWVBsEhc6LDBBbLSZic1A4A7549G66UK8_aPUeEObm3gxKbpnuFlUe7_PMem3R3dIRgt3DjaUZLL9eo1MHEclO99LfjcIpmlaozkl-SBOV0bblgy8dJsUkWxc3vlbZymUf24v_l3IjezX0JmkxXLA74FVOODTnZZ5rt9eWPXrutpFYgvdCqMBP1XGo8_akp2OeNrMb7n37VWgmdR2UKnzV_ZSYytvGPC9_oRtzOM1ZKOuJgysNUfLG2wx-SACi3JQc1rTO0hqrHDCfmWVc0z-Ge1C0pD8JVOFbZSYUtUtt1BiP2CeSJk9zBHq3BIssJOf6uhdcCDcNvpzHolTbV6k1BpeRombPpze1rOBVs"
+    },
+    {
+      "name": "밀레니즈 갤럭시워치8스트랩 갤럭시워치9 호환 갤럭시워치8클래식스트랩 메탈 마그네틱 밴드 보호필름증정",
+      "price": 11900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9056830838&itemId=26587902288&vendorItemId=93375361015&traceid=V0-153-2a1580d95831b006&requestid=20261031194604319221555522&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/w5ugjisehH3fUo0uw_viCVb2WJVMMw-1nC9Gajwh-BIdHCAv7iMLuLaxptbF5WH2cEumQUxcx1yWchfv690B3RRVXzJnpW7tLkiUW9qgZNMYC99WhJQ4-yx1FCklbzUtguDP2388iWHz9CFi4403abjmKQZt3jY3fGZEfQJENhXZCz7GoSVkGYjlNoUslezMr5DLtITobw9exwQnWUZd5JdkMPY3b4Zc7_AMOc3OmUCl_6MSm7WBSX4jaqQa7i9qYeqL4143EYsk4rudlrGh0W5iJAjUvmoJ4aUrAGWSsKaF3Kn3JlDzco8d-ktf_UTXLZZSjl3noF3TNeOIQgGjcVbuV5PzSQYcbOvno5yGEE7fRst-W8Jb95DWD-VbBpEMVrVDwpqSBPouONG7lDXDjz_nLBsVamdYpJxiXK7ikUfeK3qqiwz50BIA-f2e-oVnDuTb8dHSaiK9E9dDLor6t11B7sE3XRm6mzMi-DW6gfzKFLLfERHfxeFBoLxWevcb54j7OFBvW8sfsyBhL2zYJx9G5YQYNywpDzHr7en-azY-K0Y="
+    }
+  ],
+  "format": "both",
+  "message": {
+    "message_id": 150,
+    "has_photo": true
+  }
+}
