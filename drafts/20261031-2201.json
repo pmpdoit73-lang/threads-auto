@@ -1,0 +1,50 @@
+{
+  "id": "20261031-2201",
+  "created_at": "2026-10-31T22:01:47.488834+09:00",
+  "publish_at": "2026-11-01T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 세탁기 '물 온도' 설정을 늘 40도로 두는 습관",
+  "angle": "빨래 때마다 온수 40도 돌리던 습관, 세탁기 전기의 대부분이 물 데우는 데 쓰인다는 손해 포인트",
+  "category": "살림템·가전",
+  "subject": "세탁기 온도 버튼",
+  "hooks": [
+    "세탁기 온도 버튼 30년 동안 이렇게 눌렀어...(9/10)",
+    "세탁기 온도 버튼 보다가 나 뭐 한 거지?(8/10)",
+    "얘들아 세탁기 온도 버튼에 이런 비밀이 있었어?(7/10)",
+    "세탁기 40도가 기본인 줄 알았는데..?(7/10)",
+    "세탁기 전기요금 왜 이렇게 나오나 했더니...(6/10)"
+  ],
+  "text": "세탁기 온도 버튼 30년 동안 이렇게 눌렀어...\n뭐든 40도가 깨끗한 줄 알았거든ㅋㅋ\n근데 세탁기 전기 대부분이 물 데우는 데 쓰인대\n난 이제 평소 빨래는 찬물·30도, 수건만 40도\n너네 온도 버튼 몇 도에 두고 써..?",
+  "image_prompt": "Casual smartphone photo of a front-loading washing machine control panel in a Korean apartment utility room, finger near the temperature button, slightly tilted angle, laundry basket with towels on the floor, dim fluorescent light, ordinary messy home feel, no text visible, no logos, no faces",
+  "photo_query": "washing machine panel",
+  "product_keyword": "찬물 세탁 세제",
+  "benchmark_note": "내 글 '세탁기 세제통' 첫 줄 '가전+행동...' 형식과 4만 글의 셀프디스 '이러고 있었네' 구조, 마지막 '너네 ~..?' 경험 질문을 가져옴",
+  "products": [
+    {
+      "name": "수퍼타이 찬물 전용 분말세제 리필",
+      "price": 28500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9314491720&itemId=549300925&vendorItemId=88458117375&traceid=V0-153-3e762cc861b9b736&requestid=20261031220217745037243395&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/DIBIyZey7ZONQrL2DAKqYWULO1S0ne7xRSxCWWjQDrRhRxkLdR9VN2EG3fA-8hya8SmuzwRLXwRcs3Ro6IGCiYUwT_IHpyXtMwhg4Ua0h57Yf7xHX84AaTPFq9lhQm-MiTvztVIo_3rlgoII8P5tSPtJgxGwZ0jbN7fcRykNwqRNpiMwAz2d8Fj36kkVjCTGA-up-WLwqRIwFCzhNPgd_YoYo4a913DIPhKwsx1t3FrsFxDACUH49CGpbI87f8JFLjgWjtwUCYzyCwvICZSEuFg5i97JaO42WkQ2IsKK-H9bikod64bWXVDMlPkYTdGXQtdAwuKkCzT7tpgTvp0DAb_uofYAlLHaNV6ESKYtHQ1Oy7jUfFldA591Jo-_pTfnFly4JaPmLNED2uTuAnTHOJPzEOPJi1NxgJJBZ_LjmrnF-p5Ta3k1Ck1WCuIJ5GGMUKpZj8zGRzPBE0IoXZ_QlDAS7BaBs8TL_WPilHM6M1jeqvfA1MSfYqa2Qa0s0P6ypmqbijVL3F2U4_AYUdTGHL4OcSFu91Tb04doJDtAUJs="
+    },
+    {
+      "name": "파워크린웰 가루세제 바스켓 1통, 1개, 11kg",
+      "price": 13710,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8427949847&itemId=24380189502&vendorItemId=91395293488&traceid=V0-153-57a1f31cb534b941&clickBeacon=4d0bb940-d52b-11f1-8a50-423e5a71ef2b%7E3&requestid=20261031220217745037243395&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/AtyfjQWf6izh5HNwApKCPMRpFpnrkE4Z2xJkLkRAxHoUdBFyrmbhxfKyCBfcs4UBFUwye1KdWvV5gIx_WWrAo0s0WvSZcQXLKMe8CMaH9mcar4YKy6zqOKAvFdQI6KuuD6xrIVrGNaPfDcZd0IvCMTHHqgEcaCHGbx1jYGv6OsjJUlWWwroQ2-B1O9yLh6KqfIxG3b20z6swBjFnVk0_PnkZxcPacrgqT2gCqebhrktH6w6y4_IE9fbgiIGT5jw_8S5NYc0pdQQZwSEK4N1z1RqPZwgCQbzJsRclyHvsO-9-OV1Wk9PdXaUfP3IzjvNdeFTumXVLuGcKinOu4ynKeGsVzqacJZu-5fW3qeLuZ-JvC7DHIqMwENoBMntQ3ZJ-TsMIWx_5xs-9sV1ddeLYaZo3xYiPftBAb_ZZUbdv9c_RxDH3DXZxdPLb2_q_0XqXlRIlcK72RlKoCBdUGhp_lRJoCLNC8GURit2EFeUU_T-8z3nh8quXaALXlHl89y4dMvlxXLTvHhxKxqEiyIguBSISTaFgp8DPIQ=="
+    },
+    {
+      "name": "쿨대디 찬물에 잘녹는 실내건조 가루세제",
+      "price": 15000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8261067796&itemId=23798402172&vendorItemId=90822361198&traceid=V0-153-94a9f0c48d44cb92&requestid=20261031220217745037243395&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/GJ9k_qeBPwJuMWMmGEmyWUJel-f5NqS9yyAujyG9GBW6qGWDFPjU-w6xMnzLMFx8hEyIel4TZyF__6rGzJa1jNZMISZI7FlnD0M7QTmRJ562Mirp_g8RNyrvc0BKp6n-xqHKW1P4QrZ8WeYbkLZR2pMwEHWQ0OidLH7DTZj0q0mWsa7d8jQ-Ssk-cwuTRZUmu_lpAuyAoYbz-I3QmMyOW_V6vxLGH8FgpDvmulBLl-jzQwcPiyscyjJWcp7O7SqN12bSfk3uOiXVgWz_wpSYtx_8l3iiDMvYphb-Z3MLb94NPyo8Qg-0TJVAZKXTPGlnz_Jgypkwxndv082w24Mym59nKwoN8EvvlpOdGHNQd06HcwXEnS4zs-n5IwI-LkV-cYtpBcABf9bdZxYciARTobQ8lsjzOE3de_4oYDenWRWM6gvUgy7HG5dXURVLLWU4xsz_plANHPJFO42z_3GJXjeKWbTE8TQcVSVgtbZa7NcEMrxxjCVPf9A0eeBZMOXGj1lzOcIkLPxMORHEQe_kVUdugO4di8g4Pc1eKwPVPymkbO432X8hcD8kJK0iv97Bys553nqGIvoYxD_Bs1TLEh3-Oks="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 152,
+    "has_photo": true
+  }
+}
