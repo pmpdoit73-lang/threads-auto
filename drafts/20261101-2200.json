@@ -2,7 +2,7 @@
   "id": "20261101-2200",
   "created_at": "2026-11-01T22:00:54.546671+09:00",
   "publish_at": "2026-11-02T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기레인지·밥솥 말고, 냉장고 야채칸 습도 조절 레버 용도",
   "angle": "야채칸 위 습도 레버를 장식인 줄 알고 방치해 채소가 빨리 무르는 손해",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 177,
     "has_photo": true
-  }
+  },
+  "threads_id": "18223279990355215",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfNwZ4PAcJA",
+  "reply_id": "18101821769381015",
+  "published_at": "2026-11-02T07:01:27.324663+09:00"
 }
