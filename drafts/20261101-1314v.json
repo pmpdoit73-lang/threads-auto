@@ -2,7 +2,7 @@
   "id": "20261101-1314v",
   "created_at": "2026-11-01T13:14:18.670348+09:00",
   "publish_at": "2026-11-01T15:10:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "사진: 실리콘 뚜껑 (컵·양념통 덮는 230도 내열 1,000원 실리콘 컵뚜껑)",
@@ -56,5 +56,9 @@
   "message": {
     "message_id": 173,
     "has_photo": true
-  }
+  },
+  "threads_id": "17996019965846866",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfME0OOkcio",
+  "reply_id": "18094976405179091",
+  "published_at": "2026-11-01T15:21:24.581237+09:00"
 }
