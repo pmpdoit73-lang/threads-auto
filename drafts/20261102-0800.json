@@ -1,0 +1,50 @@
+{
+  "id": "20261102-0800",
+  "created_at": "2026-11-02T08:00:50.020876+09:00",
+  "publish_at": "2026-11-02T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥 아닌 '식기세척기 문 살짝 열어두기' 대신 — 고무장갑 뒤집어 말리기 실수",
+  "angle": "고무장갑을 끼운 채 손가락 안쪽까지 젖게 두고 접어 걸어서 냄새·곰팡이로 금방 버리던 손해 습관",
+  "category": "주방",
+  "subject": "고무장갑",
+  "hooks": [
+    "고무장갑 한 달도 못 쓰고 버리던 이유가...(9/10)",
+    "고무장갑 벗을 때 나 뭐 한 거지?(8/10)",
+    "얘들아 고무장갑 안쪽 냄새, 이게 원인이었어?(7/10)",
+    "고무장갑 30년을 이렇게 걸어놨어...(8/10)",
+    "고무장갑 원래 금방 썩는 소모품인 줄 알았는데..?(7/10)"
+  ],
+  "text": "고무장갑 한 달도 못 쓰고 버리던 이유가...\n냄새 나서 버렸는데 범인이 나였더라ㅋㅋ\n벗고 나서 반 접어 수전에 걸쳐놨거든\n난 이제 손목 쪽 뒤집어 입구 아래로 하루 말려\n너네도 접어서 걸쳐놓지..?",
+  "image_prompt": "Casual smartphone photo of a pink rubber kitchen glove folded in half and hanging over a stainless kitchen faucet, wet sink with a sponge and a few dishes, slightly crooked angle, ordinary home kitchen lighting, no people, no text, no logos",
+  "photo_query": "rubber gloves sink",
+  "product_keyword": "고무장갑 건조대",
+  "benchmark_note": "내 글 '세탁기 온도 버튼 30년'의 셀프 디스 첫 줄+말줄임표, 5줄 구성, '너네도 ~지..?' 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "주방 가사 장갑 아스팔트 건조대 탈부착 수납 정리대, 1개, 회색",
+      "price": 10340,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9556326940&itemId=28515355880&vendorItemId=95463726307&traceid=V0-153-513f53cc8a9bdae7&clickBeacon=253dc2f0-d648-11f1-a264-280dc7c61b0c%7E3&requestid=20261102080117528074446906&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/lX79huiKFdRUec3glUXiCIAzP9Tb7yGJVWnzNN0yJ5uuTL32V3pNGwz2yTcNrqY2hEiiMWZ77ZE5f6IjMMT617N3wzm45_2HoXWDwvnLfNUevWYCMzmw0aHIPw1dvUCOjhYBYAsr7foXqhglM8OxgFyKln4wWLf-ExAnOg3-HXsITr8Q6XrFefA39xaFtyWpNQ99WqE9_8CGTZYxBp9swTW9JUIliBFdSIinZsvXRBV3f0QpSamE19J1g_EvbyaDl7S1wJjoIbvxQaZFE5PAY2f4twFaE2y8s9dspxAHGCn9m_ESewD3VmEwQOevoJ_ohuK1cFTIcL7sJzIB0Zo8ILYkzVN9W0vD8voY4p_PD7QpsW1oYIBnQsUwuY7ybFzo6O4o77pIAxloVamUcccRNRTA9DaDeP6sool7RxjqSbUT-_pFRQKi5I4dCFwU2hjGogErDru0w8nrVz5tSQiPOo4KPdp6zZz-RxU4wrcmbv0E9p8da5f4jhguMj8sCdip7LvPVvVqboHe7js7AhAbU6HHlgW6XSWxX1VySaAcDOPSClYnIw4HuBzyJgqILfasm45zubHSDHwrJeo="
+    },
+    {
+      "name": "걸이형 스텐 고무장갑 거치대, 1개, 스테인리스",
+      "price": 4900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9736434175&itemId=29138591433&vendorItemId=96134023159&traceid=V0-153-567e07a2c5d6cef9&clickBeacon=253dc2f0-d648-11f1-886a-876031a37e98%7E3&requestid=20261102080117528074446906&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/eEVJz3s42Pvv6MaSeGQG1KGuPz902kO86Cxhvc8OWNVItuu7uY6MsMp-3GDinuAKR51hpEHl16mda_hMaF8SH3UlPZZgTpuH3xXOSzFNcW4EDIIYZ6QVvDcgRPasNqBHG_oW4I-PvNQjGbKAqYQe-8lsrj_E7L6CQyVr70H1UhZlkac2zniiy9Il6Uqtyz0Wd7LMf5oj6Tyt4E-T7Vop4HqGnO9ND3wBSO13EKEyVy9Uh_x2-APm7AIXljI7zVIe5JPTB-lPjtY0iUbuPsPY5U6z5OwSXyYKV_pLcCDvfWqbb8RbmaLiruebB2-7vHaMiwVzCTEel_Tg1mPoPIkaaQvfWHgidlQxs5iagKLpsbBc5-_wLSRCk2mKpqQ22rDehVvMcX9CKiv4SiwI-DGYxw-wus8RBTvMl18820FOulheBJzkPfdgnykOrBw0pOqxCnWWFycY2K-MfRQ5C1YrXOgU1bfwQn0NqIx22742Q6yj6gRN9q4yA_ykS5D2-JmhpsUgVXtnbCkJVr2JuTaAsaG7hozlJ8UrSA=="
+    },
+    {
+      "name": "블럭마트 주방 다용도 고무장갑 건조대 건조선반",
+      "price": 7530.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8662665030&itemId=204886547&vendorItemId=3485758603&traceid=V0-153-728b2fff3266d52d&requestid=20261102080117528074446906&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/MEf4UqbPvAlY5JEFMCqySegNBwkKU43SKSulqqfGdVgYy5J2mUzmygi9pQJF9p1G6G3MsAK1rzRLurjSHZjHWZ_b-uSJv_dJFrwX0KfkSpxR8vlaLZivzsOSN_Yn-fHVwwVjN8OF-O-oG_rbrUSPay21P4OlIJ3NlSquMcE09ydnn3qbdqcBGQa9ktc2jAVniu52S_4yOJrOmyFGRpY_YmE8ADhdNkQyJlUGj_XbEjyycZNZ_fisUHIRrFiPhB5wB5oer_c5TDuEJPt95k-fzW4zx2SLXTy8eoX2tC1pMPAVx9zuVMZ-SmgL0GHbJilcCaTtEsZWAfl-GNTLxQIaQDl6XpS5X4sYaPXHXRC-rZF-2kfZXJwmxj_5ruf2h8cP6DN-Lkjf0_Kesdd9pT3VK-Tqx338lbiFQBG__A7tD8TFPaf7WWoEwesQfgHlBxg6LVnqMltO3A5HK442UI6zC20aQjsTxfg76SFlaBziULnEVLefv_mZGekM6DiH3jr3aBJ7C-0gxd3D5_wHyjaJTB04"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 178,
+    "has_photo": true
+  }
+}
