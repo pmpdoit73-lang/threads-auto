@@ -1,0 +1,50 @@
+{
+  "id": "20261101-1400",
+  "created_at": "2026-11-01T14:00:50.791701+09:00",
+  "publish_at": "2026-11-01T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥 '잡곡·현미' 말고 냉장고 아닌 '전자레인지 자동 해동 버튼' 대신 — 김치통 아닌 '밀폐용기 뚜껑 김 빼는 꼭지(증기 배출구)' 용도",
+  "angle": "밀폐용기 뚜껑의 작은 꼭지를 장식인 줄 알고 그냥 닫은 채 전자레인지에 돌렸던 실수, 꼭지 열고 데우는 게 맞다는 것",
+  "category": "주방",
+  "subject": "밀폐용기 뚜껑 꼭지",
+  "hooks": [
+    "밀폐용기 뚜껑 꼭지, 30년 동안 장식인 줄 알았어... (9/10)",
+    "밀폐용기 데우다가 뚜껑이 퍽 하고 들렸는데... 나 뭐 한 거지? (8/10)",
+    "얘들아 와, 밀폐용기 뚜껑에 이런 게 붙어 있었어? (7/10)",
+    "밀폐용기 뚜껑 그 작은 꼭지, 뭔지 아는 사람..? (8/10)",
+    "밀폐용기 전자레인지 돌릴 때 너네 뚜껑 어떻게 해..? (6/10)"
+  ],
+  "text": "밀폐용기 뚜껑 꼭지, 30년 동안 장식인 줄 알았어...\n데울 때마다 뚜껑이 들썩, 국물 튀고ㅋㅋ\n알고 보니 김 빠지라고 여는 구멍이었대\n난 이제 꼭지 열고 뚜껑 살짝 얹어서 2분 돌려\n너네도 이거 손잡이인 줄 알았어..?",
+  "image_prompt": "Casual smartphone photo taken at home of a plastic food storage container with a small steam vent tab on its lid, sitting inside an open microwave in a slightly cluttered Korean kitchen, leftover stew inside, slightly tilted angle, ordinary indoor lighting, a bit blurry, no people, no text, no logos",
+  "photo_query": "microwave food container",
+  "product_keyword": "전자레인지용 밀폐용기",
+  "benchmark_note": "내 글 '세탁기 온도 버튼 30년 동안 이렇게…'의 셀프 디스 첫 줄+말줄임표 구조와, 남의 글 '택배함인가..?'식 살짝 틀린 추측 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "락앤락 착착 밀폐용기 3p",
+      "price": 6330,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7240252058&itemId=18394533688&vendorItemId=85537522238&traceid=V0-153-dd287194ba02da43&requestid=20261101140116125222268474&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/4DTqPLcO1E181whk4AxnG3fgsSG6Y3yOSFOOc5YQkND2-M_CvFbrvk7GOEouj-ZomTevO8J4yxzgiIVg9hXacx85LrTVyLtfY75wYGMPrA4HmAG9SztODQ9cM1au7ZF1f0lpeRuATUpzqGdJyJZYUdtrrI2rrvVBV3z7Dv6QsD-X-KXuKXxGewO8q_Azi-zO4ue5yLp3iVBBZVvjru6BIZimIw0-rkGrBhHSyFNQFPVSUaaQcjV3Iq4rUKtJAqtYTBijO16ovhcI6G_MK_nBlt-2wVs1Kb-l157MbAm9GNdr370UzvUERFRDBoJZN1N8mbd0LY7t1EdXuiGDEq4DkDiRR5-SaINrBjhAmvGhyH0dRoKZQ7c4zxzadFl5WEjseJTzXRe0VCsyesDjyQH9l5R557YsYmSdFYnuv1yTyes8Ab_lIumBK8hDVfOZ_6JABJuVev3CPZtozgBCkcBcNscL0T4vjNrxyvhc88c0bAWF54YPzagHxDqgUWCCDzy1rNTaAXqtHPidDOufZ62fxvo="
+    },
+    {
+      "name": "창신리빙 스카이락 밀폐 반찬용기 12종 세트, 1세트, 460ml(4P) + 980ml(2P) + 240ml(4P) + 650ml(2P)",
+      "price": 26900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7180443057&itemId=23757798053&vendorItemId=87563498161&traceid=V0-153-8363f68a61154b58&clickBeacon=449e0390-d5b1-11f1-92d8-92ecc2fee4da%7E3&requestid=20261101140116125222268474&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/nqaY1XkqdAZctyG2nizMlfsOqjgH16IXtFV4YFjOvn3-cCsOOvMKSRmG1UAFr_fjIzZSTI-inABxeNjm-mQsGFsaBByULYZV0lYJgwoyvr_vO8Q7seh7KCHHJu96s2URRqPDm86N1xUD8jmOQQ1_F6_CrX6yIunAEAm5yRd56CCMNkX4QOXnVjb6ANhMXo62YaHygRXeV4vR6ISaSNP9qEBygkogDBKTNiqJzlViggon4fU9KUcgXi7GeQNYDIwmalQa27r3ujsHmnypmrhWWVtR2xAPccG31NueS2NBal4gQaFlQhuf-lYf4e88c_WnmeY5cOP5a88VtQTrq8ATamTn2MZ1cgMZBNgc0FWbOrvrGA96zBjfUE8XkaqQ_koQNoyuDbKI_JyCpOzJHmGDDZFuOr6unwnJFuSMBihp_YXyG_H4yt09URPsZA5sox8F8h3CTM57-flX94u1jN0g6vW7DiRffZI5mCPn7HlgfxfQ35nd6PZqm7OVJG33uqvRGxY_prxen1OZPz2VXVUgc-kDsLCQRnViFfHSPqY8gGne"
+    },
+    {
+      "name": "락앤락 비스프리 모듈러 정사각 밀폐용기",
+      "price": 15900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7104715540&itemId=28718325537&vendorItemId=4868491753&traceid=V0-153-dfbcb74a23f23381&requestid=20261101140116125222268474&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/CP3wxXoqf2iWVf_PCCiYkN7UxBen7rJzZvZGQdo7wMRakfwBFfZK53DwVfENCAFOp1zDpJbZiuAkAmqHUpy1TUb91zNKWgCHQgzyz-qWddRB0EjYkEAA1jYrGse01bdVDSfGfdiuc6FQg_x2SBuAuePhSWThUdOrYf7rCkkC61AvsVxLzE7_cNV_KdHgODUo2P5eLVH8ilt9rNdWtVCHublwXkg-OhD5KyqcahtHKGcMrg2hgqJcGQxYj-D_MqQ2JZlSx9Q8q46bB6FBVIll9qHgIGtIA35xDmMVmkkgCOhTDTfX0rHhctw2OOt89YkothT6URoJ1T_OExirMAvwAlo3vRCuPzkbnjQK7tQRW78Jn9kJ5NHpYQkG-RryDXH8Ap3MA8ozfxsqLVNRy4Q0Yt1pZ47uJkSovDLTYwexZaTbVmESUJJqSaIGCEaMeDUPVew0ShwST16LSNApLhr1oJlafyJD9ZNX2qKOBrJbweqVaTgIgxxL6LHDRQhG3_YT9z5Fcz2QkZnRrVl_zJHPlkw="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 175,
+    "has_photo": true
+  }
+}
