@@ -1,0 +1,60 @@
+{
+  "id": "20261101-1314v",
+  "created_at": "2026-11-01T13:14:18.670348+09:00",
+  "publish_at": "2026-11-01T15:10:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "extra": true,
+  "issue": "사진: 실리콘 뚜껑 (컵·양념통 덮는 230도 내열 1,000원 실리콘 컵뚜껑)",
+  "angle": "컵에 랩 씌우거나 접시 얹던 습관 대신, 안 미끄러지고 열탕소독·식세기 되는 1,000원 뚜껑이 있다는 것",
+  "category": "주방",
+  "subject": "실리콘 뚜껑",
+  "hooks": [
+    "실리콘 뚜껑 보고 나 30년 동안 뭐 한 거지...? (9/10)",
+    "얘들아 와, 천 원짜리 실리콘 뚜껑이 이걸 해..? (8/10)",
+    "실리콘 뚜껑 사 왔는데 남편이 이게 뭐냐고... (7/10)",
+    "컵에 랩 씌우던 사람 손..? 실리콘 뚜껑 얘기야 (6/10)",
+    "실리콘 뚜껑, 그냥 컵 덮개인 줄 알았지? (6/10)"
+  ],
+  "text": "실리콘 뚜껑 보고 나 30년 동안 뭐 한 거지...?\n컵에 랩 씌우고 접시 얹고 난리였는데 ㅋㅋ\n이거 천 원인데 안쪽이 안 밀려서 딱 붙고\n230도 견뎌서 열탕소독에 식세기까지 돼\n이제 양념통도 이걸로 덮어. 너네는 컵 뭘로 덮어?",
+  "product_keyword": "실리콘 컵뚜껑",
+  "has_photo": true,
+  "album": [
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAOiaua6-oPL_X7g_UbwLAouKaOOhcIAAiUVaxu1vjlX3_3-VnjOHSoBAAMCAAN5AAM9BA"
+    },
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAOjaua6-u5ysrNUlDJyVYrJSOiPgSoAAiYVaxu1vjlXA3-MEzI-JVYBAAMCAAN5AAM9BA"
+    }
+  ],
+  "media_group_id": "14348051356015013",
+  "image_note": "gil이 보낸 사진 2장 (넘겨 보기)",
+  "credit": "",
+  "products": [
+    {
+      "name": "[무료배송] 티첸 실리콘 덮개 밀폐뚜껑 6종세트 투명, 투명",
+      "price": 4910,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6155838264&itemId=11928492936&vendorItemId=71455625256&traceid=V0-153-015d18f54600832c&clickBeacon=bb122080-d5aa-11f1-933b-e2387d3b1da6%7E3&requestid=20261101131428414099170453&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/kk29XxO40TOGssA3kj3KpKoj6HSaL_2I1xtoi2PkTPFG36atI155wXHBntQBhPHs_qpZK7TCwQgb2LFhwuywSrkX6tkhW7Y59vKQcJK7PF5AQ6ade_VbTXegcD5uI84VutGa3rbV-jstwEG_5bnY5_N7BGZPsR0RI6iENJ_AQ_aD9Y9_HYkqNZP9oaGvWEFiw2KUOLulg7qLafb4d-8EbV92NSxYiPRgo4npN13tW3DaA09_v52mWkrWqO3p3qkD9aIoaLn0TB-nvKSAPZ1Do_dEhhl6W8tIvTTzgaJ-vwdwkrWoeWzPlrFo6XmECgmaCXlSRD8tvoM5iSGtuED7Z4MKmfTuEHrbsswEVpot-rX9-jBZoO2C47Fu4xR2bVSYNbiPfifV6s8m1t2VKv9KPVvRUx5tgmyRVI5V-34KG_EHYp7qUeje0p_0IpeMUfsa51aA6n44gMZAcxHNX_ktreJPFVKs2neFoHMDKMtUftQyZzxlXg2MPY_rbWKVELXNlHxXYt6gufLwmtFFJuXgrnc9K2nNxSk="
+    },
+    {
+      "name": "미르코리아 헥사 제뉴엔 유리병 실리콘 뚜껑 70mm",
+      "price": 7580,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8799463839&itemId=25620540881&vendorItemId=92610835667&traceid=V0-153-7545d31d93e605f9&requestid=20261101131428414099170453&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/0QfaxU4bgMeVEGq10SkvLfusLVyidM600iLpx4YQn8bk3SXQ1o7qixQ8wcMgkKDkPbELMXBJ67vNpdsL7tgXFF0CbCefTZYzOnP0by7-uCsfRUuXDouJ-No2ypPbtet3zDEL798BdG7ELo8Uu38D_S0cmqY8GtrXdi3vLqvfuFbp2juOQtNxeOh4Md8x0LHh7ZIFvd1vda_Y5qxp0ots5eJoOrF-Dr2SsDyk0a4zCnDwnpFo1AvsyfB5pM3dZ1dOvaehZFkrTr6rVaXguc_g-YxNKLxNOvSLbdOpBnx1FLbkZ5issU3IcWnv6_apbScggG6fShKs-u3FwsNgisVbaL8Ie1gNtlj7y1skhmjVzU6k3XC_ZkDL8hWssKdJ-5HgzXdyzPghLKlNitSKuBfBl-1xWWP0CTPp-LAQACSQ19Kdv_hWzS03USP3Ff3FGg3ahdjv6BFQOCxMzC0HVI5Q0YP17bI4cTPJKv8R4s1lXWKBLcHTX0HKFxE0ctmM_fXQSx_OgflUI7pRXdZXaCdRkM4ujw=="
+    },
+    {
+      "name": "플라이토 실리콘 쿠킹 다용도 덮개",
+      "price": 5180.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7626535995&itemId=24062090742&vendorItemId=91081959808&traceid=V0-153-96f02fe39c1624ed&requestid=20261101131428414099170453&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/KAIA6E1CxYH322NnKBOWiKmxStY7wZA6frKqiF0nNj2r7tPOhSzxu3-R6bTOUqu68OB8Y_7zXBI3Au1dokZpFWzr92dqvOYUT_jsM1CGA7sD6h-I0yHASRdrCkigRjBF8_MAuDm-C528WQCoG3ab9zvB2Fc2RIev1vdENuFBNG1_pB8RWZN9HS6POQqicHzmFzRkxZ02cZTNEoPJQrLj22VNFof7b6gs43NKdk2xt8fgNM1enRy2Jj3UKWGbyRHwU_mhZffmMvERNPOd_7NZiDBdz-nxfSPT63JLQJPazU1_yMV8Vj_u2CE7Xl9_04KsSEVuaPu5cA8TWq1zrjfGNkZfX8fajJsb2oxFKVgJJrQy3RJXOQlM7qxiI_XNsOR6x8o8UiTR-ZE6xCGbk4OJykOX7dDCdJUoPS_7sH7MnrjjglzpqyqBMVuqMO-b0rXDnQ6BCb5Ccb1QYWIWKItpqIBZc2tp1wU2GwMbrH3mz96CQuEkXOMP2j_ldL6jndOCT0SMtw1LqU1ZbppbmntPJ6blzwrTEiToJp2xeN2kLpQUo_8="
+    }
+  ],
+  "format": "both",
+  "message": {
+    "message_id": 173,
+    "has_photo": true
+  }
+}
