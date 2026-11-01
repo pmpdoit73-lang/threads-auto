@@ -2,7 +2,7 @@
   "id": "20261101-1400",
   "created_at": "2026-11-01T14:00:50.791701+09:00",
   "publish_at": "2026-11-01T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥 '잡곡·현미' 말고 냉장고 아닌 '전자레인지 자동 해동 버튼' 대신 — 김치통 아닌 '밀폐용기 뚜껑 김 빼는 꼭지(증기 배출구)' 용도",
   "angle": "밀폐용기 뚜껑의 작은 꼭지를 장식인 줄 알고 그냥 닫은 채 전자레인지에 돌렸던 실수, 꼭지 열고 데우는 게 맞다는 것",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 175,
     "has_photo": true
-  }
+  },
+  "threads_id": "17933494140280062",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfMXIjxkXEf",
+  "reply_id": "18123854029936977",
+  "published_at": "2026-11-01T18:01:24.438323+09:00"
 }
