@@ -2,7 +2,7 @@
   "id": "20261101-0800",
   "created_at": "2026-11-01T08:00:54.887046+09:00",
   "publish_at": "2026-11-01T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 도어 알람 말고, 전기밥솥 아닌 '전자레인지 일시정지 후 뒤집기' 대신 '수납장 문 안쪽 공간 활용' — 지퍼백 보관 실수",
   "angle": "지퍼백을 눕혀 쌓아 서랍 공간을 날리던 습관, 세워서 파일처럼 꽂으면 자리·찾는 시간 다 아낀다는 보관법",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 161,
     "has_photo": true
-  }
+  },
+  "threads_id": "18021624101730788",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfLnELtmrxF",
+  "reply_id": "17903773392373406",
+  "published_at": "2026-11-01T11:01:22.513939+09:00"
 }
