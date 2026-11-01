@@ -2,7 +2,7 @@
   "id": "20261101-1801",
   "created_at": "2026-11-01T18:01:48.236940+09:00",
   "publish_at": "2026-11-01T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 드럼세탁기 문 안쪽 고무패킹 아닌, 세탁 후 문 닫아두는 습관 대신 — 냉장고 아닌 '전기레인지'도 아닌 '세탁기 헹굼 횟수' 설정",
   "angle": "헹굼 횟수를 늘 3~4번으로 올려두면 물·전기만 더 쓰는데 세제 양을 줄이는 게 먼저라는 점",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 176,
     "has_photo": true
-  }
+  },
+  "threads_id": "18087973697317677",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfMrutRoHKH",
+  "reply_id": "18108923978195841",
+  "published_at": "2026-11-01T21:01:26.416190+09:00"
 }
