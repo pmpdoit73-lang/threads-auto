@@ -2,7 +2,7 @@
   "id": "20261101-1310v",
   "created_at": "2026-11-01T13:10:26.171034+09:00",
   "publish_at": "2026-11-01T14:10:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "사진: 청소 슬리퍼 리필 (바닥 밀대처럼 걸레질되는 슬리퍼 바닥, 2개입 1,000원)",
@@ -56,5 +56,9 @@
   "message": {
     "message_id": 169,
     "has_photo": true
-  }
+  },
+  "threads_id": "18103439159545669",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfL98wFjuoj",
+  "reply_id": "18100840103100308",
+  "published_at": "2026-11-01T14:21:15.788164+09:00"
 }
