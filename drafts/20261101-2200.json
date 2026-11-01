@@ -1,0 +1,50 @@
+{
+  "id": "20261101-2200",
+  "created_at": "2026-11-01T22:00:54.546671+09:00",
+  "publish_at": "2026-11-02T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기레인지·밥솥 말고, 냉장고 야채칸 습도 조절 레버 용도",
+  "angle": "야채칸 위 습도 레버를 장식인 줄 알고 방치해 채소가 빨리 무르는 손해",
+  "category": "살림템·가전",
+  "subject": "냉장고 야채칸 레버",
+  "hooks": [
+    "냉장고 야채칸 레버 30년 동안 그냥 뒀어... (9/10)",
+    "냉장고 야채칸 위에 이 레버 원래 장식인 줄 알았는데..? (8/10)",
+    "얘들아 냉장고 야채칸에 이런 게 있었어? (7/10)",
+    "냉장고 야채칸 청소하다가 나 뭐 한 거지? (7/10)",
+    "상추가 왜 이틀 만에 녹나 했더니 냉장고 야채칸이... (8/10)"
+  ],
+  "text": "냉장고 야채칸 레버 30년 동안 그냥 뒀어...\n장식인 줄 알았는데 상추가 왜 이틀 만에 녹나 했지ㅋㅋ\n알고 보니 습도 조절이래. 닫으면 촉촉, 열면 습기 빠짐\n난 이제 잎채소 칸은 닫고, 과일 칸은 열어 둬\n너네 레버 어느 쪽에 두고 있어..?",
+  "image_prompt": "Casual smartphone photo of an open refrigerator crisper drawer at home, small plastic humidity slider lever on the drawer cover visible, lettuce and some apples inside, slightly tilted angle, ordinary kitchen lighting, a bit cluttered, no people, no text, no logos",
+  "photo_query": "refrigerator crisper drawer",
+  "product_keyword": "냉장고 야채 보관용기",
+  "benchmark_note": "내 45,088 글의 '~30년 동안 그냥 뒀어...' 셀프 디스 첫 줄+착각 고백+'난 이제'+'너네 몇 도에 둬..?' 질문 끝맺음 형식과, '장식인 줄' 틀린 추측 질문 방식을 가져옴",
+  "products": [
+    {
+      "name": "데비마이어 그린박스, 2개, 1.8L",
+      "price": 27200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8732931891&itemId=17505247185&vendorItemId=84672550016&traceid=V0-153-42aadc5ba9ae6d52&clickBeacon=5be13b60-d5f4-11f1-87ad-61d0502a5057%7E3&requestid=20261101220131472011965000&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/KoJsZLJrboPvzGu2Ku8WAd3odGkAyl8gP1VzaPfnYQqWumeQztnHSAw3H7qofkL6uQLIOAeSjoQfZZed95sqttY5wBuZ7vKiGfQNttM2TGMhbUsBxUuvuD6tm71ueIZcx68oOqP4ws_NOgjz7UtwcSK6EFPgcFclWoSBC2bpfTX4kGSX1bYxiIE4VNHZBfy79AcM7lfcr9X5fqH1osvkMdNfal7uEbiGLP6wI7oQ3N1z3ptARP5tuiXjAcKzBhXOyNj-vc2MJ914psYcKFa3dowt1BClL9NCBBcVRXzUJAGuzIQJSixNsujU3GfSVAiJYwcC1wu604iIdDSvgMgGnXETcbq5qARe_0HMKWLsWPuHiUZOY601Snbfm3WPIovcqpUxFe_idRi48PIGsc1QRNh86YuZqmLh5i28469_IXcoWDz08LD5_8jDfsOKYT2zJ64ZYuq2wOGvjlW3a7Hz8sA6-5ASUWWzTOJX8xY96GnC5YGLCkNhmk6Ax2O6XbUfMVc2gbPB6ES5"
+    },
+    {
+      "name": "데비마이어 그린박스 보관용기, 5개, 1.8L",
+      "price": 54750,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8732931891&itemId=18178861191&vendorItemId=85327951429&traceid=V0-153-42aadc5ba9ae6d52&clickBeacon=5be13b60-d5f4-11f1-b1b8-4eb88969dc80%7E3&requestid=20261101220131472011965000&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/7px2QlF1iDeAx8Vi7kqjNcC8oMoDKcDzOkYB0hLgLIVgSU7EScK4cBX1jKnUgd-5roVsfylh3IMMKjOmNmn8RozGepRO9m9fx_ZCe9FAMroK4mdFZHYBxMpjFv9P5cM28jf8HC0F8qyfcJcF0mzJ3WHKNH7sx9QFdCSkOdXs0S3e6cG_zUHbzuWPxcRMoFmHel7O2hx7ol0Be8nWeS_vzxGA8z0VSRqNEa-25NPYdzM6UTg46tfkeyM9BnPKgEcljHkOMvmyGDlyhFiMVISi2DBsyJDtgs39fCO5rqXAcDgacxkQqRvEbTjXzRJ18sMlUG_A6mpwbLmyycd0QszCXQK8vdQrjfjh-wHevGib_EEz576x2tpXY0afGjaRAXrI7Jlvnbo2F-0IR8xIeVfq-nolEMG0vR-dDnSi2EERTS2-SwkNf5LjcJAqJa_42Dm7JdQQ2U2a8DqNpDxBvWN48dIxkAAftWi6yk-QKOSf9xyQPKT527iZZtczICO5aXwD69ZZTsRMwcRMsQ=="
+    },
+    {
+      "name": "올아잇 냉장고 크라프트 봉투 빈티지 방수 페이퍼백",
+      "price": 9210.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8684769272&itemId=25211680435&vendorItemId=92212735635&traceid=V0-153-bd6f87db9ed4e516&requestid=20261101220131472011965000&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/7A_a4zK_vDmstrpz7A6l09s9nnLdV0jRSvCBA9IxPs5ShTKgOLtptvCZykGfiuaJcdcWor6aI6CkfKVDC4VhDQZaulx7UMf1Bxo5xj5T5x2rVJh1UBZenVBtY_L0Hlydqccy8M5Ie5BGJu7gXUf-mg3p2JAH4SUY_HSQxzwYVdRKDRTRhY9BQUOXMKhnJQvcH6JlHqzVj0S1KsnpGr4Uc_MYxSUhaI4hpOzZUcrQvcDQg45JJnqEogiVrKDCZWVnhswNDiwsKSyzFG5SI8d9ai8Abki_Ddshw3WStfm5sP_MnN24_ZVmkc5DeZjHEFecce6QfQQ5UpBQBgeNJ3RsdTyvjyGvhp-Fbp-opndP5QuDnFRSasFIbTNZuanZAYEDT3FSDuZvY0uuA5vA7wj8pW4uDmnq7fcIhPc3exQurIr6ekpLl88SNpwk7Gvvulq_21eMWIm13UfGkdNQXvqTtZDOtyq35immrYR_FVmZDeNbIfiCd20dANpI9H0Tn_Coc3XaobOOZiic2GOBYWLH89b2DEC8xIjK4m7RjaUDS9suAw=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 177,
+    "has_photo": true
+  }
+}
