@@ -2,7 +2,7 @@
   "id": "20261102-0800",
   "created_at": "2026-11-02T08:00:50.020876+09:00",
   "publish_at": "2026-11-02T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥 아닌 '식기세척기 문 살짝 열어두기' 대신 — 고무장갑 뒤집어 말리기 실수",
   "angle": "고무장갑을 끼운 채 손가락 안쪽까지 젖게 두고 접어 걸어서 냄새·곰팡이로 금방 버리던 손해 습관",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 178,
     "has_photo": true
-  }
+  },
+  "threads_id": "18061835645547944",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfOL3s-mnDr",
+  "reply_id": "18115405808119733",
+  "published_at": "2026-11-02T11:01:27.369937+09:00"
 }
