@@ -1,0 +1,50 @@
+{
+  "id": "20261102-1400",
+  "created_at": "2026-11-02T14:00:54.629232+09:00",
+  "publish_at": "2026-11-02T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 아닌 '전기밥솥'도 아닌 — 랩(주방 랩) 상자 옆 고정 탭(랩 끝 고정 구멍) 용도",
+  "angle": "랩 상자 옆면에 눌러 접는 고정 탭이 있어서 롤이 튀어나오지 않는다는 걸 몰라 늘 롤째 빠지고 끝을 못 찾아 버리던 손해",
+  "category": "주방",
+  "subject": "랩 상자",
+  "hooks": [
+    "랩 상자 30년 썼는데 옆면 보고 멈칫했어... (9/10)",
+    "랩 뜯다가 롤째 튀어나와서 나 뭐 한 거지? (7/10)",
+    "얘들아 랩 상자 옆에 이게 원래 있었어? (8/10)",
+    "랩 끝 못 찾아서 손톱으로 긁던 거 나만 그래..? (7/10)",
+    "랩 상자 옆 동그란 거 그냥 장식인 줄 알았는데..? (8/10)"
+  ],
+  "text": "랩 상자 30년 썼는데 옆면 보고 멈칫했어...\n뜯을 때마다 롤째 튀어나와서 맨날 씨름했거든ㅋㅋ\n알고 보니 양옆에 꾹 눌러 접는 고정 탭이 있더라\n난 이제 새 랩 뜯으면 탭 2개부터 눌러 둬\n너네 이거 손잡이인 줄 알았어..?",
+  "image_prompt": "Casual smartphone photo on a home kitchen counter: a cardboard plastic wrap box with its side press-in tab partly pushed in, the roll slightly pulled out with a crumpled sheet of wrap, cluttered background with a cutting board and dish towel, uneven lighting, slightly tilted framing, no people, no text, no logos",
+  "photo_query": "plastic wrap box",
+  "product_keyword": "주방 랩",
+  "benchmark_note": "내 92K 글의 '물건+30년 동안 이렇게...' 첫 줄과 '난 이제~' 경험 말투, 골목 사진 글의 살짝 틀린 추측 질문('손잡이인 줄 알았어..?')으로 마무리",
+  "products": [
+    {
+      "name": "EZn이지엔 슬라이드커팅 위생랩, 200m, 1세트",
+      "price": 11870,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6514283875&itemId=14402635899&vendorItemId=81646743658&traceid=V0-153-325c504316fcaab0&clickBeacon=7c69d1e0-d67a-11f1-b07e-3fcc37a56721%7E3&requestid=20261102140138619091245051&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/W6tFdM6eTGOESUfLW2RHeYzPLCORwsPwY5jprpQ9w4peZspBUFexRWTrD_TA0VqEwYhM1b92tA35oierqTEFI-ds4AdyjluzYbByon2FjOU0r0dNpNkhGMWdRzvmsGcIGNPyBNEemjtUMYvt2Dbbx0__8mktJYP0IiC9paYOoiPN2embQn-nceN200nLIXIyUNVfGAPrsCMPuMRIZKX7ERUHxkQAusYI5EH5t1RcmR_1Uo6GILJBz-QaO8OAo_R5u5TLEXtXECF6U-FF4_mfyfyANmQEXgfQeYmVQOBCj3JVSGobSsDpRvNGFHImiUD6OWxpsfmiwcrR5-84Ys_bBQVszx8lTz5y_66m5BLh5GOQB4NeCwfYKW1YTfjJy2prs0rs3LgbwlHfsHogWAgWuPTINH_vSMhIGq13EeRgI6usZ7R7kYlFKIkIEQ5IUnHClo2wphg-NGYUCjzWKkXwPcHpcWdWh4J32uDl078G6mtRBUA0kDljQM1pXuomgiYtOyPTyyuvkBjE"
+    },
+    {
+      "name": "브릭글로 슬라이드 커팅 항균 주방 위생랩, 100m, 3개",
+      "price": 20700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9693216758&itemId=29046411979&vendorItemId=95973370198&traceid=V0-153-af55fa700aca153e&clickBeacon=7c69d1e0-d67a-11f1-9b73-67d2381ddbcb%7E3&requestid=20261102140138619091245051&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/x8aSs69d1Kr8RJHmx-fNzpwgKoPDKQPpKCi8NhhKRqCO7UURChSvWbCWzshRWHqcnt30om4Zl6AnE3qMzWLDWabj5ZYKEbehNtV-YW-V-ATBkXyI3cOPIAW7AqCvJOI8Y4pLaFPtkSDqclU_1rf7NBEvRt1vrEsjw-A820QMr6mmMJnv3ykq2paaZbZulmyPQ4F0ejodFlvkX_a9mzDkA7KsYJ3RG0pMp24zL1Yxrc0YpQBLKWFNEQQ5TxxHad8Ge-vb9hGnOKYwL8UyWRP3byXm63HYKg-JW4IfKCHujqYxT3IAma0INLcdTpxmwQl3E9-pv2Jz-Tu29g0ePusRf2nB0h1f0_xHy64oqB3-BNIHsTe6GUHxfTx5UpRAvDZivZVnggwV92g2hwwapQQEuhnnv4Nc3LCfCWGgrqpjMg5uCNDYIjsjWFbE7lsVNwbC_yauWVALheGpUVObmU63rzaDTMBgmbBWcE2-lnr9AC4yT935UPBaIkzTe36TzonL9M2HOtNm"
+    },
+    {
+      "name": "코멧 슬라이딩 커터 위생랩",
+      "price": 5510,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5582056148&itemId=19134711130&vendorItemId=86254248393&traceid=V0-153-896c053d8496d801&requestid=20261102140138619091245051&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/hhryoa_yvaGO7mldhkH-Od9spEzRFZCZUJGSbFvDBwNWYS4v-exiSSHcI7mZZFvZf_74DusdK_DExAoYOBCV_P6WxZrbn2KHzwj1U9VZcVLrHKepwtIzIObcCdVYJtTHojDkMvQD7StJ17aqfp3hlAAsZNRhLSiVjZ8VkRm5aLTjsQ-Ur1GW-HKSlF_89jyWBQZ1a5U8IoY0OCdgW4tAbK3V12R4LS5c77PAlba5LPiAts3IBbeJntwfbkQyjmfqe5VgwvzKdVIsnOcZpJ-GmmJMDJ1fOghqhQG2svR9YDldrmCOZcZD-GMj4jQlBi71Ajkg4weS5OffAVnPwMuoRLd3R-DeCkYPlHM3qEIvA4luJEGhXp7vhscuj66D8I-fpSF7xjry1diF6fM4jQ34WWfB3MismJOrOpaG7AofVgSGPLUa7PFjRno1VRYg_mMkZUbTjUXnouIChP0YVs9O95C8FmlIVdlGiVWyjl0-QoUSVABTqZdDxHWlz6y2RvqTmok-HudloPmTeppNX6zZKEdJ"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 179,
+    "has_photo": true
+  }
+}
