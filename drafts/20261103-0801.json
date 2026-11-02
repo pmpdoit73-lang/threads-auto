@@ -1,0 +1,51 @@
+{
+  "id": "20261103-0801",
+  "created_at": "2026-11-03T08:01:28.109320+09:00",
+  "publish_at": "2026-11-03T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 세탁기 세제 많이 넣는 습관 (세탁기 온도 글 후속편)",
+  "angle": "세제는 많이 넣을수록 깨끗하다는 착각, 남은 세제가 옷에 남아 손해라는 점",
+  "category": "살림템·가전",
+  "subject": "세탁기 세제",
+  "hooks": [
+    "세탁기 세제 30년 동안 이렇게 넣었어... (9/10)",
+    "세탁기 세제 붓다가 나 뭐 한 거지? (7/10)",
+    "얘들아 세탁기 세제 뚜껑에 이런 게 있었어? (6/10)",
+    "세탁기 세제 계량컵 이거 장식인 줄 알았는데..? (6/10)",
+    "세탁기 세제 넣는 법 듣고 30년 헛한 기분... (7/10)"
+  ],
+  "text": "세탁기 세제 30년 동안 이렇게 넣었어...\n많이 넣을수록 깨끗한 줄 알았거든ㅋㅋ\n근데 넘치면 헹궈도 옷에 남아 뻣뻣해진대\n난 이제 빨래 양 보고 계량컵 표시선까지만 1컵\n너넨 세제 몇 컵씩 넣어..?",
+  "image_prompt": "Casual smartphone photo at home of a liquid laundry detergent bottle cap used as a measuring cup, overfilled with blue detergent, resting on top of a front-loading washing machine in a small cramped utility room, slightly tilted angle, dim ordinary indoor lighting, some clothes in a plastic basket nearby, unpolished amateur snapshot, no people, no text, no logos",
+  "photo_query": "laundry detergent cap",
+  "product_keyword": "세탁 세제 계량컵",
+  "benchmark_note": "내 최고 글 '세탁기 온도 버튼 30년' 첫 줄 고백 형식·5줄 구조·숫자 공개·사람마다 답이 다른 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "세이브타임 세탁 세제 실리콘 계량컵 (세탁볼 겸용/FDA기준충족), 1세트, 민트 1개 + 피치 1개",
+      "price": 33800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9700829838&itemId=29019109490&vendorItemId=95946885608&traceid=V0-153-11742a21b6013796&clickBeacon=71d33900-d711-11f1-8d43-992b2d777ce5%7E3&requestid=20261103080214822024308268&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Fq95fCe_zIAD7wPaFs7Wc01te63-9igJTP3xwwg0OutIbGqFFtCPIPSWvxzjz2-LfqAn09UiHTEM0Ey3CJZa_CINx2xnNnDjgGhRl5fOzVA86QTQrhi5S6MgJoMW2Cu-PnTdQ1spNBS_5eIR4c9IzjFsqiVEaLo2h0zpdUG1JcAcz7e7LVH2EinC8kF6cJdmDpTiHp8aNHMSvpy2IMFLBDwQZp6kHXBtDwjVlZU193ObJjT3dv4FNYdPL9NCGkS1h3K1zCryS8Oajn9KYuxrW_zCBLDac3ljvKVsFAO_obLGXgw3KuOSZrJdru6hUXrzjnTCAcXfV2JXv4amO5llkzkCUagsefOur811F46LkYEvVuvFwj7FcsnYMyWhgYBflYyFekAKZClk_35kdo38-y_B1eZ20Q28MFjco5VAmUZN0DQKDXtpoiFOCJIeZIF0ISP0_O6biKQg3-AJErAe6ARmRnr5TDvMQBiIc44IXJgYNSgOZetWFGMDaa31kpW1Sj_BmoEUUTUQWdM1Le63L-Zi46Ihl_1Y"
+    },
+    {
+      "name": "모메마켓 세탁세제 섬유유연제 반투명 눈금 실리콘계량컵, 5개, 화이트",
+      "price": 8400,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9302117788&itemId=27556824089&vendorItemId=94522548789&traceid=V0-153-1a3d5704c269418e&clickBeacon=71d33900-d711-11f1-8969-96311e2ffd9a%7E3&requestid=20261103080214822024308268&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/OBj_OpkYNY-uyVfROGOLkI1hNdvQ2bCBhpuVZuFoyHyScAMzfaWrHahGw-yOZKrZh2oY1gqRJ4A86lgyQl67VQoQ8InbZPVirhyceVYP651pWAj6J_2wTQ0E_IeooHCXI5Oy3e4PFB3Lj1xiZMhD_At3_7zEB33XrKpuozly_O9xyFElN1hNZyByIS_sGm61ciiYubSk0vZcc-xq9gjE24WNHKInnCtlXPO_ioBeA36DE8kUrOXY_8Y9m3uHi7ZwcxWK8ETl2C4FRIuMsG2dxmIeDhVgZnKVPgEiBxswU9mloi2uYuPEdNyUs1DksZjajGrevTZcOqnz32BUbDN8K-aEb1_u6HMky7qBWkhVKAR_FBN3ajwL9-7RNMiBgwnER_Y6Z0eMxyaiTE3Ujwx04rchOqGglPmD15Hjrv8whiZvavT_0bb-gsyGPHljxhWI3l2lRgd8FJwQsrToPexmCBcd4w_85bOUpoRLqBsbMebrf1elXzSId4eMSLZfbbjAfTHQqW36KCdKh5HXSd_Cpq7kBZrAER0="
+    },
+    {
+      "name": "리얼세이지 실리콘 계량컵 세탁세제 눈금컵",
+      "price": 7600.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8606913471&itemId=24960716856&vendorItemId=91966471997&traceid=V0-153-ea1c5e828a2fae9a&requestid=20261103080214822024308268&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/eUnZ0_gQFhKdLzmEeR7HiB-KQcCsZi0LQwBz9P4m1MJ53UiFnpjUvYHJT8Dypytl46mGd8OqgxxS0bPpuE6NvHqzFN5XTdnQaiCAmaD_-c082fJKtOjWxUuFtFPsoMi0s4vVd3uRoGnoqHEb9t0dTntYUr_aCNFgVT7qBsjFjMgZ9TmrpTNK4Y3cf6CWCyEMkQck2EDXPPjyZNDDipwHjw3s5pKnyzDhpuf47JhHlx9hPD-OaaBl-l05gHEMoNojmZB3IlRyyYne9b98u7F6e_X85YFMuxKeTbdeCGomkVkZgPSqLLw3qMOXBx_icYGZEoMEDUKR6mY09EY420IbPk2Tx0BDEgStdkJ_U3O-wbMSI6sksII2HZgLP7MmWUbMCQwZ_IA1Uo7Cwaen8uOEiPBbgtbREw85FHx_b7LtTBhlGIanDDPqPWzvrYDLcGNTv8Bz5e63OwBQ3O__uGmMlnagxTVwXVUdtM85gdbk7O-U70v6nwe38SoFucH0_b9yGb0JcSYUTR0qHJ1LOVj6zdxni-UWEIQy3igK3DJG5lipT6kj"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 186,
+    "has_photo": true
+  }
+}
