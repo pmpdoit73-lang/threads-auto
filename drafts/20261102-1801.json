@@ -1,0 +1,50 @@
+{
+  "id": "20261102-1801",
+  "created_at": "2026-11-02T18:01:00.368391+09:00",
+  "publish_at": "2026-11-02T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기레인지·밥솥 말고, 김치냉장고 아닌 '세탁기 통세척' 아닌 — 수건 접는 법도 아닌 '냉동실 얼음틀' 대신 '도마 보관' 실수",
+  "angle": "나무·플라스틱 도마를 눕혀서 말리면 밑면에 물이 고여 곰팡이·변형이 생긴다는 흔한 보관 실수",
+  "category": "주방",
+  "subject": "도마",
+  "hooks": [
+    "도마 30년을 이렇게 말리고 있었어... (9/10)",
+    "도마 뒤집어 보고 나 뭐 한 거지? (8/10)",
+    "얘들아 와, 도마 밑면 본 적 있어..? (7/10)",
+    "도마가 휘는 거 원래 수명인 줄 알았는데..? (7/10)",
+    "도마 바꿀 때 됐나 했는데... (6/10)"
+  ],
+  "text": "도마 30년을 이렇게 말리고 있었어...\n설거지하고 싱크대에 착 눕혀뒀거든ㅋㅋ\n근데 밑면에 물 고여서 거뭇해지고 휘는 거래\n난 이제 물기 털고 세워서 2~3시간 바짝 말려\n너네 도마 눕혀둬 세워둬..?",
+  "image_prompt": "Amateur smartphone photo of a wooden cutting board lying flat on a wet kitchen sink counter in a Korean apartment, underside slightly flipped showing dark damp stains, cluttered dish rack nearby, harsh overhead kitchen light, slightly tilted framing, no people, no text, no logos",
+  "photo_query": "wooden cutting board kitchen",
+  "product_keyword": "도마 거치대",
+  "benchmark_note": "내 글 최고 조회 '○○ 30년 동안 이렇게...' 첫 줄 + 착각 고백 + '난 이제' 숫자 + '너네 ~해..?' 선택형 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "엔에이치비 2라인 도마 거치대, 단일 색상, 1개",
+      "price": 26000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6189725114&itemId=12209115964&vendorItemId=79479974596&traceid=V0-153-3737c9dfb308499a&clickBeacon=feea29f0-d69b-11f1-83d2-a705090f94f2%7E3&requestid=20261102180130950310053501&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/3mFMUkwsHFhwLEUe3tzY-n_Cb60G508xp6bDgiPgcG1sAaQ7ELbMiq4hjQBLUTeyhCHYzUyhk1dXONNmiuTyAaVz1pT6QWHyJxFPTYny0jOotAyl6uclfBV7JOZbQTx_2GHpHRjce1DYFXDwZZBXB5l5ls8ZV31YJij9ji4rUqefhJIIC4DjC7KIWC_UYNdUpBhvUeN-whg7oapxDR_IOzGzv7mX6fdfjozssOlcfXJRRtCGFzRkuwEbOfmvrqh9jCWxjF30253IKd78X-cLaYmIg6SutzNlIQhBGjG9gHOBd3l8wjnYMVNUDaaF5ob-9IhdhDaIJ9vW6jfNRKUv58DU7oMQnlEtTikGGcEKwd-dwliNK9BKStrs_soNSdAEKKtu9soSF227sC11cIQsiNhUcFUf36lDokTECXx2eB5OfnYrQBaJy52H91ooV1M9GN-x3I3p3kMV8ktLza2_BB-PY-AvGJLwPD9oTzNiK8UHNocJQhTs-otRVhv0VCrFcCe9yU6R0pfkLtlGkS_5tOvLPMvmySyF"
+    },
+    {
+      "name": "리빙공감 스텐304 냄비 뚜껑 도마 거치대 2구, 실버, 1개",
+      "price": 14250,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8274732152&itemId=23851189767&vendorItemId=91886951577&traceid=V0-153-5156af3cd865df88&clickBeacon=feea29f0-d69b-11f1-be48-798e3dbee003%7E3&requestid=20261102180130950310053501&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/BOp_8lG0s-FefSGUBNopYgX-b1sLCwn2c_TJMt5drJ6bjsx_agBSbrW2NEwMWEKQsbBCEdBEpheUiWEgzsM4w8U0g_Z-GIqquUNoWVxAN7ndCNHQfWduGGZEAXLFoXDoefHM-ZJF6_KAdXpEWDoc1EUsE6D91Hf1ICZuTlpaV4EL17bv4CzPw0QuGxbEgVk7txdWpjVDjpcSTOuQ0RCvWODU5WtsKMaDW1tsjaMCO0wmvgtN7agWrawa004CZ9_5PFA7YbsURrR8kQXc_Ee55W_eMIQHKpZyncVOvs6cW-HDvkkTscHXl80uZOFIYCozhO9qzCA-WEw-bUe724lGaGyYCv0cj-aLmSaCUemxnIMxnPIUwZTHEuZur-igl4VPbkJFJR8hGHGRmHfjEHN0OKRj1kSo_IBmNU1Ei9-bmC98fdXOTjdfe9Ayqrdo-73phAqEwEH0wfhaMhe3fyl6HtqrhJYxuLb_ZzkqMNpE1Kw1p1X_hGF4AuIAB6fN5Vsgyu33CBe79geH"
+    },
+    {
+      "name": "코멧 스테인레스 걸이식 도마 거치대 2단",
+      "price": 8220,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8562245132&itemId=24797302224&vendorItemId=91805066164&traceid=V0-153-36f5cb3f10c10cbb&requestid=20261102180130950310053501&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/LE4Ahzwu1szg3EyuLPqH-wCKd5gMcXmEN-n5SHr3mAH28Rn2_2OMl2CQZEGDeb6AcwMlewrZ2G-XQ6d3aNk9aZ137_l0Vb1D5s702g7eSgtsgXoD236n_TbYAakWH1wiPzUSL8jBYLZeKH_f3qpy1ijwBzZ1B9QMO_qA9zpqgY6Drxffucu44BPICVyyN2AH7AJD3reTU3PHae1h0jqkFS19he0h83TpOW8q9_5ZIhNCtTG4h-ZPAJPIdBuU9oHK2w1506lN_P0ksX5XfxhUWjjZgeasEqYRn6z6w97us2aheGMgX-mWNJubm1bVKX3AVkTnl5rXtCOXazjlzLIHZcSEueyTUtm1zGI7cPpxXppCiLRKdH1PjuW_8X0dD9-YmKKJCaQMM4oKZ-MqPdlZL52X98XjJrCTPkgpgb50lQJO3tx6JM2bd69lviBF2Yybg5m7DCwZT1bhoRIp4gv4zH0uz5M39n7d5nFyPjM4hWt3oVY1dVTB8zhihqjNH53NOrHHJrgZO5zUzQHVLEaO_260BA=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 184,
+    "has_photo": true
+  }
+}
