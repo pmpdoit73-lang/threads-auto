@@ -1,0 +1,50 @@
+{
+  "id": "20261102-2200",
+  "created_at": "2026-11-02T22:00:57.433591+09:00",
+  "publish_at": "2026-11-03T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "issue": "리센느 원이, 공연 중 무대 이탈…\"세탁 후 줄어든 의상 탓\" (계기만 참고, 연예인 언급 없이 줄어든 니트 복구 팁)",
+  "angle": "세탁 후 줄어든 니트를 그냥 버리는 손해, 린스 푼 미지근한 물로 어느 정도 되살릴 수 있다는 걸 몰랐던 점",
+  "category": "청소·세탁·정리",
+  "subject": "니트",
+  "hooks": [
+    "니트 빨았다가 아이 옷 된 거 30년째야... (9/10)",
+    "줄어든 니트 버리려다 손이 멈췄어..? (7/10)",
+    "얘들아, 줄어든 니트 이렇게 되살아나는 거 알았어? (6/10)",
+    "니트 세탁하고 나 뭐 한 거지...ㅋㅋ (7/10)",
+    "니트 줄어들면 끝인 줄 알았는데..? (8/10)"
+  ],
+  "text": "니트 빨았다가 아이 옷 된 거 30년째야...\n버리려다 들은 방법이 너무 허무해ㅋㅋ\n미지근한 물에 린스 한 숟갈, 30분 담가 두기\n살살 늘려서 수건 위에 눕혀 말리니 꽤 돌아오더라\n너네도 줄어든 니트 그냥 버렸어..?",
+  "image_prompt": "Amateur smartphone photo taken at home: a small shrunken beige wool knit sweater soaking in a plastic basin of water on a bathroom floor, a bottle of hair conditioner without label beside it, slightly tilted angle, dim bathroom lighting, cluttered tiles, casual unpolished snapshot, no people, no text, no logos",
+  "photo_query": "wool sweater soaking",
+  "product_keyword": "울세제 중성세제",
+  "benchmark_note": "내 최고 조회 글의 '물건 + 30년 셀프 디스 + 말줄임표' 첫 줄, 5줄 구성, 숫자 공개 후 '너네도 ~했어..?' 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "어슬릭 중성 울세제 홈드라이 니트 세탁세제, 4개, 2.5L",
+      "price": 13290,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9740202866&itemId=29152718950&vendorItemId=96001128716&traceid=V0-153-01edd157cd9fd1e6&clickBeacon=87490a70-d6bd-11f1-a4db-657abd2b4b16%7E3&requestid=20261102220133094084980275&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/dBhpiCQlH8LRPOkmdDH9o55S_gt0Th73ChxB3NEBzCjQopHWLFwQjvBqHLjYnzvzfpDaRFb2IUJ5PxhfEK_QMFqTt3CItR-PxsY9yIZeEAL70lwxAv2cu2EjWjDKMnOLuzRxRm1nl_XG47yW-BDtXDwWyrJecFBWl2hB0m-juCgi_wPYBe-zsi4jZ6pJ3NAUijdSfZKwHiUvDZhr2w0YEAP6nlyAk4nBqTgGCrUp7PxFyqDwFe-Ld_xRao1i6gEOi8cFJqMTM2BbvGDLUUBzhCb5G4LBAUs8fYVpEd96jbWlYHrlM9HhjrGsDxJtFpwXbzllti5Oc_H2MPRPqknK2b5wbKcsuvZQih2jMeKumHhYMdwrsH2jjVy6YgQZGe7brXVS5CgMcSySZ80WJDiRn1VyDxTKt8e9d_BWfAI6pegLde25ZjHx-QS0pPnR3YfEzhOtV-0EHMRZpZWpc1ZQDHS_onHW0OL1uAFTaq1Z1-gF7oCyC6c2ROk8gl1FAm5tTpDMIbU5iP8Xt90="
+    },
+    {
+      "name": "에코버 울세탁 세제 본품, 750ml, 2개",
+      "price": 21730,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5410445399&itemId=27804578684&vendorItemId=85320506696&traceid=V0-153-28de8eaadd5a266f&clickBeacon=87490a70-d6bd-11f1-b8b0-0638f248ea93%7E3&requestid=20261102220133094084980275&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/lS_jDD_YFAJZrMJMlVWFsf_EF8KYAFZLufpzQ4nRuryMy37MaPWx-a_ml0siae1nQNLEqlaWJOIZfXULR0MSblblhrs6lZyMmD2gRCFkabom3GITOE-OILfnvtBMtZf2shCpFU3gew7U8b2brdHwMxhiDAuLsGaU9BTETby9yAqi8Yy8QKCW_KNrJ1ovemGTLlNgJKQPF6nn24HKjDdcHsJAUy1vljhLxoRuWb5HCZMiFfG11TOhOuQ24xR1TdbYBOxdJhZVQevtmv2fnc6Ul2c-K6h_0A5A5L11u7ZDjNzXTSqLxIVKHTiYLAYW2dn5taRq2vKLuWeJh2AHzlUQfKgUCyDAA0H7OY_j7O8qEWRbXI1IJ0th66gsi1juwAdHL_PXfsKFwlljxB4xjkmWcvG3y2rjDW9njb_kDPA0gSi_2tWNzlY37p-_XqQNO_TxFAoATuSGTkz-GkO6Vo9EfG04GjTonXtluaYFPKR7D5pa9rDp3gQVSY5D9PBLLkvC70P19nmOL1vtJzevmgmlisCrJa9A5EWu-_EeBFsFM4qs79LlZkp_2gTn80Z9hQn9GSktfUBoKkVJADs="
+    },
+    {
+      "name": "울샴푸 오리지널 본품",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7199000913&itemId=1082392039&vendorItemId=5585499503&traceid=V0-153-79432cf05447358d&requestid=20261102220133094084980275&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/OowIbHIob3JAZFNfOmii3goh2Q2bHITcCKAb3l7hcbvSssfAq_X5UftS3EDgS-zZe4lYVpF03vBih6AA9VocM3ntxu-SMdscp3KxpQ65q7QQTiERy8-rX40khwUJ0fcQYwb1EhC3zqIe31it2ipbIsVkgL2V8uQu9yxt0vX0rCgznCbHcRiAVi0xUcru5jrqmja2t2ppsPQsCPzoCS7o1W_5oOQ6UcGXWjhlBeDXXMgjbW8Y59Tv5pqlr7FWH4-QhB_BnM-BrV_q_ln5kTraSO7qdvFb4ftunoE4PMbmZAc0TiMwclSv14gXmE3VK1CKPofJTakCY3QYAokN-bOAJj_h7Yx4lCOZcu-k8YRrsf6lEynJLwPSV4jxzOl2_zSwp3zhHG-9m9D4naezMZGvETRO_o0XzAq-6gnHBkQ9tVyfjESrdIOk0vfqYjmQsVacukjh2Mbc4lMnJI1ceerW1qzNOYfzZxK5nB36lDCCa05_OpzRKlSnFiNqwNQ0QyYGBGpSRemqtE3UtysSU4LS3FE9Hg=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 185,
+    "has_photo": true
+  }
+}
