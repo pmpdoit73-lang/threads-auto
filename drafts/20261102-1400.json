@@ -2,7 +2,7 @@
   "id": "20261102-1400",
   "created_at": "2026-11-02T14:00:54.629232+09:00",
   "publish_at": "2026-11-02T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 아닌 '전기밥솥'도 아닌 — 랩(주방 랩) 상자 옆 고정 탭(랩 끝 고정 구멍) 용도",
   "angle": "랩 상자 옆면에 눌러 접는 고정 탭이 있어서 롤이 튀어나오지 않는다는 걸 몰라 늘 롤째 빠지고 끝을 못 찾아 버리던 손해",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 179,
     "has_photo": true
-  }
+  },
+  "threads_id": "18435203074151504",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfO8E9nFqXl",
+  "reply_id": "18109543184235939",
+  "published_at": "2026-11-02T18:02:42.167713+09:00"
 }
