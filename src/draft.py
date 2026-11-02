@@ -141,6 +141,8 @@ def publish_time(d):
 
 # ---------- 내용 만들기 ----------
 
+VIRAL_HOURS = {11}  # 하루 1건만 '조회수 공식'(모두 쓰는 가전+의견 갈리는 질문)으로 씀
+
 def _fill_content(d, avoid=()):
     collected = trends.collect()
     print(f"[draft] 이슈 수집: { {k: len(v) for k, v in collected.items()} }")
@@ -153,7 +155,9 @@ def _fill_content(d, avoid=()):
     external = bench_store.load()
     print(f"[draft] gil이 보낸 벤치마킹 글 {len(external)}개")
     used = used_topics(exclude_id=d.get("id"))
-    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks, external, used)
+    viral = bool(d.get("publish_at")) and publish_time(d).hour in VIRAL_HOURS
+    d["viral"] = viral
+    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks, external, used, viral)
     print(f"[draft] 글 작성: {post['text']}")
     d.update(post)
     try:
@@ -409,6 +413,7 @@ def caption(d):
         *([media.label(d["media"])] if d.get("media") else [f"🖼 사진: {d.get('image_note', '')}"]),
         *([f"🙏 {d['credit']}"] if d.get("credit") else []),
         f"📦 형태: {FORMATS[d['format']]}",
+        *(["🔥 오늘의 대박 공식 글 (모두 쓰는 가전 + 의견 갈리는 질문)"] if d.get("viral") else []),
         *(["📷 첫 댓글: 인스타 홍보"] if wants_insta(d) else []),
     ]
     products = d.get("products") or []

@@ -51,7 +51,21 @@ def _benchmark_text(benchmarks):
     )
 
 
-def write_post(trends, recent_issues=(), benchmarks=None, external=None, used=()):
+VIRAL_RULE = (
+    "\n\n[오늘의 대박 공식 글] 이 글은 하루 1번 쓰는 '조회수 공식' 글이야. 우리 계정 최고 글은 "
+    "'세탁기 온도 버튼 30년 동안 이렇게 눌렀어…'(이틀 만에 9.9만 조회, 댓글 43개)이고, "
+    "'실리콘 트레이 2천원짜리…'는 7천이었어. 스트랩·컵 건조대 같은 특이한 물건은 180 정도였어.\n"
+    "이 공식을 꼭 지켜:\n"
+    "1. 물건: 집집마다 다 있고 매일 쓰는 가전·살림 (세탁기·건조기·냉장고·밥솥·수건·이불 등). 특이한 물건 금지.\n"
+    "2. 첫 줄: '[물건] [버튼·설정] 30년 동안 이렇게 [했어]…' 같은 실수담 고백.\n"
+    "3. 사람마다 답이 다른 질문으로 끝내: '너네는 몇 도로 빨아?', '너넨 몇 번 눌러?'처럼 각자 자기 방식을 댓글로 말하고 싶게.\n"
+    "4. 가능하면 구체적인 숫자·가격을 넣어 (확실하지 않으면 지어내지 마).\n"
+    "5. 세탁기 온도 글의 후속편도 좋아: 건조기 온도, 수건 쉰내, 이불 세탁, 세탁기 헹굼 횟수 등.\n"
+    "6. 최근 글과 같은 물건이어도 괜찮아. 단, 같은 팁·같은 버튼은 다시 쓰지 말고 각도를 바꿔."
+)
+
+
+def write_post(trends, recent_issues=(), benchmarks=None, external=None, used=(), viral=False):
     """trends: {출처: [제목...]}, recent_issues: 최근에 다룬 이슈(중복 방지)."""
     lines = []
     for source, titles in trends.items():
@@ -89,6 +103,7 @@ def write_post(trends, recent_issues=(), benchmarks=None, external=None, used=()
         "5. 글과 어울리는 사진 프롬프트, 사진 검색어도 정해."
         + _external_text(external)
         + _benchmark_text(benchmarks)
+        + (VIRAL_RULE if viral else "")
     )
 
     post = _ask(user_msg, SCHEMA)
@@ -96,7 +111,7 @@ def write_post(trends, recent_issues=(), benchmarks=None, external=None, used=()
         print(f"[writer] 날씨·난방 주제가 또 나옴 ({post.get('subject')}) → 다시 씀")
         post = _ask(user_msg + "\n\n주의: 날씨·계절·난방 주제는 최근에 너무 많이 썼어. 이번엔 절대 쓰지 말고 "
                     "프로필 주제(살림템·가전 기능·주방·청소세탁)나 최근 이슈로 골라.", SCHEMA)
-    repeat = _repeated(post, used)
+    repeat = "" if viral else _repeated(post, used)  # 공식 글은 같은 물건 다른 각도 허용
     if repeat:  # 최근에 올린 물건이 또 나오면 다시 쓴다
         print(f"[writer] 최근에 쓴 물건이 또 나옴 ({post.get('subject')} ← {repeat}) → 다시 씀")
         post = _ask(user_msg + f"\n\n주의: '{post.get('subject')}'은(는) {repeat}에 이미 올렸어. "
