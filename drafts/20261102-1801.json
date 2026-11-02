@@ -2,7 +2,7 @@
   "id": "20261102-1801",
   "created_at": "2026-11-02T18:01:00.368391+09:00",
   "publish_at": "2026-11-02T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기레인지·밥솥 말고, 김치냉장고 아닌 '세탁기 통세척' 아닌 — 수건 접는 법도 아닌 '냉동실 얼음틀' 대신 '도마 보관' 실수",
   "angle": "나무·플라스틱 도마를 눕혀서 말리면 밑면에 물이 고여 곰팡이·변형이 생긴다는 흔한 보관 실수",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 184,
     "has_photo": true
-  }
+  },
+  "threads_id": "18110354267253596",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfPQiv_G-Oc",
+  "reply_id": "18115955576521872",
+  "published_at": "2026-11-02T21:01:30.945453+09:00"
 }
