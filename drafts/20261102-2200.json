@@ -2,7 +2,7 @@
   "id": "20261102-2200",
   "created_at": "2026-11-02T22:00:57.433591+09:00",
   "publish_at": "2026-11-03T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "issue": "리센느 원이, 공연 중 무대 이탈…\"세탁 후 줄어든 의상 탓\" (계기만 참고, 연예인 언급 없이 줄어든 니트 복구 팁)",
   "angle": "세탁 후 줄어든 니트를 그냥 버리는 손해, 린스 푼 미지근한 물로 어느 정도 되살릴 수 있다는 걸 몰랐던 점",
@@ -46,5 +46,9 @@
   "message": {
     "message_id": 185,
     "has_photo": true
-  }
+  },
+  "threads_id": "18130762921846757",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfQVM6Rj2w3",
+  "reply_id": "18121612256586899",
+  "published_at": "2026-11-03T07:01:34.325761+09:00"
 }
