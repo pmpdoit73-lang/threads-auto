@@ -2,7 +2,7 @@
   "id": "20261102-1740v",
   "created_at": "2026-11-02T17:40:41.261426+09:00",
   "publish_at": "2026-11-02T19:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "사진: 말끔 클렌싱 세안브러시 (교체 헤드 포함 2,000원 실리콘 세안브러시, 주 1~2회 권장)",
@@ -56,5 +56,9 @@
   "message": {
     "message_id": 182,
     "has_photo": true
-  }
+  },
+  "threads_id": "17967365036981497",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfPC001EW8k",
+  "reply_id": "17929100883430427",
+  "published_at": "2026-11-02T19:01:49.381254+09:00"
 }
