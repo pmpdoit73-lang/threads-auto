@@ -1,0 +1,51 @@
+{
+  "id": "20261103-2200",
+  "created_at": "2026-11-03T22:00:57.835660+09:00",
+  "publish_at": "2026-11-04T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 식기세척기 세제 대신 주방세제 넣으면 안 되는 이유 말고 — 설거지 후 스테인리스 냄비 무지개 얼룩(식초로 지우기)",
+  "angle": "스텐 냄비 무지개 얼룩을 탄 자국·불량인 줄 알고 박박 문지르거나 버리는 손해, 사실 식초물로 쉽게 지워짐",
+  "category": "주방",
+  "subject": "스텐 냄비",
+  "hooks": [
+    "스텐 냄비 30년 쓰면서 이걸 버릴 뻔했어... (9/10)",
+    "스텐 냄비 바닥 보고 나 뭐 한 거지? (8/10)",
+    "얘들아 스텐 냄비에 무지개 뜨는 거 봤어? (7/10)",
+    "스텐 냄비 수세미로 1시간 밀다가 팔 나갔는데... (8/10)",
+    "스텐 냄비 무지개 얼룩, 이거 불량인 줄 알았는데..? (7/10)"
+  ],
+  "text": "스텐 냄비 30년 쓰면서 이걸 버릴 뻔했어...\n바닥에 무지개 얼룩 생겨서 불량인 줄 알았거든ㅋㅋ\n알고 보니 물 속 미네랄이 남은 거래\n난 이제 식초 1 : 물 10 넣고 5분 끓이면 끝\n너네도 이거 탄 자국인 줄 알았어..?",
+  "image_prompt": "Casual smartphone photo taken at home of the inside bottom of a used stainless steel pot showing rainbow-colored discoloration stains, pot sitting on a Korean kitchen sink counter, slightly tilted angle, dim kitchen light, a bottle of vinegar partly visible at the edge, ordinary messy household feel, no people, no text, no logos",
+  "photo_query": "stainless pot stain",
+  "product_keyword": "스텐 냄비 세정제",
+  "benchmark_note": "내 글 1위(세탁기 온도) 형식: '30년 ~했어...' 셀프 디스 첫 줄, 둘째 줄 오해 고백+ㅋㅋ, 셋째 줄 이유, '난 이제'+숫자, '너네도 ~했어..?' 질문 마무리",
+  "products": [
+    {
+      "name": "세소비 스테인레스 연마제거 탄냄비 찌든때 묵은때 물때 기름때 세척제, 1개, 350g",
+      "price": 18300,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7879436288&itemId=21545231686&vendorItemId=89171914624&traceid=V0-153-892af5422b4fdbe8&clickBeacon=b285f8f0-d786-11f1-b79e-57ee481c227e%7E3&requestid=20261103220134495321238909&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/hCEQmbnVSNA12hXHhB43a62C7kwAyloscGdwGn_8l0cQ4tFFDvdCL8hnCqEI0ek1zEp6WmlZ1tQqty0awkVDzLeolPTiYd0WU65OJrUhLkceRyHoF17poRaTQm3LTfI-hpjEDAFeeU6pU0cBm5qgMyr1wy2894iYzC5V_9IwV9F_ykUNR08Q9nBKQ-l_U-eKbl9dNQBtgqZ86HDeyPnOiyZeQmAJoHCv7QDSPdCdpdMuojlJDHxjU0er15GR2miUu3BqQR-mKgfC1VpxL2NmghYxOlesok291wmbL49dIds4wnzEmpVc78dW6Ln79tdtaKUFZbiZ2G4VWHxeC9E-nt7LSlZxfCmU0mQioJL4WhkVYnVoTW3SnJmaS5RYqH0UtzzPG71oAPSH-46cIK4_5gdZJa5Ec4D4CX9rjd3F8SM7MLgQ3cKfVIgylv389C9sLxLuOlUpAfVftONoAm-x3udf2FyuHwg9Cu_CXraDHqJs9RptAxmh_ih-AD4EwDy2OYernoTHDkIT3YD6h40v1wkd3JW95B8K"
+    },
+    {
+      "name": "세소비 스테인레스 연마제거 탄냄비 찌든때 묵은때 물때 기름때 세척제, 6개, 350g",
+      "price": 94900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7879436288&itemId=24917641893&vendorItemId=91923975447&traceid=V0-153-892af5422b4fdbe8&clickBeacon=b285f8f0-d786-11f1-bd0c-da2437f6321b%7E3&requestid=20261103220134495321238909&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/iIhIbYBYfJIQ5SH0iEYUVrxz3mgMNCfkmQjtCFWyt2aiS5eK-EEAx1eGKryzbaJ0w6LqyFAr-VScsLlmzp4V7ZCA4MezZuSio9MFROPpeMHMDYvT1p4oTylyivPkMfS6oPTJtR4tHuaWgsuZoc--vRa7mTQ-xU6Hh-GF9gWWuqNY9v-PT3HhycXXbll6FiAQt_tEWZrbJmSpG9-_z0mhRXpn4VqCr87J97PKonLB9_JXKQRzQY3oUrYTpSh881PG9USD6Gz8_SHBK01rWDAd-dVFEbt-93oga5JVujSWB9MRd9bPvCjWaWVJQfgcTEsyu2L1w5R47WeZHiXQyA4TRIlKH29LXXUT6GxebBRI7iwBjOGkiVcg4oyC08BhTPkXAovBAyzgSao9Q20Zrr2vMmu6HavNypIwQmtTjxwQeo5aXWKqO7s9GQgJyhCT5-vuWyHdiXNwMAqH2VMsylE4S8eBOcLnZnB8IQ69V_4qdXPskp7rubzjCLDh7BkditoL6ADU6gWj1xHfyFTId_WNXByVKpc="
+    },
+    {
+      "name": "스테인리스 세정제  찌든때/기름때/물때 초강력 제거/주방 냄비 후라이팬 싱크대용/만능 클리너 S.11",
+      "price": 14900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9766830539&itemId=29232758796&vendorItemId=96243370428&traceid=V0-153-c7656b1dd7532197&requestid=20261103220134495321238909&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/UX06rW5VJXAH8SGGUY09PWQHFLf0Pm6zG8HBbEJdqivLTJkYW6bnDD1iYYG69Voa8emhgfxglIWGaCMqJiW1LLh0z416ALVLJkk4r-cmhXM-giF6ru9UFSMt4IeVeoG9KuyTvoDeBalk6lhXuQiJaBiCZ032OsW4yFlXORcDQQ1e8MLkVECqkms_ZkI5Jwd5ZMj1dCJGfMULGEBbVzTvBVcMvcdjK3QPZEGCstK6SC2G_H8vxERFsr5Cr_IxFkk96FrqwBJFiWr7Y4eaCpN04RIkrP25-76Y6IeJ2z065c8f2tx609ly7dcn4z-92xeB_t2sutZhMLAdi2OJzP2Zy0O-MGCP3ERsQrbLoL3k_SllZEz4VRkdSewmbSjI4ttdbZkgrS1KIwMRXSFkmIFjfmRA_kG-Oz18HAtSa9L0YCp8yLkjJvB03kurEoLbSpbvpmi2yZJE5g-rDwiAl4GDMU3eK8uPmk17yCTNNw71Me2lOKGyePRbKVrUh60cNPYUnEhS0uP4koJX-ifJ0nfAT-J-Lcl9LThk0lthZ7Lpi60Wvxw="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 193,
+    "has_photo": true
+  }
+}
