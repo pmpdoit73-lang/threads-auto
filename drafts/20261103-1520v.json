@@ -1,0 +1,60 @@
+{
+  "id": "20261103-1520v",
+  "created_at": "2026-11-03T15:20:42.337276+09:00",
+  "publish_at": "2026-11-03T16:20:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "extra": true,
+  "issue": "사진: 변기시트용 위생손잡이 (변기 시트 아래 붙이는 2개입 1,000원 개구리 손잡이)",
+  "angle": "변기 시트를 맨손으로 들어 올리던 습관, 1,000원짜리 손잡이로 손 안 대고 올리는 법",
+  "category": "청소·세탁·정리",
+  "subject": "변기시트 위생손잡이",
+  "hooks": [
+    "변기시트 손잡이 보고 웃었는데... 나 뭐 한 거지? (9/10)",
+    "30년 살림했는데 변기 시트를 이렇게 올리고 있었어... (8/10)",
+    "얘들아 와, 변기시트에 이런 게 붙는다고? (7/10)",
+    "이 개구리 장식인 줄 알았는데..? 변기 손잡이래 (7/10)",
+    "변기시트 위생손잡이, 1,000원에 2개 들었더라 (3/10)"
+  ],
+  "text": "변기시트 손잡이 보고 웃었는데... 나 뭐 한 거지?\n30년을 시트 가장자리 맨손으로 들었네ㅋㅋ\n시트 아래 붙여서 개구리만 잡고 올리는 거래\n일반형은 스펀지, 비데는 양면테이프로 2개입 1,000원\n너네는 시트 뭘로 올려? 발로?ㅋㅋ",
+  "product_keyword": "변기 시트 손잡이",
+  "has_photo": true,
+  "album": [
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAO8aul7TmR-HIF-U9CfB7qJ9zG27aQAAmsZaxs2j0hXsxRjJOrAWhsBAAMCAAN5AAM9BA"
+    },
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAO9aul7TktS7LcTtOUodqmJVJUnOtYAAmwZaxs2j0hXZmqPc4q5mTABAAMCAAN5AAM9BA"
+    }
+  ],
+  "media_group_id": "14349490803153565",
+  "image_note": "gil이 보낸 사진 2장 (넘겨 보기)",
+  "credit": "",
+  "products": [
+    {
+      "name": "다이떼 화장실 변기커버 위생클립 뚜껑홀더 변기손잡이 1+1, 화이트",
+      "price": 6400,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9571887057&itemId=28569837895&vendorItemId=95514263733&traceid=V0-153-d1501968e038b61c&clickBeacon=b9a73500-d74e-11f1-a3d6-5402cbfa75c1%7E3&requestid=20261103152054640107130046&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/stQx_qI52-wfFw7kskTANXaJvFKeBs6fUl4A4x5ZJHZHKxYz9R3qZS2twEf_jjgl6NaAkuOF1WlDQLWZiDPnumSuFFNXeq3Av8O0aAaqj593VjW5Tj9Ta3wbrzxdeVqI8nu11rvXT0Kn66Kk_GKREtZqF4keNrbIslpzYXw77RvDcnU7bicmKTy4FcssRyDHGjgH8QOW_bk0UewNBXWNokTI1vKif6NaIYRfJCsmidyGG353xjqEo8bb7y7c6MKa_Acm5wgqlkX1VY_frrz1DSjA97ECKRmUuCUsfzU6PROOqGPVe4hg1kozQlvHKxZfTE4tRyfhsrFqtchiFknZ2TBre1mWuA2wEqO1CujOFscV08cYWx5MnoOIVMbjuSgiljVz4ddfUyATvCoojm7xie4loQati23vo6T-uBEdeXTX8digWvY6dCI5jmRx1fSVAzdKDinCHrxMfLePPBg19VYJ9z5wqIWIP9_rHIfE1tEZbOWGp99ZW8Fx0IPVCgn1dha767xtUIa5j4Ahl7AnBwsB3keeQYAU"
+    },
+    {
+      "name": "루브앤 위생적인 변기커버 손잡이 2p, 화이트",
+      "price": 7100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9264601634&itemId=27415092502&vendorItemId=94380675820&traceid=V0-153-65defe568315d67f&clickBeacon=b9a73500-d74e-11f1-80a4-a1e13205c916%7E3&requestid=20261103152054640107130046&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/FdMRCxOwAy782JZHFfoVfOiU0rxb8w67cvikuqj9cLH-gu1wkKlCPqCXMamV5XPFxBs3p0gzNac7VZ9qj_t2jU0LdE9u8qFSYcRFKyNAxt5FjlXT4EDDRGybr5HCIkW0e8f74-GcjaGZe_JlKe3C-f5NztrAmkXMTrDAXn6LZWqMbg7GNgRJ4F3nKV9hITPjJie8YI6X9J0owMobA2sQ-T2r1tDUFSjQI9n4jzZpTgMdI1sPMEZ-v1pglNvSvSiMsIrpsfiAF4jVHuPHU0H_M9qchDpXOLUFY1JhW3g7njXEEAj42JapcXez7SrqiXgQ2yVcsF5T_3ZwwIVJtzpstRiiANdlwCHwVGMtuGgWayPImf0iqNCbw0qb5XJeXagqHWC6E860VsGDoZ7sJjN7enEdo5bwpP7YkKs24o6YC5KFCAEt11h_ipeLyaku2yIbcIuUteK5gvZlDiA3vs9hauW-qwvzssycuZdg111hn4xZ8A42vvsBaJ0Q5xgyOIP5FNbVwosw6AUBkHx4zridhz72SS7CpTY="
+    },
+    {
+      "name": "아트사인 좌변기 개폐손잡이 1+1 일반 5721",
+      "price": 4860.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1273722&itemId=5538268&vendorItemId=71440748498&traceid=V0-153-3d387d676df5331b&requestid=20261103152054640107130046&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/UTcUuObQxTKSJQCHUafA7Vz78pz36bhidqKZjyIWeTzrjTIW1FH5Owc5dZabEHdCMIV133B3ZZJRxiInm-aADl-aQGZuhG_Gv5Zm3OyGsdCuKGzYfnf-YZP3UvoCTid8DbRBOgFQ8AShtaPyctEHoujU1fQ42DHJv-87RC_EfwL6OkimRCeB72UqLwQLE9bBW0PcquPPdWC_KWKSNqtun0_NTGaWRxwvkayGznBHrZdPbiTioQe7tVsCuE2X1M-v9dpa8Fz-_o-0siBS6dE0gI-hbMH5jWEB5tRxUs2CkgHvlIT4OyhK-7rpwU8LVWfXtHkOcYxhq2vqLRVGPHGA7xTd5oJBI4KvSkf7IgcpQpe_IBkxJIoYRh_ike8kae-hj_0PkAB458_b3dfnB99LSORH6-UwkQ4G5DYpOFWwYj9uBKDG4g0bMHOdXKw4QOhBdnHWSlnovdndyEV7B9rrGMbnSyCyS1hK-0T75G8xUoWOmmUiK073pG6i8bDniG_eMPvh21t4HWNUqUATAl0wsKOOfPIxKsXOtuK3iA1UZw=="
+    }
+  ],
+  "format": "both",
+  "message": {
+    "message_id": 190,
+    "has_photo": true
+  }
+}
