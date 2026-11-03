@@ -2,7 +2,7 @@
   "id": "20261103-2200",
   "created_at": "2026-11-03T22:00:57.835660+09:00",
   "publish_at": "2026-11-04T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 식기세척기 세제 대신 주방세제 넣으면 안 되는 이유 말고 — 설거지 후 스테인리스 냄비 무지개 얼룩(식초로 지우기)",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 193,
     "has_photo": true
-  }
+  },
+  "threads_id": "18129489934829373",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfS6HCwmlqh",
+  "reply_id": "17898683526677955",
+  "published_at": "2026-11-04T07:02:26.931754+09:00"
 }
