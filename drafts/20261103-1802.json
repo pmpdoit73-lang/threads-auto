@@ -2,7 +2,7 @@
   "id": "20261103-1802",
   "created_at": "2026-11-03T18:02:04.312377+09:00",
   "publish_at": "2026-11-03T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 전기요금 설정: 세탁기 말고, 전기밥솥·냉장고 아닌 '공유기·셋톱박스 대기전력' 아닌 — 전자레인지·밥솥 피해서 '멀티탭 개별 스위치' 활용",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 192,
     "has_photo": true
-  }
+  },
+  "threads_id": "18109408289575284",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfR1VXRGxT9",
+  "reply_id": "18111801464208549",
+  "published_at": "2026-11-03T21:01:32.806018+09:00"
 }
