@@ -1,0 +1,51 @@
+{
+  "id": "20261103-1401",
+  "created_at": "2026-11-03T14:01:32.127130+09:00",
+  "publish_at": "2026-11-03T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기레인지·세탁기 말고 '건조기 먼지필터 아닌 표준/저온 코스' 대신 — 수건 건조 시 섬유유연제 쓰는 습관",
+  "angle": "수건에 섬유유연제 넣으면 흡수력이 떨어져 오히려 손해라는 점",
+  "category": "청소·세탁·정리",
+  "subject": "수건",
+  "hooks": [
+    "수건 30년 동안 이렇게 빨았어... (9/10)",
+    "수건 빨 때마다 넣던 그거, 나 뭐 한 거지? (8/10)",
+    "얘들아 수건이 물을 안 먹는 이유가 있었어? (7/10)",
+    "수건 뽀송하라고 넣은 게 독이었다니... (6/10)",
+    "수건 냄새 잡으려다 돈만 버렸나..? (6/10)"
+  ],
+  "text": "수건 30년 동안 이렇게 빨았어...\n보들보들하라고 매번 꼭 넣었거든ㅋㅋ\n근데 섬유유연제가 올을 코팅해서 물을 덜 먹는대\n난 이제 수건은 유연제 빼고 식초 1~2스푼만 넣어\n너네도 수건에 유연제 듬뿍 넣었어..?",
+  "image_prompt": "Casual smartphone photo of a stack of slightly worn white and beige bath towels on top of a front-load washing machine in a small Korean apartment laundry area, a fabric softener bottle with label turned away beside them, dim indoor lighting, slightly tilted angle, ordinary cluttered background, no people, no text, no logos",
+  "photo_query": "bath towels laundry",
+  "product_keyword": "호텔수건",
+  "benchmark_note": "내 글 최고 조회 '세탁기 온도 버튼 30년 동안 이렇게 눌렀어...' 형식(물건+30년 셀프디스 첫 줄, 착각 고백, 이유 공개, 난 이제 숫자, ..?질문)을 가져옴",
+  "products": [
+    {
+      "name": "연화삼월 고급 수건 먼지없는 타올 625 GSM 호텔 수건 순면 200g 타월 세면 수건세트 집들이선물 OEKO-TEX 인증 수건 선물세트",
+      "price": 19790,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9655761018&itemId=28862709840&vendorItemId=95796211573&traceid=V0-153-08a353ab7786ae8a&requestid=20261103140207980026029040&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/VDlXwTqQl92o3vVlVLr0N7hb7abZSkRJjgrltLhmzIyogDCAexfII7cYKS-NqLsJ6OAqAbHF7lqjTroAXZAaYiiHfG99WAmbt7IfMOL9hbqA8ntkunZVcKyyqUBm5L9LBePP1KCtjaGqUamYFCFuBI-LiV5Az2UCm00u9QysVH7ZS5miJgeWRxaHQ8mcxi4w0CFTlPsXrQ7YSb74_jHjc6marQcjpL2ZY_Eb09hKXF1ujTN1vXdKVTsj44LBlj495qVVmj1q4btrxAmw5JfgXL4s4XkD9jPitix-hyQApl-Hc1-ovO2e7XStA0KJcyr-RURP91fzKMgiw6CGLcYTA92na5uiodFXZklOUwizndikXYqmu-oJwuc_rpW_BCIi-KxW5qAPAQPxFMdtnkrjeIFoe_UetMbdiyu9gjAz6eLdz6ioHaYyIeiViuwvsnyN89I5Ywr-Y6PiL7bZ7yTMIja_8KtossIybsAzlwURicx_5Q2lIu_9ejn-RspnQjhu6_PoEvr4YufqqE2ry62dTaXpMrr5jmgzdIO7MUEH-IM="
+    },
+    {
+      "name": "연화삼월 고급 수건 먼지없는 타올 625 GSM 호텔 수건 순면 200g 타월 세면 수건세트 집들이선물 OEKO-TEX 인증 수건 선물세트",
+      "price": 19790,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9655761018&itemId=28862709836&vendorItemId=95796211567&traceid=V0-153-08a353ab7786ae8a&requestid=20261103140207980026029040&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/4BAASODs0r1SKUgm4INn_pk2PYc3Ba2lYGxU7CR7z7vMKxwQVNYCWE2vR2RqYVOhIeQENLori5DovfqaQyP0ImKnMgN0SC2vvCyTsJnM5ANpUO9W8yFQrGtHPrYTQ2NTPXLVQwBuPADuBr1qTVO3-WCA3jFuNkKGPduIMAT-6Oy0X-tC30WeYybrkc0DBo6HgFIB42TjonuVI82KlHI1AtzFEb6KaUo9mc-Ny1FUNIE1GUBntQmMM6IRYAZ2pSRFaDhoEY0-Sp2ic2ZqHL1dKA9knKt4pOucuR-kX7Phmw-CzvBL7MogyPKeMx5HUNlUR5IJ84DCHALqdErbndff9qG6jcrGUkN74gO-nFqpjofGI4ZuPXh_VmBxtoJGeylJS5KHsa7H3JGOrFGBdbtEgdI9ESbBcInUzrbFjDn7b1Ap3E5ejmpcWD1LChUNGzTevadw5IWWx6g2SBbaIBYla3wC5J-1d29upZcVjaM--j6FPkJ4-gpG3mbSFczyzoooGcxhrry7rJ1Q1VVCSlucMSv90rpKaJ5rhfouqPrK3Q=="
+    },
+    {
+      "name": "연화삼월 고급 수건 먼지없는 타올 625 GSM 호텔 수건 순면 200g 타월 세면 수건세트 집들이선물 OEKO-TEX 인증 수건 선물세트",
+      "price": 19790,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9655761018&itemId=28862709900&vendorItemId=95796211606&traceid=V0-153-08a353ab7786ae8a&requestid=20261103140207980026029040&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/3UDz2EA4dEP6LDsg3bt370XqQgV7ZEF-xnu9GoQw-BDuueApWjvs2lSjvZ7DGqnNmAHBttlWj4N0GnnWWY33Urp04seRiGdghN4MFec6nALKPGsUtlKh2e6eQgeXvqae2rFOvSswfpPi_NLSdg1G5j6iwYQHWjWyR5rz6VdEHRos8FJIvpZQeQgxitoAGtAqbudKMuMHCC8tEgkq8oOyLkFkI4mXFPMKyXYSu5cSDl5yg65GKZRJIEZt5gSYFDfpY2QrJgPwd2BbMcJXwhfr-tSpyqTU1UEvZzx9g6YzE84kd6aIUf1gALR3lww6OjoybWngMw4WHEFlVOo9JwHCliWy7jhVxrrDKDHSwhlSWLoSgd7yPCu-AGM7xXffnpxBPfBPgmknTJuSZ3tf1BfTIz13YTsYwwO_nMScXTHOkZfzpS5v-LaY5yRk_6I-3ZgUrp97czkfg_H3GT2nCDuwSekILt7NHLsYs4XYn08GjtNVTXZwWRxd412LShJSQQMEF3Gj3rdlT7vWymeblNMZqPIWBD0Ht7l4V5ZMY8lKgbHo"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 187,
+    "has_photo": true
+  }
+}
