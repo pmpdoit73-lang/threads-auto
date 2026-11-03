@@ -2,7 +2,7 @@
   "id": "20261103-1520v",
   "created_at": "2026-11-03T15:20:42.337276+09:00",
   "publish_at": "2026-11-03T16:20:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "사진: 변기시트용 위생손잡이 (변기 시트 아래 붙이는 2개입 1,000원 개구리 손잡이)",
@@ -56,5 +56,9 @@
   "message": {
     "message_id": 190,
     "has_photo": true
-  }
+  },
+  "threads_id": "18134038333806686",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfRVSWTFglz",
+  "reply_id": "18186930337421196",
+  "published_at": "2026-11-03T16:21:23.786526+09:00"
 }
