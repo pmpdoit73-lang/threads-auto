@@ -1,0 +1,51 @@
+{
+  "id": "20261104-0801",
+  "created_at": "2026-11-04T08:01:02.258605+09:00",
+  "publish_at": "2026-11-04T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 이불 세탁 습관 (세탁기 온도 글 후속편)",
+  "angle": "이불을 세탁기에 꾹꾹 눌러 담아 돌리면 헹굼·탈수가 제대로 안 돼 세제 찌꺼기가 남는다는 점",
+  "category": "청소·세탁·정리",
+  "subject": "이불 빨래",
+  "hooks": [
+    "이불 빨래 30년 동안 이렇게 돌렸어... (9/10)",
+    "세탁기에 이불 넣다가 나 뭐 한 거지? (7/10)",
+    "얘들아 이불 빨래에 이런 게 있었어? (6/10)",
+    "이불 빨래 다 했는데 왜 냄새가 나지..? (7/10)",
+    "이불은 꽉꽉 눌러 담는 게 맞는 줄 알았는데..? (5/10)"
+  ],
+  "text": "이불 빨래 30년 동안 이렇게 돌렸어...\n세탁기에 발로 꾹꾹 밟아 넣었거든ㅋㅋ\n근데 꽉 차면 물이 안 돌아 세제가 그대로 남는대\n난 이제 통의 3분의 2만 채우고 이불코스로 헹굼 1번 더\n너넨 이불 몇 달에 한 번 빨아..?",
+  "image_prompt": "A thick comforter stuffed tightly into a front-loading washing machine drum in a small Korean apartment utility room, door open, slightly cluttered floor with laundry basket, casual smartphone photo taken at an awkward angle, dim indoor lighting, no people, no text, no logos",
+  "photo_query": "comforter washing machine",
+  "product_keyword": "이불 세탁망",
+  "benchmark_note": "내 최고 글 '세탁기 온도 버튼 30년 동안 이렇게 눌렀어...'의 실수담 첫 줄·4~5줄 흐름과 사람마다 답이 다른 횟수 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "케디브 고밀도 이불 세탁망 특대형 120 x 120 cm 침구 빨래망, 2개, 화이트",
+      "price": 13100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9749114640&itemId=29190640176&vendorItemId=96111578531&traceid=V0-153-13ec60c8850b636b&clickBeacon=825077b0-d7da-11f1-88ed-20a6dfaf803b%7E3&requestid=20261104080131305294679127&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Kj6wToqF3HTGB0cXKiAMLqhlAEizY-OdQcIfLL6aeRzHWoqxnWiOiMe-VVafs61aj4m4ux5BWYnmxlX344D130Co26YSo03GhZnGilNgwMnlHMqONFePiRlrHSTjP-A5Yi_6weO12P7uWgHxq9qATQnxO5qxF3YVFYpOQDQ64TyswdCq7mq4xjYXuC4vv2eBFfQ-B481rWgUC6tPEL_2Bsre26U6n-Q5qNp8xtQawqi_pw2n0eGRKqg28KlXvMPPgS62Vo4435ZDfwVyEPCNrSWtzVF2RInKoIjCPemRS35v-g5qTLJ1c37x8c4IFAxp2j-H5cF0D2kmjPZJ_gTOmchLjcRT9VUDULASI7r-hTA4x6-Y-OXSX5D4yHGZSpVkeFJ5SvAFukPlT1TcXEvsTB09tz5A6W5drPQrM3LhzQHTkXfvwC7L0GU7VIN9R1CXkv6lVMIP6aCUQrhJN9oNwbpMLLtjLIQXAJfpKg7U8YVWBL25zWpAYVt4N-zdB50Yr0WDln85QvJ2h8GH60u7jdQtiO-VSpSy"
+    },
+    {
+      "name": "커버원 촘촘한 이불 세탁망 빨래망 100x100cm, 화이트, 2개",
+      "price": 12700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9741397335&itemId=29157504394&vendorItemId=96034229603&traceid=V0-153-b358e9b5cc5ffbfe&clickBeacon=825077b0-d7da-11f1-9f35-c55f3cd41f7b%7E3&requestid=20261104080131305294679127&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/wouHl50e-_70lcB_wuJ2cgBkonXWILVjAxMCBCjKHbJjuUTP2ywONriU8ZvDUqWZs34Rbus2knB90FuvanHTuJuLQ6zmABCODrchBpUeSJdCXLTdRDk_LUVynrj4JjBb85XPFFIhOkTWr_rnN00o45_FfXQqMutncCBhb9PxLxoBQ7BkvKyV9yDiSVpQFv-pVuAp4RMBKCzhZp9lj2fDgxUJp5qaEiT-4u31kIhvgEvXtHH-r6_4_yHFTdxf3dubIkNYoaore5NrrsyJLSlmtLdnoMjqfQK5_PvLxCRm927LatOzJfJ7FbrbP9z1m_0FlU6cfTsvjaL4Hsu1ahZB32zfJS7t-7D83QpU6Qqv_N6glT1Et7W8WsxbdHJiFwnBgpyXk4Y73Uni988SXd3Ia3FTqMkkEDQ23uqRpNO33YArua26Zeluq5Q5RPlOIfc0-CAKt5_WoflD9ND17FVxbeoxH7Z8dMlBS3ZyJY6kpi8EqdlTly8hf-p-pZw1rB_gMwQubnLFHh4YtP_DyLRXfTwOkcDsqjQ="
+    },
+    {
+      "name": "코멧 홈 메쉬 침구 세탁망 XL 120 x 120 cm",
+      "price": 6990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7951023620&itemId=21945259229&vendorItemId=88993103207&traceid=V0-153-a936977fc871fdbb&requestid=20261104080131305294679127&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/j4IW6Zd-eD7va3Mgj5ELhAOttdsW8uAoOxukduNZga4mL7jSkn5tHLkt79HjAoPHgWxW6qFFusOTmXSbGoMAdKi8j57yRY1f_iY07VBRfcMKzVKMjPCKkTj4oZgRMBbswm3cDhePds2JsvE8cEjO5MxRoTxfC9z3MfFghOfa6tU1ojKGcSqlUanHhBg1khM-t9F_xgOJH8xuD_KzY2b0M28kypGCziNHI3a2vX06u58F4n2jpBLbVqp_BUiRRa0eQQ2UnRQThxTo_JQlhtILVuNI3FHfZnHTHMT85e8hVZBBaEC-Qv_Lfr9F7S-g9601Epp1Z24DDdb_gRFRLucTcZ_3eQ6gFfAIIPcmDfzVXhdw_lrw3NsCcpA4a5cQIUVbCpHYPCmgt-z2OYuHCuhD0TJKsTdbE4wgKl0UW1slUbCd2ntynLZIfv2SBujydM0TI-6D6PJlMOAeGnROC5b1WuBQxhpqdW1p85yz0q8ImwUeyfFVMoMYanE8b3tu8cgcs3g6e9JGWdsR7tPePOIw_cjENoLkC8I63qF7Cv7JMKiL"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 194,
+    "has_photo": true
+  }
+}
