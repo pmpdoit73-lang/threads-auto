@@ -1,0 +1,51 @@
+{
+  "id": "20261103-1802",
+  "created_at": "2026-11-03T18:02:04.312377+09:00",
+  "publish_at": "2026-11-03T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 전기요금 설정: 세탁기 말고, 전기밥솥·냉장고 아닌 '공유기·셋톱박스 대기전력' 아닌 — 전자레인지·밥솥 피해서 '멀티탭 개별 스위치' 활용",
+  "angle": "멀티탭 스위치를 장식처럼 두고 셋톱박스·TV 대기전력을 24시간 흘려보내던 손해 습관",
+  "category": "살림템·가전",
+  "subject": "멀티탭",
+  "hooks": [
+    "멀티탭 개별 스위치 30년 동안 이렇게 썼어... (9/10)",
+    "멀티탭 빨간 불 보다가 나 뭐 한 거지? (8/10)",
+    "얘들아 멀티탭 스위치 이거 장식 아니었어? (7/10)",
+    "셋톱박스 꺼져 있는 줄 알았는데... (7/10)",
+    "멀티탭 스위치 원래 장식인 줄 알았는데..? (6/10)"
+  ],
+  "text": "멀티탭 개별 스위치 30년 동안 이렇게 썼어...\n빨간 불 예쁘다고 그냥 켜뒀거든ㅋㅋ\n근데 TV 끄도 셋톱박스는 계속 전기 먹는대\n난 이제 자기 전에 TV·셋톱박스 칸만 딸깍 꺼\n너네 멀티탭 스위치 눌러본 적 있어..?",
+  "image_prompt": "Casual smartphone photo of a white power strip with individual switches on a living room floor behind a TV stand, several plugs inserted, small red switch lights glowing, dusty cables, slightly tilted angle, dim evening home lighting, no people, no text, no logos",
+  "photo_query": "power strip switch",
+  "product_keyword": "개별 스위치 멀티탭",
+  "benchmark_note": "내 세탁기 온도 글의 '물건+30년 동안 이렇게...' 첫 줄, 셀프 디스 둘째 줄, '난 이제' 경험 말투, '너네 ~..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "TROKY 고용량 멀티탭 콘센트 개별 과부하차단 3000W LED 안전커버, 화이트 4구, 1개, 2m",
+      "price": 55800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9544776414&itemId=28474649833&vendorItemId=95921392033&traceid=V0-153-8972f25e42060c0f&clickBeacon=4b51b230-d765-11f1-bc10-6aecc09de58a%7E3&requestid=20261103180227891110667914&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/sJ_6kxfRacE_NYtwsIY0OVppxHrRgRfRrQ_ux8UGEb0Ui7WDZhuZweeTd1f9UTHHhV_c_32qC-1tXpTfMBkVqcCwH-S_3Rv84bGUNjZqswruxgeaoG4pEYjpMONYah5v6cazGfcAeaeoM47JQvC5_e-EWh6qCIHxLdkq1MXgCgc-k8PeGWRNWDb1eT9_o0DjMGqHZIFxIU8buoz_OIxaPmj59-e4g20w-Qdlo0QW4zPovB0PoLhf2qxEXvfEhUrflXkk2VEqJwil9guBsGb4cN6UcXevIa2gX_5UATV-ANVcNgMSnDCWKW2YLFAYrM0v9GUg-43e4jTjzV0OsP2vQxj5-_1ywmqZ_puPmw9KrjCbU0pI8fAkApJJYhbEtCSjuGLfXZ49GleNhpq_gZv4_m3beWrjfQoz0bp15g8ymy5W55xAgT6QEfdZOB_iPZVbajPbnh84zMaRYvxdaP4qsm_RdATQHSNCmDJtcGOQxKRsO3NVQzudSd1saw6VfAUtGtrMWMKZJTSt6963gaAjYEpQvl1CMsQDyqBeACqwbbFZpTpyBiZ0Uj5dmcXnS83PPmVTqORyRmy7RP1xNALmx-zx2A=="
+    },
+    {
+      "name": "써지오 개별 멀티탭 6구 DH-1668-MT + 안전커버 2p 랜덤 발송, 1.2m, 단일 색상, 10개",
+      "price": 139000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7046278942&itemId=29196744396&vendorItemId=96117315182&traceid=V0-153-de76539a29a873c4&clickBeacon=4b51b230-d765-11f1-b6bd-9a01aa72721c%7E3&requestid=20261103180227891110667914&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/gagJ9EXIvr3wMWZBgYtuKQmoglwZ8Q-tj_9zCXBbBDBLUdaT5KVT1O6HzDG94VqN0RMrCgBbuLhvO2tLBeHoVJuKLA5xYhrae4UxUa8sERYoN4Na4L0NwtWplVUAAP4G1Jau7q7B5v0JKOVJ-pL4C1SC6zQch2oFyo6bv4q9n6oHEcY5XNhY8lNAg5Y-E3WKhfP7XT8ZQM5hran23Z1vAYufbwRH12lIgGLsK5quxl_tF6OkRF9xbs6pjZD8WwLcsHI_M8D8BKZyrtZCegVBraf9i97LhBE0M4jynoeZI0p0P06kmuerIko3FODIkjY2g3jVmN2rhMDneJHfR3pTF8hnZm6YttmHOirM1Sym6hF-Sh_wAT7GRI3l_0F7kNd1bLf3cVYwhoqwnG1hwSVSgN2HmZjxXbNOJ0VVxtbmqOBxcq-3xlOolrCMw311Ae9f3LbuUslDNtwr2D0ULG7PTckaBfFG69uGkF_8raBqGYCmXm2ooUuQN6_7CALe4V-WWSPvUHx-i1kLps0pKuiCt2AAJqgrVdD2kqPv9pGUnUUwJ-vutP9E0zEgtoNcIQWoSrMlmx29MA=="
+    },
+    {
+      "name": "현대일렉트릭 국산 개별스위치 과부하차단 멀티탭 3구 2800W",
+      "price": 12700.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9691760413&itemId=29329203457&vendorItemId=96133206692&traceid=V0-153-81f2b5485bffabbf&requestid=20261103180227891110667914&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/DnkNMdH7syt26bBjDoVrmDOGmJZfgDLGeRrAScL_Sux8OaB9iWyfhX5Jkl20CJbFLvCKlgC-Pwqo347ov6hoCED-_j2DVOyPRM4fpMGJbq1JGsbwWbLz8I414p3fijM0D4vrj9rugcaKgc1PMRrMIGreiQbXAANzUfLbJOGsdIie_HJnFQii8Keb5CRwuSx8zGNm2jqhpJ6cme6AoSIIcWoLL2L4ifZjWDQJd_zxA-HWN9FnutI_7SJDYlcOjvxntzLiiA1TbtGB69rI9dksw5TmoLtZxX-Slt6Te7Tqgbl2g5Y1IXtIDFcWfrj3dxDrVa7nli5FYtzxidPWGciSyiPq0Ab1FwerYMdoJvU9jjkEqWh-zbUj5cu4wFysIL4_un9CdIFjUHlVuhlG4NR0uCNHnhweTIlY9GXCDEskJ7OJuclKxtjI0d1yi5Au1ijO1KI82ZK1IrC52jXxaLXXPJyCdCRitSwDgrrDu1Z1Y0LAiHZ3XCt6TuC54QAJBWd4SkRdNPi2Pokxyez-lPsrdZD_rnMD08pwl5bcTymO483XOpFM2L3wJi4hQS9CWB9bxa6YLsixFS3gfJgIXT3-IEG8uUOxuVDUvEwOhwVkKQ=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 192,
+    "has_photo": true
+  }
+}
