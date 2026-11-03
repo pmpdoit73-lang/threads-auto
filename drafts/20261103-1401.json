@@ -2,7 +2,7 @@
   "id": "20261103-1401",
   "created_at": "2026-11-03T14:01:32.127130+09:00",
   "publish_at": "2026-11-03T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기레인지·세탁기 말고 '건조기 먼지필터 아닌 표준/저온 코스' 대신 — 수건 건조 시 섬유유연제 쓰는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 187,
     "has_photo": true
-  }
+  },
+  "threads_id": "17981884947129224",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfRgu5lGx4v",
+  "reply_id": "17968116198198984",
+  "published_at": "2026-11-03T18:01:29.057172+09:00"
 }
