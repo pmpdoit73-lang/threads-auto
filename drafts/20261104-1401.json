@@ -2,7 +2,7 @@
   "id": "20261104-1401",
   "created_at": "2026-11-04T14:01:31.480003+09:00",
   "publish_at": "2026-11-04T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 프라이팬(코팅팬) 예열·세척 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 195,
     "has_photo": true
-  }
+  },
+  "threads_id": "18126090076714049",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfUFq7FlVNO",
+  "reply_id": "17971995372188062",
+  "published_at": "2026-11-04T18:02:43.177895+09:00"
 }
