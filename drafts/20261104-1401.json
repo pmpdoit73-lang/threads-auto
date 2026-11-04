@@ -1,0 +1,51 @@
+{
+  "id": "20261104-1401",
+  "created_at": "2026-11-04T14:01:31.480003+09:00",
+  "publish_at": "2026-11-04T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 프라이팬(코팅팬) 예열·세척 습관",
+  "angle": "코팅 프라이팬을 빈 팬으로 센불 예열하고 뜨거울 때 찬물 부어 코팅 빨리 망가뜨리는 손해 습관",
+  "category": "주방",
+  "subject": "코팅 프라이팬",
+  "hooks": [
+    "코팅 프라이팬 30년 동안 이렇게 달궜어... (9/10)",
+    "코팅 프라이팬 또 바꾸다가 나 뭐 한 거지? (8/10)",
+    "얘들아 코팅 프라이팬 1년 만에 눌어붙는 이유가 있었어? (7/10)",
+    "코팅 프라이팬 원래 소모품인 줄 알았는데..? (7/10)",
+    "코팅 프라이팬 설거지할 때 이러면 안 됐대... (6/10)"
+  ],
+  "text": "코팅 프라이팬 30년 동안 이렇게 달궜어...\n빈 팬 센불에 올려 연기 날 때까지ㅋㅋ\n근데 이게 코팅 빨리 상하게 하는 습관이래\n난 이제 기름 두르고 중불로 1~2분만, 식힌 뒤 설거지해\n너네도 팬 뜨거울 때 찬물 부었지..?",
+  "image_prompt": "Amateur smartphone photo of a slightly worn non-stick frying pan on a home gas stove, scratched coating visible, small puddle of oil, cluttered Korean apartment kitchen counter, harsh overhead light, tilted casual angle, no people, no text, no logos",
+  "photo_query": "nonstick frying pan",
+  "product_keyword": "코팅 프라이팬",
+  "benchmark_note": "내 최고 조회 글의 '○○ 30년 동안 이렇게 ~어...' 셀프디스 첫 줄+원인 공개+'난 이제' 숫자+'너네도 ~지..?' 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "SENSARTE 세라믹 프라이팬 ( IH인덕션 사용 가능) 26 cm, 1개, 26cm",
+      "price": 46000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9556066438&itemId=28514524029&vendorItemId=95463040246&traceid=V0-153-91c1a4f1ba9896b2&clickBeacon=e187b310-d80c-11f1-a371-a7f5d246bd9a%7E3&requestid=20261104140205934256560497&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/mIw9eGhYPTJd24KPmA1diirV5hgwUOaNGgraR3aRwgXKGhj4MNMqzjr6ggoln8raRbR-oYeTLVkCNvr8hcYPuHQBQmC3lo9s5foJvrpEp00GVA-CM276b8PVjW7BgK-0j8gFOgEHbRuExmODJKJRadAOUaNy5LfMplE2zdmObZRDXsIX6y0WO6sZVo1eV1QnDyRS9qX98cVRUIlBdsEV22Lj0lUVlufnKNe5rFpDNUc6sYOpJbdAcs9jkTnueIiWUDjGDrnS8eEsvPPAvrWHHdaM_soVXUMb2GJb253b1cp1EJaZ7LKepI_Nl2lb2NcMB8q0rqhHv-x3HppAXorwevn-UR1D6m5eE8_PVYu76Q6lTDpfM9ZQLERU2z92TwWmr5jtNiwRmSKf4_LAJo5ecwK1AxTuNAarfEyrVM9hF6ISgCZTLYVFZpAORoW8ay8JYI9Qfby3l0hLWKytgwAB36Ai0ogYCXBxnRDUJnLOXOdPjrIty97bCY3N3UmIcDpWWXlzRczxq32rCDClLaThzvvu8s5kIco="
+    },
+    {
+      "name": "SENSARTE 세라믹 프라이팬 ( IH인덕션 사용 가능) 20 cm, 1개, 20cm",
+      "price": 35000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9556066438&itemId=28514421099&vendorItemId=95904157134&traceid=V0-153-91c1a4f1ba9896b2&clickBeacon=e187da20-d80c-11f1-8dce-146750afa96d%7E3&requestid=20261104140205934256560497&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/yl2aPDGKbgZIG9TuyiloHSMNQ7JpxH_8EAwE6UMIvcsmyJonoX0Y_RmUo2L0u9QTdtg7I8b-czK2kWlRjxOGHK2sqPpMLB-NSHiHmtj2rTZlmAX4POOlyTBDfhylKf_uLtKrmM5RHZhSbAqtuidZA1fxVEQ4AsLCkjZQbhirxA9HXPLxRoFcdIeMyhNTgg8rKmSyN_10-D3rkY7Aa5Ybxt3or7rPyZ5tZv0kpnyK74pqhpa6hqeENm_mYq1_jg4Z8ZhTxRA3u5EwxzIfWBEINuFs31ZGDrkKzrFLFqlpStlS0ItIJMtTgTp9pywZVCu_ZualcU76N9SKv5XReSUX9YpFOq9Ba_MLkKp1vj3ZOFAeGM6B7dXP2-xA5SLB4OmQdtEaS5Wz5sz_dPVLxDE_lLyMt2iCu1joZIk1WwL-9Gwk8d6_v8msKPlfE1_Y2ATDzSah9ybJ8cA42ysY7dzh8UZl1SBOibkCmROEEfud3wwiDvmtrBfulAeMEhopHGxRZbIxsjI-DLWtMahaK-fXWIJUBZV4tA=="
+    },
+    {
+      "name": "키친아트 뉴 티타늄 코팅 프라이팬",
+      "price": 12800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9171562099&itemId=27031173510&vendorItemId=93999717144&traceid=V0-153-f6e1d94cb50eca80&requestid=20261104140205934256560497&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/t_WqOkEWT0k4YalOt2x1HsCBeKaZ_4CWcAq_fMouDYqTGVCkHsTXbtsqFlgPbCTarIuJie5hlgfxze9dYGeWUoTiWAdnGoDsjYedXSnqEgbsUYtpuv3cqXTIi9YAwKtTZ5fbXe-GQPRy9MJ7evDCq20dcNwWRat3HKYI2trXAXJnQAAAsAz2Pm0EAlT48XgcYJbf-pqiR_s4YDI2Aysm-KRruCWV-QpQKkhZOGWs5FdS4o78KTlRKiBfYp0rFf2lci7FZqeD64kJnRuP_ZHPd_H8959Ho4RkMteBsYqLPyy1DGjZAr6zOE5i0Imc6k0raCoB3zPWlNMFsXpG8irbjqpQsXsVu82JOT-tvlzY8hAQiEOfkJJXe6M8ifpe2pwsrcEmCmRW8uzvaJdbzuBJmCwg5c6kbxgpGMbH_O2h137bpnjdesWXtvUrLR5ft-hL2c6VXk0fhOiWeT3eEJtgR3rTb5wP-KG4VQHJJzAOWIka4Tcgsbykx1nAgbd0gWF51aFHQzDo5jtkUj0lTvkCA7wH"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 195,
+    "has_photo": true
+  }
+}
