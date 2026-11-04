@@ -1,0 +1,51 @@
+{
+  "id": "20261104-2200",
+  "created_at": "2026-11-04T22:00:59.869889+09:00",
+  "publish_at": "2026-11-05T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥 쌀 계량컵이 일반 종이컵·200ml 컵과 다른 것",
+  "angle": "밥솥 계량컵(약 160~180ml)을 종이컵·머그로 대신 재서 물 눈금과 안 맞아 밥이 질거나 된 걸 짚음",
+  "category": "주방",
+  "subject": "밥솥 계량컵",
+  "hooks": [
+    "밥솥 계량컵 잃어버리고 30년 만에 처음 알았어... (9/10)",
+    "밥솥 계량컵으로 밥 했는데 왜 맨날 질었지? (8/10)",
+    "얘들아 밥솥 계량컵 종이컵이랑 같은 줄 알았지? (6/10)",
+    "밥솥 계량컵 버리고 머그로 퍼다가 나 뭐 한 거지? (7/10)",
+    "밥솥 계량컵 이거 그냥 덤으로 주는 컵 아니었어..? (7/10)"
+  ],
+  "text": "밥솥 계량컵 잃어버리고 30년 만에 처음 알았어...\n그동안 밥이 왜 들쭉날쭉했는지 소름ㅋㅋ\n계량컵은 보통 180ml라 종이컵·머그랑 양이 달라\n난 이제 밥솥 컵으로만 쌀 재고 물은 안쪽 눈금대로\n너네 아직도 종이컵으로 쌀 퍼..?",
+  "image_prompt": "Casual smartphone photo in a Korean home kitchen: a small translucent rice measuring cup next to a white paper cup on a countertop beside an open electric rice cooker inner pot with water level lines, a bag of rice slightly spilled, slightly tilted angle, ordinary indoor lighting, cluttered background, no people, no text, no logos",
+  "photo_query": "rice measuring cup",
+  "product_keyword": "밥솥 계량컵",
+  "benchmark_note": "내 글 1위 '세탁기 온도 버튼 30년 동안' 형식: 물건+30년 고백 첫 줄·말줄임표, 2줄 소름 반전, 숫자 공개, '너네 ~..?' 질문 마무리",
+  "products": [
+    {
+      "name": "국산 스텐 계량컵 200ml 제빵 떡 계측 계량 제과 베이커리 다용도 계량도구 홈베이킹",
+      "price": 4100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9458022154&itemId=28141607417&vendorItemId=95097081550&traceid=V0-153-c37d7da7c8fd5d07&clickBeacon=d7386790-d84f-11f1-9e4a-6dfcb7d9b341%7E3&requestid=20261104220124932292897815&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/xW1ZhJr1arqB1TZlxXYFV3jWZVfsVus_d_Utnvn4_m55vy7Hge-qCdJgFkwqpUxsDdFi8m76-DTScTOBcTQOhK2x_fY_QK0Yyxqg3sgVGDtcseJh3t-I7e7k1o4efybG-UGlsic-aADFwr8JV7KYcSldcgy1mHrXNDspJw8Z0cWbaAN1OKp8DE18JK08jJVEJ73p4QoF2LuWCIoW0QUTJbYbBCWM7AAAVj8EVE_u6MfC1k7VibHpcPuWvUeaPbJnoab-hOcn8ykbIxzWOE1syNPZ_5BkugicUpHU-zWRYmhqQy5c04aqkh6k5GlIUHkYHa7-crvCp1xobYXQ84gG0LTIqf1Sw4_cU7WuAdDXStqbxh-X3hlAgk-fwbma_xi4vWMIwmmUwFFQbqxeaft5E91KS0rMqWYPRCm_SzhqyD9cWUItHaRkAO0WWh2jvbv_NhVcdcNvaEaHBTs8MiNKSzbYQ2vr1Xh-aG9Tc6fbIQVojxSbz_cq5b6CbQk_r2hmMevOoXWPHydPYn06ft5T2Qxthv1xzQvGWs45SP3WaaI5Jbxn3slE6g7NoJkIVrQqQquMCct-9GC-"
+    },
+    {
+      "name": "쌀컵 계량컵 압력밥솥 1인분",
+      "price": 4900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9702663696&itemId=29025642144&vendorItemId=95953209752&traceid=V0-153-50fd7345d53a8682&requestid=20261104220124932292897815&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/0L8z1flMcAX-D1Q60NpmYDvVukIstpQHfEV287qaDZ1eFoPDcvhi8xhfN-KQXpVkdoHk2UgcmTegSDHpLmwxLgSCg-MitMoULalutY9iuzsJ_YxzTBiyPj0X1H1SnOX84zBxhJWqqGW7zVXbSeBCFetWzYQ1qdJJw7FX6LYPuPXxvTd94x3JbsN2mOrAjDTnWVi4e9ts1R8TUGHgUCPnGL6rouUbESvRYQOOMVSsZhm1FO2z1rdT6ZGRyS-cmmc7vJeUq_rG1XJulXDHNdDhv2Hv75ktUg2mPia1H75vtRDwcD3XoxLsynC-0JZhMT-Znlq5eyCOshGUBLYVBwvCVsRaFpQDj0dTWyxAHpCSL1wo8m2aNuDltMbRdKDprLbnzj1sh4jY7GFthhTsaO9MHGzOSxctHtLjTr90W_yPQj20j8qmOxx7xbZL0xjzKH5xAEKJ6SFNBCj2iNPBXS5UgfOjgR0lGAKr2WbOdAQMLDHfZ4EbvSFoh5DEZhTm-bWorPRVec0vLcgT9JlHeBhdaIyg92O3D2JsIql9g3syeU1ih3g="
+    },
+    {
+      "name": "쿠쿠 정품 계량컵 쌀컵 1P 플라스틱 눈금 계량용기",
+      "price": 3790.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8425475728&itemId=20340683111&vendorItemId=86986580877&traceid=V0-153-1de58d7e6331ae95&requestid=20261104220124932292897815&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/v-L1E-E4LUfYxO9tvxj7S8RBSuoGu43P4J_2llDuemR-EwKkYc6v2Ms-vt-0hgTiXoz3oPxkxpU_kLhh27KRgVECLuI_PFn12LRk3SdNyx26NAwSUX0alCmR-PaR9nY9nSwqqbPWzUPs9fIGuaLSyga1HTk89-2s6kcKLq5auSAUvkBYgWWe4VTeqHp7taLCTREqwcT-e5aNjmR36lQOvekFa-BYmFu6vKjMQoQpZDiICTiJGcU55EM8uMjoVJUy6tfCLnZEysxUaSDNBgmKCWpuqo2daq3Uwo_YMAkVBr3affJbrdRFbs-OeSKAx3enCoPIAPHM7aoUJ8l5DiR35tCXO7dB9YV6JQmrbVPl6zl_Wx5zDILtcRae9mi9LtgXUTooR8jn4566C96_-Xr4scg6cMkAKqe3g41ZNgpETCOW9INd7ylK3bcjz0VbuHf-j-NNgyUTe7keZNQqAsQxEAoJ-Og_SrrR-5gCiwqEG1v0D6LPslTIiTWvSUdmtfx4o6uxZmXVSUxk9TeBq3pY0oqGRagKjZ_6tM4gmvRHwEg="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Ibrahim Plastic Industry ( IPI ))",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 197,
+    "has_photo": true
+  }
+}
