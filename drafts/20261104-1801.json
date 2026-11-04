@@ -1,0 +1,51 @@
+{
+  "id": "20261104-1801",
+  "created_at": "2026-11-04T18:01:09.484003+09:00",
+  "publish_at": "2026-11-04T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치냉장고·세탁기 말고 '전기밥솥 취사 후 바로 안 섞는' 습관 대신 — 냉장고에 뜨거운 음식 식혀 넣는 습관",
+  "angle": "뜨거운 음식을 완전히 식혀 넣는 게 오히려 상온에 오래 두는 손해라는 점 (얕게 나눠 빨리 식혀 넣기)",
+  "category": "주방",
+  "subject": "냉장고 남은 국",
+  "hooks": [
+    "냉장고에 남은 국 30년 동안 이렇게 넣었어... (9/10)",
+    "남은 국 냄비째 식히다가 나 뭐 한 거지? (8/10)",
+    "얘들아 냉장고에 뜨거운 거 넣으면 안 되는 줄 알았지? (7/10)",
+    "남은 국 밤새 식혀서 넣는 거 나만 그랬어..? (7/10)",
+    "국 냄비 베란다에 내놓는 거 원래 정답인 줄 알았는데..? (6/10)"
+  ],
+  "text": "냉장고에 남은 국 30년 동안 이렇게 넣었어...\n뜨거우면 냉장고 망가지는 줄 알고 밤새 식혔거든ㅋㅋ\n근데 상온에 오래 둘수록 균이 더 잘 큰대\n난 이제 얕은 통 2~3개로 나눠서 김만 빠지면 바로 넣어\n너네도 냄비째 밤새 식히고 있었어..?",
+  "image_prompt": "Casual smartphone photo of a large pot of leftover Korean soup sitting on a stovetop at night in an ordinary Korean apartment kitchen, lid slightly open, a few shallow plastic food containers stacked nearby, slightly tilted framing, dim warm ceiling light, cluttered counter, no people, no text, no logos",
+  "photo_query": "leftover soup pot",
+  "product_keyword": "냉동 국 소분 용기",
+  "benchmark_note": "내 최고 조회글(세탁기 온도)의 '○○ 30년 동안 이렇게…' 첫 줄+착각 고백+'근데 ~대'+'난 이제'+'너네도 ~었어..?' 5줄 구조를 가져옴",
+  "products": [
+    {
+      "name": "키치킷 아이스 푸드블럭 식품용 실리콘 대용량 냉동 소분 용기, 1개, 그레이",
+      "price": 23900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9504722187&itemId=28319500761&vendorItemId=95272084508&traceid=V0-153-53ca578f7e4a2185&clickBeacon=55311010-d82e-11f1-a638-1d1c3f56d541%7E3&requestid=20261104180133385167614203&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/dTABcrbps-ODNuo1dZbWt3S7yh-VO1vwM0CvGrAjSWusP1YiSfIRWAiipC5lUnvWp4ffwSvsgpUeMJilQE0wD1OWqYApf1Cs14wirh7J7D68wDLYG58o58MVa-LxYDW4dcZLVQ8aE0wlmVMAtjXJBzzO7exZDsQRAm6Q_dpdhhxI7fZKfx7m6jMpigAnC9KXEtftei5E-ScH_FrVBfWV1aoDob7dhCcAVwgiiwvRBZ48fiXtSXAe12eR0ejYTFYzny0urpmPs-QKa8b9n_IFlFk0-y8lz1QZ-dtBeTH2me2TyclOPoPHOtAuvrS1I3lqHtreUKo5qvba5CAL9AhtMA_oe6IqDEGs0Ez1kJHHnAiimAjL7cx-Sez5Ojv3IKI-qqLeDMc9PfYxoTL_U022xToDsgPonCqkxAS-avX1GwL0d1_oWM6Q6IMCFVr5-NjnarNgh8uHE1MY7Fe6QuI6gwQa-Wwn72x_djimMx0aAQjNN_nqlX9gmq62rVWggirAz6mZXo3UzAdRziI5FguM1kfVcM_2VDDVtA=="
+    },
+    {
+      "name": "오컴멀 국내산 갓반 전자렌지 용기 환경호르몬 불검출 젖병소재 냉동밥, 10개, 갓반세트",
+      "price": 18000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9288768123&itemId=27508428066&vendorItemId=94473674152&traceid=V0-153-be96fdda5bcb76a3&clickBeacon=55313720-d82e-11f1-81e5-0975b8b429fb%7E3&requestid=20261104180133385167614203&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/BWf1bLvPwcLOE1qdBaE3Z6wcmWiN4x3a3yCNf5-ZZp1iT6OBv3JKon5qnNNoemjXioDcQCzt0Aw2Av7uDfJtMvyZILsU7dzh76XAeQtjcd8Rq3MiMmRyEq8WOS1bXH6wNp5z3ra7VN_T0xTsUxG5i9g7zkx4neo28seVWGjmz-7G_5UhEeoev2sVHJq5cH8quGLskW8owtZo5a_ccMHEQ2u7nhSeWuSlnWqV334IKOP7t6om8Nx6KusuGMDHxix2PCpDIlwJR5qfBnSWtyvUrSPv-OkiJxof2YKekakwu_totpgf67hQN4AIbQbY_DoL9HaEDfvZp8jcxuKQrdhBPgApHekRJWl63IMfr8f3SZ7qQvD9jlIzeo9W9X3H7XTxah1ZoSNL5j11-uwkSsG7eMp8BERfkyfI2fa0QyeuLAroswYzqjbxQ-W_9QZPOFlomFLqSs3-BybxMLM-dxMoQLfr7c2pONZ-uhEaq8wnlsgZ_plf2LKdw4QWWVd2IvmzmRNyq1pU58OtDlykn4GxY0N6lSmDmrk="
+    },
+    {
+      "name": "생활혁신 실리콘 냉동 소분 용기 푸드 블럭 몰드",
+      "price": 14800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9323613225&itemId=27635953023&vendorItemId=96070304270&traceid=V0-153-d071c9d86195679a&requestid=20261104180133385167614203&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/X5Yg0hMPvPgSIdwVX_fCKqOaxJddL368f3FTccd9vuaUb_MaGBwxu2X75ooHO-FeIz1_FJFfGd3fQnwalXRyTGxWsw0g--ZYMz3jYF9aZBVwQzL4VZ2oTeBmEX3lkCrPLg095c2KmmSsj0xTNT_lNNtvma1AOHoq2qVveGoonAO_8XqywSGveTeGtOJf_MpaxAQAWL9rwqG8qCRbbtGj1rrqRPhiBCmV5FXW2y0M1zvj5q9Zzd0G0-MBvbSFJBUlSg8YR1JN2BEHVT2goRoEMo6_BecauvtxAJoFTCnm4D2bb-ACvuFVN3jFuApBnG02_O4uULrVGQ2cKs2QrcK-diHLEHMc1BDpKLMDj_s4INIhKzvyR2jWWSlz6kIv7JtvHqVkiLn2vAX9Y_liknBFZD5oA80TblZLspzFrtrjpd_OQLFKOBUvAmI_PVTSZ4_A9GNMFj06jywHlr_T-F3kQvBlNWJ07rgaVQq8xMIFyB4e2BErtp7UujPOmhr_mrIUCLRN6WBfoUsKS4QVWLRep8qhkullIOspJf2w5f5tacIa9w=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 196,
+    "has_photo": true
+  }
+}
