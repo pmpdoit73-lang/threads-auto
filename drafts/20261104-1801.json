@@ -2,7 +2,7 @@
   "id": "20261104-1801",
   "created_at": "2026-11-04T18:01:09.484003+09:00",
   "publish_at": "2026-11-04T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치냉장고·세탁기 말고 '전기밥솥 취사 후 바로 안 섞는' 습관 대신 — 냉장고에 뜨거운 음식 식혀 넣는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 196,
     "has_photo": true
-  }
+  },
+  "threads_id": "18040294886650404",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfUaIQklodg",
+  "reply_id": "17987692170083885",
+  "published_at": "2026-11-04T21:01:31.265170+09:00"
 }
