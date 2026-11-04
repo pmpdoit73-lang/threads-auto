@@ -2,7 +2,7 @@
   "id": "20261104-2200",
   "created_at": "2026-11-04T22:00:59.869889+09:00",
   "publish_at": "2026-11-05T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥 쌀 계량컵이 일반 종이컵·200ml 컵과 다른 것",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 197,
     "has_photo": true
-  }
+  },
+  "threads_id": "17867956638677937",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfVezNFGtR-",
+  "reply_id": "18221080213348653",
+  "published_at": "2026-11-05T07:01:33.893887+09:00"
 }
