@@ -1,0 +1,51 @@
+{
+  "id": "20261105-0801",
+  "created_at": "2026-11-05T08:01:09.592549+09:00",
+  "publish_at": "2026-11-05T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 세탁기 탈수 강도를 늘 '강'으로 두는 습관 (세탁기 온도 글 후속편)",
+  "angle": "탈수를 세게 할수록 좋다는 오해, 셔츠·니트는 구김이 꽉 잡혀 다림질 일만 늘어남",
+  "category": "살림템·가전",
+  "subject": "세탁기 탈수 버튼",
+  "hooks": [
+    "세탁기 탈수 버튼 30년 동안 이렇게 눌렀어... (9/10)",
+    "세탁기 탈수 다 끝났는데 셔츠 꺼내다 나 뭐 한 거지? (7/10)",
+    "얘들아 와, 세탁기 탈수 버튼 이렇게 쓰는 거였어? (6/10)",
+    "세탁기 탈수 '강' 원래 기본값인 줄 알았는데..? (7/10)",
+    "세탁기 탈수만 바꿨을 뿐인데 다림질이... (6/10)"
+  ],
+  "text": "세탁기 탈수 버튼 30년 동안 이렇게 눌렀어...\n물 쫙 빼야 빨리 마르는 줄 알았거든ㅋㅋ\n근데 셔츠는 세게 돌수록 구김이 꽉 잡힌대\n난 이제 셔츠·니트만 탈수 1단계 낮춰서 돌려\n너넨 탈수 강도 뭐로 두고 써..?",
+  "image_prompt": "Amateur phone photo of a front-loading washing machine control panel in a small Korean apartment utility room, finger-smudged buttons, a wrinkled white dress shirt hanging out of the open drum door, laundry basket on tiled floor, dim fluorescent light, slightly tilted casual framing, no people, no text, no logos",
+  "photo_query": "washing machine spin",
+  "product_keyword": "드럼세탁기",
+  "benchmark_note": "내 최고 글 '세탁기 온도 버튼 30년 동안 이렇게 눌렀어...' 첫 줄 고백 형식·5줄 구성·'너넨 ~뭐로 두고 써..?' 각자 답 다른 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "마이디어 스톰워시 드럼세탁기 15kg 방문설치, 화이트, MF210W150WB/WK-KR",
+      "price": 709000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9766776492&itemId=29232620145&vendorItemId=96151574866&traceid=V0-153-fc75f6271dd38621&clickBeacon=b77716a0-d8a3-11f1-9109-3d0bc69f210f%7E3&requestid=20261105080149399253031253&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/AYpALx-ZSjtBrn84AVgWH-PyaXZQCGIbwj9zp_vxj00kbUTw_494xywFRVBb1gdqFQQYWcmXVNuyu3k-VluKaukabhfnJ9zvsmnSQU8w1qY4oNs_eiU7rQ51QhZ0b0gUZF9n3LVEcNd0zBcSBMyYAIMuuvykR94SyvzNGGseNFfD6cANgS1PMJATV543qEJ3Dw3KsP2A8g6MmnZkqPifEW6AZ_eslKcTDpWDetjNNjifALbgnUmZf-4gHG_RP2D28MqEs4-ZeWFkPSpDnEnhCD7CnjZI_4jVz-VA_chXm7sTjafPv3l8_0CqbO9dH74u61WXICvYNvKrpeu8vkOMtydfD6GBAfDQNOVQEy1HOjqgOu1z2XvcrCSh64naZ_-HX8sfWAv1sI_OgfQVvLh8PuF2VAOuYbiuVpH6GX0NFg1DUk-hmaz4VfldDeqPosdWtRtwMS4ecePZH6KtIcEZmKXA5QD9WKC1l-eurvei6yJRDqVpWs5JqaRFyEduCAMo5kgfOkE09Fc="
+    },
+    {
+      "name": "마이디어 건조겸용 드럼세탁기 12kg + 8kg 방문설치, MFK03D120B/SK-KR, 실버",
+      "price": 719000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8574563430&itemId=24846366291&vendorItemId=96064574503&traceid=V0-153-402b15f609da4b5b&clickBeacon=b7773db0-d8a3-11f1-9cb0-facb07c8565d%7E3&requestid=20261105080149399253031253&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/mjYpsbK_Mu5xk8l_mogqTwYGX0_Mz8ufNeIk_s39XFBaiJpOh8pa_4u50CK1RPc5eoj-1QKTkbVfLntC0Rs3P8xT6UmN3XAeQiGpS2j9Y8wDHzJe6DNKXzKVNOf3LXIJNa3-Aj-LFTTnnyQlnHm5HYTb5sTx1gBNPb-0aetG7hfOWGnlLtwXVJrOd7uZwlrrSNXGtm78SDzw-PdR98TQPy9h0leww3LA2nXJPKijCuFFPZUTT_tfAzXo2qsJAuPENUachBsU48qhG5ymCTvZj-4YfPebcp7FFKz17Om7iOBPB1AU3y-9uD45BVr6Y8YAnzxzh1bKcW274_BNMIPA38blDHWWbqXE9oGNU3Sp5KZmJhoSYKCvAkwHzd-0JIhpLCWTu6PuP27Hil3iNT7JumjkdDgAtGe1aGYHdPMH5CFUwgjFVNwXwRFf68EUO8GIFYiiyve7bTzmMaZ_OjYaEnLeimXP0fPW2rmNyB7RJEGldw45e5IJIlYnAOTUQ0vpXzA4SnFuWw=="
+    },
+    {
+      "name": "삼성전자 그랑데 드럼 세탁기 19kg 방문설치",
+      "price": 739000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1722408595&itemId=2931609886&vendorItemId=70920207939&traceid=V0-153-0bf58854302f4902&requestid=20261105080149399253031253&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/DV6MFUtSwaaQ4LL3DdEi2B-UjRjgIuDB2cUogNFLCzgJfmX0cTFEvA4qEPwBYDfKvJ2B3F7ez12_5H7c2MUynkj1RB4tX-l5NZymT-Cmj7MxLxB7eqfs-rRnQO9wcufXCghRfoVPxlVJp0udidUUvID7UWHL-rfKrUw-kNb7tAjpDmilHDkRnyRDdCtHWQz-a8aw5aVtK6KMiUZj88CGDXO5F5X_lGsVKi5duaAXjfdLQbkjtOTl-QdceDlymInG7vDuMOTMGlLuD_EDOL5beeswLyeiY8UfZQQWsliWQUgetp3t7QVBTPM4o_M7yDioL8zufAFnwuVQCP_P1f_iJxTRglmLznQFPSFoC4GnuBikPKpVs-ZSSMVRFD7Q4Fo1arbPdnpCPzEm0_c8EuQiXYEQe7I8S1M4UCmeTISRoNnT7uoshQH0pB27dCE2Gd85ro-BNWJcQngs1uVogh0B3bxUWHgINR4x5kiHV7fXTOqLz3I74lienhrYpFwLJzXWuwIOneabVZlGmw-D9-cCcAaY"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 201,
+    "has_photo": true
+  }
+}
