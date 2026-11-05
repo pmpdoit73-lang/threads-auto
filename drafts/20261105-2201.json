@@ -2,7 +2,7 @@
   "id": "20261105-2201",
   "created_at": "2026-11-05T22:01:39.852157+09:00",
   "publish_at": "2026-11-06T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 보관법: 대파를 통째로 냉장고에 넣는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 204,
     "has_photo": true
-  }
+  },
+  "threads_id": "18097098449150295",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfYDm-GAWa1",
+  "reply_id": "18114417662127567",
+  "published_at": "2026-11-06T07:01:36.117949+09:00"
 }
