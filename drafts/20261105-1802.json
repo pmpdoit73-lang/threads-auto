@@ -2,7 +2,7 @@
   "id": "20261105-1802",
   "created_at": "2026-11-05T18:02:17.445975+09:00",
   "publish_at": "2026-11-05T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 칼(주방칼)을 식기세척기에 넣거나 수저통에 꽂아 보관하는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 203,
     "has_photo": true
-  }
+  },
+  "threads_id": "18119942632976262",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfW-7PMFbEq",
+  "reply_id": "17942790669388535",
+  "published_at": "2026-11-05T21:01:35.085392+09:00"
 }
