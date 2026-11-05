@@ -1,0 +1,51 @@
+{
+  "id": "20261105-1802",
+  "created_at": "2026-11-05T18:02:17.445975+09:00",
+  "publish_at": "2026-11-05T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 칼(주방칼)을 식기세척기에 넣거나 수저통에 꽂아 보관하는 습관",
+  "angle": "칼을 식기세척기에 돌리거나 젖은 채 수저통에 꽂으면 날이 상하고 녹이 슨다는 걸 몰랐던 점",
+  "category": "주방",
+  "subject": "부엌칼",
+  "hooks": [
+    "부엌칼 30년 동안 이렇게 씻고 있었어... (9/10)",
+    "부엌칼이 자꾸 무뎌지길래 칼 탓만 했는데..? (8/10)",
+    "얘들아 부엌칼 이렇게 두면 안 되는 거였어? (7/10)",
+    "부엌칼 갈러 가려다 멈칫했잖아 나 뭐 한 거지? (6/10)",
+    "부엌칼 날 상하는 이유, 식세기 때문이래 (0/10)"
+  ],
+  "text": "부엌칼 30년 동안 이렇게 씻고 있었어...\n편하다고 식세기에 같이 돌렸거든ㅋㅋ\n근데 뜨거운 물살에 그릇이랑 부딪혀 날이 무뎌진대\n난 이제 손으로 씻고 바로 닦아서 칼꽂이에 꽂아\n너네 칼 식세기 돌려 손으로 씻어..?",
+  "image_prompt": "Casual smartphone photo of a kitchen chef's knife lying in the cutlery basket of an open dishwasher next to forks and plates, water droplets, slightly tilted framing, ordinary home kitchen lighting, a bit cluttered, no people, no text, no logos",
+  "photo_query": "knife dishwasher kitchen",
+  "product_keyword": "칼꽂이 칼블럭",
+  "benchmark_note": "내 최고 조회 글의 '물건 30년 동안 이렇게 ~했어...' 첫 줄, 셀프디스→이유→'난 이제'→'너네 ~해..?' 양자택일 질문 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "원목 칼블럭 칼꽂이 칼집 보관함",
+      "price": 16500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4521077298&itemId=5451150352&vendorItemId=75594275929&traceid=V0-153-a1852f2987a27373&requestid=20261105180238212297564563&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/h5A8iuPgjlHN1Qgfh4eBKv8jNcTrVDjUotgZorX9gk-GUQxACfXay8NsJO26QU-4zmfTb_YtUTX2cZpr2oTZG9mQ3aYtJaDS6KXM2QS9EgvKV0C_4eEaiWWv3Tu9YU7GZx7IXN95BR6hDZ5JPBKU1dKUwFPKgsjj0vvNbTHbg5blLLBfMGzQCPh49iZHYHq7SWSS84JAV6dkZIbVl5HM6QAyThWLcu828_LzkblOhinxpdA89eCCYzXtzdvDOUIBip4wlWDwtAXbo1-XvVEJTv7vKoaPHGF3JZpchpFgmX6V6E0wPxfpU6aLTSt63t4Eu7Hkjohvp3pYr58gia5-wIQ2ngB2OZDLnD9_MBHV4bgYI9H8_BptvK6diWsI3VFzAKvqxliVuDdo07hXTjn-BaFWIsm8oCrGg0BohXcZudaS3bC5V5BTL_x4BK_m8Sgevj3iJgxkF3OyXe2ugFG71W6auL1tQcsxQQjlCeNbkThrN6Vn1a8c8su7YmZi4a2-eN9GxFWq_u7PYwZQSbKm2444xABgme913IsTufptiQ=="
+    },
+    {
+      "name": "바겐슈타이거 로버스트 리얼우드 칼블럭",
+      "price": 34510.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6911749362&itemId=16659664208&vendorItemId=93087563984&traceid=V0-153-683c0b785f8161dc&requestid=20261105180238212297564563&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/TLABP-nEszWXU1NtTKGh5pkVIMT39kWj-KIyOZ4SKLZAb_hwRVW9QeMVZrMUPOfqiON-apntVEgXdqmDiJzgZKqAxGvGrYC6wiLRqSZz3laLRumRSL0WwF2XOIsujmFtMNCCwIIKAwqBFUjUiSt3l2TEkXlujx92bcw9x3sTT-w29zfoeA6mYi7GfDsJzODJQxiys5TJ9SafRs0x51KJn-PapieiO9x6sf0uD8maLzp4PB1NWUxZjt5sPS6TcoJINAdchrRAmLAOO1BaIEREKY1yAAxLf5AjBbTIRnS604Z-bB9GaoL1RLd4m8dKOmVrLozNzEkrkwhuWFUu0kcKYdppsjKcpPs42C25iVGn1XQcbbr-DJ_g0EQNHzRNQRAzFtujHBLjlSdXvyOymdArG7vDWVFIzNyr0NnwbJOXpgSrpGcK97MhGbUi8Gh9Vh45UfezY6BJj1xQ4BVyNYaVme5fn5GgiQH4nuQyO9ugZ3S0pORGn5j36Nr53Bb169E4PXgs4fFNQYweEb5D_I0mIS31kNvAr-9S8Q9uQzDbQrA="
+    },
+    {
+      "name": "튤리 칼꽂이 칼블럭",
+      "price": 9900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7403334492&itemId=19166571750&vendorItemId=95850091422&traceid=V0-153-de357a93da9c4d8a&requestid=20261105180238212297564563&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/owgEJ7S8rDAmk3SLoyfxyAuEMFxJilxWXmIKTfok5wDCSua8_1t9xTPFkJpSfoPYQpGuqaBLJ3U8CZfnJTF5kGgwB98hOsO1McIY7z3sTVEf0DYAa8u3E6wOBfuVyheoY0w97JaZMQpTAJTGIk91h9JZO5zEazoC3jfkVG8-huJAH8-TZ-xUzJgqKd5J6GOehP6gfwY53gicntBNij9Rfuu-l17POPPD3_tSTtn7eeT8CSsLxZv0TvgApUrIEo0n4ykVLKL0f6XDGjK1jXUAZ6zeWOPeD6l2BnkPu3bIz3GpX6um3nDIZwCVP2EDQneAXSkNKyXscvV2QSiwC-Ko1VQv_5-KKIrhCahHTN-EcTHZFWUMr0qJHh7YrOQ9jjvTyoCYa20RskUeJ6H10c-QrewOvuvMYwOmmAh3Ffb0jJ5CyQ3dhFBEELi7dlZ0j7NsztkXKwRkHV_KTpD9ud9zzH0ctfYpgi4TOvXPwcWvStBNuEirp-3e01PiNh0CIoRXGe0CXxgl-SZ2oFLqLxjKkXcJpYgvCO4tQtpm6uh-Miw="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 203,
+    "has_photo": true
+  }
+}
