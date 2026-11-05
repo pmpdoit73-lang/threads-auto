@@ -1,0 +1,51 @@
+{
+  "id": "20261105-1401",
+  "created_at": "2026-11-05T14:01:27.318800+09:00",
+  "publish_at": "2026-11-05T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "건조기에 두꺼운 빨래·얇은 옷을 한꺼번에 꽉 채워 돌리는 흔한 습관",
+  "angle": "두꺼운 빨래와 얇은 옷을 같이 넣으면 얇은 옷만 과하게 말라 줄어드는 손해",
+  "category": "청소·세탁·정리",
+  "subject": "건조기",
+  "hooks": [
+    "건조기 들이고 몇 년을 이렇게 돌렸어... (9/10)",
+    "건조기에서 셔츠 꺼내다가 나 뭐 한 거지? (8/10)",
+    "얘들아 건조기 넣는 순서에도 요령이 있었어? (6/10)",
+    "건조기 한 번에 다 넣는 게 전기 아끼는 줄 알았는데..? (5/10)",
+    "건조기 돌릴 때 너네 뭐랑 뭐 같이 넣어..? (6/10)"
+  ],
+  "text": "건조기 들이고 몇 년을 이렇게 돌렸어...\n수건이랑 셔츠 한 번에 꽉꽉 넣었거든ㅋㅋ\n근데 수건 마를 동안 얇은 옷은 계속 돌아서 줄어든대\n난 이제 두꺼운 거 따로, 통은 절반~70%만 채워\n너네도 건조기에 한꺼번에 다 넣지..?",
+  "image_prompt": "Casual smartphone photo taken at home of an open front-loading clothes dryer packed tightly with mixed towels and a thin shirt, a slightly shrunken shirt hanging over the dryer door, cluttered laundry room, uneven indoor lighting, slightly tilted angle, ordinary unstaged look, no people, no text, no logos",
+  "photo_query": "clothes dryer laundry",
+  "product_keyword": "건조기 드라이볼",
+  "benchmark_note": "내 최고 조회글(세탁기 온도 버튼)의 '~이렇게 돌렸어...' 고백 첫 줄+ㅋㅋ 실수담+'난 이제' 숫자+'너네도 ~지..?' 질문 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "에테르나 건조기 양모볼 6p+건조기 오일15ml 세트, 아이보리, 1세트",
+      "price": 19900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9584887631&itemId=28611685019&vendorItemId=95475150098&traceid=V0-153-af5f561684fb912a&clickBeacon=12e478c0-d8d6-11f1-8173-95d8207b0871%7E3&requestid=20261105140217589244438774&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/q_mnBmKBJ9A9bEpbqzFSqSiBGbSK6JeWDLHO1IB0QZvJ5jugYSRXZbCHUgewL6DlRvsFmrcMBVkc7m9MbtCJVyNTBYte31_w0Ez6jy2NvI2Eyd0NDI1Oegbznusu-H2vnRb7viA5ytPQh9bS3pEqv0D5sJ3VdbaM4-SIOHo_kzn4S7XVbP3quE4zj6YjZ-KRNKEJTG_UrEiBX1BEESBmsi31g0JVNljeLfH1bAb5JILv-z7vCEI6gG6dhwt_xKoxirbwob6X29Jjcm0nky6S0DPABGT2ejEGe4fspWSGxoyDDybX_j649bYt-yjmd2YshV9WaHKwytYI6e79ZlBLkKoY56wvBpN_GvCQEYSBGaHCEuvTh7HnaFLSYsHQ-wxJZ9v5BTIdFUvNQS7NF5LC1929HoJoS7FEYPpRiCpCJUgbE6JIrnfK4HxT6g-Ce4xLDJSYvm0cSdFF4-_Pmgq2U9HC5hC9GvE2qgw8KmJKb1L3BT1P5npQ73e54f99vqOCeWzjAg-sBIhZLGdre-vTTBjE1AcRKsss"
+    },
+    {
+      "name": "에테르나 건조기 양모볼 6p+건조기 오일15ml 세트, 아이보리, 1세트",
+      "price": 19900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9584887631&itemId=28611685020&vendorItemId=95475150092&traceid=V0-153-af5f561684fb912a&clickBeacon=12e478c0-d8d6-11f1-abbe-d466a09e6b50%7E3&requestid=20261105140217589244438774&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/FQ7uWsRk4JtrxiplFX4E2Gtj-8cx_2XoNi-WmNlC4Eh7QgbSHLhgfg6W5qp-pMfjbQdLrpzQ3LHdQjlMVR4YwMKf_JfOeyWA1GQkypStlu5trt38h1oqQnPH2WUsbfYM7DvWVeQiZluZuEaNLEoBgZkZ_y0jthtHf53FjotkxKjWerqCd0HBrhgl1K67fju1N7u_QaN-X0vgLqmhjOUe4cF8m_rnDPN9EmFWkXwJ29-SH7sk88O30nRPWryK4slGuQADlWtPEd8kgnhtLyJPPcogRksynHBaE7BDlsJGhbqZ2nL5S7CssssH0U6v3BRWos3zvSJPOAdsrKyu3i6LVm3KrgZyiPIrWcMIz-IJLIWPq78_nKKjunrlxUR6y4JPcWKMknyUzyjmT75OyEIb0VDjlDcL9y98XtLjmAaR8M-5VgEEN8zz6Uqfo77nF80Y2MlelwLZx-yNOhWeCJ601w6SWqJVolEyHFCaP0llJz_hoLe70BmkqusVDXyFuWQli7mWoXkiA-o9bVVVEKQDFdC_uB4JbTES"
+    },
+    {
+      "name": "코멧 홈 건조기 양모 울드라이어볼 6p + 파우치 세트",
+      "price": 6990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7871746353&itemId=25483459947&vendorItemId=92475731020&traceid=V0-153-fe4c705081fbf466&requestid=20261105140217589244438774&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/cDrpdw1_OurOCDgXcJNdMKS7RQxYOQTf9Xt13QJ24kJflPzmBgnnOuj-VYckT_bKyBHYOnzhzb0s13pMS1_NrQS3xU0UM3-a_fYbKwU6ggL-0jTIeLP3KYywu5uXI_14bXkhGxcnjvg0lyZyVfmCbWSs57HMivj4w7RT2_j7oI9K7oCd8tGWvzmSZSpaG16zCge2q44v3R2Ezk6amTUAPBVyMKw2uKnL1Xd0aJx2ZGHRRpJQqbs5z2kWyqSfn9tSPqND_q33MKHvgVNws4f1zI3ERaHJpvhqnZm--n8s5UIRUQHjEoA_eWkbrmeQNBsMb4IJomoRuWJx2YmUZMbxUuxdnTnI3n2wB0v-Wba0EdO8LLtuUpT-34UCEvmxjYTfZ5pldtFYXbEKkRO7yOCD8nDnz9xzQk3dlsxXPWMHfW6KTwG-z0FD8ok9MuYmJE7DTSa7zsIGw6saLKVfIF8vFz-CiGw27OFjll8n7m0YLOrshAlWp7tbLAe8u5m8Gr2MzsW7vLpp3LesN-EaTqMCeW7I"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 202,
+    "has_photo": true
+  }
+}
