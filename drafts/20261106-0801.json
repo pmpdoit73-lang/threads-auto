@@ -1,0 +1,51 @@
+{
+  "id": "20261106-0801",
+  "created_at": "2026-11-06T08:01:32.217843+09:00",
+  "publish_at": "2026-11-06T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전자레인지로 찬밥 데울 때 맨밥 그대로 오래 돌리는 습관",
+  "angle": "찬밥을 맨밥 그대로 오래 돌리면 수분이 날아가 가장자리가 딱딱해져. 물 한 숟갈 뿌리고 덮어서 짧게 돌리면 돼",
+  "category": "주방",
+  "subject": "전자레인지",
+  "hooks": [
+    "전자레인지 밥 데우기 30년 동안 이렇게 했어... (9/10)",
+    "전자레인지에 찬밥 돌리다가 나 뭐 한 거지? (7/10)",
+    "얘들아 전자레인지 밥 데울 때 이거 알았어? (6/10)",
+    "전자레인지 밥 가장자리 딱딱한 거 원래 그런 줄 알았는데..? (7/10)",
+    "찬밥 데우는 거 30년 했는데 맨날 실패한 이유... (6/10)"
+  ],
+  "text": "전자레인지 밥 데우기 30년 동안 이렇게 했어...\n그냥 맨밥 넣고 3분씩 돌렸거든ㅋㅋ\n근데 수분이 날아가서 가장자리만 딱딱해진대\n난 이제 물 한 숟갈 뿌리고 덮어서 1분 반부터 봐\n너넨 찬밥 몇 분 돌려..?",
+  "image_prompt": "Casual smartphone photo taken at home of a bowl of leftover white rice inside an ordinary kitchen microwave with the door open, a spoon resting on the rim, slightly tilted angle, plain home lighting, a bit cluttered countertop, no people, no text, no logos",
+  "photo_query": "microwave rice bowl",
+  "product_keyword": "전자레인지 밥 데우기 용기",
+  "benchmark_note": "내 최고 글 '세탁기 온도 버튼 30년 동안' 첫 줄 실수담 고백·5줄 구성·사람마다 답이 다른 '몇 분 돌려..?' 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "르웰느 무독성 전자레인지 용기 국내산 안전한 냉동밥, 10개, 그레이",
+      "price": 16900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9398086852&itemId=27913636817&vendorItemId=94916018038&traceid=V0-153-de01ed5177556e8a&clickBeacon=ea648e70-d96c-11f1-be7a-cdd233001bdd%7E3&requestid=20261106080203567050092208&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/8Vs21YDN9QEVwgut8Qtb9eRLx7_IhZSY1p2FggOyVuKx0Tks4PleMIUMrgpmsZCqbAM1DWnlJeLD55ZYh4KqBnZ9SmhJl3ZwL4ASDWe3160vMiZISJjdjVe5VL1hihpgXUipF9cOVDEoDcF6qOqk6jCuKXVRcy1Cn0rgOMLgSr1fX-53xeOJYpB28MJlozIcLFO0nz-6VkEiHFhyvAdhTXx2naIbiw10x9pJKnuie6rPvJCTmyL1agOteWFGBqd6gywVDypZH3waaHC4dlDUYkcK9fwwPgqaveQo3tU22uWwvXf03nbZW5sHPW-Kkj32PgVvouCYsAQPKP26zgYADdihJRFPmbDpduxZYi06AiwITRBuh4axhre_t8NHTk68arsoyFXDAaAORYE402PG3RlFAnTZ9GpqfHPN9l4OU5oHnSS4osYrNNtaF9JXK2hk1M8YYRy48cZhL_uNTdGNM8b93ONWLzk_DC0ngPT5G6W_PmkLrXAtvuyXdolQhouIwTtzYBojn_oGL0apCEMCtQ4OACT387tp"
+    },
+    {
+      "name": "아티즌 쿡 국내생산 실리콘 반투명 사각 밥용기 300ml 전자레인지보관 용기 밥그릇, 6개, 혼합",
+      "price": 28000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9731499360&itemId=29121180307&vendorItemId=96045539874&traceid=V0-153-6438586bcb1bbe9a&clickBeacon=ea648e70-d96c-11f1-99ef-6589dfc7e763%7E3&requestid=20261106080203567050092208&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/sv0TU5GuQDSdm2RPshkvzgws3KujwnCuQg6szbpvikUxAfZ64F5ejwoy4ZZycJWdkXqhNil0KPFvWHUOtq9jYCg5YHKFUr-fHJqBsfwMObcpljK6iJWun_i47PNeJ1ggboiyjoKtuZwyubGPXnhvzQT8pALCdybYqQCFD0GOEUKsVFYnYxoJXBfxdCLGYdoSHhtDg8mqkby1NlRJLYIAbJRPlu6T5YakrUI9MJlYFCFBdjo1oDla9wscoVGx2x_8LmKVsLVA7XKA2vPn1DzkilAce3ldVCrUsN5kU_i_tq9l7dFQTSs7zFx6wgWorGFa3OgrdP-OhRQLxzeULnc8zqyyq_MnPCJhN3LkYKm4qzxS96RZ5Mfz4ofR47vKkuTj0TRWGvZYIzhhAv-ipUq_I1v8Td9tUU7hZ1AmskpP0epaFZ_FnrBR2gJn9D5GJ3ttqrDA7MukHRqkOYL-1TiMFSVI139QBDGeMsc6yhDk3n8qsjDzzHN5k2Zjehy45ssoBG1JaEceuvoA105omW1i1f59XEHRyzk9"
+    },
+    {
+      "name": "Munjjing 내열강화유리 햇밥용기 흰색 원형 렌지쿡 전자레인지 냉동밥",
+      "price": 12900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9443195412&itemId=28087675475&vendorItemId=96000381648&traceid=V0-153-b47c0a0bb22ac127&requestid=20261106080203567050092208&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/0n2U1EIDNkRE5jnR0o-EZZsgbwn4Ln0yIaPbvCEEplTvjevVBijj4SqBn5r1O1CURRNLbhi6n4jNYQhE8GbdaML22PV-4DbfkIqKRgGeqQnOC7jhfMH_mEFIL4icv_jTzLPfV2xLsbx6IlfjKjVvsf_sHZHFDE7lZ-_7bZi2LFQoyIwgwMPLF1tZWDEvaoaxRKvG13RFHoWaiXlxEXoiB-eaM-kXjfL0bzksMw-zCmN7iSKIRkq2uPzBM5Dri-FgkWPHKsFYaZaAutLgpNSUuCepFcnbvIWcAP4vpOWaQSbspYB8MOeAPyrwYk4vj8pqbOlaAlom3TnG741nCzEg2mw04LkAwrjj3kBTcIDUy8yi3gqrqkHnQUTL37w7H-jLLG9QCBV-vudUz2JRrefcxvf7sOzG1Z9FX93tos41epdia3CqDXwRVCbqdQ9RXHhIrOn3MGUfBBsNssHjJplM7veehisYddhPUrpljtvBTe_2NxV6CIZyNQDGlJHEXjIFzemfxWSqaLmybPQhvfi6AxIqz8Gj9nLSReFN6XqiWxiYwxE="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 205,
+    "has_photo": true
+  }
+}
