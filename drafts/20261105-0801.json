@@ -2,7 +2,7 @@
   "id": "20261105-0801",
   "created_at": "2026-11-05T08:01:09.592549+09:00",
   "publish_at": "2026-11-05T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": true,
   "issue": "오늘의 대박 공식 글: 세탁기 탈수 강도를 늘 '강'으로 두는 습관 (세탁기 온도 글 후속편)",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 201,
     "has_photo": true
-  }
+  },
+  "threads_id": "18029459585700575",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfV6RHTG1yY",
+  "reply_id": "17983897055908015",
+  "published_at": "2026-11-05T11:01:43.882287+09:00"
 }
