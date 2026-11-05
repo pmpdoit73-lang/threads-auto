@@ -1,0 +1,51 @@
+{
+  "id": "20261105-2201",
+  "created_at": "2026-11-05T22:01:39.852157+09:00",
+  "publish_at": "2026-11-06T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 보관법: 대파를 통째로 냉장고에 넣는 습관",
+  "angle": "대파 통째 보관하면 금방 물러 버리게 되는 손해, 썰어 냉동하면 오래 쓰는 걸 몰랐던 점",
+  "category": "주방",
+  "subject": "대파",
+  "hooks": [
+    "대파 한 단 30년 동안 이렇게 버렸어... (9/10)",
+    "대파 사 오면 나 뭐 한 거지? 반은 늘 쓰레기통행ㅋㅋ (8/10)",
+    "얘들아 대파 보관 이렇게 하는 거였어? (7/10)",
+    "대파 통째로 넣는 거 원래 그렇게 하는 줄 알았는데..? (6/10)",
+    "대파 한 단 사면 며칠 가..? (5/10)"
+  ],
+  "text": "대파 한 단 30년 동안 이렇게 버렸어...\n싸다고 사서 통째로 냉장고에 넣었거든ㅋㅋ\n근데 일주일 지나면 물러서 반은 버리게 되더라\n난 이제 사 오자마자 썰어서 지퍼백에 넣어 냉동해\n너네 대파 한 단 끝까지 다 먹어..?",
+  "image_prompt": "Casual smartphone photo in a Korean home kitchen: a bunch of slightly wilted green onions lying on a plain cutting board next to a zipper bag half filled with chopped green onions, ordinary counter, slightly tilted angle, uneven daylight, no people, no text, no logos",
+  "photo_query": "green onion kitchen",
+  "product_keyword": "냉동 보관 지퍼백",
+  "benchmark_note": "조회 11만 세탁기 글의 '○○ 30년 동안 이렇게 ~했어...' 첫 줄+셀프디스 둘째 줄+'난 이제'+'너네 ~..?' 질문 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "EZn이지엔 더블지퍼백 냉장 냉동 겸용, 중(M), 400개입, 1개",
+      "price": 22700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7987059630&itemId=20532239678&vendorItemId=88186388953&traceid=V0-153-767862c370c6a441&clickBeacon=20481240-d919-11f1-80f6-558c56099f46%7E3&requestid=20261105220216317239224477&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Z_G1JfDnuMQTS-JBZ33X2bC1QXXoTlczJODh22iUAw1tbSMxFU-FJ7eXUp8jwHTUCUoXoXgNoduNH_3pJ6BJW92B9KqlKgUKy7FaXTFDWrFMFToocd62MFb3XwBW7vJ-C9qKWwatdXJGrzzMP7DSZeGbxo9wbmmG2FKo3Vh_vbkayf50o2BRuoif9Ir6CaDUJyly8v1N0kDKHUYGFY0byIstRE3GwlIdDSYEPKD_yiINvPVuDd-ZdpK7zWmv7PEE4kyGEa8E7-RLdMJViPRnUvIlMcNmmHF6zm1NSVmrMsIjilnA7MiXILqtt4771QoiR1Ru-J0EyuFoMORcjucaD69zoFLk1ueB8fJQv4e4PmgL1EgK7Vq_Hb5ImfIMRsFbteo6fFwCiXTUr8zBmni-carZ94uyGYRTCVAm8vM0rVGEWIC9A1uafx8BSJnonUm6tMIDx2rObvE4WDjr6DBn4JfGV1pp2p4WBSZMY2N53lK8ynpwyoLgInCvH8jKmM5cADeqh0anjs8V"
+    },
+    {
+      "name": "EZn이지엔 프리미엄 더블지퍼백, 중(M), 80개입, 1개",
+      "price": 10090,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8082354412&itemId=22829375255&vendorItemId=89864160872&traceid=V0-153-4542da2af73cfc60&clickBeacon=20481240-d919-11f1-87b0-ee29966b253f%7E3&requestid=20261105220216317239224477&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/HzxokUiVmdFOF6CuH8chb5R_OE1lWVqSoulAE_BoiHJ2dyXnnyZ1yjcVR52G4MuXrFzCsoHuxf-pUAvdQ_pLkkyiU3y4NKWDB_JyODULmR7eaXR1hqvnwhLHnhK6ZU_CZzDPkHeUD4rRqo2QvQCgle80r-fUWchAbyh7VRq7LS5Nj7ueubMbvVNyH5nLXBqKyE5O70SMnTAmVnDyMYk5ZbXITELdMEc5CKae2xmQ1RQyVqFaP9WTrZ_u2T_LGF40LMwNr0NwNUt4d6wmyE1BhXDekK9dVT-NNiC-1Jo1CDtwpkL82dYZMbsHXEdZlbyPV4inKXnoGk0ITm9sN84AbLOaFSOFJttPTsR2vKvBZHfrm6EEh45dOliK23oXXwOpHBpF0j8qFAssIl96AmfgAwtfOkriaHBNNRrCs31dG8qMCZdbu1IiA8K1jOlqN9Mw650qUunBh8HfGxWRVK7spWJvw2hHpmPmaylM-rXQ_iJavf43gWNHxhfyVSNbt94bf5DpBRnlvw=="
+    },
+    {
+      "name": "지퍼락 그립앤실 냉동용 지퍼백 중형 + 대형 세트",
+      "price": 20400,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=230371848&itemId=14225046627&vendorItemId=88333349230&traceid=V0-153-4149659972ff03b0&requestid=20261105220216317239224477&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/QpzOHp5nbU17d8CbQguOK5W780omHhz62FO0Q_X3JbVuPaKypOeotGfwn44mfnZXA-iFRmGQM6CKH_3GWhUoD8gAc55VXe3hxZ-5_0vYFaWWgzsRHYheuAYOgwRJsx80Y9VosKnzxQm2UsTy1-cERTwoEsU5KWK9WIJ_p3-CevoQpPsAxCtR9y8crl5NQ_QnOa4HS6DY1tBzDml58u9Sc69hNzbJe6Rmm9zxxZHthbBVSDXKJppFYsoDITfr2RVDDxJ8ThgsGlX2IvkaKosWWS6pzszf2hDy65zeHFXq-XDdjvr13n7ocKuICLpZCLHH46NMp_4pG_v30iO4usnOXIM1KGVmqs8kWzVZSfL_s_QLfo0RrWxOVjl6-28Err9yL8lqwNiv6sZTM1lCkf5LY4lAItJqQNLKgxDBXKtyPsNDZH9oQiOO8o92r2F2NecKvwrq5YBqwZgO04IeeKw7sKnMdHGtjbFM-mNHJOX8xfZgrxw0ea9kMQpbg61OEp29pxG_98LWmxW0TObkzlF101YfnHg5hcB81LFIzrW3HLJ6XFOmYawGL3a1tg=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 204,
+    "has_photo": true
+  }
+}
