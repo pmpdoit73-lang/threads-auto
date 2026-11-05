@@ -2,7 +2,7 @@
   "id": "20261105-1401",
   "created_at": "2026-11-05T14:01:27.318800+09:00",
   "publish_at": "2026-11-05T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "건조기에 두꺼운 빨래·얇은 옷을 한꺼번에 꽉 채워 돌리는 흔한 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 202,
     "has_photo": true
-  }
+  },
+  "threads_id": "18147957997573348",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfWqVzqFsPm",
+  "reply_id": "18015911030971949",
+  "published_at": "2026-11-05T18:01:40.634934+09:00"
 }
