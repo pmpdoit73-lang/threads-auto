@@ -2,7 +2,7 @@
   "id": "20261106-2200",
   "created_at": "2026-11-06T22:00:52.699670+09:00",
   "publish_at": "2026-11-07T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 도마 말고 — 주방 행주를 젖은 채 수전에 걸어두는 습관 대신, 세탁기 '먼지 거름망' 아닌 '김치냉장고' 아닌 '쌀 보관' 실수: 쌀을 포대째 베란다·싱크대 밑에 두는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 250,
     "has_photo": true
-  }
+  },
+  "threads_id": "17920392642464208",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfaoXWqGuZ9",
+  "reply_id": "18075970580748445",
+  "published_at": "2026-11-07T07:01:18.420430+09:00"
 }
