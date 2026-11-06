@@ -33,6 +33,18 @@ if _th:
                            for p in threads_api.my_posts_with_views(limit=60)]
     except Exception as e:
         out["threads_login_error"] = str(e)[:200]
+    try:  # 댓글 읽기 권한(threads_read_replies) 시험: 최근 글 3개의 댓글을 읽어 본다
+        tests = []
+        for p in threads_api._get("me/threads", fields="id,text", limit=3).get("data", []):
+            r = threads_api._get(f"{p['id']}/replies", fields="id,text,username,timestamp")
+            tests.append({"post": (p.get("text") or "")[:30], "reply_count": len(r.get("data", [])),
+                          "sample": [{"user": x.get("username"), "text": (x.get("text") or "")[:40]}
+                                     for x in r.get("data", [])[:3]]})
+        out["read_replies_ok"] = True
+        out["read_replies_test"] = tests
+    except Exception as e:
+        out["read_replies_ok"] = False
+        out["read_replies_error"] = str(e)[:300]
 try:
     info = telegram._call("getWebhookInfo")
     out["webhook_set"] = bool(info.get("url"))
