@@ -325,3 +325,45 @@ def _external_text(external):
     return ("\n\n## 벤치마킹: 다른 계정에서 조회수가 높았던 글 (gil이 직접 고른 것, 가장 중요)\n"
             + "\n\n".join(parts)
             + "\n\n이 글들의 '형식 규칙'과 후킹 방식을 우선 따라 해. 내용·문장은 절대 베끼지 마.")
+
+
+REPLY_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "replies": {"type": "array", "items": {
+            "type": "object",
+            "properties": {
+                "id": {"type": "string", "description": "댓글 id 그대로"},
+                "skip": {"type": "boolean", "description": "광고·스팸·욕설·시비·뜻 없는 댓글이라 답하지 않는 게 나으면 true"},
+                "reason": {"type": "string", "description": "skip이면 이유 한 줄, 아니면 빈 문자열"},
+                "reply": {"type": "string", "description": "답글 (skip이어도 무난한 답 하나는 써 둠)"},
+            },
+            "required": ["id", "skip", "reason", "reply"],
+            "additionalProperties": False,
+        }},
+    },
+    "required": ["replies"],
+    "additionalProperties": False,
+}
+
+REPLY_RULE = """내 쓰레드 글에 달린 댓글에 답글을 써 줘. 댓글마다 따로.
+
+답글 규칙:
+- 편한 반말. 동네 친한 언니/형이 대댓글 다는 느낌. 1~2문장, 15~60자
+- 댓글 내용을 꼭 짚어서 답함 (아무 댓글에나 붙일 수 있는 "감사해~" 같은 말만 쓰지 않음)
+- 질문이면 아는 만큼 짧게 답함. 확실하지 않은 숫자·제품 정보는 지어내지 않고 "나는 이렇게 해 봤어" 식으로
+- 상대가 꿀팁을 더 알려 주면 고마움 + 나도 해 보겠다는 반응
+- 링크·URL·해시태그·상품명·브랜드·"프로필 보러 와" 같은 홍보는 절대 넣지 않음
+- 이모지는 0~1개. 느낌표 남발 금지
+- 아래 '최근에 단 답글'과 같은 문장·같은 시작 말을 되풀이하지 않음
+- 광고·스팸·욕설·시비·정치 얘기는 skip=true (그래도 reply엔 무난한 답 하나)"""
+
+
+def write_replies(comments, recent_sent=(), force=False):
+    """댓글 목록 → [{"id", "skip", "reason", "reply"}]. force=True면 skip 없이 꼭 답을 씀."""
+    rows = "\n\n".join(
+        f"[댓글 id: {c['id']}]\n내 글: {c['post_text'][:200]}\n@{c['user']} 댓글: {c['text']}" for c in comments)
+    recent = "\n".join(f"- {t}" for t in recent_sent[-30:]) or "(없음)"
+    extra = "\n- 이번엔 skip하지 말고 앞과 다른 말투로 새로 써 줘" if force else ""
+    msg = f"{REPLY_RULE}{extra}\n\n## 최근에 단 답글\n{recent}\n\n## 댓글들\n{rows}"
+    return _ask(msg, REPLY_SCHEMA)["replies"]

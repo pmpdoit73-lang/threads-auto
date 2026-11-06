@@ -11,6 +11,7 @@ import benchmarks
 import draft
 import hosting
 import media
+import replies
 import telegram
 import threads_api
 import writer
@@ -189,6 +190,8 @@ def find_by_message(message_id):
 def handle_text(message):
     """초안 메시지에 답장으로 보낸 글 → 그 초안의 글을 바꾼다."""
     target = (message.get("reply_to_message") or {}).get("message_id")
+    if target and replies.set_text(target, message.get("text", "")):  # 댓글 답글 초안을 고친 것
+        return
     if not target:
         item = media.parse_link(message.get("text", ""))
         if item:
@@ -397,7 +400,7 @@ def process_buttons():
         if str(cb.get("from", {}).get("id")) != allowed:  # 다른 사람이 누른 버튼은 무시
             continue
         try:
-            note = handle(cb)
+            note = replies.handle_button(cb["data"]) if cb.get("data", "").startswith("c|") else handle(cb)
         except Exception as e:
             print(f"[poll] 버튼 처리 실패: {e}")
             note = f"처리 실패: {str(e)[:150]}"
@@ -428,6 +431,19 @@ def process_schedule():
         try_publish(d)
 
 
+REPLIES_ON = True  # 댓글 답글 초안 기능 (끄려면 False)
+
+
+def process_replies():
+    """새 댓글 답글 초안 보내기·승인된 답글 올리기. 실패해도 글 게시는 계속되게 따로 잡음."""
+    if not REPLIES_ON:
+        return
+    try:
+        replies.run()
+    except Exception as e:
+        print(f"[poll] 댓글 답글 처리 실패: {e}")
+
+
 if __name__ == "__main__":
     try:
         if bot_changed():
@@ -435,6 +451,7 @@ if __name__ == "__main__":
             write_offset(0)
         process_buttons()
         process_schedule()
+        process_replies()
     except Exception as e:
         print(f"[poll] 실패: {e}")
         try:
