@@ -2,7 +2,7 @@
   "id": "20261106-1401",
   "created_at": "2026-11-06T14:01:26.066574+09:00",
   "publish_at": "2026-11-06T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 헤어드라이기 찬바람 버튼 용도",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 206,
     "has_photo": true
-  }
+  },
+  "threads_id": "18120485903281191",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfZPSUJFdgm",
+  "reply_id": "18414279913092181",
+  "published_at": "2026-11-06T18:02:58.057838+09:00"
 }
