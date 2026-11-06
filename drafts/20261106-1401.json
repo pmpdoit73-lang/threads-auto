@@ -1,0 +1,51 @@
+{
+  "id": "20261106-1401",
+  "created_at": "2026-11-06T14:01:26.066574+09:00",
+  "publish_at": "2026-11-06T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 헤어드라이기 찬바람 버튼 용도",
+  "angle": "여름용인 줄 알고 안 누르던 드라이기 찬바람 버튼이 마지막에 머리 모양을 고정하는 용도였다는 점",
+  "category": "살림템·가전",
+  "subject": "드라이기",
+  "hooks": [
+    "드라이기 찬바람 버튼 30년 동안 안 눌렀어... (9/10)",
+    "드라이기 쓰다가 나 뭐 한 거지? (6/10)",
+    "얘들아, 드라이기 파란 버튼 뭐에 쓰는 거였어? (7/10)",
+    "드라이기 찬바람 버튼, 여름용 아니었어..? (5/10)",
+    "드라이기 버튼 하나 때문에 아침마다 손해 봤네... (7/10)"
+  ],
+  "text": "드라이기 찬바람 버튼 30년 동안 안 눌렀어...\n여름에만 쓰는 건 줄 알았거든ㅋㅋ\n근데 뜨거운 바람으로 모양 잡고 찬바람 쏘면 고정된대\n난 이제 마지막 10초는 찬바람으로 마무리해\n너네 이 버튼 눌러보긴 했어..?",
+  "image_prompt": "Casual smartphone photo of an ordinary hair dryer lying on a bathroom counter next to a sink, cord tangled, a towel and comb nearby, slightly tilted angle, normal indoor bathroom lighting, everyday messy home feel, no people, no faces, no text, no logos",
+  "photo_query": "hair dryer bathroom",
+  "product_keyword": "헤어드라이기",
+  "benchmark_note": "내 최고 조회 글의 '○○ 버튼 30년 동안 이렇게...' 셀프디스 첫 줄, 5줄 구성, '난 이제' 경험 말투와 '너네 ~했어..?' 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "TROKY 헤어 드라이기 고출력 파워풍량 초고속 BLDC 모터 110000rpm 1600W 저소음 가정용 휴대용 드라이어 3모드, 블랙, Y7",
+      "price": 92800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9553272838&itemId=28504978839&vendorItemId=95904835684&traceid=V0-153-11dbef7b94af55b6&clickBeacon=3651e440-d99f-11f1-b216-d5a39272c998%7E3&requestid=20261106140205809168280296&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/qxsw4IR1qwaNCZBOqzZVK-Y8LaYp8I1nMdpauBt59uTlRRco-EzXqZ4DYZOQey3twwYLm_899k382TiFWeEBRnxxQ8fj6jEFqdo-k_PGJDyyLaxu9GNwH4pTy4OqvyWlaRMU8RqVyNiCpmtXCZyRtRY8-1895e2yH-PTVFv5fDnlCJkDrUahwLKYlrgHCucTLDe4IUEsKBVIUsZ6TosOd3Mf4u3ijay8eNm257xRI0sKK1RhrBxf2Dw2jpflN5W77Z2ftpM9blU-aniScKADiappk7lO032_oq2FRCr-qwd8e0UlpOl0TIflUTrEIjiyxxkozqHpQ5V9aAfR74zZuCgoL92K1qvMOAm1ps12AwBijlYkpuGlmzaGGQf60C2_crNL1BiflaFuqWi4skd-PehkFWbpu9oBh6gjXmbwi5Z2AhI7wB9sSqqgQ_hUbeZI44e8peJNCeLkK6CqigfAJRH5WlU95JFCY5AcS-bMX0rqOqu0jHi0cmzaqk_g5IoT4JEAb2t1dBoMQdfv89XC05dOWNmNJSA="
+    },
+    {
+      "name": "[하이엔드] 초고출력 BLDC 항공모터 순환기능 가정용 전문가용 헤어 드라이기, 에센셜 화이트",
+      "price": 119700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8610610349&itemId=24974129530&vendorItemId=92010928744&traceid=V0-153-49f720ead8f39fe1&clickBeacon=36520b50-d99f-11f1-92d8-12d316eba356%7E3&requestid=20261106140205809168280296&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/o4iswHRtiE3ooryroy0fGcE6ys4tH9w2qQFxIhLWy_2nbVc_8Jv8mpRZ3NAlZg56x_f8rl_7NRpRoYl_6_vhARDJ8hDPOgvYiln6BIFF4xqjSC6-BaOQXTEyYyz3iSM-EcClsZ2y_PMKmarHJLUJiot_JV_XkioUcwqF9NaU5P-ELWC2YNki9hN5sEesOavKivctyXYIs7aSL7ADDdmRRu-qdA6u_RCDsC51WmdHu0GftiVh8WGMtrwXIvlhHCqAHkbx0VqMcrY3vR1dwr0NuIb8WiSgc5mxdtWOGfQkWc0kCPe19xf-lShv5oCZPODqPSJNpW0k9vQ1ynk-Wq4Qz-Ts9uHcg_DuY_Rd8eN0Rd9Xkb_iiUhAImaX18I236b6dJ5QmMS91EFrSpRDdNVgOBpHd_a1xXqoULf0F7barzjiuM8D6z72bFPje2zng5_sFQFsByACEpU_KJqFUGoXOGu3vU8glMm7CCn_-mUBcUYihMkGGtGq5fWvsVIJBTuQStAp5tCWOlUWGUi5OaWRfJ0QoG73uykEQA=="
+    },
+    {
+      "name": "SUNGOD 헤어 드라이기 블루라이트 케어 고출력 파워풍량 2000W 저소음 가정용 휴대용",
+      "price": 24800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8999614825&itemId=26372111897&vendorItemId=96001243115&traceid=V0-153-f2db7f312cdbdad8&requestid=20261106140205809168280296&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/XrTXOesCINDMe6V8XqH4pjyCdCRPwA7U0wnBpj7PMgv1xWB3OME9o8PwpTCJc64nMVAGIEzXkMjm71BxoSdTTQ6DXbHGLRIEt7O7ZvDtCOySSHAoFOj-6TbNPp84yMN0LmJldq-BygzE1DKJ14m_NHUR_hvcR6bs8-UDKXg7zt9oQyjoAVAb-HFZidTApGG-y_PNrxkkSCHg7xvKDjZEYnZFnK5FigRDPDluYbYEGbKkNRvCxx9UGn0eJr43pvcThii1ccNVjCATYPcoxpzT2NF_RWFrmqqHQhF5Z2m6H5d5fqBeRf_g46sgqijQASNfgMvquUwgN2kbiT1KuPRoE45yWPNuHZpBVcWldf0lA_wmqSJhlIJC7aJS5nx9Jv5Cv3iyh11wodHYjA-mLg8p0oMJqc1FuOVAlUpWjS95eajAcOymJycWF3WDfevpp1ESEkCB-Op6k3SGcxtEb7T_Dc6SymHPUoTubtLsCHA_MPV5nCZckJJtfVXaaXfXCUett3JY9c-N0PzRAbkobk0TW5RP1Xck4UmOHl8Qlfs18HWoSw=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 206,
+    "has_photo": true
+  }
+}
