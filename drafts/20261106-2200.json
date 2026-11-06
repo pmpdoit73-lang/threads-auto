@@ -1,0 +1,51 @@
+{
+  "id": "20261106-2200",
+  "created_at": "2026-11-06T22:00:52.699670+09:00",
+  "publish_at": "2026-11-07T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 도마 말고 — 주방 행주를 젖은 채 수전에 걸어두는 습관 대신, 세탁기 '먼지 거름망' 아닌 '김치냉장고' 아닌 '쌀 보관' 실수: 쌀을 포대째 베란다·싱크대 밑에 두는 습관",
+  "angle": "쌀을 포대째 상온에 두면 쌀벌레·묵은내가 생기는데, 페트병·밀폐통에 옮겨 냉장 보관하면 된다는 걸 몰랐던 점",
+  "category": "주방",
+  "subject": "쌀 포대",
+  "hooks": [
+    "쌀 포대 30년 동안 이렇게 뒀어... (9/10)",
+    "쌀 퍼다가 나 뭐 한 거지..? (6/10)",
+    "얘들아, 쌀 포대 이렇게 두면 안 되는 거였어? (7/10)",
+    "싱크대 밑 쌀 포대 열었다가 멈칫했잖아... (8/10)",
+    "쌀은 원래 포대째 두는 건 줄 알았는데..? (7/10)"
+  ],
+  "text": "쌀 포대 30년 동안 이렇게 뒀어...\n싱크대 밑에 포대째 묶어 놨거든ㅋㅋ\n근데 따뜻하고 습하면 쌀벌레 생기고 묵은내 난대\n난 이제 페트병에 나눠 담아 냉장고 문칸에 세워 둬\n너네 쌀은 어디 둬? 아직 포대야..?",
+  "image_prompt": "Casual smartphone photo inside a Korean kitchen lower sink cabinet, an opened white rice sack tied with a rubber band leaning against pipes, a plastic scoop on top, a few cleaning bottles beside it, dim uneven lighting, slightly tilted framing, ordinary messy home, no people, no text, no logos",
+  "photo_query": "rice sack kitchen",
+  "product_keyword": "쌀 보관 페트병",
+  "benchmark_note": "내 최고 조회 글의 '○○ 30년 동안 이렇게 ~했어...' 첫 줄 + 셀프디스 ㅋㅋ + '난 이제' 방법 + '너네 ~..?' 질문 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "형창플라스틱 생수병 2L 당일발송, 30개, 2L 사각",
+      "price": 24500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=2123497284&itemId=28601082117&vendorItemId=95544689995&traceid=V0-153-937c2f3bde9a4c7e&clickBeacon=2d3636c0-d9e2-11f1-a94a-cefb0c430ebb%7E3&requestid=20261106220126840221215498&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/dJCwQbIdoFT1b7d8dEmELQkMhN8YwfmSzuc-ApkXeS_2o-eetLGqrHpo7g9UIZO-jQKhU2kprvgGFB4kDDINVADHku_YlMwmSeOLb1B6ghmtPP8PBxORxSuXgky5obl2QXjWuda8pMvGBlt_5ekp7NsBarOFYsogtM4BUJcCW16nvO_2v6Ap2yDV0cndsVFfADSEKEax1Rk28QVL2A5EjNvbyhSBc-ecbLFL2w3orE3JaZA696y8BNSIyWrk_ssRHxQpU07GTvGfsuJnMkAHoSD1hhiYOvp3llu-Xe0lgOA_X3Veg6ilOy_A3sIWGwqPmxThdQ0TF309jwRrv4IYe5wz75kbYTuwOMMahulfsJbVfbh5rxrG5tyx83T1GjwTZ1BOg_nREruM1uzD8dRtL21jXFmJzxChPfeMlp2hPnRXCbwwI4EaOcvfxh0iconIc_kXyWvIDNsjA---UacyTFPuojkxZ40GbmctK3qrIsEml3K6YWztdwAei02diF55y_nYwU6HdhbZNLDQLKZM9kXYXDqASrU="
+    },
+    {
+      "name": "생수페트병 28파이 1.8리터, 48개, 1.8L",
+      "price": 24490,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8116082331&itemId=24679358020&vendorItemId=90043507849&traceid=V0-153-c01bc5a2da8246a3&clickBeacon=2d365dd0-d9e2-11f1-9e59-7f85b700e7e5%7E3&requestid=20261106220126840221215498&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/xUqGkie-hxL3gkyixdo-5kYYD66KskYS9YY8WoZsK6YliLAYZJB2L1-xK5IEvmxJzpvDUpgSzmogYdmSNzFAjX9-RoLPInrgydV0pIb6Y0ywb3xb1Rv1wcmx4WEkpvlyymjAgmFczEzM6nsG7XZQvdY20GTWlAwTWx46dLcQ38cPRp8xCX2d99U5wSRyvFrCBvon56qrID7RB08HxmMHSK9vD_ChpSbI06JZXKnS4MFh5XIsCiA3TDKPGqYrpOxdKFY0-AWCsDbxhraBLyJA-rJHXmxqA2mg324cmfQBC8dVwCNOVBJAKMRvEpiz-iNhF4d3lnhkWkozqWVVHQ_QYs6YlhIaC0nbBsKjmbiI_dmEjT8tNgAcjxvSXf7M63AwtDdYGfXPVF2UMiM-mYK0yifwMIWYeoL54RSsTcgc40WvDkGwKoRX-zTtfBVHbcC16H0FS4EESEnvNb2CBcRX0WgUfzx6TYlgaAmq1CLz_KZNLKKwEJua-tnzlPG0-i8QfVOMfXpDvKdSWp10r-3yGuJQsUeq7A9a"
+    },
+    {
+      "name": "미르코리아 팜스원형 밀폐용기 블랙",
+      "price": 10600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=67548630&itemId=225903259&vendorItemId=3548977377&traceid=V0-153-9f7c1a16a0e16092&requestid=20261106220126840221215498&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/eiKXgcducWAtsS1FekS5fh-XJBQBZZZ7KRtKA8KnRKAD0Zq0a7qkh5Klp3TjMHriZ_ggs8EV-QWoiRIF7J3PAgf8LGOped5PjtKbPk7gm6mBbYg148a-GhOPl_Q4QuNh20OLU-FZbkN7KqwksdfENb_tD-N70iMYpuASBDpCYwpxX9dx--mudUiaFDGsPzfbLYJfhYlcSHqxwGVLw0ZljpdJl9XOX6D8gKvxK3fremgp32LCVQhsLeqadrdAEd2b0pZhfYEJmrgbk8KfFab0TUJ_aCb0cL1jNEc3syKIKa8yzT-sIL6Acclc-7kVcCfjHuZPLNdE_XZ5orV0jWmWBxGGWhmpLnaWezlLmYGDoJerxkMqHzjcO5z8rJ-hM4gMb_YzBvDR5JxhYjvEmhK5Ifmz0T018ODOA5eOoS3-uA9jT-Y_49Lj0pFjVdUr494Dsf8muxnq1vnWu2peuQHl34QMJ7jGhcgojxf_MosSCCSFKjL_1KT_4iyk_XaOydWnCkyF6WgY5Boq3_R6adFR"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 250,
+    "has_photo": true
+  }
+}
