@@ -1,0 +1,51 @@
+{
+  "id": "20261107-0801",
+  "created_at": "2026-11-07T08:01:20.684215+09:00",
+  "publish_at": "2026-11-07T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "세탁기 빨래 끝나고 바로 안 꺼내고 방치하는 습관 (세탁기 온도 글 후속편, 수건 쉰내 각도)",
+  "angle": "세탁 끝난 빨래를 통 안에 오래 두면 쉰내가 배서 다시 빨게 되는 손해",
+  "category": "청소·세탁·정리",
+  "subject": "세탁기",
+  "hooks": [
+    "세탁기 빨래 30년 동안 이렇게 꺼냈어... (9/10)",
+    "세탁기 다 돌았다고 삐삐 울리는데 나 뭐 한 거지? (8/10)",
+    "얘들아 세탁기 끝나고 이거 몇 분 만에 해? 나만 몰랐어..? (7/10)",
+    "세탁기 종료 알림, 그냥 끝났다는 소리인 줄 알았는데..? (7/10)",
+    "수건 쉰내 세제 탓인 줄 알았는데 세탁기 앞에서 멈칫... (6/10)"
+  ],
+  "text": "세탁기 빨래 30년 동안 이렇게 꺼냈어...\n알림 울려도 드라마 끝나고 꺼냈거든ㅋㅋ\n근데 젖은 채 통에 두면 그새 쉰내가 밴대\n난 이제 끝나면 30분 안에 꺼내서 바로 널어\n너넨 삐삐 울리고 몇 분 만에 꺼내..?",
+  "image_prompt": "Amateur smartphone photo taken at home of an open front-loading washing machine door with damp tangled towels and clothes still inside the drum, dim laundry room lighting, slightly tilted framing, plastic laundry basket on the floor nearby, casual unpolished snapshot, no people, no text, no logos",
+  "photo_query": "washing machine laundry",
+  "product_keyword": "빨래바구니",
+  "benchmark_note": "내 최고 글 '세탁기 온도 버튼 30년 동안 이렇게 눌렀어...'의 실수담 첫 줄·5줄 구성·'너넨 몇 ~?' 각자 답하는 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "코멧 홈 와이어 햄퍼 트롤리 2단 빨래바구니",
+      "price": 30830,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8128490776&itemId=23079751533&vendorItemId=90113291878&traceid=V0-153-efd4b67875ec58aa&requestid=20261107080156134282013800&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/9mOmnbWSU2Us4qNo9hYTFAyiHUZGwdy6UqiMutEJr2HBp3T9sKHZVNErpJDFYqiVc389MQZ6TLXP6EOFwt-FEVCAUCoYuyyRN8XW9QVyip1Vikx2Ko_ISteyiMxuaRPVAMAqvCoZTr3zUzOa_z97WyTFqQi_EsmkwEcN7nSpOTftyNIxl9F9dIlNeOPC3Yn2Fi4rmCuhe-zgNe9CwEiRLDjytmozIgLNXDYxvstox-d4EBZOzQqOqYmLt20sQghnlDD4b_Bz0Xah-pm2KoobVUYYRhRaCPdRi0rIw3LxEKXBQcZOvzho-tjr3OIO6fZepjILT-zP0q8ax_OyTjHNUuppaw1b45OEyWmbK-S_Eh_aGflf2LjqEmZxY6AgBJR62zwRC-2yptMlN6g78jIumnLwjso1qn_fqey4mHOnZTjrYct_rTimcEG6wImd6wBHi4KLYJ8mDJk4uRC3h294DranmOqu0aydXTFnCuEVau02O_df8zkEbY1XESwYLEs435wm6jTRxpFEIh88abVf"
+    },
+    {
+      "name": "코멧 트임형 빨래바구니 2개입",
+      "price": 8990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5655445610&itemId=9267457863&vendorItemId=76553000297&traceid=V0-153-be1971f565f76663&requestid=20261107080156134282013800&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/I4zGUsfw7-HHtTiMI4NQWGz8SbcD0vHvmfHCtwJgZrKq7PMeAm1s6uM3DiNR75bFXRaiIK-UwbZYe4jdEOMuMd1scGZ3QOrd6pwCvE4Q3C1pfUZqWiPX9PnUOlcLTp7uRGaEfF_c7xRDOS6-ggOZA_b3sUfwExvm8SaP7Fg0aS54NPX2yPEkIVI83usQrDrZDx30_-_7owoUYnYtVQumB7ngeEj_4Xvygkf7giFnGj1W3FOPLwk2tiYWukx7qoKZY0TfCIfRgwGPFL65LvXO5DBldAbK-CHVvjSftYnMknpEznBKzgX9V3KuZEd0hD74hBnF7-RLVbLo3ojhkPEGNlrzSMRGznXE3dSXA8VpXsid5sLVBYE6Zno1MxxLMwh9FYXhYRLLo2VMdwIdbKvpqr4SZJfscbiv3Zrjc0aPF0c3Z7XdWWkOICa7qG717bj3ueHSHDCiHkMj9CTPPUJ5-vOy-4oi1Yt6WYwoAlMvp0LMGasBfO3CX9_tSZp_yJutUcbe29KGbu0wDQeXjqqXS2iv"
+    },
+    {
+      "name": "코멧 홈 이동식 트롤리 멀티 빨래바구니 3단",
+      "price": 15990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7431770639&itemId=19303969148&vendorItemId=86418361583&traceid=V0-153-aa424449a3f52a1a&requestid=20261107080156134282013800&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/xwVf4tGolaYBwlm6x5fVUbBlNCH19VIHaJpVOtwk3K10ixChPCiotSdeSyKFWNy0wGpgq1I0cfKoj-lxlBTrlZFlTtOK0YznIanghgT3_kMy_rNuFUzZ9MKp-qgw9NXJkj857xH1gYTN79Q0c5A_ZmdpV1MR7g4r1AHHZWFn_D-V49FkL4xnQ1I2jVpIO9FZ3X1WToPfEMapUAyJ4ODv5uTiEEEW_P1HKagg7aQElLTpfNf66mgHAV3cCKLNNW5UExCdEbb2KrVF40EwFwry0Cl6wpmQOWNHm4SJPWBBpqA_K3zoM4gf16TNIQuJnSPZfpMwJmKwGbQRhrGl2O4ekELYDKq_5Spcat7lvx7X6SsK4VElUwrnktmdRv1XyTWcrm6H7tfz0xrXg0JfZESHM45F6GO9v7CnlnQLECbWMZDWT5XkLAK8QWsIMTWWyKZUXTPckipo5qdexxmBfu7ev1XUD2alDSykjeVtJKLDXA_-9A5kOM17Fa2Zi4csVBsN5aina5F4K4RpytHnmkZuaA=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 257,
+    "has_photo": true
+  }
+}
