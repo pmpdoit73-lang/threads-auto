@@ -2,7 +2,7 @@
   "id": "20261106-2000v",
   "created_at": "2026-11-06T20:00:49.246033+09:00",
   "publish_at": "2026-11-06T22:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "사진: 짱구 아크릴톡 폰 홀더 (폰 뒤에 붙이는 짱구·흰둥이 아크릴 그립톡)",
@@ -56,5 +56,9 @@
   "message": {
     "message_id": 236,
     "has_photo": true
-  }
+  },
+  "threads_id": "18109076033211329",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfZqvD9Flyb",
+  "reply_id": "18010824770778121",
+  "published_at": "2026-11-06T22:02:51.677298+09:00"
 }
