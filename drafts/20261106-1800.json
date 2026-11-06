@@ -1,0 +1,51 @@
+{
+  "id": "20261106-1800",
+  "created_at": "2026-11-06T18:00:59.966034+09:00",
+  "publish_at": "2026-11-06T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치냉장고 아닌 일반 냉장고 냉동실에 꽉 채우면 손해? 대신 — 수세미를 한 달 넘게 쓰는 습관",
+  "angle": "설거지 수세미를 닳을 때까지 몇 달씩 쓰는 습관, 젖은 채 두면 세균이 번식해 2~4주마다 바꾸고 바짝 말리는 게 낫다는 점",
+  "category": "주방",
+  "subject": "수세미",
+  "hooks": [
+    "수세미 30년 동안 이렇게 쓰고 있었어... (9/10)",
+    "수세미 바꾸다가 나 뭐 한 거지? (7/10)",
+    "얘들아 수세미에 교체 시기가 있었어? (7/10)",
+    "수세미 너덜너덜해야 바꾸는 거 아니었어..? (8/10)",
+    "싱크대 수세미 보고 남편이 한마디 했는데... (6/10)"
+  ],
+  "text": "수세미 30년 동안 이렇게 쓰고 있었어...\n너덜너덜 구멍 날 때까지 버텼거든ㅋㅋ\n근데 늘 젖어 있어서 균이 금방 번식한대\n난 이제 2~4주마다 갈고 쓰고 나면 세워서 바짝 말려\n너네 수세미 몇 달 써..?",
+  "image_prompt": "A worn, slightly frayed yellow-green kitchen sponge scrubber sitting wet on the edge of a stainless steel sink in an ordinary Korean apartment kitchen, some dish soap bottle and a few dishes nearby, casual smartphone snapshot, slightly tilted angle, uneven indoor lighting, no people, no text, no logos",
+  "photo_query": "kitchen sponge sink",
+  "product_keyword": "수세미 대용량",
+  "benchmark_note": "세탁기 온도·부엌칼 글의 '○○ 30년 동안 이렇게 ~있었어...' 첫 줄, 셀프디스ㅋㅋ 둘째 줄, '난 이제' 숫자 공개, '너네 ~몇 ~?' 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "코멧 키친 고밀도 스펀지 수세미",
+      "price": 7370,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7746000107&itemId=20852351722&vendorItemId=87919884483&traceid=V0-153-e6d33256fdb30f5e&requestid=20261106180131972108982073&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/HQZGYrAyGHzxPgxhHZZL1kzI93tV4eNsWcp7ifKd8VN2be1nKo7CncC-DyBV2WDXqlna6sdsx4fVzxaEpy0hN7izjGwzSFY2MJ6480GG-IRrAmMPhbmQlYH-d4JGQ47P5vACMkG6H7oSQgM0yrHXm9Ld1dQTH2HQw-LwbwXX2cDGEVB_ebb0ZC_d-Xz0BxpzJTYTBRa8BvYO9sAXJpRX_qAegtpaKrUO0N4BV9TAEXVJ2zAaoArKFgVs0EzbFlMjifG9EnrYktwW20tma-PBV5xbLwJHW_wIXp_sp7zsxq1AHBYwXLfeHHUzblw6ZKdACEOHjI1bradv4sRwG_q-JXAEUY0AgbgUcR3jHZEEhXKIGmbsFOCAvgo1WBOar4GwrFwvFmPX1IQeN3FndQcdL_IsejLSqndSN2chZq587vooowizpF0rO9ZoQpnQwmkrDluWOQtu6-yO1quSPZ_SwfRNyBpL23a7JshHTYljmkS8LIGoZfRIBxyNifVza4UoUiohF4BhmoOr4-iknvPMdR4="
+    },
+    {
+      "name": "호아인터 다용도 주방 은사 수세미",
+      "price": 9690,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9407849688&itemId=27950656814&vendorItemId=94908917305&traceid=V0-153-fd739056cc303aa6&requestid=20261106180131972108982073&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/JX3N4T2OgnwXFWEnJTlTHtswokyjrtDezGjFNCSpfYKnEP2544s38_QY8HTEgeOnequRp89xLL5kZVgE-P_WPsEyawTK6nYyhmk1Ka3mLlMaJz-dXeie5f5GW8zVRyQCKbsIDGRCFwjcZgd68Kc1L34DYpinmX4Tgz3UPELyVQapwMwZZi3rV4pcGy0ZIi55zJ3wuF6ovsOaU93_QyfdUjVyrFS2G0Xtbz0taQ8IJFi0As449MiTr7QZOcbjhrXqYMPwiD4Ku7JRNBabBAPTEfkE34MeeQLuv9k7kKvV4d3D9qcCKyxa2x82A6bHOEkNBh-vAyySQiqbr4io_2Tbsfr4vROZa6IbUTVNIUGZaMQSHkfUryd5ntG6pJkLBp_xywjZlmAmGx3SBEWU-8BTqjfnGcBu8rTU6pW6ScmITPdetUu5vOc_ejXe7JFQ1DRydZS83YD7HZiOMs14YcKYEIGajrP0V6H7RcpCIqKxYvcZ5HJ3oHvgE8LcLW3cXXMWy-p-ucMrK-6wDqo8TF7YX-KnxVhB6yV-XSQx4GN-SFx2"
+    },
+    {
+      "name": "호아인터 노스크래치 찌든때 무흠집 수세미",
+      "price": 8720,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8512460368&itemId=25042545007&vendorItemId=92047144517&traceid=V0-153-a204e924fdbe31a3&requestid=20261106180131972108982073&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/4wQGb8xIm4qy5dyu4xJs4CTNUFicdhJNe4FZIx0ANQ5tVcDcgJgow1dHAfnOdtTzuBWsRXVTTtgu0V1Bh8X2P8ziB1afKFuU6WynirVymHceRhvqKdDbZUmMUd5neINutQNrD2EwxXsLKTokeEC7D1lyhzw-3D8TPSZd3HQUTkcUSYvs1ikEsgsG2R22f-dKJEdozrNYWufAvTSd_dOYbgsChExJ2n87v0s578I97byQ0i9jWrSQl1aHgwFMjnWUfj4EbVfdTvCQPGsl4Jka9oQL-jKOgORw_deFzVQgqhChhAol1yHtTHxzMWfvjTfoVNzbZUjjM6e8m7pBZ326iM7kNGpDU246B82gXdQ9r4ioyjFfQdDRsGKYBO4Jlh5L5ddJ25chsyzEgvXM_k9cU8mYaU39FOT8JcQsTa2LyDycl5IH7mok1OToK91d1K475rTTrJ-epgnlKgE_aDNWvcPYIhcModnu94VuSbm4fMYqKk9VJPL2oeZ-mEZC0klV6S74NwdT6LrV_yY4QuuwQTqN29BQ6cz1HnFamwi3YfE="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 221,
+    "has_photo": true
+  }
+}
