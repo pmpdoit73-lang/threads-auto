@@ -2,7 +2,7 @@
   "id": "20261107-1400",
   "created_at": "2026-11-07T14:00:47.900975+09:00",
   "publish_at": "2026-11-07T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 냉동실 성에·꽉 채우기 말고 — 수저통(식기건조대 수저꽂이)에 숟가락 위로 꽂는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 261,
     "has_photo": true
-  }
+  },
+  "threads_id": "18080921483413560",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Dfb0BpYEXjI",
+  "reply_id": "17964264102248582",
+  "published_at": "2026-11-07T18:02:22.282608+09:00"
 }
