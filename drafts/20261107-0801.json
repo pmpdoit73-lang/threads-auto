@@ -2,7 +2,7 @@
   "id": "20261107-0801",
   "created_at": "2026-11-07T08:01:20.684215+09:00",
   "publish_at": "2026-11-07T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": true,
   "issue": "세탁기 빨래 끝나고 바로 안 꺼내고 방치하는 습관 (세탁기 온도 글 후속편, 수건 쉰내 각도)",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 257,
     "has_photo": true
-  }
+  },
+  "threads_id": "18093325676216120",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfbD2faoFhz",
+  "reply_id": "18097023800538619",
+  "published_at": "2026-11-07T11:01:35.962315+09:00"
 }
