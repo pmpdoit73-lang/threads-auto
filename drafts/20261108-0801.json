@@ -1,0 +1,51 @@
+{
+  "id": "20261108-0801",
+  "created_at": "2026-11-08T08:01:21.224909+09:00",
+  "publish_at": "2026-11-08T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 통돌이 세탁기 물높이(수위)를 늘 맨 위로 두는 습관 (세탁기 온도 글 후속편)",
+  "angle": "물이 많을수록 잘 빨린다는 착각, 물이 너무 많으면 빨래끼리 비벼지는 힘이 줄고 물값만 더 나간다는 점",
+  "category": "청소·세탁·정리",
+  "subject": "세탁기 물높이",
+  "hooks": [
+    "세탁기 물높이 30년 동안 이렇게 맞췄어... (9/10)",
+    "세탁기 물높이 버튼 보다가 나 뭐 한 거지? (7/10)",
+    "얘들아 세탁기 물높이 칸에 이런 비밀이 있었어? (6/10)",
+    "세탁기 물 가득 받는 게 깨끗한 거 아니었어..? (5/10)",
+    "세탁기 물높이 칸, 원래 많을수록 좋은 거 아님? (6/10)"
+  ],
+  "text": "세탁기 물높이 30년 동안 이렇게 맞췄어...\n물 많아야 잘 빨리는 줄 알고 늘 맨 위로ㅋㅋ\n근데 물이 너무 많으면 빨래끼리 비벼지는 힘이 줄어든대\n난 이제 반 통이면 자동 감지 그대로 둬\n너네 물높이 몇 칸에 두고 빨아..?",
+  "image_prompt": "Amateur phone photo looking down into a top-loading washing machine drum at home, water filled high with a few floating towels and t-shirts, control panel partly visible at the edge, slightly tilted angle, ordinary laundry room lighting, a little blurry, no people, no text, no logos",
+  "photo_query": "washing machine water",
+  "product_keyword": "통돌이 세탁기",
+  "benchmark_note": "내 최고 글 '세탁기 온도 버튼 30년 동안' 첫 줄 고백 공식·5줄 흐름과, 각자 방식을 답하게 하는 '몇 칸에 두고 빨아..?' 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "마이디어 파워워시 통돌이 세탁기 19kg 1등급 방문설치, 클리어 화이트 + 블랙, MA512W190D/WK-KR",
+      "price": 549000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9686015044&itemId=28966389756&vendorItemId=95896251408&traceid=V0-153-7a5ecdce2581db59&clickBeacon=3d6ac880-daff-11f1-9045-948596da77a3%7E3&requestid=20261108080200648035368298&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/3cTJ7AMeMeO4LmvY3QW3CTugY6iIFM978qz1tKgZ6VyHpbKTf_cRec2PZEIz984dyzi_9M4kj134Yws31frwln8r4a1ccG8S9L4dcrcUzZGnw_qwTNh0KqOVk7H3EPO_NPgBdYKqnBWqD960AT4E3zsPUy8qR_EdhUp4xkGOFYrMO0Id8VD2M7ZcUT4bzpEIdXTvZeZV552lXVqlW-JPQ8MfDELqbw_slTF1_t8eFfz_zF9v-PotNxS8prVR1nAoAs9c9WDTq-8y0bT7kFOsOLQkWx0gvLoodZa61TXaRjixZ9UGkZY8250ZRDIRXnQBXOlLP638XsUIgv7JPyuSfJLcMw1IC4Wrve93PoNeA77nBH98aE5Kr5BA7Mu5H8XcyIE3Fa55sLWDIQRRNzaHNSc0GXyB4JFxF3Ixb3nW3X7jVltNgMCWIv8L5kmDfMhA-CXk8Smwia9C37BszSYJbGLZ0eQorNk4_tVwgAv5ocq3hjrVMXOSAEtkXUMFjIz_uSzf6MQG59u3"
+    },
+    {
+      "name": "마이디어 통돌이 세탁기 7kg 방문설치, MAS07W70/WK-KR, 화이트 + 블랙",
+      "price": 239000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6538307136&itemId=14546314868&vendorItemId=96014498030&traceid=V0-153-272716179972a165&clickBeacon=3d6ac880-daff-11f1-8caa-de1399d44578%7E3&requestid=20261108080200648035368298&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/BMEt-pbknjKdYpWnBP-b17XMlPbmtslMkVDZa83LnnARXaFsi6NDjuLvExGJcM7gqE5_bMWkl2UKWUeepVBJNPDnA8PChyOoVYewAYFjkl-oAfQYAfN5oTh9JK54yZQtyPUT4nmjedzEwbgMpEq4WqAz3Zm7VuTQBsO4QAr_cmTLD7c-lqOes4pKpWJkcz2BfPXnfePjKM3RVq8kez8IhO_jQafVW59HWu-5GAOUJhu1BDIJO3Z2Ta573Zq6JJi1RxXRwIoboP2wFueY_hh0e5M5yIdi9RRPbahTHACmNSrhiPIUYjAd9DLjRQ3cJraavsQJxPVO9STWUtXjCRDbrIqIbSo_ES02lFgVvTEIMXVoeapk3ZfkH76CMwblqGwQOZqycn8EhGl3Wgjbbvh5aT62g5wBOsB5QF2O5PVOXBkncMy9AtA_jmX46UaYomeykj85mmpsuPOg3aqczXssou3jXePW792ua2eGQsU7IUnluKNXeyC7KvpgTliPdvlk53dTxvNFKtQ="
+    },
+    {
+      "name": "LG전자 통돌이 세탁기 13kg 방문설치",
+      "price": 390390,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9320255343&itemId=27623845571&vendorItemId=94827691515&traceid=V0-153-5ebfe6bbc42e15ce&requestid=20261108080200648035368298&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/SNsTYHXla9aGkgLoSGRqMjQ6xZKUh0cK3u_IzsHmlfyPyN2ygEwYAIzLBdQv1MBbHLvCIdwARHunSM6E38tRygROpIyBNvw14MZJqcm3PkSsKf1vlse3wdl3WfgAJ7W2fpo5WNmCHYCLf04B6JzyjBJe8WsEZDouj_aAinCrr0CffLrwGz7vXBXx4aplGlZTvbMVAzhpxTn4AhU6qGTmKVKhtg1IqxU-aNBXtUUDVMc8qDTcXHDsoRClpstau1MA3q75zsLY3nYZRuC30i0UJiBbXDO0MQnuyxyjldhTt-L6fJTo_9RAHaOE0y48rsEKodZJQP2pWSC1M6gH-Y1Q-j4HDhjS-vGJkO62u0SwjMx8rNgoQaWz8FZvHOjGVx_i2kKSpg09MOtcU9GFz1VBciepZve-cF6el8J_LRXYFee5upU8iYW99QD5LX6jAR8Y8sjbqtW9TrBHvc0S19DOUOykD4PRmVI6fWqC80XqQTHm6LjXdmFTQM7Ic2YisWIC-Dt8LddP5UpeSMgvNvQGncV0ag=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 270,
+    "has_photo": true
+  }
+}
