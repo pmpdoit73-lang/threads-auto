@@ -1,0 +1,51 @@
+{
+  "id": "20261107-1800",
+  "created_at": "2026-11-07T18:00:53.929165+09:00",
+  "publish_at": "2026-11-07T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치냉장고 아닌 일반 냉장고에 바나나 넣는 습관 말고 — 감자·양파 같이 보관하는 습관",
+  "angle": "감자랑 양파를 한 바구니에 같이 두면 감자 싹이 빨리 나고 양파도 물러져 버리게 되는 손해",
+  "category": "주방",
+  "subject": "감자",
+  "hooks": [
+    "감자 30년 동안 이렇게 보관했어... (9/10)",
+    "감자 바구니 열었다가 나 뭐 한 거지? (8/10)",
+    "얘들아 감자 싹 빨리 나는 거 이유 있었어? (7/10)",
+    "감자 싹 난 거 날씨 탓인 줄 알았는데..? (7/10)",
+    "감자 보관 나만 몰랐어? (5/10)"
+  ],
+  "text": "감자 30년 동안 이렇게 보관했어...\n싹 나면 감자가 원래 그런 줄 알았거든ㅋㅋ\n근데 양파랑 한 바구니에 두면 서로 빨리 상한대\n난 이제 따로 떼서 감자는 신문지 싸서 서늘한 데 둬\n너네도 감자랑 양파 같이 두고 있었어..?",
+  "image_prompt": "Casual smartphone photo taken at home of a plastic basket on a kitchen floor corner holding potatoes with small sprouts mixed together with onions, slightly tilted angle, dim indoor lighting, cluttered everyday Korean apartment kitchen, no people, no text, no logos",
+  "photo_query": "potatoes onions basket",
+  "product_keyword": "감자 양파 보관함",
+  "benchmark_note": "내 조회 11만 글의 '물건 30년 동안 이렇게 ~했어...' 첫 줄+오해 고백+'난 이제'+'너네도 ~..?' 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "플레이트라벨 페이퍼백 야채망 세트",
+      "price": 15290,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9519428969&itemId=28376349800&vendorItemId=95328595271&traceid=V0-153-a257761ac6fef7f2&requestid=20261107180125173148674352&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/r4hQdU3i2j18Z1Zfr0X2MqLWceaW54vfkasVhuRYXoIVD4eW6QUdW2Mc1m9qg2qJjtlD47yxZcq4Ipi6O3eJiS41VOlWDO0HcrgMoXFIrYyvXkwnl9NQz3xm7IehyMsjeDEEqWmWSedqWxhdA8KzhlX0IZw7CcJG61daJCUvy0vi87dwzcXEf8x5wVnf2895HbNyLzBRhYQc0dGzNzQGC-Ex65iUwUbp4nvCumeUWFOrfQTl3-M5gt_7jSLwuFfqTS9LUotZXsVCY-Be87wtVB5induihG0IivKKA0obQi8N1107fWcFVo0GPfScpdXyeHLR6jQ09btW_iwShldTWW2LyRzOTAcMyTR7_vQGPsGrpKKIpgydgyqdYmRiN8TOu1XoGLN4hY5YhkCM7VYtI6D0gZw8a_U3eAn_NJ_-pscobdewWr5jO_gY59GXpJzJgZLlWfXA_6o6Y3zV9JKgJipcc_ruwy6IGp_QuIoAt3Lc6KsAoue951fteDV-ttiUxN3HBFmZykqIjW8Jv0F5b40bGbzORteEN5cDBgsNmFhFHv4="
+    },
+    {
+      "name": "마롱즈 페이퍼 바구니, 그린, 1개",
+      "price": 9400,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8623762400&itemId=25049342194&vendorItemId=92053824809&traceid=V0-153-8ed0ac0312a60ab1&clickBeacon=cf943f50-da89-11f1-89d0-6be8a99319e9%7E3&requestid=20261107180125173148674352&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/fGX_Az9rItj8UM0lfIsrVPh_y3OvSSHR4Jw0Cd9vnXNKYGTZ__4gMOARXPpFDVfZoZ7w81sRFW0GdXEX6CrH--5HRty0GMHVFcfRowUe4KA4jMYPCCf0oofrcHxvPO5Ezaj2J0cBm-2anXX1wX9JU_uPLWdMvqkTfVqizP58lMc1jAxt6XmXfxlmcRtCMipuS1X01WjHYpN93peQJQwmWzN1izGrdvXqxcq3onCpctOvvgsZN8op3xNpnawda6G_qncQDf2o-Ac6FPxjsS-X2lxfxGX82CH_jb9H_X9PziK6yRtfvo-HiY9n1utdkd0ZMumwyPJz1E-XsLnsTh7lwjdB2-abjlMkn2pP0Nl91QAU2Agsz7eBr_VzHegqCUiZrXk69bLDqPS-P6tJDvopMf9YwZfzia85kZ-o19qtw3sTzRTrcSWUzqo5qd66Vf-4V8MadMIHfW_IXjoUtDb-Uzq-pC6WU-7OeX7pDqtaW_odIrcJKTZlRSECpImF_Q-sMPk1AknE0SBuiiPQEwjzyYIGMmBpGOiwXchlVEuJbw=="
+    },
+    {
+      "name": "데일리쁘띠 페이퍼백 냉장고 정리 크라프트 다용도 바구니",
+      "price": 9900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8982451715&itemId=26300026772&vendorItemId=93277804390&traceid=V0-153-8ca9e5ed2d11f884&requestid=20261107180125173148674352&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/HBAg8qFfAnJl8sphHOXaLsDUDfFFRcvXAbT9zcUdoaFuSdtodsgwx9Dd9o56QSBILhNOy15861XDlEKoh7F0d1mjYtmRkkb6CHjmrk11ErzDXf0FZ07TpCB1FIAIZGs_KKhwRSICsakeifRsZbXY7_dGavaiCFq28wk6r5e-GSq494k8KoEhY0xA9GnWsECDuNyru3JirhriMETG7PYShXRJWWnLZbcSR7Frq4v_MIqYjtCHGzJo2MIHYO9gZee34Yo44ez9Kks5oTb7sguYeUu7QT6Iswaq43Sf6RjhdfazPOlpLoaecYFWCbqK0bJziZkHrQK17jH6fcWvjsg3LmCbMtKBveK2TRKmT6xWWvoJs9vaC6HeszyET92v6IcUEx1yLTL5PvO0UrK7KgeO5Aa2Ws1i6LgE0px0iX_fd4v2UasKPcwo9eMWw89Rc2cv8BOXpsI4mNAsDPMNCADIJoTZsHk5uADlPGGb5Iut1qnpNlJDzhbAxhtKxw3L_8CuHDkUByd1sMDZpcgRmBAfgrCZy-4cLPuXtlBr1KKyADT4tLg="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 265,
+    "has_photo": true
+  }
+}
