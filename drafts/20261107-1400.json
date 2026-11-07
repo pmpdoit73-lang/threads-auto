@@ -1,0 +1,51 @@
+{
+  "id": "20261107-1400",
+  "created_at": "2026-11-07T14:00:47.900975+09:00",
+  "publish_at": "2026-11-07T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 냉동실 성에·꽉 채우기 말고 — 수저통(식기건조대 수저꽂이)에 숟가락 위로 꽂는 습관",
+  "angle": "수저를 머리 위로 꽂아 말리면 물이 손잡이로 흘러 고이고, 꺼낼 때 입 닿는 부분을 손으로 만지게 되는 점",
+  "category": "주방",
+  "subject": "수저통",
+  "hooks": [
+    "수저통 30년 동안 이렇게 꽂고 있었어... (9/10)",
+    "수저통 들여다보다가 나 뭐 한 거지? (8/10)",
+    "얘들아 수저통에 꽂는 방향이 정해져 있었어? (7/10)",
+    "수저통 바닥 보고 30년 살림 헛했나 싶었어... (7/10)",
+    "수저통 숟가락 위로 꽂는 게 맞는 줄 알았는데..? (6/10)"
+  ],
+  "text": "수저통 30년 동안 이렇게 꽂고 있었어...\n꺼내기 편하라고 숟가락 머리를 위로 꽂았거든ㅋㅋ\n근데 물이 손잡이 타고 바닥에 고이고, 꺼낼 때 입 닿는 데를 손으로 잡게 된대\n난 이제 머리 아래로 꽂고 수저통 물은 2~3일에 한 번 비워\n너넨 수저 위로 꽂아 아래로 꽂아..?",
+  "image_prompt": "Casual smartphone photo of a plastic cutlery holder on a Korean kitchen dish drying rack, stainless spoons and chopsticks stuck in with heads pointing up, small water droplets at the bottom of the holder, slightly cluttered sink area, tilted angle, ordinary indoor lighting, no people, no text, no logos",
+  "photo_query": "cutlery drying holder",
+  "product_keyword": "물빠짐 수저통",
+  "benchmark_note": "내 글 최고 조회(세탁기 온도·부엌칼)의 '○○ 30년 동안 이렇게 ~었어...' 첫 줄 + 셀프디스 ㅋㅋ + '난 이제' + 양자택일 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "커버원 2WAY 스텐 물빠짐 수저통",
+      "price": 12900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9795864432&itemId=29331101941&vendorItemId=96245200404&traceid=V0-153-b4b88c2ea0b09ed6&requestid=20261107140120318168969195&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/SsFmWYbNuFgHFqpCSuo_0KraeFwLpcPWyLi1zV33Xhwjf8aHPzsMZdvIL8CvqZuuT9VZuaKxTqyEQ8MVOtqNCAchbsdh9u-7UXSvx_qLLQYtlCz3wpDTDgGZkeDWFrRwi7sOVHzxhKh3SbleAB828RF4FjM10_EqPFSo4k5mhv6jmBMcuMIHQqCEzMfZRhfSzom6C54dWPmgY4m1ZG0Ylmz44W5f7Kn_ij9x3SPO3pzYjHUatoQkupbLCCnho-meemUEspeyMPsPTkg2h4YBDyLHmJ4Hkv-BrciqXqXUk_BkUtOUGIVDGbf9Slweaf8CYmZaac1gq0gGB13G--FcsRLhrCYzll3MVaLeRyMYPEdpLRDklzaPKfn0eFAR9__GjIyanHsjMr2wg-TzdzQr0T1W0BepYecu1W_g42kJm3_bKlDKY0p96V12kmsbmN_CaCfUSvQ9z4spWZGtqBxs2NYE6kdVzkRiHmqdmBX7SYCRvp-1s1bJ4sTKbnvQwrrpwlB5EVIiDmtzxhW43kAYwKCJkvv9jETEFGd8nbzYSA=="
+    },
+    {
+      "name": "플루딕 자동 물빠짐 수저통",
+      "price": 13800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8137096033&itemId=23115852473&vendorItemId=90436951429&traceid=V0-153-a06c58effe88174a&requestid=20261107140120318168969195&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/-oPYCxG6cjzNgqBi-uNjKSwAJdd0zajGDDKvo92852X5lcjHJs5-nhM3ocYIJpjS26ibRIrCCDxfJqbVJLmgh-fGcwYI9dZYOR2UYBkHkcJ6n-TUAgC8Iy-NKCXyifoWrfJtaT0Yp5sW4rv6yqBlPi1B1mmHlym2vSqzKuoT36TqLjeyaj7lPpq9FHeMrL92HH3E5qoDPBDTYPKCctfJlDEjCr7ZvdRlj2WzgO_o_ukBojbupn4uZ0VDP56WijUiydc1OwT7x7TYQryAoLWFy5fM6BrKQIL00pSsc1a9qKyfzWq8w5XRR491jH6Pkg-TG_XHAghtTh4Fr8q0kL40XxVO7iJ6u2Jw7HajB_RckeQ4sgJ6XNOF27pID6T5xgtF8bM7mp6mGxPGZ2jBxzhSvsS_l7G9gBvToGso6HVH1jdAp1DQ45Ta6s0tSSD8tVhBIjA2d6CBSiRqX2wOcrMiXhhrPM-vCqwdHWnF8myIgT3AkbQrn-xAAh8ueOrxQssecL_gg6DgwRiHNrylREZDiZ1c2h3xFeMsVsON8tnN7Wt-"
+    },
+    {
+      "name": "Shipshape 주방 304 스텐 자동 물빠짐 수저꽂이 수저통 식기 보관 3구",
+      "price": 13900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8799727393&itemId=28978245817&vendorItemId=92611950432&traceid=V0-153-6647fb04e1e4a601&requestid=20261107140120318168969195&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/Gp_WwUCc2yvwPCbOGv4W3jr-PFDcqkO1QV9EMvCSafpf8KWwy3DwN9ta_meJHzjPH3t_4KYegtd62QYoqtvP78AXSeJV5XbzTejROk5dvP8e2RNLNOJUZaPT-YNGPKfuJvK1Lah_KZUxiO_tU_dZFAcSDsNmGoQl1X6IBGelL611uN6flQ7w9wRihlwzNWVIkh6Qy7nzUtPgFwz9kyR8Zb7YUS22jiLpbjSJ_N77UIcmxSjUAzt-_bI7esRFqflfp39nrkqQY0YPYv757MJpbnIFc9JOPbbygzNCISoT2wFA4XQkVAghREucZXCUsxDet_SkFEYhxbYv2PsbiMPivrDstD8iYoW1W-ipzm64vfpOtMx3AVWFhFeDnALsN8E0Bj7orpZceSg2fx2_caFGpDE_0BldoR65m91UujAFMKwHGDDMxcwznofAmRCJHEq0yvb8JIfUO_yBCZDaysz5ssc8KYmxm_iC8qnd1-tGKRgRz3QMM-unoH4fyfju91tWJcqXig5Es9SfeNh4IfPEyStFkpXrp23xezefiCmWk2k="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 261,
+    "has_photo": true
+  }
+}
