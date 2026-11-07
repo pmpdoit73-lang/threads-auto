@@ -1,0 +1,51 @@
+{
+  "id": "20261107-2201",
+  "created_at": "2026-11-07T22:01:11.695398+09:00",
+  "publish_at": "2026-11-08T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 세탁망 지퍼 끝 작은 주머니(지퍼 머리 숨기는 곳) 용도",
+  "angle": "세탁망 지퍼 끝 천 주머니를 장식으로 알고 안 쓰면 지퍼가 돌다 열리고 쇠 머리가 옷을 긁는다는 점",
+  "category": "청소·세탁·정리",
+  "subject": "세탁망",
+  "hooks": [
+    "세탁망 30년 동안 이렇게 쓰고 있었어... (9/10)",
+    "세탁망 빨다가 나 뭐 한 거지? (7/10)",
+    "얘들아 세탁망 끝에 이런 게 달려 있었어? (8/10)",
+    "세탁망 지퍼 끝 작은 주머니, 원래 장식 아니야..? (8/10)",
+    "세탁망 넣고 돌렸는데 옷이 왜 이래... (7/10)"
+  ],
+  "text": "세탁망 30년 동안 이렇게 쓰고 있었어...\n지퍼 끝 작은 천 주머니, 그냥 장식인 줄ㅋㅋ\n근데 거기 지퍼 머리 쏙 숨기는 거래, 안 그럼 돌다 열려서 옷을 긁는대\n난 이제 옷 2~3벌만 넣고 지퍼 꼭 숨겨\n너네 그 주머니 써본 적 있어..?",
+  "image_prompt": "Casual smartphone photo taken at home of a white mesh laundry bag lying on top of a front-load washing machine, close-up of the zipper end showing a small fabric pocket with the metal zipper pull half tucked in, a couple of folded sweaters nearby, slightly tilted angle, ordinary indoor lighting, a bit cluttered laundry room, no people, no text, no logos",
+  "photo_query": "mesh laundry bag",
+  "product_keyword": "세탁망",
+  "benchmark_note": "내 글 1위(세탁기 온도 버튼) 형식: '물건 30년 동안 이렇게 ~있었어...' 첫 줄 + 셀프디스 둘째 줄 + '난 이제' 숫자 + '너네 ~..?' 질문, 외부 글의 '장식인 줄' 틀린 추측 요소 차용",
+  "products": [
+    {
+      "name": "도크민 이중필터 세탁망 6종 세트 무형광 아기빨래, 6개, 웜베이지",
+      "price": 42900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9409772324&itemId=27958320947&vendorItemId=94976837421&traceid=V0-153-2e7e583a5e3402bf&clickBeacon=6b9a4090-daab-11f1-abd9-ec93dc6de1eb%7E3&requestid=20261107220200383282016069&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/dbXDMuKwy5hMZUGwdagIT9UVzu5Awy7AVnADGdsurXPpc3ZF4GHILK6PqqaDCtL_NBidGdYL6ru-EcZDscCJZ7qaxp_m2MJk0eGxQMMLIRMIoegQcY21Sp-_2cKQyiQciz3p6Y7uiaujxEON74mBuNMiJy6SLX24dSA0m7_zjdfi5hjAhG9MBomjID4rgssFvgCvHuVX_5flR8epQDjaHliD7kRvSrFK4gmeiDQbZumunwwzMPMXXRTV9EsRLYG-VPoO_OspI4GNUFniqNp4bqiX51BetvznxQ1b3PDt-4ZyMc5FZs0Zj_pZPpXPCxaF78X5Nxw9zSWq0aOsp5rSdtIbien6zbosDZAOZRCCohR39MbDGLrNIWZNWTvyQMm89ZWqIwMXF3vMbsQBsCde1s6EOvcEVnl0lHrw-NYNmns5SeH6Hn13NUuz7QUAf2ZUi_Zi5cEoOF_q2BVpq-4yCJ1KDuVjJbQP9-n84wkvPrYCJF4oV8K6NE5vcmbADTOt66nqPcFk5o2JITnNU_6TMzP3izo_mwE="
+    },
+    {
+      "name": "모온스 프리미엄 세탁망 6종세트 도톰한 촘촘한 3D 입체 빨래망, 1세트, 클린화이트6종",
+      "price": 17900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9641902455&itemId=28810763999&vendorItemId=95748779004&traceid=V0-153-d1cea1ecdc3a663b&clickBeacon=6b9a67a0-daab-11f1-80c3-5d383a600cf5%7E3&requestid=20261107220200383282016069&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/9w4l4eZo-zHBmjHp94HQKODoxHd2SydQB4rHMlPoFheukoPD1XECAaAQyFYRPEIXKvWVqSpjHO-bkLNUHl5O-TyaxdMIWJWzjwtUwcgYLVCJGh2KXHh1bN3FwD02-AsDz4LYARnQ9S__8wDSgcFgAnJG7LzhDuiDZB91jigVWCNqJttFWwd-EA_pgGnwdFqfdQpvU8T_EbLRZuu0hteWWTiznvjHrnou1NIm_DutMtnQJHylxyckS-ISBd4JJzrco9JMRcHKdBi9j2dYpkHWNZJBiHqKV9RkUP1OavTzScicM38jBi3_mnZ09q5UYc6IwWAif9YPhFxBHL0bx1GLO8CbpHFzLAG5nfOBJVU5JV08HUzpKwGXHI4DRGomSz6j6hZ812neEP7EE7RB1JC_8FdWYEvM3X5UoNWJfebeUSOKdke-1QAu3qhp-9epEfYxFfPpICNFYS0Vi_PlNGfWUa4Fw-kRqwDxKwPtA_qpLYFJFmKVjJR5latsBkQCHTo03nNq2zZJnm6NU1ZLDXEd5sGyCd9zeFY="
+    },
+    {
+      "name": "코멧 홈 메쉬 사각 세탁망 50 x 60 cm",
+      "price": 4830,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4523384056&itemId=12557793722&vendorItemId=79826079013&traceid=V0-153-6224c2a4f2f2de62&requestid=20261107220200383282016069&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/mmcIHn0gqP34OTC3mnrEae1a9gscSQwZav_xYIKikaNvB_VMFYLIep5WX_BhZD8rSn8OfOK2IqWU8OtzutmVOxhxvqF1FUI70b4KL8jyEpes4NQSQNv2rjQ4k7w1uC0onK4EAxCM2ZGjmwEmC83pFW8ASloKboznirW8tjWJxKkUL0XUWi4PfPY44iy5KsD9g1Ss3WVvZZU0YU9FI82wsGu9s0s9puT_XrvUeid6XXZ518PJ5bxVMk3qkby1BH0MEbvZrb1M765xJcIdbu31nZtBbb9OQtxVgTRF-egOLsMkiPAowU65jToaNRalOOT66oBYewQ9tgHcF71yM_LC7GtcMzx8rM1pNryv4_igd7xTvEzxGR9Sd4KwHKS8vUbiWZRgcRklExBW_f25RqY5yWw_Rgu0XWAl7ZbHXpba1fE1kvN1Ee4IrCXCadmtK9rop-dx64BdD41wfzeO-ENblqbsPtEkF9MZj_okuB6czz-Ofo4pKz91XIl9Glmn92-EZN80VvAbCbiDSPTAJBCsKYxCDT0="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 268,
+    "has_photo": true
+  }
+}
