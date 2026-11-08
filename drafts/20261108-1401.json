@@ -2,7 +2,7 @@
   "id": "20261108-1401",
   "created_at": "2026-11-08T14:01:15.260315+09:00",
   "publish_at": "2026-11-08T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑·수세미 말고 — 주방세제를 수세미에 바로 짜서 쓰는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 271,
     "has_photo": true
-  }
+  },
+  "threads_id": "18112704890145693",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfeY0JLmwdG",
+  "reply_id": "18007896509792453",
+  "published_at": "2026-11-08T18:02:24.038206+09:00"
 }
