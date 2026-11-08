@@ -1,0 +1,51 @@
+{
+  "id": "20261108-1401",
+  "created_at": "2026-11-08T14:01:15.260315+09:00",
+  "publish_at": "2026-11-08T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑·수세미 말고 — 주방세제를 수세미에 바로 짜서 쓰는 습관",
+  "angle": "주방세제 원액을 수세미에 바로 짜면 양이 과해 헹굼물·세제값 낭비, 물에 희석해 쓰면 훨씬 적게 듦",
+  "category": "주방",
+  "subject": "주방세제",
+  "hooks": [
+    "주방세제 30년 동안 이렇게 짜고 있었어... (9/10)",
+    "주방세제 한 통이 왜 이렇게 빨리 줄지..? (8/10)",
+    "얘들아 주방세제 다들 어떻게 짜서 써..? (6/10)",
+    "주방세제 짜다가 나 뭐 한 거지? (7/10)",
+    "주방세제 펌프 몇 번 눌러? 난 세 번인 줄... (6/10)"
+  ],
+  "text": "주방세제 30년 동안 이렇게 짜고 있었어...\n수세미에 쭉 짜야 깨끗한 줄 알았거든ㅋㅋ\n근데 원액은 거품만 많고 헹굴 물만 더 쓴대\n난 이제 컵에 물 받아 세제 한 번 펌핑해 풀어 써\n너네도 수세미에 바로 쭉 짰어..?",
+  "image_prompt": "Casual smartphone photo of a Korean home kitchen sink, a yellow sponge with a big blob of green dish soap squeezed on it, a plastic cup of soapy water beside it, a few dirty plates and bowls in the sink, slightly tilted angle, ordinary daylight, cluttered counter, no people, no text, no logos",
+  "photo_query": "dish soap sponge",
+  "product_keyword": "주방세제 디스펜서",
+  "benchmark_note": "내 최고 조회 글(세탁기 온도)의 '○○ 30년 동안 이렇게 ~었어...' 첫 줄+착각 고백+'근데 ~대'+'난 이제'+'너네 ~..?' 5줄 구조를 가져옴",
+  "products": [
+    {
+      "name": "MIGA 거품/젤타입 자동 디스펜서 손세정기 충전식 비접촉 핸드워시 거품비누 화장실 주방세제 욕실 벽걸이 싱크대 손세정기",
+      "price": 16980,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9268974770&itemId=27430878827&vendorItemId=96046898869&traceid=V0-153-72fc554c4ccaf355&requestid=20261108140148601122674892&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/73xcMqRNJ2GG7XSR72mng8HmIzlubTrxjCGNQzM3ABE_UarWJTSGEsxzkjofBO99LWC3sy4v92Fg2e7fpdwqccaXjlKGPVsyRgn0n7k8JIW7UE5Wp1OVpWq_SJCeLrq4KfyUbGZMmlTI_NgpiNXgmxLakXGkV5ob2882xMDB6R7o0roBMharsn1MQfUhuwp90LqsGKH7VhIxZp9qjx9czXBeXY-xozcefAqSdLeFfbQ_XxV67Hx4PAOdHF2uFMmqmOjTOThqRXzYiVd3aZ_bUTk3y57Irv9zbuUCKq8lGsCnm50XrX8F9Ujq0xuPcZ0cfdqZ20fz-TNPChwvYOSQpbAevnbwnNyEOc7m6pUHD4xgEsxt4OqM8-jrXmnMPKjbuF3W_fsCMr8VJ2j1TOyJfsbto-tff7ebjyRFpBIKgBJq9sHgMAE7hNMeN76v1ehBcoxFOyE9xeMWDeeFmHDjV3HBD-E08TBz7G4miBIfytWaG_Cppr-1233ogdRjP97XTH4qy_JuEY_wlUgSYEtaF2jxwnurYRoJL7w8E0oDYlTh"
+    },
+    {
+      "name": "무아스 슬림 메탈 젤타입 자동 디스펜서 충전타입",
+      "price": 47270,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9083553554&itemId=26686942605&vendorItemId=93135550019&traceid=V0-153-efa9ee6ae928ec6a&requestid=20261108140148601122674892&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/ypaeCbkM4InUVcOTyr77uVyMnWRG0DNORBDot9SMoaeKtM8WX9WP1PPe__LpwGOXvSlbVPUvNB5sgQaEp1N-wX-M5Wpt7SH1DHLfqzYw09SaeBk2MArCfiDJzZg9Mq7bW4NymE-SQUlVCKsbJRYCPRlbDt8REG5bd6xqPaDihmTihhES7_shtrWxl7dyqlqSDoYyFPmwdN1RTx5affR0p5RgUnB46gs0VRMflK2w1VdzuFTOb08SqqcTY7kcWO9TsVkDQP8FRzhw0Oax-fNth2-GhvKP6wnrCsTNbOAZ2s--cwdwkuI5EVyAENFpxR1WPI3NuYI4uHgxxijXLLXVKsvucYusQ4znbz7lgqDiz-lBYZJnNc6lXBwIZT5KK5OWO8YC_rrCI-0hBJ0jp7Whyq99P3DSFnxm7--iJkB7-hGK2OrY2YFDdr5tpCW9GlvyV3OaeP5c4ijMvHg5xOB7JwpwcPO89rpMfWpjzxaaeqzMoYoh00O63NnEb_XrJJtfM2j_sCeBO5w="
+    },
+    {
+      "name": "고즈닝 자동 핸드워시 주방세제 디스펜서",
+      "price": 16800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9624796993&itemId=28743265733&vendorItemId=95682524397&traceid=V0-153-e2a47300aae93ee5&requestid=20261108140148601122674892&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/NDXVvtUUiOu06LsrNInKkyE8Y6rUsbg4VLvkvJ8czOi4x21Cop9oiH0BwN3naoTmTiyNFhJtuuJNsm199huaP1kZ2EyBhYC6CQyOLbSVXVqRzMVKVwN4YtKQyywg6UjyOElZ_JYxEyzfm7Zam59-gWIO1Qn63m4rNbd5OBDFc2iwVPjN0Udky3VUDe-ZcNfADhbhPr0w5_vc4rpgPqdc1XqjkXu8to7a82breIulmHFk2EsafwxKLOrvOEXTdMV8OafW5y653ZS2YD6y45Zb9zYqZTbgpYE7und8d11THJSlopQlVWQKm3qStVkfraC-x4v2X8m6zbyeTT8ukgWApmW9Hz1I1S1W1si-5o_9ODsWiNIKzkTGFDVIEeVo1gTdS2toi5rnGONjU7Va2AhdSI45zyEqjdeXESmg2lMhTPhQ0JuhuTylVgXDnQ7n1iYYtQkCLuips4aXBUfPhtO7Y24U2lz1LnES31j_LCsuYTSjjrzwKq2O-GZH63vPXAr7EaXvdI9f5xBYbN8d0xCVxjb8h9TQRdl88ksbVlAAMLTd"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 271,
+    "has_photo": true
+  }
+}
