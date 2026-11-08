@@ -1,0 +1,51 @@
+{
+  "id": "20261108-1800",
+  "created_at": "2026-11-08T18:00:55.347230+09:00",
+  "publish_at": "2026-11-08T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥 아닌 — 커피·물 끓인 뒤 텀블러(보온병) 뚜껑 고무패킹 안 빼고 씻는 습관 대신, 실리콘 밀폐용기 아닌 '보온병에 뜨거운 물 바로 붓는' 예열 안 하는 습관",
+  "angle": "보온병에 뜨거운 음료를 바로 부으면 보온 시간이 짧아짐 — 뜨거운 물로 먼저 예열하면 더 오래 따뜻함",
+  "category": "주방",
+  "subject": "보온병",
+  "hooks": [
+    "보온병 30년 동안 이렇게 쓰고 있었어... (9/10)",
+    "보온병 비싼 거 샀는데 왜 금방 식지..? (8/10)",
+    "얘들아 보온병에 이런 순서가 있었어? (7/10)",
+    "보온병 커피 붓다가 나 뭐 한 거지? (7/10)",
+    "보온병 고장인 줄 알았는데..? (8/10)"
+  ],
+  "text": "보온병 30년 동안 이렇게 쓰고 있었어...\n점심때 열면 미지근해서 고장인 줄ㅋㅋ\n근데 차가운 통에 바로 부으면 벽이 열을 먼저 뺏는대\n난 이제 뜨거운 물 부어 3분 두고 버린 뒤 담아\n너네도 보온병 탓만 했어..?",
+  "image_prompt": "Casual smartphone photo of a stainless steel thermos bottle with its lid off on a cluttered Korean kitchen counter, steam rising from the opening, electric kettle and a mug nearby, slightly tilted angle, ordinary home lighting, no people, no text, no logos",
+  "photo_query": "thermos bottle kitchen",
+  "product_keyword": "스텐 보온병",
+  "benchmark_note": "내 115K 글의 '물건 30년 동안 이렇게...' 첫 줄 + 착각 고백ㅋㅋ + 이유·숫자 공개 + '너네도 ~했어..?' 끝맺음 형식만 가져옴",
+  "products": [
+    {
+      "name": "스텐304 손잡이 진공 텀블러 350ml 보온보냉 물병 미니 보온병 보냉병 답례품 판촉물",
+      "price": 8100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9757288399&itemId=29212433623&vendorItemId=96168827828&traceid=V0-153-6a2255d50f9a3696&requestid=20261108180118381041779812&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/CSBeGgrjm14faseNCTphitRvqTtguQ5wcjulpO5qG7e32gKVL6BzdkhIT-ypNpocDR-LgYoGUWvxjm36h6h1WRUzxSbgO6z91nA-uhUlUllLWd6jt7fwVQ3_pzLo7juyTHw4QyZ9k4vPEczhS-RWZZR8-7wmYyNSng5-3IHjpNlL2CroSIbojhgwrRiwlXQXgv2apB5bHbBBf0Czyudt1F7oGoeFcInUPyH_z7nhkOwd-JGoVxvoj1QUCFUz2-e7ic_0keFqOFqe9NbT0ko5RwZuTxj8-Y1rkmWf-TmLULdIduRXFH5THWpG7HTi0I_rQJnAF2LjBjP0wZnJaZU8EuuPsyNSH914efjsE1bvzHeq1Cvrh2PrGZ8wNmLc5jowFUtEMiji_Wl3D7_an101W8tG7LV1JMnALp3msk6ojqKCnqbT3CDlvqmPBX7L-551wKuoc6ZEGdkOOIO8Pa1sAM1XdVz7yqISFDrt_gCldwWapA6ik3_JwL8QkPBozRrMBLiSEWBcpCswDCh2aYEwyj8k_Im9GSFCFnrjEhKlnWvTqWrndV81fJdIj19XoQYvWj23MdV3BKiVDbfVHCgD9cVy49s0oPKlE31G"
+    },
+    {
+      "name": "코멕스 손잡이 보온보냉병",
+      "price": 21000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=113611633&itemId=18035782374&vendorItemId=96164483790&traceid=V0-153-48f2fa3eff54e014&requestid=20261108180118381041779812&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/pn0jX1zOIcwOkd2zpioqmmOpFqDaqdO_ZbGmxe_SXzYS4Hii8vc90JoMNFF-cgzZUIpS_23Dy7Vgg7fVptpJvqVR29-c3nauJgLeE8qE_E6T2FperbHUjmtv3PekWd_-2bD_PyJSI-2B7_9NoW02L6ROzWvhvtD-NHE2Q5Q9MMOxlk88q4yHftO4HvYFIvscPJaaO_jle5e22_dJE3QEkqbM0maOJBw3WEEIjpuAySEKoGzGCtEFdjsMDHbrTmZxVkp8sbB8s6x35yo4THko7SLkFKMjnh-doGOmcgJUXPem_sJAEwcZLAVcWHnJ71mtMhmKVio6w1JGw3qloJ2lDew5jNLQfeK2-vrplolz7kbOf-qyihnR-QWQHpMffJgU-cbmLbxol1ktCDcrFQ4w6gRog_Xhab3RbwUGhDBqclg7WECGwKQJMorbXewyO962VTQwzHtFxkeC8ndg7tl8ebUvGrwlfi10RT02zG_blJeUuyCtpHBWIRvVGXBagB71FbjPLsRRQhTRXiC5a2x4Qkv3GTGdM3PoUQ0WQM9PDhcaJLvuQMkSPa37vW8QWr6cJTjC2Bz7MSWy-pCZ5fYtsf1B4wO5jiGa0fjy"
+    },
+    {
+      "name": "오슬로 클래식 캔틴 스텐 뚜껑 보온병",
+      "price": 17050,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=31237375&itemId=8095466&vendorItemId=3011112812&traceid=V0-153-71da5ff522f4c220&requestid=20261108180118381041779812&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/W2onmr4eZC9XUeCnW6m0k6AnXx1e2QFGazgDkp0XzfqDnEJJxjqlijd3KNXMT7YFE5beVv6hL51B4mk1X727qRqHREDLrIylRc21pfsxFE3q37MviI9yh33DvVP1oRvMR90hybOYrOWodRbGrNw4viuz8xXe46Hj16Gt28wT9TZRWLkVKDMgcapL--BC6K-fq-MbPEJzVjNjpVjgLYItHGNi985TEQJfuMXuffyAvfy5UpGC7kHqlEKMUoLennHTYMxbKkTr5qNB3GH0PlAkaffstTYHLIabmlOiqlswtR0t7t5OIG5aabJgBdGOv8ZyrdXCZ9rMxwH9LIfIaPDprQp73Dlvne_awH5cfmU6exvboEYYQ6rI4caTJurhvBLXFu-RB6PqiCFmX7vj5qFpvno7j5ZfK20YsstM_fVa9pUNcBlPssllV72n7pI-IC6uy6Do6mNYVdvcETTHfcg_CFoAxcMQ9QhZA5gfUUfRJilSmAW5If-14VlRERAvPjk2ct0Gk_NXsm4rHPtfG3t5p6xLqf2vrH6NygpLhdHrOKMpsu8Mkmb21Isj3Kjk5VykOMrhtfI5pBxYSBZYeeG3rqvTRSd15MDpdIc="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 272,
+    "has_photo": true
+  }
+}
