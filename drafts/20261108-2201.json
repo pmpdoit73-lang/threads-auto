@@ -1,0 +1,51 @@
+{
+  "id": "20261108-2201",
+  "created_at": "2026-11-08T22:01:13.189466+09:00",
+  "publish_at": "2026-11-09T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 냉장고 문 열고 고민하는 습관 말고 — 청소기 아닌 '세탁기 섬유유연제' 아닌, 계란을 씻어서 보관하는 습관",
+  "angle": "계란을 사 오자마자 물에 씻어 넣는 습관이 오히려 껍질 보호막을 벗겨 손해라는 점",
+  "category": "주방",
+  "subject": "계란",
+  "hooks": [
+    "계란 30년 동안 이렇게 넣고 있었어... (9/10)",
+    "계란 사 오면 나 뭐 한 거지..? (8/10)",
+    "얘들아 계란 껍질에 이런 게 있었어? (7/10)",
+    "계란 냉장고 넣기 전에 이거 너네도 해..? (7/10)",
+    "계란 깨끗한 게 좋은 줄 알았는데... (6/10)"
+  ],
+  "text": "계란 30년 동안 이렇게 넣고 있었어...\n사 오자마자 깨끗하게 물로 싹 씻었거든ㅋㅋ\n근데 껍질 겉에 얇은 보호막이 있어서 씻으면 벗겨진대\n난 이제 안 씻고 넣었다가 쓰기 직전에만 헹궈\n너네도 씻어서 넣었어..?",
+  "image_prompt": "Casual smartphone photo of an open cardboard egg tray with brown eggs sitting on a kitchen sink counter next to a running faucet, a few wet eggs in a plastic colander, slightly tilted framing, ordinary Korean apartment kitchen, dim indoor lighting, no people, no text, no logos",
+  "photo_query": "eggs kitchen sink",
+  "product_keyword": "계란 보관함",
+  "benchmark_note": "내 글 1위(세탁기 온도)의 '○○ 30년 동안 이렇게…' 첫 줄+착각 고백+'근데 ~래'+'난 이제'+'너네 ~..?' 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "1+1 계란보관함 30구 에그트레이 냉장고 달걀 트레이",
+      "price": 11900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8573481872&itemId=26069082263&vendorItemId=94987673959&traceid=V0-153-5ab2677322c9c0e9&clickBeacon=8a8928d0-db74-11f1-9796-e62d6bd3aeda%7E3&requestid=20261108220141120321242018&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/sHoLLLjQYzQy53YmsPf2a1MFiSln0BQz5y11u5TY4FAmxsa3wLFfe6SpCimaeTe1VNO_51JsPrF__YbQGjL6X9KoArqZeR2jMsSfhe33MlSMjWZiqZ_db8TMyHn24EEgB6sj22nDlMRHO4g6KEpRsT39cI8zO3JKh3UgCbYhDFHGC_Pbk600RrIILlje6WqUhJ8MwkL7a8B2ZrDMKGW2tsvEBuendOq4W_GiSb96p9F1qSktXhhu0zTZ6OK3edgAr8RXjQAz1AcFIPN-82b573o3Ujlk6HHWzf2mSbHskDGf_BdIxgbdVwjYxQL_MhB4p9jWKtnh8hiBDQp1mfuLZ-WLmwK5LTNrb3nnxObT8W7YpbTQ6j9qkZs1CmUkF0knmlE2qiypq4UgxxHu_BdrDNlPclbgxvjfgezjPt3D4p-2sZS0FFcYLqNvUQenbbbyAI5ILLMIYTZ20Xd5J0tMApYGlUJaC5ul18pJA7a4hcGmnq5rmmoCRmGR9S0w2zdO9wmqffsTIBTomPt7KLJAuCXAxhKES0vr"
+    },
+    {
+      "name": "아임홈리빙 신선한 에그닷 계란 트레이 32구 보관함, 투명, 1개",
+      "price": 6600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9036397055&itemId=26509657447&vendorItemId=93484248959&traceid=V0-153-97d120282ec3abdd&clickBeacon=8a8928d0-db74-11f1-8468-7abee2ce524d%7E3&requestid=20261108220141120321242018&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/bnjc34NKzlP328KfbrbfWfF4zeh01RhaQJxN9JAxE2SqHMp9ikypw4VrwmgmUqXX6JJHCEmQe3PCtoyrOP3yZGbzVTynY1UpfdDHWayOJlw-Marq2M5iw4moJR0auf7uUqZzEag3RJTvEcGf3FsKIlsQozV6rA9o7Fqczarg-VnHTUpM9j1JIbucuSgMFYg1WW8WjaB8AkldajPMPvDQi6nkRXoLj3cwWRF1CN5FAs1W7e1hCHngJRBO76ajUE0EWGxRnR3c8zZ9JfA7Y8-UNY2LTIz4x2zc-rL5rd5IDDt1VMmrpO3qie7ODwGKyfQFTqYwfOJUqPJgVqSXV5eDaKk-VJ4Zck7kznsFkPO9Lht4uAtKelbHodgjdNanERNHR_u7xuLp_-eWT5j4lj6-PG3hgGU-fqcfg4fQdMEsPldVp5j0V0dZP57p1jq6OsM0Fysw8Bu0_FgUZfKAfqzE1T59U8Sqwm96FCgT1umOmvrmBOZq1htMkqUgH4NODcJc"
+    },
+    {
+      "name": "코멧 키친 심플 서랍형 에그트레이 32구",
+      "price": 6540,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6550887748&itemId=14623496705&vendorItemId=81865135453&traceid=V0-153-ebda72e11c6ead69&requestid=20261108220141120321242018&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/fOyJ_K7lsDVegQnjfLuKksfE7i3JMYSNl2QMugRAJ8OWBPyQXDMtIhzUzBx84GYpj5Ges3B_dWTkoMDtDIu64Hl-UGx1kfiB3TBiLL-4QefZLO-os82Em1iLA0rpiWkP3KbXtnPdCAgGaa1lIdhPjmhV3VPf6rIHNBs7NTzkSUS2DEjyseo3AcnMYQknq15InNbvM7gpqAHItZeNI63FN2AWBFs3aCDAIGuYA2yGuUwK05gKnn3Lxoa2Opn-ZZqxB0IQ4lPm-DUHL_nWkDg_DQBvytSoZ9X-RuE839-F3ybI-mpAxKOQOhwrf7_w-fX2Kewn4Gxl7znnVk8Vy9M-Q2gHZ0v4VSRNBQ4DUI35GdLs_m6mOYOdJUS416vzr8Nh1v35Bp5ltA6NZ2_TPbOmBH-hG_ICFdJAzDVWp5oXQZ2E2aZPchIfCIrgP_CaQJGyEN1JqkqNAloyOrDCseiaPO9Hh31O7YaiBVa4zOU_MHhCqbjmwsOvnunBB7qRwc2HphyMlEeuwXKoSgs-zkHfY1ePyYOHHCNDOhP274tRiUcLGenIh0V44rEJ_wU="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 275,
+    "has_photo": true
+  }
+}
