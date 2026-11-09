@@ -1,0 +1,51 @@
+{
+  "id": "20261109-1800",
+  "created_at": "2026-11-09T18:00:59.311910+09:00",
+  "publish_at": "2026-11-09T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 압력밥솥 아닌 — 에어프라이어 종이호일을 예열 때부터 깔아두는 습관",
+  "angle": "빈 바스켓에 종이호일만 깔고 예열하면 바람에 날려 열선에 닿을 수 있어 위험하다는 몰랐던 점",
+  "category": "주방",
+  "subject": "에어프라이어 종이호일",
+  "hooks": [
+    "에어프라이어 종이호일 30년 살림에 이렇게 깔고 있었어... (9/10)",
+    "에어프라이어 예열하다가 나 뭐 한 거지? (7/10)",
+    "얘들아 에어프라이어 종이호일 이거 알았어..? (6/10)",
+    "에어프라이어 종이호일, 편하라고 한 건데... (6/10)",
+    "종이호일 그냥 깔면 되는 줄 알았는데..? (5/10)"
+  ],
+  "text": "에어프라이어 종이호일 30년 살림에 이렇게 깔고 있었어...\n미리 깔아두고 빈 채로 예열 돌렸거든ㅋㅋ\n근데 가벼워서 바람에 뜨면 위 열선에 닿을 수 있대\n난 이제 음식 먼저 올려 눌러주고, 예열 땐 아예 빼\n너네도 호일만 깔고 예열했어..?",
+  "image_prompt": "Amateur phone photo in a small Korean apartment kitchen, an open air fryer basket on a cluttered countertop with a sheet of parchment paper slightly lifted at one corner inside the empty basket, a few frozen dumplings in a plastic bag beside it, uneven warm overhead lighting, slightly tilted casual angle, no people, no text, no logos",
+  "photo_query": "air fryer parchment",
+  "product_keyword": "에어프라이어 종이호일",
+  "benchmark_note": "내 부엌칼 글의 '물건+30년 동안 이렇게...' 셀프디스 첫 줄, 둘째 줄 '편하다고 ~했거든ㅋㅋ', 마지막 '너네도 ~했어..?' 경험 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "가가호호 에어프라이어 종이호일, 90개입, 6개",
+      "price": 44820,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1383258946&itemId=25991790179&vendorItemId=92974158643&traceid=V0-153-69533f31e8fa7f3d&clickBeacon=2813d760-dc1c-11f1-98f0-fa241b90c5ed%7E3&requestid=20261109180131342288364085&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/rt10k7xJoCtSNBVhruMyPdYE7aDvqdB6xUhG4BhWEX9TX5pnR2zDmBjG6NYOeTJi9-T_fixWyTd-pPqIZ0AFpqFleXb0fOqSuEfUFOGYEonJnBY7e5FG_RH2wBS7EU0t03xT1KvnF0PIMVDEUhTOTLKMgT-dvfwnxKBPPWHFTfEpT3XpnQn0NqfyIvoCHQJyzDOwhcT_V_aAjYvn6Ocw9hCvihTIrZ7uUMYa8J7c4OeRdBgr-UgTKQGZp21U68SbW2e9vwzCvOSE6qphdzDFLmqAxuAPNfFc3D-vqINCtVBBBYMZGA1FBj5cQ0zHMyPzthZbV01E3OQuOy7IHx7oyEJAZhf6syjpUiXpcTXM4BFktq0BoAhf7ltzwdglsW8-aT92718FvdvFNk1T25YtPDJ-r3lTEkXXPWlvywkpxe_qh_yTmJ3Iz4qYlRBAzTGuRsiTzzXdnqceu5bO4KTPuaMSqHYwHbNTET-RdwXCQB18Z11BqLhdcSEXPlwdT7Tg_LTaEQKu8yOjhFE="
+    },
+    {
+      "name": "가가호호 에어프라이어 종이호일, 90개입, 5개",
+      "price": 49000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1383258946&itemId=25991789922&vendorItemId=92974158232&traceid=V0-153-69533f31e8fa7f3d&clickBeacon=2813d760-dc1c-11f1-98fa-58ac8425b77d%7E3&requestid=20261109180131342288364085&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/vLfnqZfIuqC-Bc3HvJaCYcNZH5Iq5jI1UAnsKQfa-oNXAFn5a6Ot8_E47I1OJavIerYRCdbysajW8mIbXoQluTqXLWZ-FfDP56Z52yMv5AwXf4zjz2DMvSzuyxAze4ZBWMkLW6fddKsClZ5WehovDrPQSK4qJTHGTAOrY6aujiO0MeGyKzOqD_0h_-mttvvOhZ7ITgwdBvLucZR3iwYNmyW6SbXcBYx_4lp6rrU5aepYe1Bkoy1hs5eiRulgVtw7sicuMJ-Uh2ySFcDq2PWasRvbcWdw14Y_6kt34AIBLHL_5btQTTwlyKruF6UO0Vr-BOxYz1NDzKYEYiEg2EKSWpyvB8wf4MFhoq7BGdtK-bGL7IVkSQJphPG4ElliMr8PUwmhj61aZ5AxmsjoTCubufup5DWD62Iqs1lRcyQA2fy_yFoMhHGHUnl0FbB5EOGdor4zHqMeKPVOjQVrAx1p3mZNv3CvtrF3da-bz3w72lxVnkz_yFWY4s5HCMMEwFm_BWlMqkkugE850oE="
+    },
+    {
+      "name": "코멧 에어프라이어 종이호일 대형 23 cm",
+      "price": 6990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7404855707&itemId=19173701142&vendorItemId=86291811694&traceid=V0-153-34dcde51eb766eef&requestid=20261109180131342288364085&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/OxRCmM4OOWa4-5pZO4UseowILge8p9EyeeRN4sY1UxZXQdGKrBpF2arAityuUJu5SjLcUxmDXK5zZGEBIHmEZ7BsLc1KaoxSM7TjLftjKThEGEPj3ES4w-8manIgAW6bOdTX3PdTdgg6G_qBQiJ_rjpHwbg1bllmft8uqlmXY4q3sx4e0GYJ731-ekHi4Yov5qdonu-B8SlY5Y1Rq5nlTlakSC6UvcLtM9C7FA_Rqwyv56fBD-oyxESORx2TXsM2S5JBOTDUEulEHixixKpLWdbthKZ8CFomnf6Z1rxWJU5HRu1j61mZ9AF1e1y9BrWlItXqw2VMt392EWLcemcXIDe5FxgyxVfBsWJ8XsKwxnONjz0M4t_CsaNMEFu-DqG0tpo-Wxz24decnuQE84kydWrmcWAA2bqdTOxgyApzYVnXtVcBUhHYf70nDrBtuOoyvXuyBfIifew3gHD7UOvEN9edSw-l4bdC3uvu0AsvHjN1kBiEKJiEqt2i5NjID5XTC6qP-7pi_Knpae25x3k0X-s="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 285,
+    "has_photo": true
+  }
+}
