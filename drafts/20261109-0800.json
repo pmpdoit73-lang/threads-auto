@@ -2,7 +2,7 @@
   "id": "20261109-0800",
   "created_at": "2026-11-09T08:00:54.639355+09:00",
   "publish_at": "2026-11-09T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": true,
   "issue": "오늘의 대박 공식 글: 냉장고 냉동실 온도를 늘 가장 낮게 두는 습관 (세탁기 온도 글 후속편)",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 276,
     "has_photo": true
-  }
+  },
+  "threads_id": "18140675110712754",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfgNbjoFmy4",
+  "reply_id": "18345687253286267",
+  "published_at": "2026-11-09T11:01:28.004569+09:00"
 }
