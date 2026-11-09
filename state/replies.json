@@ -80,7 +80,8 @@
   "18345687253286267",
   "18054418163812092",
   "18119160257023241",
-  "18101652269434938"
+  "18101652269434938",
+  "17865945201692526"
  ],
  "items": {
   "18114716201597939": {
@@ -371,7 +372,7 @@
    "reply": "윗칸에 눕히면 깔끔하구나ㅋㅋ 그래도 꺼낼 땐 날 방향 한 번 보고 집어야겠다",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T19:01:08.474536+09:00",
    "message_id": 227
   },
@@ -385,7 +386,7 @@
    "reply": "매년 칼 갈아 주는 서비스가 있구나, 그거 은근 든든하겠다. 무뎌질 걱정 덜겠네",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T19:01:08.474571+09:00",
    "message_id": 228
   },
@@ -399,7 +400,7 @@
    "reply": "ㅋㅋㅋ 첫 줄만 보면 오해할 만하네. 그냥 칼 씻는 얘기야, 안심해",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T19:01:08.474584+09:00",
    "message_id": 229
   },
@@ -413,7 +414,7 @@
    "reply": "날만 상하는 줄 알았는데 손잡이까지 깨지는구나. 나무 손잡이면 더 그렇겠다",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T19:01:08.474598+09:00",
    "message_id": 230
   },
