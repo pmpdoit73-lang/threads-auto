@@ -442,7 +442,7 @@
    "reply": "식세기 안에서 그릇이랑 부딪히면서 날이 상한대. 고온이랑 세제 때문에 손잡이도 쉽게 상하고",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T19:40:47.302825+09:00",
    "message_id": 232
   },
@@ -456,7 +456,7 @@
    "reply": "맞아, 갈면 되긴 하지ㅋㅋ 난 가는 게 귀찮아서 덜 무뎌지게 쓰는 쪽을 택한 거야",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T19:40:47.302857+09:00",
    "message_id": 233
   },
