@@ -2,7 +2,7 @@
   "id": "20261109-2200",
   "created_at": "2026-11-09T22:00:57.368804+09:00",
   "publish_at": "2026-11-10T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 냄비뚜껑·국자 말고 — 주방 고무장갑 아닌, 키친타월 아닌 '랩'도 아닌 '전자레인지용 아닌 일반 유리컵'… → 실리콘 주걱 아닌 '나무 주걱·나무 도마' 아닌 '나무 수저(나무 숟가락)를 물에 담가 불려 두는 습관'",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 286,
     "has_photo": true
-  }
+  },
+  "threads_id": "18131968228895322",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfiWwqaFmEG",
+  "reply_id": "18419399848083739",
+  "published_at": "2026-11-10T07:01:24.533000+09:00"
 }
