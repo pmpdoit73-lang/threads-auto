@@ -2,7 +2,7 @@
   "id": "20261109-1800",
   "created_at": "2026-11-09T18:00:59.311910+09:00",
   "publish_at": "2026-11-09T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 압력밥솥 아닌 — 에어프라이어 종이호일을 예열 때부터 깔아두는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 285,
     "has_photo": true
-  }
+  },
+  "threads_id": "17968649298078579",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfhSGmHlXz7",
+  "reply_id": "18127264468716961",
+  "published_at": "2026-11-09T21:01:32.941246+09:00"
 }
