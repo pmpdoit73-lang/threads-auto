@@ -1,0 +1,51 @@
+{
+  "id": "20261110-0800",
+  "created_at": "2026-11-10T08:00:58.469010+09:00",
+  "publish_at": "2026-11-10T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 건조기 코스를 늘 '고온'으로 돌리는 습관 (세탁기 온도 글 후속편)",
+  "angle": "빨리 마르라고 고온만 쓰면 면 옷·수건이 줄고 보풀이 생겨 손해 보는 점",
+  "category": "청소·세탁·정리",
+  "subject": "건조기",
+  "hooks": [
+    "건조기 코스 30년 동안 이렇게 돌렸어... (9/10)",
+    "건조기 돌리고 꺼냈는데 나 뭐 한 거지? (7/10)",
+    "얘들아 건조기 '고온' 버튼 그거... (6/10)",
+    "건조기 다이얼 맨 끝이 제일 좋은 건 줄 알았는데..? (7/10)",
+    "건조기 코스 왜 이렇게 많나 했더니... (5/10)"
+  ],
+  "text": "건조기 코스 30년 동안 이렇게 돌렸어...\n빨리 마르라고 늘 '고온'에 맞췄거든ㅋㅋ\n근데 고온은 면 티·니트 줄고 보풀 생기는 주범이래\n난 이제 수건 빼곤 저온·표준으로 돌리고 끝나면 바로 꺼내\n너넨 건조기 무슨 코스로 돌려..?",
+  "image_prompt": "Amateur smartphone photo taken at home of an open front-loading clothes dryer in a cramped Korean apartment utility room, a slightly shrunken cotton t-shirt with pilling held half out of the drum, crumpled towels inside, dryer control dial visible but no readable text, uneven fluorescent lighting, slightly tilted framing, laundry basket on tiled floor, no people, no logos",
+  "photo_query": "clothes dryer laundry",
+  "product_keyword": "건조기 드라이볼",
+  "benchmark_note": "내 최고 글 '부엌칼 30년 동안 이렇게…'의 셀프 디스 첫 줄+말줄임표, 5줄 구조, 각자 방식을 답하게 하는 마지막 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "코멧 홈 건조기 양모 울드라이어볼 6p 세트 파우치 포함",
+      "price": 6990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7871746353&itemId=21505796318&vendorItemId=88559345524&traceid=V0-153-fe4c705081fbf466&requestid=20261110080131319304112407&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/6PK7GYs4WXvDJGdY6OGDrQw0FbrW_JtRh74jW8OzLLqJAYidnast9U5nzrR8u8QUwnX9uY88jwluo0XriQlH8-2r4PXGOVeQCgebD_-rpTkX_wzzFNRMdTnqnQ-ykYKP0cvWTwbNTvmTc2VSjvQheO-UOq9YzqAH53CU8v5agZqenxCZdEnavGj45_b3-IGsLFmxKv9ojlphuOSf_43_eUekv89Nq8eCr1orlTiyNGCTk7wKrChK5nppqV1fT5707TRYK84bRi3vEHfPiOFL8KHcaSihwQRYvElcp_eIPw6-l29ZHBsbTo3z4waa7dape5U-ktQWgSiPi1PnOUjagtr8ZtVTEj83UdchroX6SmFm2p6-d9R317vx2v1IPJjYu0wJRNzrKWTz6RuD7qZrIjezg09FhAq4daNq7T1cb8dsAdS4qXepE5U6wqTtleRbnKD02IV3h1odbbicmeIb6m6bz5KgDjXm1vuYL48lOg-ICcjg5x-A5viO1Si2QaGdSR8o2Qt_RqUOIEjHC8YIJeDb1NV4tp--JxoRt2f-O2ILx2ysy25NhKPcSgXRosTTtpAt2_Z2t72O6VX89Im48PnijEZMxSK1Vc9Rom3RN3-oAcJVvlY="
+    },
+    {
+      "name": "코멧 홈 건조기 양모 울드라이어볼 6p + 파우치 세트",
+      "price": 6990.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7871746353&itemId=25483459947&vendorItemId=92475731020&traceid=V0-153-fe4c705081fbf466&requestid=20261110080131319304112407&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/NkLenZ7i15XTsOYHNn2y9_Cjy64Z1rjxylJr55qQz-qseUYXZ0ZQtNDsTFxPnZBuqMLqayTMcvMa3IYqkmOizdTXXQ-PpfZeBICtZzu3GlzK6BdplQS4nq1jJbQP4AsKg4vq6e1ZMjPk6snQxzfyhwve-wnK81vrV054DTyuVpkgzpE4ECMeDeXkRu3tXL_gjaOR0ukObUb_KFsJP5VGKc-0lSqGAiCOxJVp7t-5Sizg_VlMaT51Zwd1r_rD7U0VbX87EvOkWEYIEbCec6j1YEUZxOxvp0Yruj5owHUgHAxuqcSJAO1h13sQ1il6hiuSufcpYF4RpKJh44NZAgVI57s1rAY6URE5n1zRMBRJKYipuniS4V7d6Hn3ayDdlpUejwWfALJYvd94Mf-_ot1qT88iUhQxNP8ut2hsV_cesPkDHv2ONeVAF_Xv125BcfxFWq5S_d3S4gdntazsE5IF6g50wDOMj_Fhn5ZYV90RH4GwnlJFMwrHTceIfAJMpRs2kzZLHb0Vfy3SUqvMscKz77iYR1jfVxjNOY3BYR2zRhsOfqg2yXIdoDRoWR74dGD1lKK2eFzAjT50aAA="
+    },
+    {
+      "name": "데이킵 울 드라이어 볼 6p+파우치 건조기 정전기 양모볼",
+      "price": 9900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9698051369&itemId=29009435365&vendorItemId=95937592506&traceid=V0-153-94825906af8518be&requestid=20261110080131319304112407&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/8CUFMbxVouPa8GZ58N9TDr_o7WFAFV15cHO5ixSkS_Vt9Hko384VN_11ylg3QwSCvimI5U72daXThuZyy31SEWMqFu3cgZt37bUCvqtVv3L2WKsR1o3luJ_7RDeBveqSeVMJrB5O628TJkpFb-bkg-MvX9Upxh82LOlKtqfA1UQ5LNUaCSKrda1KPS0DVTCQRcUPuYUcgHcK4BgPqNpQf-MMtElHzmFNHWeK2MFyKtsGHYDwa2dDjbbocPJuSAdxV6PIQNFMt_ufBsLoX7hY5JS7djudfnFSRhZvgBgPQdPG-NYl2lev9OW9D7o7x-Elt-R2Umr4ywnTvEx92Uy6LkVhhMqqF9XsBlApFPqMsz6UwH8DOVYn0rUEgZgN737KfZBvl2jMbC9kIJejs6ydtphAB_mnkhhaSApUV8g7Hk7H1R5jFKOUUShnTll973RWEUf18K_A6PcSGEtmedvZpkOAWFf5Wgwsk1u-4P_YIvjJ7TLKUa-UNzPp0SNZRXUaxEHe-Ww6TTjMQTwE9A7yI9rkBeoZNLKdvmTBpOjzwPMe-QH5a_PsmFQ5MKX4LyJLCWxlQjsfSny93sXxOivNtme9L1DLrbJtCzLcxw=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 287,
+    "has_photo": true
+  }
+}
