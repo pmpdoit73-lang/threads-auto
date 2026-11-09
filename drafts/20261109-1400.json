@@ -1,0 +1,51 @@
+{
+  "id": "20261109-1400",
+  "created_at": "2026-11-09T14:00:54.325437+09:00",
+  "publish_at": "2026-11-09T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무 도마·행주 말고 — 주방 행주를 삶지 않고 젖은 채 뭉쳐 두는 습관 대신, 다 쓴 고무줄 아닌 '키친타월' 아닌 '설거지 후 그릇을 행주로 바로 닦는' 습관 → 식기건조대 물받이(트레이) 방치 습관",
+  "angle": "식기건조대 아래 물받이를 안 비워서 물때·냄새가 생기는 걸 몰랐던 점 (청소 아닌 흔한 사용 실수·습관 각도)",
+  "category": "주방",
+  "subject": "식기건조대 물받이",
+  "hooks": [
+    "식기건조대 30년 동안 이렇게 쓰고 있었어... (8/10)",
+    "식기건조대 밑 물받이 빼보고 나 뭐 한 거지? (9/10)",
+    "얘들아 식기건조대 물받이 마지막으로 언제 빼봤어..? (7/10)",
+    "식기건조대 냄새, 그릇 탓인 줄 알았는데..? (8/10)",
+    "식기건조대 물받이 원래 안 빼는 건 줄..? (6/10)"
+  ],
+  "text": "식기건조대 밑 물받이 빼보고 나 뭐 한 거지?\n그릇 냄새가 왜 나나 했거든ㅋㅋ\n고인 물에 물때가 끼어서 그 습기가 그릇까지 올라온대\n난 이제 이틀에 한 번 물 버리고 바짝 말려 끼워\n너네 그거 빠지는 거 알았어..?",
+  "image_prompt": "Amateur smartphone photo in a Korean home kitchen, a plastic dish drying rack on a countertop with its drip tray pulled halfway out, murky standing water and slight pinkish water stains in the tray, a few bowls and spoons on the rack, slightly tilted angle, ordinary fluorescent lighting, cluttered sink area, no people, no text, no logos",
+  "photo_query": "dish drying rack",
+  "product_keyword": "식기건조대 물받이",
+  "benchmark_note": "4만 조회 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄과 내 부엌칼 글의 5줄 고백→이유→'난 이제'→'너네 ~알았어..?' 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "스토피아 식기건조 시그니처 물빠짐 트레이",
+      "price": 7120,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9413991520&itemId=27972627823&vendorItemId=94930525907&traceid=V0-153-32421217a691083f&requestid=20261109140120597295014054&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/gq_0Spfdh7YivRElgsEzKh-tUAXD3MxFDL1lhCayLYLJi0IsBqR9i-rhqO99GflE2a4NNctv3yD-bEV4pVsRlY_wxL55IMKY73X_hr4YYCHHc5x3JwLEl99Eu7Et3pfVuSRisw_KVOg8vVlcNlOlS_y0ZM278hQs-vfYaYEpaI732_vjpIdKviSPehX1bO156_8NCPejNeaTRK190oubGidudQwWr3OilE8A-QjTqxLvh8d21hjTDRH6_DCmHFbzQpG4FbM2EEEBxcMw6GIYJi3niQxLRTFBMHuu891GomhOWZvGNBYsKpsRCIt3Fb2gRR-zjKVkSaUtiFcY7tCcXAwVSxg5Sv7FsmEf18I1A6K7DeqM2kC0laIDQybpM003s1a87EOrmZPIdHT_dJBmKxFxtaPgVn0FxkonWdTAql_FG5HaA4h7VnZYsjfulRlEWW8F9mLjINWnc9r6OPDjA_mWMSJvYHKpr62-gR_LHap7__4uj5lhaTfQmoulzv1zjECistXB51j6XEvbCWr_ouk="
+    },
+    {
+      "name": "킹얀 실리콘 식기건조매트 물빠짐 주방 드라잉 매트",
+      "price": 13800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8658496194&itemId=25129842789&vendorItemId=92128984575&traceid=V0-153-798977268fb1fec4&requestid=20261109140120597295014054&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/GJDkOvRivqMIROGIGK_UcQI4eLiENCIf5JR0A1TYVm4Y1s9j2B-gKDmz8qmCxMCtax5XK46hlqrrSFmFsf80lYZmr1biSx47oZd_g4MvczRNS70g10Lncp1mILVbzeuZ4Os0KALRHF1ylngfUjUFOxdAbk8dBXAVtt1E9HDaxGv9YNc09OK_abUZ43gc86PE-eeuR0o5cQYXUGsDpOh-zfpoKJFpSfSPlDTQLI1MsnjmkCMKg-fLI-6DMja44n9wgxBoq85r_pYR5B0-j1DRJjJ5m8Slv3dNNo8qQ6_vv1h30llj_rMjllJo7_aodUL9PlzCn5MqftnTGZwyEm6RZaiYzVoDeqwMrOpJOLxggQ_tcmSg8-RoWhKiXXLs2kK6X8-L7saf8ANb8yD-shhk2CXD7KaTUS0rI8ssG421o-WXwad1kTNdhbBbb9rx3r7jtzALAMnXAHvedN2lS92DGa65-i1klVSIHIPtGvOsElMEVbVDQuFsYl8cha0uQ3m-rmBcklkGkMuzgtDEOJhO_osFewYVG3_bS8ZBJIk9lA=="
+    },
+    {
+      "name": "트레벨 올스텐 1단 식기건조대 + 스텐 물받이 쟁반 세트",
+      "price": 12350,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9742786712&itemId=29162688263&vendorItemId=96084762908&traceid=V0-153-1440c5059eb1138b&requestid=20261109140120597295014054&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/NSF9d7Je62AkwQdvNWUEXCxK_9218z9WV5Ww75_sOf7kVwQ8oZWc4EvrBz2jTEP5OrbLcMGHctCkoTJsUPPXpUElKYZTM9_5nV3gxfFfP5OGT-rC38H5hW2W-oUhXMrprIOyJaBD4Pwq5PAjM6JE2qwolmgSqyFHzf86ak75S8PrYcR_GTA2VtEMujQyX3vqTsR8CF_TnhV7an5qZNJbCW4PszJXdExHtTklYx8Ih03fucVysc6wI7zHHisoZbErjK_eYg79UuHf4o1bTlRXHIna45StV7SqDM3sx6ZAKk9IAd_qzzjAh-Py-5v9I2B4e6Q6nIGN6yLTq9HP1KKrj8NhEPj00D1HUCvSS2DywsInKfJltQRr_Hd1GjJSTD21UetTZqs51fBPzIpiJSfbq3VB63rrTHddkJLFJvHxnwlL7ZiReBrQMtbhxvUX9kGMV_TkCd3jsvd0uQnj9pUPtuHNdE75bTh6jyeYUCvXhky8VuVX25i6iKqAIo01DMS_stZJp8DCYw=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 279,
+    "has_photo": true
+  }
+}
