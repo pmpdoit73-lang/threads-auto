@@ -567,7 +567,7 @@
    "reply": "매달 말일로 정해 두니까 깜빡할 일이 없겠다. 배수구 칫솔까지 같이 바꾸는 건 생각 못 했네, 나도 따라 해 볼게",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T21:22:39.115404+09:00",
    "message_id": 244
   },
@@ -581,7 +581,7 @@
    "reply": "ㅋㅋ그러게 30년 하고도 이제 배웠어. 40년 노하우 있으면 하나 알려 줘",
    "suggest_skip": true,
    "reason": "비꼬는 시비성 댓글",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T21:22:39.115432+09:00",
    "message_id": 245
   },
