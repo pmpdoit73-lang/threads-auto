@@ -708,7 +708,7 @@
    "reply": "벌레 보면 진짜 깜짝 놀라지ㅋㅋ 페트병 소분하니까 냉장고 자리도 맞고 마음도 편하더라",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-07T08:00:58.931172+09:00",
    "message_id": 255
   },
@@ -722,7 +722,7 @@
    "reply": "응급실에서 그런 일을 여럿 봤다니 무섭다... 날도 지키고 손도 지키게 앞으로도 손으로 씻을게",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-07T08:00:58.931213+09:00",
    "message_id": 256
   },
