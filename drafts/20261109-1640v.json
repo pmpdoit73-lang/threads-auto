@@ -1,0 +1,64 @@
+{
+  "id": "20261109-1640v",
+  "created_at": "2026-11-09T16:40:42.582845+09:00",
+  "publish_at": "2026-11-09T19:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "extra": true,
+  "issue": "사진: 오타마톤 (음표 모양 전자 악기 장난감, 검정 지판 누르고 입 볼 눌러 소리 내는 매장 체험대)",
+  "angle": "악기인 줄 모르고 그냥 인형인 줄 알았던 셀프 디스 + 입을 눌러 소리 바꾸는 숨은 연주법",
+  "category": "최근 이슈",
+  "subject": "오타마톤",
+  "hooks": [
+    "매장에서 오타마톤 보고 나 뭐 한 거지?... (9/10)",
+    "오타마톤 이거 음표 인형인 줄 알았는데..? (8/10)",
+    "얘들아 와, 오타마톤 볼 누르니까 무슨 일이... (8/10)",
+    "오타마톤 앞에서 30년 살림 내공 무너짐... (7/10)",
+    "오타마톤 이거 뭔지 아는 사람? (6/10)"
+  ],
+  "text": "매장에서 오타마톤 보고 나 뭐 한 거지?...\n음표 모양 인형인 줄 알고 얼굴만 쓰다듬었어ㅋㅋ\n알고 보니 검정 지판 누르면 소리 나는 악기더라\n볼을 꾸욱 누르면 와우~ 하고 목소리가 변해\n너네도 처음에 인형인 줄 알았지?ㅋㅋ",
+  "product_keyword": "오타마톤",
+  "has_photo": true,
+  "album": [
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAIBGGrxdRQr_B2t0dVO6S1fy_kr80QCAAIZFWsbFCeIV4diB_tI6MC1AQADAgADeQADPQQ"
+    },
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAIBGWrxdRS8ZrB-YBqBCeXv5OcHgxmtAAIaFWsbFCeIV9Vcu9qrQbbkAQADAgADeQADPQQ"
+    },
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAIBGmrxdRQM3AL_47TTBzEPeZByAS8rAAIbFWsbFCeIV1-1MAttknOeAQADAgADeQADPQQ"
+    }
+  ],
+  "media_group_id": "14353672359446877",
+  "image_note": "gil이 보낸 사진 3장 (넘겨 보기)",
+  "credit": "",
+  "products": [
+    {
+      "name": "오타마톤 레귤러 스위츠 오타마톤",
+      "price": 33900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7799816508&itemId=24674692949&vendorItemId=94922527640&traceid=V0-153-c8f66bae7625e5aa&requestid=20261109164058330062618898&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/l-rBOrWS2euFzDEal_Dx8yQ81s2Z9FMlzLVmwdG4M_SggOctDPFBRZ8GTCVpFGGzcjIAKFAPtv-AelmRpKr_sRQ-g1oidfPT8IadkhT3rdkI29yXpEQd6tn2PK36-mBMEwNp5AXdUHHdKVCTiv2Njp9C65CRV5XxJzJVCAcaLqx5SEVdxbSWuPpknyCiGh7C5uTYTHijllNE7qu_NZ4_EYqdlgr1ohGxmnXUOBpgWrnBhnb9Legjba1KG0UdH2GhR6iRvDzLk7_YJjsY30Y2rlx1t59IAVZRNxZYBa888FroYjdXJBT-myr4-QQqrYMdQajeBusBqXgq09350VwSKQWgb5NKLpunEiKVllg0rlW5gN0YTnHmUC-vgFbGjcVLuRlNewoRQmb3MmTNkTexgwYNh4XON8GVitZn5qctjudgkeH5AdzZyGJx6bn1FcvX9WerYDuoPnXaIwJ4F03E0LoO3YhXuaIIiC06iQf9sr94kOKwJsICqWJKj2U1SYa7V15aLrbCwhwYO6FRDYm1Gg=="
+    },
+    {
+      "name": "오타마톤 신디사이저",
+      "price": 33110,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9055688839&itemId=26582180670&vendorItemId=93555562484&traceid=V0-153-27d5911e681cce71&requestid=20261109164058330062618898&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/MYIKa2O8fAoI279bMSn4ONQRhSJhxZz0P_-R99NoX2DwBhmWKc8ebEnVg4A7jPw5VV2LZ6i4SKcx6DVfFCewMUgw5QE2vWTQm_8tj0gC-J-J-UUHOiyvRiyHFp6jpS5UhRWToCSZJSo9SbsDdQ5IZxd04mVMWWmkNvNpBB5-iwCM1SS9opMQ8EcUBLQgrWaU6LbnIAbsBwKWDpSAjsJXYm3ki4uIGKAe2crHez27-y7tfgPlrS6T6Nkn3UUK4qHBMOt4oy_i6QbW1hvjiAqWIjt53bN1_txgJjauOb6Qr-ru1nsVxQXhUjWuNbPAH4qiroy8WFUxWHGqCiTEuQk2uXbPU5iwIWZxuqrj9u1vtcR1Wv8_WEo7l3Fz1_FXzJKzuindMaAlxAIp7Nx7r2L8YTNkk6toOskjx7l-S_6OHZ4pOByWZGHvRJ81hJbQc2_VJkLymyso2SkQCYjzwty2cNbTxDc6BDYB3V65mFQ4Umv0LwSJVD_tTpUiwCNgOLK0w4cb69mmoiYFo8e4IuIUMcgrGd29xjewuBVMzKK5vA=="
+    },
+    {
+      "name": "오타마톤 레귤러 컬러즈 TOY-OTR-8027",
+      "price": 34900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7799816508&itemId=25321294653&vendorItemId=94922516789&traceid=V0-153-c8f66bae7625e5aa&requestid=20261109164058330062618898&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/pAsttC4zetPYxnDApDWMK-AOyNy0wws7_0jOBu2-J8efdIEf7B_pbDGhdX7mZwBOoqJK8Y-ZxyMxlpbSzI88SdI69fijDSBLEKpJ_eCU9_w6F7GOGQZ78o2h8Y9fEdt06pGcpicik-Bc4Pw2i_5_rodczZJbbNUOy0YiATugYgeAEyj2KGEI7_6_ZPy5s9bcppOETOTgrHkKW1I1WWrbOyo5hXEM97iB5gIbhblceBNKb-nd5kPMSKdBZ7_4eNoM2aRHvTLjY-6f7jsR9PzqtCn_X--DKOOn-b9z2y9oz_-KihV-gAfr6yYGuhyy4afXrvNajF6b9NaxGPYmw5NnbQ-MZCtOwwmI7rhaVygcue40IpsjFrx1IXIbkHBNlFGjymst7HevWx-sIvjddQLnxZfVN7qiiExo8WVXcKt7fBzRY2J2vgdlbJ1golYHXI7XeM4tNxJwliDYDiDhQPPV3FmUxLfmUtnOFv6k2sboY7jA3qnsgp2KtvHyfGDhVSfvMWj5VGBxdOMlKrT5nFur"
+    }
+  ],
+  "format": "both",
+  "message": {
+    "message_id": 283,
+    "has_photo": true
+  }
+}
