@@ -595,7 +595,7 @@
    "reply": "살균 생각하면 돌리는 것도 이해돼. 다른 그릇이랑 안 부딪히게만 따로 놓으면 좀 덜하겠더라",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T21:43:05.312748+09:00",
    "message_id": 246
   },
@@ -609,7 +609,7 @@
    "reply": "부식까지 생각하면 더 안 돌리는 게 맞겠다. 난 그걸 30년 만에 알았네ㅋㅋ",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T21:43:05.312781+09:00",
    "message_id": 247
   },
@@ -623,7 +623,7 @@
    "reply": "ㅋㅋ너무 반듯해서 그랬나 봐. 사람 맞아, 칼만 각 잡고 꽂는 스타일이야",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T21:43:05.312796+09:00",
    "message_id": 248
   },
@@ -637,7 +637,7 @@
    "reply": "시간 날 때 칼까지 갈아 두는 거 부지런하다ㅋㅋ 나도 날 무뎌지기 전에 좀 챙겨 볼게",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-06T21:43:05.312809+09:00",
    "message_id": 249
   },
