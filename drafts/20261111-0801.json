@@ -1,0 +1,51 @@
+{
+  "id": "20261111-0801",
+  "created_at": "2026-11-11T08:01:00.435887+09:00",
+  "publish_at": "2026-11-11T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 세탁기 코스를 늘 '표준'으로만 돌리는 습관 (세탁기 온도 글 후속편)",
+  "angle": "가볍게 입은 빨래까지 표준 코스로 돌려 시간·전기·물을 더 쓰던 습관, 쾌속 코스로도 충분하다는 점",
+  "category": "청소·세탁·정리",
+  "subject": "세탁기 코스",
+  "hooks": [
+    "세탁기 코스 30년 동안 이렇게 돌렸어... (9/10)",
+    "세탁기 버튼 누르다가 나 뭐 한 거지? (7/10)",
+    "얘들아 세탁기 '쾌속' 버튼 써본 적 있어? (6/10)",
+    "세탁기 표준 코스, 이거 매번 눌러야 하는 줄 알았는데..? (7/10)",
+    "세탁기 코스 버튼 중에 30년간 안 눌러본 게 있었어... (8/10)"
+  ],
+  "text": "세탁기 코스 30년 동안 이렇게 돌렸어...\n뭘 빨든 무조건 '표준'만 눌렀거든ㅋㅋ\n근데 하루 입은 티셔츠 몇 장은 '쾌속'으로도 된대\n우리 집은 표준 1시간 넘는데 쾌속은 30분대더라\n너넨 무슨 코스 제일 많이 눌러..?",
+  "image_prompt": "Casual smartphone photo taken at home of a washing machine control panel with a course selection dial, slightly tilted angle, a few t-shirts piled on top of the machine, dim laundry room lighting, ordinary unpolished snapshot, no people, no readable text, no logos",
+  "photo_query": "washing machine dial",
+  "product_keyword": "세탁망 세트",
+  "benchmark_note": "내 계정 최고 글 '세탁기 온도 버튼 30년 동안' 첫 줄 고백형과 5줄 구성, 사람마다 답이 다른 '너넨 무슨 코스' 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "모온스 프리미엄 세탁망 6종세트 도톰한 촘촘한 3D 입체 빨래망, 1세트, 클린화이트6종",
+      "price": 17900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9641902455&itemId=28810763999&vendorItemId=95748779004&traceid=V0-153-d1cea1ecdc3a663b&clickBeacon=a7928ab0-dd5a-11f1-87de-23601bbc07d2%7E3&requestid=20261111080125249131616999&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/pnkVcrruL2rCwxYnpoEENK1QaCYOVl9damivtNKIWBVaqkTBxB3ernn897GQ9RitPFOJUCyekJbwVKR0jBxWHMGXlamWNiBDmVSI-RiOf0WoM5dc2m6cZasM-mo9mI8l_s131XLexphtw-IxbvrLpDZOKjhVnXx3ZOaNk85_50E57nF-sFn5wfq6rh6R8LXGnYyMjBM7bPzrg_JXQ1uvtJenJ-MkVQfOPIbqcKkhtU--1HI1-o2HKXgzD6qcdCWpEkFa5ETZmAMbAf1hbFUIOsVasKtGcAROBXvKpNeXZwjUatn5YWPQcZZqtplgYtxF_29-xV2AiNNcxO7Nkm_lYQHYDYN3SkLiAxiK2S1GdNNUyOo75A0Z6AaP5RIAxRkd4-1fkN2UXzMbB8KnNHWNcUcGHZWb5COt3bzLFdzEIthtzP5t2voXU3BtWLXnlTUJrhTzIJcPH3JVJbnJtjQycF9zneGc1tZnunrXqF_zbyTHO9vDlJZmzQgBSq2EQWitc7YozqLb7GRnnnURTVUczF1F1LEPHSY="
+    },
+    {
+      "name": "도크민 이중필터 세탁망 6종 세트 무형광 아기빨래, 6개, 웜베이지",
+      "price": 22900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9409772324&itemId=27958320947&vendorItemId=94976837421&traceid=V0-153-2e7e583a5e3402bf&clickBeacon=a7928ab0-dd5a-11f1-9a4f-98a1e3e1a8dc%7E3&requestid=20261111080125249131616999&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/P4OKv_i-1-JoQ97FP9FES3o0FzwvQ4QFqDp6sB6W3SjRKxCn4ofXn-pSq-TXNz5Q1F6wuKlr-Q0wfqff9CjHG-weXwp7WW2IBfVOj3QbavOgPWOajetrQ3dypKMB5Z23vfDzG9-jqQ_XGPOFmSjfEMhwp8wQS2qDILp5iMXCE5f3yEqq2i1rh1RTJB3ecX0FhA4rhNrgZi32sOTJ6Z2eBxprWFskPpIYYI0LwOGKhz-Qxs6Uvk5yfebPjMPiGzRX2rNsaCnf201BGC5fHiek6AExRsjkmdta_pHqjbjcwgLr6jBwm_fnoUGwo7TGQEscjBKUUabbszojb3mHWp7ULuvgPiJsjPQFRtZKr_LikBdPrSaS6fOKOKSzzFZV0FFejSTPZWHVplrHJHZLTcoByTFh8kVSWU9NeYb4wqAS0ENNwuAtcd3VDv6uPZ1-fObzblgdUGVLT1t_RYSLVtqAS2pR5Mp0hdO4VJ15C-OB-_lvDXxTlsMJz99lZ12Xfn9G9sdcz1ag8cAz8a9SzApCJWdn_vnS1FsHoQ=="
+    },
+    {
+      "name": "코멧 홈 메쉬 사각 세탁망 대(50x60cm) + 중(40x50cm) + 소(30x40cm) 세트",
+      "price": 3980,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4523384108&itemId=5456156623&vendorItemId=72755959046&traceid=V0-153-4752691ddc59e1c3&requestid=20261111080125249131616999&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/a7SnU2qyB_U-JIY_a-P6CHW1Ev_-mLtpyzC4ht86pWQfQ4voAdaFQ8nUgmfONw7RbqvYD8ubb0VEklHw01Rq70Jfu7duNpC1BmXpC7OEmXsawmGfho1SRMQ7K15JkIbw80vj8EYcUx7KIGFvnUk96x1HcYbhKg9TTDkvx4Kn0mtRA6kBEOoIAdYBL4XWybVHB2BF7wLR2lmpmt-KxzUUigSef58kc1sS8IQerjTcE9vd8qLRxWWqkxDkCPKPV3uqfT94PVTekLnMp1dTIMjEQSDA1pAc7uvUUttB_KhITfab75KVK_QCBinXSftN_1r3sbE1qCeZlttVsT7KSJimE0ljEfWuyq3wEnhDLblySVjtMAuxsnhvzMftye8KXQkiT1WoV5UpVK0oXBMKWDEYSMMiziSWZeuELlf82FUojItPw9kJAnKwin6Mi2jMNHu4H6ZA5mh1FLsxLSKTlSs_zUgszmPBBuanZ4FIcAgbDwAkbH189u7CltBbELH6ONe_C9dasJ9VQI5gY2gBi1p_QuU4zA=="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Ellie Burgin)",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 292,
+    "has_photo": true
+  }
+}
