@@ -2,7 +2,7 @@
   "id": "20261110-2200",
   "created_at": "2026-11-10T22:00:59.745476+09:00",
   "publish_at": "2026-11-11T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥 내솥에 바로 쌀 씻는 습관 말고 — 냄비 아닌 '실리콘 주걱' 아닌 → 행주 대신 '수세미' 아닌, 주방 고무 냄비받침 말고 '전기포트 아닌 압력밥솥'도 아닌 → 마늘을 다진 뒤 바로 냉동하는 습관 말고, 양념통 아닌 '소금을 가스레인지 옆에 두는 습관'",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 290,
     "has_photo": true
-  }
+  },
+  "threads_id": "18124397633469564",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Dfk7jq-lPBE",
+  "reply_id": "17915686443490869",
+  "published_at": "2026-11-11T07:01:23.650314+09:00"
 }
