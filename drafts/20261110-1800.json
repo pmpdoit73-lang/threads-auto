@@ -1,0 +1,51 @@
+{
+  "id": "20261110-1800",
+  "created_at": "2026-11-10T18:00:58.071105+09:00",
+  "publish_at": "2026-11-10T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무 실리콘 밀폐용기 김치 냄새·색 배임 말고 — 냉동실 얼음틀 얼음을 몇 주씩 그대로 두는 습관",
+  "angle": "얼음틀 얼음은 오래 두면 냉동실 냄새를 빨아들여 음료 맛이 변한다는 걸 몰랐던 점",
+  "category": "주방",
+  "subject": "얼음틀",
+  "hooks": [
+    "얼음틀 30년 동안 이렇게 쓰고 있었어... (9/10)",
+    "얼음틀 얼음 꺼내다가 나 뭐 한 거지..? (8/10)",
+    "얘들아 와, 얼음틀 얼음에 유통기한 같은 게 있었어? (7/10)",
+    "얼음틀 얼음, 오래 얼려두면 더 단단해서 좋은 거 아니었어..? (6/10)",
+    "냉동실 얼음틀 보다가 이상한 냄새 맡은 사람? (5/10)"
+  ],
+  "text": "얼음틀 30년 동안 이렇게 쓰고 있었어...\n아까워서 얼음 몇 주씩 그대로 뒀거든ㅋㅋ\n근데 얼음이 냉동실 냄새를 빨아들여서 물맛이 변한대\n난 이제 1~2주 안에 다 쓰고 틀은 한 번 씻어 다시 얼려\n너네 얼음 언제 얼린 건지 알아..?",
+  "image_prompt": "A plastic ice cube tray half full of slightly cloudy ice cubes sitting inside a cluttered home freezer drawer next to frozen food bags, frost on the edges, shot casually with a phone, slightly tilted angle, ordinary kitchen lighting, no people, no text, no logos",
+  "photo_query": "ice cube tray freezer",
+  "product_keyword": "뚜껑 있는 실리콘 얼음틀",
+  "benchmark_note": "내 글 최고 조회 '○○ 30년 동안 이렇게 ~하고 있었어...' 첫 줄, 'ㅋㅋ' 고백 둘째 줄, '난 이제' 경험 말투, '너네 ~..?' 질문 마무리 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "엘로온 실리콘 얼음 트레이 4구 스틱형, 1개, 그레이",
+      "price": 13200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9575063851&itemId=28580197721&vendorItemId=95532544633&traceid=V0-153-75c32518360cff88&clickBeacon=49c00ae0-dce5-11f1-9f8b-c227ea7aaed1%7E3&requestid=20261110180116757041561436&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/vylAcPIyPG7gYs3gv60TfBHgBO8mtuGzcBhweeKFDZLbng9wrt00CdBNEXFFupDBgZAJdDcVoEQPbCbA6P8hjpvtxnpIZWmsnSsh6rNrmyEutgPegdK-Vjcfx6CfAI1t1R9iJJKLhh8v8NBpudVV4p21xLV9b1yL16YEe-loB1uuV2h4-Wd1o1lMAOqXlaV9j-F91nNxg0t16w5D54b9XDhtUkmjRDiGe74D7L2zmuOelUg7n2wVHQgbAVu2CobxPyXU6E4F_gc2XWfrRGewsV9Hz0ZuxrAdI3OM1RMxtvC1yB9x25VzmbcBO0SDj0mg64nL_UgSIZ16qlRAJZzYijANohJ1saelbjqwXTocMYKHdCiLLy_sNJwUZYtTxEu2ooaMDPe4Y_fL6bn7XJZfsJyjFaEY6ARNmFvJHCtTZY_b8DrWPxZUIix-xn5PkHAvWyIKLNd5zFuCs8p-vSj9GoFUk4lPfCbbezt1W1L9rrhJ_49_2QWSChS3cwkKUJ5Dt_KeIpPse23mf7_gKLdu6j2s5FuS4wE="
+    },
+    {
+      "name": "가정용 식품 등급 하트 실리콘 얼음틀 얼음트레이 아이스트레이 24구 뚜껑포함",
+      "price": 10800.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8733086579&itemId=27519708624&vendorItemId=94864660974&traceid=V0-153-f9a32003935287de&requestid=20261110180116757041561436&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/n7zyVToCv73geoEcn9FvTrIU-RP-DrVsgOJi_pgBZ0EcC6q2clFRLOoTbwmBuioQ4pf2tmhZY31AEl3YnF0RzRS4Masaqmn5K4xtjtYRz2mjtE3UVYKRuPKF1luE_X5HJs9VaZLQOjDiyESSkEiVI53bqia4ot6Ydmq0R4RBlqV_lD3xDFeIYDFqnAOYpTHto0sBgRx9Kh2kXCnnsPAJmJ4nDtaoR5tiYd6vx7Kr6lECvOuSoQ1uS0nV2-aRhUgXgZAohO9s5OoZGZEq75QmystlRGgjJMUotLwULc_JNI9rt_UVXBC_IzX98kyzNPUxhCuqYhgiUp4SzxboozjZ3yYdr2AjxeI7eBCVveCdO98zS0MGRQarwdYZH1X9ThZOEHfzcFwxs0N7gvhtPmZpFtdilmYmIBFIIjswjgirf_h16_rtmHZqsnBynUni31Mfs7L5OVzBfe4TFGyYBdOAS5gagtCG8Ar5o5hJ-tB7eRgGTLJ1-2XG3sGVZwworzavahuluPCUA0zr5Y0kKmm79jWQrUVqTWklepmv9HAP_8XE1-Q="
+    },
+    {
+      "name": "키친팩토리 파스텔 실리콘 얼음틀 24구",
+      "price": 7800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=19610372&itemId=22901817087&vendorItemId=89936323498&traceid=V0-153-19b85b6b02b2bd16&requestid=20261110180116757041561436&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/rNWKgBC8tKXQMHjHrHEToZ_mUoknNeLfkGxzjub2Ulsvj6NEF49775-BElNgpERD3mb0A4RAmA1UeIBtoHJsYSr81-j21YI4JlFc5HiJhZbzAguVAPCfy5ceLiEQvwIoRHGPoXrRu87cd2YaxsrW4e_73SHeGhM4g549sKWONgO68prtx5r1SGb8aDyYDppTn01Bx8i-3ButyFrgqEUyo7B1ublW-wO1GYDhu5mp1RRuKE9pzfXb98Xckt8jLEJq8xThHGlRy56JgNTtAEBc3dOnuyd8ELFGhUQRGxwGDpSTMfuT_9nmh9RMgrhZzjFqtXqmKL9GKp6V6jbd2mwDpkNKOWwLZ-z9MvdAM_UGznKQjsPevGCrzmG2zmiJjjxAs0PQkcRo0Qtb0uUm7lOzr9LI0yFoha8eRXjeN9npbQb7end8RXy7k7ctHmrbx1NLJMMrqGVD33eRdtT42zYCoh3YF022pQrVqR2G0Hs4kGJyVteY_r-NG2_J4l7mtAiE9m_fQjoGgScnwv-DU1rTQQ=="
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 289,
+    "has_photo": true
+  }
+}
