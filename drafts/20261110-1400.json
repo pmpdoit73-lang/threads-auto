@@ -1,0 +1,51 @@
+{
+  "id": "20261110-1400",
+  "created_at": "2026-11-10T14:00:58.615960+09:00",
+  "publish_at": "2026-11-10T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥·세탁기 말고 — 냉장고에 바나나 넣는 습관 아닌, 실리콘 주걱·국자 대신 '고무 냄비받침' 아닌 → 수건 아닌 '행주' 아닌 '설거지 후 컵을 거꾸로 엎어 말리는 습관'",
+  "angle": "컵을 건조대에 입구 아래로 딱 엎어두면 안쪽 습기가 안 빠져 냄새·물때가 생긴다는 점",
+  "category": "주방",
+  "subject": "유리컵",
+  "hooks": [
+    "유리컵 30년 동안 이렇게 말리고 있었어... (9/10)",
+    "설거지한 유리컵 엎어두다가 나 뭐 한 거지? (8/10)",
+    "얘들아 유리컵 말리는 방향에도 정답이 있었어? (7/10)",
+    "유리컵에서 나던 꿉꿉한 냄새, 이유가 따로 있었네..? (7/10)",
+    "유리컵 엎어두는 게 깔끔한 줄 알았는데..? (6/10)"
+  ],
+  "text": "유리컵 30년 동안 이렇게 말리고 있었어...\n먼지 들어갈까 봐 입구를 바닥에 딱 엎었거든ㅋㅋ\n근데 김이 안 빠져서 안쪽에 물때·꿉꿉한 냄새가 남는대\n난 이제 컵걸이에 걸거나 살짝 비스듬히 기대 말려\n너네 컵 엎어 말려 세워 말려..?",
+  "image_prompt": "Casual smartphone photo of a Korean home kitchen dish drying rack with several clear drinking glasses placed upside down flat on the rack, small water droplets inside the glasses, slightly tilted framing, ordinary daylight from a window, cluttered sink edge visible, no people, no text, no logos",
+  "photo_query": "glasses drying rack",
+  "product_keyword": "컵걸이 건조대",
+  "benchmark_note": "내 25,637회 글의 '물건 30년 동안 이렇게 ~있었어...' 첫 줄, 5줄 구성, '난 이제' 경험 말투, 'A야 B야..?' 양자택일 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "호밍사이 304 스테인리스 컵건조대 컵거치대 컵걸이 다용도",
+      "price": 10990.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9745491242&itemId=29174032581&vendorItemId=96095420242&traceid=V0-153-5c33de12ceaae17d&requestid=20261110140128496254485063&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/_9o9KA_JSvNA2Pxi_9p3B8wGCdVUkw-m-0zFG90kBUHJmFDY5kGaTtu2iSF8-RUNVxgobC2_1E4iSdmKYWVULpmKfSbK83Ah6hDikAOAl-FHISpGz94z63cCJ9ZhrzywKovGKRe5jorIGk8Acq-8RFy_lInsJOppfhppzYwI97WQw1sDa69ZX4GooehlDNDaaMwiZ2sXlGfMOA2zyckPFkDnPRd8WQcMqgku_Md-k0r3gPGJs8hHskKes7DW_PNS48_kpSaN7J97vm7IoPPtg3Hplx8IvR7QGXa2-9cpkRJTnwhbedew6xtMpwQ1-72IHVMOkhVuC0NWVKSuJxQE3CFc2LJCEH22g_Hh7XAO4S5Jn3aHgeskigUsUMHXjJKnQAp6eAmg0z2zzelvEjN4SAZK2IAM4OMpA9nPNs2o-Z_JFDzxwYhipUTRNMGNvBB9qhn0odgu13-OyAYeLTBccxWzWF40u_ttYh4cUyaBNSlrCH4LgUsAnJiueAjn12viwmxTqzfjrP_p6-M6DorD3scJXj1UOAdcHcvYHKLSnA=="
+    },
+    {
+      "name": "한샘 올스텐 라이프 올스텐  식기건조대 컵걸이",
+      "price": 6900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9262307107&itemId=27406085477&vendorItemId=94371748242&traceid=V0-153-1682ce003cf57be5&requestid=20261110140128496254485063&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/Hh-d_wUBiElTNnTtHrYxpLDFeN6kLhmGoNJiHSb8fnMSBKgVbnFt9V6WJpk2w-WcJ1BWxFtZ_XMo5eiWZT-aqw8YTBwAosPMxsbKSYw5NkRFMiC-uaNMQ7utTUNkbJKy5jBJEnoNU3xxT-0i97DJW_mc-2-uPSjG9Rx5bloj11VUolYn9u4AGs8hClKCG8BV3pnSGo2nN6VkzM1OO6f9muA4GgiKPKL7Aoe_UuTQpyxiYem9c0QwluOJMM108A6pw2t1zsAWZvv1p_o4Z8ieiUNfWkMiHmTrxLVHg8hv2tAMwTQvK-7iUVvcyzzjOygUj_jeSRUFGsvK-hOHN4AYAAJqablShSubQyD6ILRDCHb0RAuV8hGGTfC3J4Bo3ZaBqqHSc_aB6BQ5zgAavZsn3ylQEpfsMXDL0lLuHDmFzGAgZdXtK_6lNg_YsQ5gOxMP3HvCNNquuLUpASoIFYfrLlP15r40GUyo97ltldIW29_ESMYZZCiJHS4XUZWQxmaePwSFYlGzzizBXoymPMum"
+    },
+    {
+      "name": "아르본드 공중부양 스텐후크 컵걸이",
+      "price": 5800.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8921294183&itemId=26070116785&vendorItemId=93051206879&traceid=V0-153-3b2938c3f9de10cf&requestid=20261110140128496254485063&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/GsFHUIgU24-oau2hGs--CQuzh4lBUsek_KqPk7QsfgqaDq6mQUZiWxfKtUUZMhMnUopOnwPt9f-k3KGCH7Wydzdj4JPQi0OH7xdpQyFM9IBEqo2CwlEyZPhi4Bw50gOb14DourHGel4ASw-WB7fd7LBYvd3rOLdOXYtVssn2NlLlrTnfA_gGNS4SawcPCLJ37495v_GPpNQgEewk1o2DRQLlGE2u1sAtTm0kwUeIuJtXYssxx2Hi4x7R7TFc9CV82osAg1iVK3CVYa7ycIDTy862xj1MO8-pMkmesimoI33-2tDtgt8oP5H-lIBfrWFqFQTSAdpIyrjyBWFzM9Nmht5vuV6mUaqvdiBUaFFrlhxPEpIWbqMfAsdsFmP5GOX1LjPo-AjHJDQe3lDXoKtWH9xs-0f2zgUyxr4Y7dmabCBduzcZT6_4kYpz2v5JcsD2dPLPEFJ9HM3jnVL8FOJqDyDpdBp6NjLXHhq8LaMJtqgATFRjQeMClEuXSD_rT5N4uJIBBRFzO5l0sw1vWBWuA-PL8I0bOsQ9t-cKqjlTl4Sz"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 288,
+    "has_photo": true
+  }
+}
