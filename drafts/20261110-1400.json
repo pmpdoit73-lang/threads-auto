@@ -2,7 +2,7 @@
   "id": "20261110-1400",
   "created_at": "2026-11-10T14:00:58.615960+09:00",
   "publish_at": "2026-11-10T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥·세탁기 말고 — 냉장고에 바나나 넣는 습관 아닌, 실리콘 주걱·국자 대신 '고무 냄비받침' 아닌 → 수건 아닌 '행주' 아닌 '설거지 후 컵을 거꾸로 엎어 말리는 습관'",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 288,
     "has_photo": true
-  }
+  },
+  "threads_id": "18120775378974060",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfjiZVzljpd",
+  "reply_id": "17896193013437361",
+  "published_at": "2026-11-10T18:02:18.242714+09:00"
 }
