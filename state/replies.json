@@ -828,7 +828,7 @@
    "reply": "뚜껑 있는 거면 먼지 걱정은 덜겠다. 대신 안에 습기 차기 쉬우니 가끔 열어 말려 주면 좋더라",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-07T18:20:44.196479+09:00",
    "message_id": 266
   },
@@ -842,7 +842,7 @@
    "reply": "고인 물에 닿는 게 더 싫은 것도 맞는 말이야ㅋㅋ 그럼 바닥 물만 자주 비워 주면 위로 꽂아도 괜찮겠다",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-07T18:20:44.196506+09:00",
    "message_id": 267
   },
