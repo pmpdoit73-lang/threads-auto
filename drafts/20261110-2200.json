@@ -1,0 +1,51 @@
+{
+  "id": "20261110-2200",
+  "created_at": "2026-11-10T22:00:59.745476+09:00",
+  "publish_at": "2026-11-11T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥 내솥에 바로 쌀 씻는 습관 말고 — 냄비 아닌 '실리콘 주걱' 아닌 → 행주 대신 '수세미' 아닌, 주방 고무 냄비받침 말고 '전기포트 아닌 압력밥솥'도 아닌 → 마늘을 다진 뒤 바로 냉동하는 습관 말고, 양념통 아닌 '소금을 가스레인지 옆에 두는 습관'",
+  "angle": "편하다고 가스레인지 바로 옆에 둔 소금통이 열기·김에 습기 먹어 딱딱하게 굳는 걸 몰랐던 점",
+  "category": "주방",
+  "subject": "소금통",
+  "hooks": [
+    "소금통 30년 동안 이렇게 두고 있었어... (9/10)",
+    "소금통 흔들다가 나 뭐 한 거지? (8/10)",
+    "얘들아 소금통이 매번 돌덩이 되는 이유가 있었어? (7/10)",
+    "소금 굳는 거 원래 소금이 오래돼서인 줄 알았는데..? (7/10)",
+    "소금통 숟가락으로 깨부수는 거 나만 했어? (6/10)"
+  ],
+  "text": "소금통 30년 동안 이렇게 두고 있었어...\n요리할 때 손 닿으라고 가스레인지 바로 옆ㅋㅋ\n근데 불 열기랑 냄비 김 먹어서 그렇게 굳는 거래\n난 이제 불에서 30cm 넘게 떨어진 찬장에 두고 쓸 만큼만 덜어\n너네 소금통 어디 둬..?",
+  "image_prompt": "Casual smartphone photo in a Korean home kitchen, a small plastic salt container with clumped hardened salt and a spoon stuck in it, placed right next to a gas stove burner with a pot on it, slightly tilted framing, ordinary lighting, cluttered countertop, no people, no text, no logos",
+  "photo_query": "salt container kitchen",
+  "product_keyword": "밀폐 소금통",
+  "benchmark_note": "내 조회 2.5만 글의 '○○ 30년 동안 이렇게 ~있었어...' 첫 줄+ㅋㅋ 고백+'난 이제'+'너네 ~..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "위티미티 눅눅함 차단 방수 원터치 실리콘 밀폐 양념통",
+      "price": 5200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9312382504&itemId=27594927978&vendorItemId=94608868624&traceid=V0-153-841cc0968e7873b1&requestid=20261110220134925286004478&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/LDzN0wC-by4pEwjJLOLoZHUK6ulVO6PgyO3QOpo_E2iDS0UG0YdoCjWuJIGfiiW1wtYGBSSCJdgyjeeoMHxd86pocmx4yKstDagEyNN47JWecUslTZx7n2E2dvPj8crgt3dMWerBlv8ymZzBQCDoBtPTdmkIIRYC-iK6XNJizf_sRjsZMcJugn7F8tnhTQ0qpWdYZvz1TdAnOFWy049FdeOFtAoApwd0kOeVEhVNIiS43725hwxwSpsf_JdAE2_JbJDlL-LWZ7bo8ZYwdBB9khXJzOrimTZ6Bmm6BOyD7lbuM-HMAUnc1n2X-GYaDOblxbomgkwrl8ExuMdyoV1RUIIRSkVipJRRrgLccBbP06_YCtVN_vOUh7yUFz_dQkeMC91bO9AkbSVUXbW25kq6d9TtgYRJI26RL1qQv0JeXmiNYpLlQdDbggNzMxcVDSuuct9Mq-JfUgFuKmKSqmDLrkSqFaeI4UDpNCFqDlvfbUqe1sPp6z0t1JJmMhwhropYBNVri0Cy39kYAhhrtTCS1N-k"
+    },
+    {
+      "name": "리빙패밀리 3구 조미료 통, 400ml, 3개",
+      "price": 5200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9701967685&itemId=24450658315&vendorItemId=91464502931&traceid=V0-153-96854cdd53a84b84&clickBeacon=dbab3990-dd06-11f1-a33a-84cc039a37a1%7E3&requestid=20261110220134925286004478&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/L8ndufmnkEuBTvGgL9s6jSFadpWSMYyslsOxKZNtROq2RAFLtzzfinXHqfJjE9pVqG4zdoXHuWD8BBvoi7ScsOSHjiklpcWBPD6X3Gr4C1YEssraOk9uz-XvYDlQfJKhjuyvVZuYsQEVrGXVJ3pi18wuQBogRzD0XNNpzDTD2IwZqT-wIL6WeTHzflVTXdg3zsfWejxm_LibA6IItRcYkUySamP0znEKsbWnVkeGocVmEdWtDwT69Vzp0inu5ksn8Te8I0bNfQv5WsH2ujkn2MK_yy0oQCD1QCkeTkq-hVxrOOrL5YPtcr5uG1ioE0-cFKxI1J54WlaTHSdwPWpybwBNF-Yt3xzYaB-oRYLddvTyhOd-4KVVNiyuoU1PEWhg1xMpSSpR_CnL9bAi-GxnKczv1QnQ1dE18XXxw7Azl_xv1TMOU_SpbipW6ZLzUvKF5QIqK2wOsQLeHUWKohy2O3BCAKUSR-J-4yrLU3pdkF5_u7xyE6WlhlO67Fo1VxqeHJGVJl4jd4s="
+    },
+    {
+      "name": "키치킷 스푼일체형 밀폐 유리 양념통 길이조절 스푼 조미료통, 3개, 300ml",
+      "price": 14900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9065445579&itemId=26802684814&vendorItemId=93593528960&traceid=V0-153-a6c6b272c47249d3&clickBeacon=dbab3990-dd06-11f1-83fe-63a7a8b72bd6%7E3&requestid=20261110220134925286004478&token=31850C%7CMIXED&pt=1&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/t4WKp0oUokU_n0V7t37W7yYEadIeKgbo5_oekiptv268eGPhDafsSJ4kwKh4VTxdY0YOsqpLY1HW6yIAOKkAabD_cCM_ThwH5KhXJjDOfjX1Bb7nL52dD231pf4U_7_T4dvLT7wlsUkXA-Q8LU8INx8YaAjlAnj2u8PrGdrwP7c1jI-mxw5-KURcRumoL7hVCbR92wdZxD65_koGcwAm1visDCVxXfXVxi4VhOsPze6k7Guqrz6-JbS4_eAQWm-powPGZOJlmc5rbBKGnh6XzfKUwQ3tFa5MTVD0AFlXnonUKVWAFYXL-pUccJ63-sgcfLw7a-x2cffl4Qq5GbFXdBYzcY53ePO9T4Plhuh3nbUbW2Fc1ioGLZDKP2kxARItRq8XVOAlGroML1tXXk5o5m3dguJ1oIDSv9l0dDu5qB37JRAwj5uolUtiGWE2GiqM250bz53fEZHVJcydf3v1btxNPgzRcaTE6akfvlCavPfrUMYPHFI1jHmlbmF9S-GUfFUXl2THNu84PRTwWH1kNOp_blZq-F9J"
+    }
+  ],
+  "image_note": "제미나이 생성",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 290,
+    "has_photo": true
+  }
+}
