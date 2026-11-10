@@ -2,7 +2,7 @@
   "id": "20261110-1800",
   "created_at": "2026-11-10T18:00:58.071105+09:00",
   "publish_at": "2026-11-10T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무 실리콘 밀폐용기 김치 냄새·색 배임 말고 — 냉동실 얼음틀 얼음을 몇 주씩 그대로 두는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 289,
     "has_photo": true
-  }
+  },
+  "threads_id": "18127883977684581",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Dfj257TlOxq",
+  "reply_id": "18102371165642045",
+  "published_at": "2026-11-10T21:01:29.650393+09:00"
 }
