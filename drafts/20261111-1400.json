@@ -2,7 +2,7 @@
   "id": "20261111-1400",
   "created_at": "2026-11-11T14:00:57.491341+09:00",
   "publish_at": "2026-11-11T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치통·밀폐용기 아닌 — 행주를 젖은 채 싱크대에 걸어두는 습관 말고, '고무 냄비받침' 아닌 '실리콘 냄비받침'도 아닌 → 휴대용 가스버너 부탄가스를 끼운 채 보관하는 습관",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 293,
     "has_photo": true
-  }
+  },
+  "threads_id": "18144554392521963",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfmHFrNFgaY",
+  "reply_id": "18321048706304114",
+  "published_at": "2026-11-11T18:01:20.013088+09:00"
 }
