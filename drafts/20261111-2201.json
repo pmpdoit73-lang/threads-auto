@@ -1,0 +1,51 @@
+{
+  "id": "20261111-2201",
+  "created_at": "2026-11-11T22:01:40.822823+09:00",
+  "publish_at": "2026-11-12T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑·수세미 말고 — 키친타월·행주 아닌 '참기름을 냉장고에 넣어 두는 습관'",
+  "angle": "참기름을 냉장고에 넣으면 굳고 뿌옇게 돼서 오히려 쓰기 불편, 서늘한 실온 보관이 맞다는 걸 몰랐던 점",
+  "category": "주방",
+  "subject": "참기름",
+  "hooks": [
+    "참기름 30년 동안 이렇게 두고 있었어... (9/10)",
+    "참기름 꺼냈다가 나 뭐 한 거지?.. (8/10)",
+    "얘들아 참기름 병이 왜 뿌옇게 됐는지 알아? (7/10)",
+    "참기름 보관, 냉장고가 정답인 줄 알았는데..? (6/10)",
+    "참기름 냉장고에 넣으면 굳는대 (0/10)"
+  ],
+  "text": "참기름 30년 동안 이렇게 두고 있었어...\n비싼 거라 아끼려고 냉장고 문칸에 쏙ㅋㅋ\n근데 차가우면 뿌옇게 굳고 병 입구도 끈적해진대\n난 이제 뚜껑 꼭 닫아 불 옆 말고 서늘한 찬장에 둬\n너네 참기름 냉장고에 넣어..?",
+  "image_prompt": "Casual smartphone photo of a glass bottle of sesame oil standing in a refrigerator door shelf, oil slightly cloudy, next to sauce bottles, slightly tilted angle, ordinary home kitchen fridge lighting, no labels readable, no text, no logos, no people",
+  "photo_query": "sesame oil bottle",
+  "product_keyword": "참기름 오일병",
+  "benchmark_note": "내 글 1위 '○○ 30년 동안 이렇게 ~있었어...' 첫 줄+ㅋㅋ 고백+'난 이제'+'너네 ~..?' 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "인블룸 원터치 스텐 오일병, 300ml, 1개",
+      "price": 5170,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6850324992&itemId=16317305876&vendorItemId=83509459056&traceid=V0-153-64c201542316534b&clickBeacon=13755a30-ddd0-11f1-8480-d944dc5d2c86%7E3&requestid=20261111220157371231449586&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/P_mEtTPVhnUrgMatP-swu9bessM4z_bao-vfSXW1MqPRfnvZqr2u8MqbDDcGIg4HwkK5IKHv-V9hI6cUCFfYBftmM5pvoen2kzuHRzDgaT7ZGRsN0tYY6CAD8qGlxdU5TnJcFN3uY3evdvLFwn-9ORLTKnpazeHS_CHbEcOytfPu16ollE_J3yxplu_YJDpStNAj6nLtWCpKDTnhRGU2TLXaFzI9j6BX7mRXgu8xy_rU8Cd59NST0JZDrofFo6Iwet5aTMAGYBbMyeXpUaT-kUxELFDS7W1_RtRaJRsrSF0thkwI9MMDdmoUYm0aK5qO_Uy20M5m_dYCSST5_fPmySGUAvznC7hrMGH9MmizCuzX3E_P8_4LdNtkRp54rNw6CvgF3CWsa1yyIxEempfZlUsWx9Hw1HSoh_JVFmHwFPAl_IXQ40HWRAitMRUUhtKWjoOnVwAS5FKmkSW0IM2Gvg2i11_JuNdoZRfVV87H_r54T8Cp6J6dczU_VJFuzKHXNkNdwr558nsnD3aZ6kUyqsTfaOelVFqpaXyZZkRyCHTrFVTaOA6JcU3A4r3qR9CqA_t8YA=="
+    },
+    {
+      "name": "1+1 네오플램 식약처인증 내열유리 자동개폐 오일병 화이트, 2개, 500ml",
+      "price": 14900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9715375773&itemId=29070587640&vendorItemId=92046830764&traceid=V0-153-7d9ab1bc307164fa&clickBeacon=13758140-ddd0-11f1-8eaa-7a2d4cbb291b%7E3&requestid=20261111220157371231449586&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/UDoJXO5iB4WtGoEIUBSQTezZ6cp55jhVyGPAqDaN10ZnBx4xxgis1AaxqiIVeHuMw42t_3RwjlFFjhkHgkt8ysSfUh9ZO-Y4v4bclMNa38inTSg4sTtA1jEdJzwPR1uvYo7rHriR3eJvxehgLh3AVrAARr1aaq28jr1mY4FPd5tdDDtZQmIcmTkgXrF5iHupWg397Xz_ZqV_M3YmWu1Hpx8HZICMYQrdcI_5u21W9W2vD0URZr6mI_uOXpp9N0LZ1Bc7npZbKdcTGO2GbCMJXabAEqYV89Ymeb-zvTDT0IC1LwTaMCeq0AQYw3E897ta0vNp0vrY5_IwdpqO00uIIzVw5VJ46uvehRIf13oMcyaDuQJU5-pscbmOCDe80qfkjASgt4pEbOPXt6bLTt4lyKLZJBuhXyJZyWLvKG8OJGKwGnsPj0j5Uw5zoaMrOVZzdVLUb2Y5mst1GUDeSskTJWFlpDhTrDGdKNQvnKa6LNlYM4Vhxbd5tj83cQUTBARBIbpAeHPmlhG4MgtDGUsG2DOLqYr3oKSZe0_NNef7Pc-KXj1PUyHnXIqAt9W_mEu3xdRMbvFr10hIM3ngppYtTpMaDgI="
+    },
+    {
+      "name": "씨밀렉스 실리콘 오일 양념병 퍼플",
+      "price": 5060.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7716290859&itemId=20696709494&vendorItemId=87768117897&traceid=V0-153-5ade3d5ce38a2007&requestid=20261111220157371231449586&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/pUk6fIZ-_nH1zpCPpboKpHMREY4Zd7byZaOyfxZPzG0qAosfxSz3yNFoSOIDQP7sCVHHAAsVfgXQhi9n8pgmfKdfzQ0YGqGBUZtCP8i3uGIAGaZmyvpkItsY1tayTIZYS05t-ln_t4Vs8TZ9NKKTiOeWE1tX_Ge1OXfUgapUNd7SiQqDy_S9RCwVLRfjA1vxUCK6wM-gzQH3ixGoKP3Ire8MgDc_Vs8F9IB8d4FtdoHrXBUWbqwLer08J9BJC2iHweJjDzEdUUCOPLit4yGfGx6ZwGRYVtMHgVGsKOctJHtcV6kY9KxaDkZSBycsVESNhHZNg2weHr_4RaplzTU-mWGTEU4LtQk7DT0QWJEs1150UwuK3eZkKuZtfxjGaLnA0HMClqRGGMgi1p2iJcehL9_ahUBrh8G4A-ni9hjqjjiIO80iuIGP8JtiVRUi5r9af9FOcrTFSdrBh6ymj3OIIhqixOoMjUGCJo6pH9uD5hyi9cY6L9ZNQhIvaVM6k8orN_88UT0bJsnbWnXbLrQYvtskNU2WW-QpFPnzWO3v2lm__AX3buDJmgOoMemdyQJoCBqGcWdQ_s8g-CP32rQ0xg=="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Supplements On Demand)",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 297,
+    "has_photo": true
+  }
+}
