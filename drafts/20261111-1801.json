@@ -1,0 +1,51 @@
+{
+  "id": "20261111-1801",
+  "created_at": "2026-11-11T18:01:47.175715+09:00",
+  "publish_at": "2026-11-11T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 김치냉장고·세탁기 말고 — 칼라 스펀지 아닌 '빨래집게' 아닌 → 옷걸이 어깨 홈(끈 거는 홈) 용도",
+  "angle": "옷걸이 어깨에 파인 작은 홈을 장식으로 알고 끈 원피스·나시가 계속 흘러내려 바닥에 떨어지던 손해",
+  "category": "청소·세탁·정리",
+  "subject": "옷걸이",
+  "hooks": [
+    "옷걸이 30년 동안 이렇게 쓰고 있었어... (9/10)",
+    "옷걸이 어깨에 파인 홈, 나 뭐 한 거지? (8/10)",
+    "얘들아 와, 옷걸이에 이런 게 있었어? (7/10)",
+    "옷걸이 양쪽 홈 원래 장식인 줄 알았는데..? (7/10)",
+    "끈 원피스 맨날 바닥에 떨어져 있던 이유... (6/10)"
+  ],
+  "text": "옷걸이 30년 동안 이렇게 쓰고 있었어...\n어깨 쪽 파인 홈, 그냥 모양인 줄ㅋㅋ\n근데 거기 나시·원피스 끈 거는 자리래\n난 이제 끈 2개 홈에 딱 걸어서 안 흘러내려\n너네 그 홈 뭔지 알았어..?",
+  "image_prompt": "Casual smartphone photo of a plain plastic clothes hanger hanging on a closet rod at home, close-up of the small notches on the hanger shoulders with a thin strap camisole hooked in them, slightly tilted angle, ordinary indoor lighting, cluttered closet background, no people, no text, no logos",
+  "photo_query": "clothes hanger closet",
+  "product_keyword": "논슬립 옷걸이",
+  "benchmark_note": "내 글 세탁망(조회 2018)의 '30년 동안 이렇게 쓰고 있었어...' 첫 줄+'장식인 줄ㅋㅋ' 셀프디스+'..?' 질문 끝맺음 형식만 가져옴",
+  "products": [
+    {
+      "name": "진심감성 어깨뿔방지 논슬립 옷걸이, 화이트, 150개",
+      "price": 88350,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7910710510&itemId=29192812783&vendorItemId=96113583762&traceid=V0-153-c8d16cf08d073859&clickBeacon=916cca30-ddae-11f1-b58b-270050e6b888%7E3&requestid=20261111180205824082509581&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/YrlspnSeeKcPn_KMYrlbsiyT7mB7LsuCoeiogQsH-_E1Gl_SCTt9Exci-A8agwt-4YK4MSPQkf1fwrhVxJ_Mjmkzdvl9tWdUasc7qWPGGdO2UQcgp_c3DBR8bzLyECPtXy0C6z2xf3eM14Cx6hM1Qk3cz9EH2pwEgLB4cis7vy4PvnELVa_UAnBget4j1MLEP-L-ioEncLXr8ll3G_zxRXQ77sOkQFuZU0HGFuuQmbmRZIzFZ-AanSIiKWedH8HkrUQjFFyDFFfxVJM9Zu9OPjjN1kL87-QBh5WEefKtsvCTITZAzNM31rb8HAzCcEJ_oAJfJo7vMHgZ2CcrBcs_-mf4-OOH51p8BhHvQVCIBXnUVBx3wPIOgBQKnvxSRd3fC5dwuLfltrpj78Lx1T8zPapCf7Xl3F485I7_jZaLBXpZtZx9dh3ffx1C3oD_JbdWtSd-viXM_MpNitETpxSAIqevS2NIuxZZIdu-PQmuo8KK4G_n1UbVPdLxOxrrSti7DDZY38zz0w8yJkU="
+    },
+    {
+      "name": "진심감성 어깨뿔방지 논슬립 옷걸이, 블랙, 150개",
+      "price": 88350,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7910710510&itemId=29194236473&vendorItemId=96114947215&traceid=V0-153-c8d16cf08d073859&clickBeacon=916cca30-ddae-11f1-b5ed-0a623e208db8%7E3&requestid=20261111180205824082509581&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/OhcI3-B_olShkqI6OifhPYxt5136-2gB3ZIa1TftvJQmzZfocFjjHJFvcVgMxGKB1DVzpR-hHH2E4OyKu9ze1cxmIjA8osW5UjtOZ1vLICRlkXlKqtBijqHqGazub88lHX5c4GNG13f7soMY-7kXgqEc9thrj5-8KQFGG-DgREFsQF4h1PvcmIJ9AQ9LoxxTgVz1T-VkYTona60mNAYra-JCgvpC3Pi1wPalMqydlyiBozm9JFqwaTOhr8TYYaNDcLqElXkiKPbnwx83YT2_-RfWCyzWKkqz-ZbEIy1Cw0s984LZkZIvFawan0DAMxsoSJ-Q_6M3Vh3vlqAGwX6dWn61cmIAmk5PLeNBhU9gJKYg57uz_hwgvstr7B5f1GaVh8yIZ4rCJ0ufHDzeEJ75vgv7ymPs8qflxg8jb64sOB85cYBG6Mnx2gfAZbSMjWpjj8TgHgvZHNNd9XPOrbTddHWAZssmq9IRv48lWREYBhR694MpXosGAQ7X0iBIsiN-0Gkmi2y0qFx1W7Y="
+    },
+    {
+      "name": "코멧 홈 어깨 뿔 방지 논슬립 옷걸이",
+      "price": 16990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6643638905&itemId=20016298709&vendorItemId=82417515321&traceid=V0-153-7f941171cd60ce24&requestid=20261111180205824082509581&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/wGWmn9NGqu0Zp7xjwFNa0dF-eKaWx_a11laK9lkuYF-5WgLV1xY9atgLUE8bhyIhLQEpvSTciBeQ8ZPX-8eMm4vTv_atTnMIPv6iYzySv6W0qvW3su1KbvGo_qbD5We-au76GyTHQLjKwPtGGD2OVrDNcWic__FKWX5Sck3hekN9hfVvLY0YEf4-dv46QQ_v-r4hVwZIFZTJqPPR-B8Gapr6A7gPYtIJz_9MgRSp7bHmCYIlzSDvVBkyFUSkW8tbtdPTfK6qoDMD5kTXmOwSFd2Ip4-Z9XN8l17_owzJnAw9i3nJfBqPDJ7gooHnQzUx0GI1MRITdaDJp-BKUtbG4txr20WSwqZxSf3XtFtMTKGmA8kd0U9kaRvZ2XdUpsL5dT5HAPeCOwf8_6uGyA-17l6pf5sHoB3BC0RVCm8DWeAYVuVOBbouVXWEYP4nk16_pv6MTJd_d656WtdgFZ_3qaSx0M7-nEenizpWBcmYAhU3Z-c8WOQsUm08b28OmBiEt7Wu_fiZUOG9eddeVg1zEcUP"
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Fahmi Garna)",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 295,
+    "has_photo": true
+  }
+}
