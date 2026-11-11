@@ -2,7 +2,7 @@
   "id": "20261111-0801",
   "created_at": "2026-11-11T08:01:00.435887+09:00",
   "publish_at": "2026-11-11T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": true,
   "issue": "오늘의 대박 공식 글: 세탁기 코스를 늘 '표준'으로만 돌리는 습관 (세탁기 온도 글 후속편)",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 292,
     "has_photo": true
-  }
+  },
+  "threads_id": "17996438358051747",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DflXBZwIFBy",
+  "reply_id": "18107472662005284",
+  "published_at": "2026-11-11T11:01:31.257377+09:00"
 }
