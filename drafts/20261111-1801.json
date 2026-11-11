@@ -2,7 +2,7 @@
   "id": "20261111-1801",
   "created_at": "2026-11-11T18:01:47.175715+09:00",
   "publish_at": "2026-11-11T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 김치냉장고·세탁기 말고 — 칼라 스펀지 아닌 '빨래집게' 아닌 → 옷걸이 어깨 홈(끈 거는 홈) 용도",
@@ -47,5 +47,9 @@
   "message": {
     "message_id": 295,
     "has_photo": true
-  }
+  },
+  "threads_id": "18203015899390941",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Dfmbr_llvSE",
+  "reply_id": "18187389712419558",
+  "published_at": "2026-11-11T21:01:32.657827+09:00"
 }
