@@ -1,0 +1,51 @@
+{
+  "id": "20261112-0801",
+  "created_at": "2026-11-12T08:01:27.295431+09:00",
+  "publish_at": "2026-11-12T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 수건 한 장을 며칠씩 걸어두고 쓰는 습관 (세탁기 온도 글 후속편)",
+  "angle": "한 번 닦은 수건은 깨끗하다고 믿고 사나흘씩 쓰던 습관이 쉰내 원인이었다는 점",
+  "category": "청소·세탁·정리",
+  "subject": "수건",
+  "hooks": [
+    "수건 30년 동안 이렇게 쓰고 있었어... (9/10)",
+    "욕실 수건 냄새 맡다가 나 뭐 한 거지?... (7/10)",
+    "얘들아 수건 한 장으로 이거 몰랐어..? (6/10)",
+    "수건 쉰내 범인이 세제가 아니었어...? (7/10)",
+    "수건 매일 빠는 집 유난인 줄 알았는데..? (8/10)"
+  ],
+  "text": "수건 30년 동안 이렇게 쓰고 있었어...\n몸만 닦은 거라 깨끗한 줄 알고 사나흘씩 걸어뒀거든ㅋㅋ\n근데 젖은 채 걸려 있는 게 쉰내 원인이래\n난 이제 2~3번 쓰면 바로 빨래통에 넣어\n너넨 수건 한 장 며칠 써..?",
+  "image_prompt": "Slightly damp beige bath towel hanging crookedly on a metal towel bar in a small Korean apartment bathroom, white tiles with a bit of water spots, toothbrush cup on the sink edge, dim ceiling light, casual smartphone snapshot taken at an awkward angle, slightly blurry, no people, no text, no logos",
+  "photo_query": "bathroom towel hanging",
+  "product_keyword": "호텔수건 세트",
+  "benchmark_note": "내 최고 글들의 '[물건] 30년 동안 이렇게 ~었어...' 셀프 디스 첫 줄 + ㅋㅋ 고백 + '난 이제' 경험 말투 + 사람마다 답이 다른 '며칠 써..?' 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "메종드코튼 BLUEY 타월 190g 40수 면사 3종 선물세트 + 쇼핑백",
+      "price": 36000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8404750972&itemId=24297385300&vendorItemId=91313402006&traceid=V0-153-ff28442c0e52f46d&requestid=20261112080152124321876686&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/I5u9AEJ-U9ok9Rg6I5OLnnyLDsbvxL__vVGieD9rwRmVUDkiz6M7TjgK_rny5aN5PUAccsn4Pmxmp_-kNXujF-HzPYDWeGi1MXyh5aHj5LYKP-W0O82FglZaMxxQeN4EA67XYJwtngNBdjTYRmlJK5CTYCqONtnDdIB9oA_EdQ5S63-NsRVbHZcfy-I6x31i2lhQ-TgDp4WfZRsCjyXLcGvNvWanPze2eczQhq9jZ876gLH6S8coX2l7uYbyJr0A_kATDoMSw-Uum4XHKhML6z856wq9HFAL_w6QkrY71pfWjTUvUtEW2oOWRB7bTlut1rshMtZ_4Ed5fNBIt7-MqRj3PeNhEf1LoORIrQjVKpdzlq-6LZhiAMEPHWe4Hw2exLs4XXPcj9Qg3jvZgUvem8crcLsbf3OQ9ih-B2WxXM581bZSViX-hzxWWCVRYOAM1LH4apcnxIlpwABAb5udewQ1i0v5LyaayGhh_hRlmJcsIsQ7mJUDr5mNufxKj4voTbOaZ5pXInWk4Y4pbCospgw9pHgX-GmY-HGM6eXUCw=="
+    },
+    {
+      "name": "크로커다일 워너비 호텔수건 200g 40수 코마사 아이보리 2p + 스카이블루 2p + 네이비 선물세트",
+      "price": 35070,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7551086033&itemId=19872335573&vendorItemId=86043249141&traceid=V0-153-444d9b1980a02e00&requestid=20261112080152124321876686&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/chNYIy2gH3mgMBIpcv_IDA3IjLpDakKU9oIJWqAWREBpYS_IUOR-lLMqsXi1wmlaWHVMZZB8ZTkes1SuH070oCeUyxjVGcoSnh9K1qRNTzLZ3L47u6RJo5yh7y_mb8zX3At1D_Ak-l71tJRpHzpmL0qhhIdtdY67b8W-pHplpBqjOCiCW3SAxaZ_MY01pB3_BUgFXPlTHBGm9egmsGZUh_mEsVOTwCGceYWTIqZLmD3-2SCONT8IY4sVLrUcErnmqDIey176SWn1fuzwh_t3DEiL7YSE5nHF-d5aZNC_3QMDgmAJS69YV47cmDQlAxF-7EU0n8r-T0osnT45eRbAzyNYuhaNcdM_KcbKmMavR6xfxw0Gd6j57EVmDQfBHMPpW2cfFVaZRQeB6VKjtH4-vOJZYJZ0dgX5LMXndXnY5OltiL7RZ-Oo54i7KG7fnZqb31YjxzvLiFGNfo3qr084fZ7n4B4g_Gb1oZOmU9XAwsUReV6wjjWCc5RImpvjk2KdLKn-vy1EAm6bAXN5wX3NTMdEydymwLPnkrGjBgcCpks7"
+    },
+    {
+      "name": "테리파머 고중량 모이어 자카드 호텔 수건 200g 코마사",
+      "price": 36900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9653078907&itemId=28853447776&vendorItemId=95787152100&traceid=V0-153-e4ac38e208c8823a&requestid=20261112080152124321876686&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/HVPfRfeJ09jJ8cJ0HZtgeAoQZroIbVYC7BVPANVzAdFaQQhxhyFf-q8BRo5J949s2zvhQZ8zxXwDuY8KDVGgvpiNA5q7HW8tFjoVoQIpDkYm00YbRyhuTcqXe7mjrtxSq9GV-y7yZ5qXPfQbrK5xomDMjcMiobmfKdSbeCuT4NYScoKaN0WcO1kg-gdAP8dwhj3HRDI9UAe9XzvckAKJF8F1cp22TNKWWkXkHVi_Z3V_POK2ZJ9zG7ozVBcbmke2pF_-SZg72GlKLXZyDJ-Cy6Az8pTFts-6ARySIPjQl9RuoPXECDuA5bIeloGwB__qkEK9Y8C-l5wDkB6I0a7ko94qpFHMEG9FKpt9oSSvQdiKcKbPhq3zJXcRxM3yvvi5DC8emSaoJSdM4lR1_D0Ox9WSGN6ZCBar1BmzQL2zNhdhzxo6C4GjO-lfpuSehMiJZTckW2nrN_h-9jeQHdXBBdBgtA-jPhTYuaiX5l6yAB1YFVERYTP_qpTWozveaRHLLeqMZ2EWAvbo4PqOQXAyouA="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Dmitriy Steinke)",
+  "has_photo": true,
+  "format": "both",
+  "message": {
+    "message_id": 298,
+    "has_photo": true
+  }
+}
