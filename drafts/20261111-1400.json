@@ -1,0 +1,51 @@
+{
+  "id": "20261111-1400",
+  "created_at": "2026-11-11T14:00:57.491341+09:00",
+  "publish_at": "2026-11-11T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치통·밀폐용기 아닌 — 행주를 젖은 채 싱크대에 걸어두는 습관 말고, '고무 냄비받침' 아닌 '실리콘 냄비받침'도 아닌 → 휴대용 가스버너 부탄가스를 끼운 채 보관하는 습관",
+  "angle": "다 쓰고 부탄가스를 버너에 끼워 둔 채 수납하는 흔한 습관이 위험하다는 걸 셀프 디스로",
+  "category": "주방",
+  "subject": "휴대용 가스버너",
+  "hooks": [
+    "휴대용 가스버너 30년 동안 이렇게 넣어놨어... (9/10)",
+    "가스버너 정리하다가 나 뭐 한 거지? (8/10)",
+    "얘들아 휴대용 가스버너 이렇게 보관하는 거 아니었대... (7/10)",
+    "휴대용 가스버너, 그 상태 그대로 찬장에 넣었지..? (7/10)",
+    "가스버너 레버 원래 그냥 손잡이인 줄 알았는데..? (6/10)"
+  ],
+  "text": "휴대용 가스버너 30년 동안 이렇게 넣어놨어...\n다 먹고 가스통 끼운 채로 찬장에 쏙ㅋㅋ\n근데 그러면 미세하게 가스 샐 수 있대\n난 이제 레버 풀어서 통 빼고 뚜껑 씌워 따로 둬, 40도 넘는 데는 피하고\n너네도 끼운 채로 넣어놨어..?",
+  "image_prompt": "Casual smartphone photo of a portable butane gas stove with a gas canister still attached, placed inside a cluttered Korean kitchen cabinet next to pots and plastic bags, dim cabinet lighting, slightly tilted angle, ordinary home snapshot, no people, no text, no logos",
+  "photo_query": "portable gas stove",
+  "product_keyword": "휴대용 가스버너",
+  "benchmark_note": "내 글 조회 높았던 '물건 30년 동안 이렇게 ~했어...' 첫 줄 + ㅋㅋ 셀프 디스 + '난 이제' + '너네도 ~했어..?' 5줄 형식",
+  "products": [
+    {
+      "name": "[특허받은 국산 회오리불꽃] 몽비오스 국산 고화력 휴대용 가스버너 바람막이 가스렌지 내외연식 26년형, 1개, PGH-2002",
+      "price": 52900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8987334168&itemId=26321047724&vendorItemId=93298436002&traceid=V0-153-b5d5c78629c6cfc5&clickBeacon=ed87dca0-dd8c-11f1-b643-51ec164b427e%7E3&requestid=20261111140117496169557741&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/HEFrUFBlGOTwJC90HFYo-iOenqiBidgmVQM5mWuFklEBBSevhb96DReGg2h6KiDMr15AqUEKTNX3Z63XFWhX--w8Yzykvf_akVEGUjPHrNm-m3FZ_2iDSALM6r9yH5zwf_Yhi-0iebwhJhoyqmuxu_rqBgK7FF9U3Pzd5o8qhf4-wfLT17FTCHIZihE6-x4aoit0TWBVL2hmMh0qEQ2g0fmdInXspaVAiaOpRF_d6koWVzU006hNIJHAbjY7ULcKaKk0RIyKxaUTyhZcY_22Z6sdJeP27TGtX-O2UCb1bBxorFSkLXwSHzCPfrQGFB35o0WshMhPpIau3Y7Ao5HUzOKpwF_3CW0US6N1hLX-xVx54b_5M9iEU-itBNXZ3qMw9StafCT4ay9Vuj1OKrQxEvn5IZvTvwtuUGMpPCTJ1vobKeBYzRttqIcPJTZzPej29H9dEfufe4nz5Lbnt9R0Y0tB4bWTI1RCAEXvuR-7ORtrhpRbTV_jXyIyCUAEL6soihfQKozfKlTd8SmBzEDQ3EyVJc_DRYrL"
+    },
+    {
+      "name": "썬연료 가스버너 | 견고하고 강력한 휴대용 가스렌지 버너 TY-101 | 썬연료 | 썬 파워레인지, 1개, 블루",
+      "price": 18800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9059064697&itemId=26595526839&vendorItemId=91002859390&traceid=V0-153-9f59a987b41ad0c9&clickBeacon=ed87dca0-dd8c-11f1-88c9-e6d41fc69116%7E3&requestid=20261111140117496169557741&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/vPLBA0aIv8hiqt0JvOaLAcm_-yR1G6sAGEiji47sOtWorKiFN8NmPb-dqyhp_YAibsXFCxm_EzbWWvcK9gGP2sZFx-92a1zDd4wbQUlYCUyFQCU2M3qOlG4b-r2bh4OTF3KptL_12gWm5zKTLwk78hyOZjR3g7A6-cEMj4kKo6JRgB_zZEMjddK4OkdhF_0KMKo1AJ2IvaaKEcKCsMi71IFq7azUaIesTkXA3zwzwhEuQL9f7g4Ma0i18XUOT9jqeQcI2Bdu8XqstmwGme1AtCDy6NJU2wGOAmpTvAhqMwi20Smj-gDDxsLqW_iCkcOhgWwX-pg7owGo3bAKCfc36GaZmatOwh15nWL88u7CrfSi8uhHjf2COTfzShkDyTD9BfY-BI0t6Mo4y3kz2IUP0-mUQAKIMDLRA2csmTTN8-AF_QKfv7Snbc54e7pLZiYvhgj1Xgm1HNfGTPGmQht7b_3IQ5hKvX1JpUjk7Y23e_cWPWpmP8Ql3GB1I9gM2xcuSGmMC9PbX-aaBoVj-kNQGwEwB0o0vvzBbIaxELX5aFwvqm54MFKY14SoAt9zDltQ-yRJfDP_hxTW0w=="
+    },
+    {
+      "name": "키친아트 휴대용 가스렌지 KA-1500 + 보관함",
+      "price": 23750,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=125626&itemId=232039&vendorItemId=3146223794&traceid=V0-153-82271ca27954956a&requestid=20261111140117496169557741&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/IG5TM-3bB2EeZNlRIByuoIJJdECcl_VlDP6NBSW3WS5WJ_QFlq3Ri12r09sk3BF4XJYQy74I4mPfuD57esUmwhG9HXrIHGxCEEjKCfHPxMriGE9SeTW7UeC2RxbUPPl6uo52gQDm9KkfwbzjG3uTyoLSXUxWwxrQiRWqiMIX5VS9TQLjgcTfQs7_ieJE7GX7ThGTRBClGfJkk3KIoM2euAPWqHN4EesOuhPA_xYH8dmU5pbPdALauBoNNsA5MAE88uGvv9J0ppp3kl-C3n8ugfBSvdaaw7GOaxkkzfIxrV6rVr8cEJRCXGyUm1pvFMk3_8JR-q61qOAyjG6DPFJsRndcq4nGAtSxAGRKRmZKXwdAzDTwlHZJeC3ROLQ3Rq-eOGe5TiPj32wgm1S2S1xF-hzEQTSjpSagGTTne5_RFRw6Vgj3gyhNyaYhMgahXhpv_DQxyVTFnWSj_5hRLQR__TuLPR39fNUMaJLw_Fl_rByeZjYXZpHarPgGcp8Pf2VBzpI7_5qQlCIERNmCRJPn"
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Gönül Atasayar)",
+  "has_photo": true,
+  "format": "photo",
+  "message": {
+    "message_id": 293,
+    "has_photo": true
+  }
+}
