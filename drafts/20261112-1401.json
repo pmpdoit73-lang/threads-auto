@@ -1,0 +1,53 @@
+{
+  "id": "20261112-1401",
+  "created_at": "2026-11-12T14:01:01.257518+09:00",
+  "publish_at": "2026-11-12T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치통에 김치 꾹꾹 눌러 담지 않고 뚜껑만 닫는 습관 아닌 — 냉장고 탈취제 대신 '밀가루·부침가루를 봉지째 상온 보관하는 습관'",
+  "angle": "쓰다 남은 부침가루를 봉지째 고무줄로 묶어 싱크대 밑에 두면 습기·벌레 생기기 쉬운 손해 습관",
+  "category": "주방",
+  "subject": "부침가루",
+  "hooks": [
+    "부침가루 30년 동안 이렇게 두고 있었어... (9/10)",
+    "부침가루 꺼냈다가 나 뭐 한 거지? (8/10)",
+    "얘들아 부침가루 봉지 안에 이게 왜 있어..? (7/10)",
+    "부침가루 남으면 너네 어디 둬..? (5/10)",
+    "부침가루 고무줄 묶음, 이거 맞는 거 아니었어? (6/10)"
+  ],
+  "text": "부침가루 30년 동안 이렇게 두고 있었어...\n남은 거 봉지째 고무줄 칭칭 감아 싱크대 밑에ㅋㅋ\n근데 습기 먹으면 뭉치고 벌레까지 꼬이기 쉽대\n난 이제 밀폐용기에 옮겨 담고 개봉하면 한두 달 안에 써\n너네 부침가루 봉지째 둬..?",
+  "subject_en": "opened paper bag of Korean pancake mix flour (buchim-garu) tied with a rubber band",
+  "image_prompt": "An opened paper bag of Korean pancake mix flour tied shut with a rubber band sits clearly in the center of the frame, inside a slightly cluttered under-sink kitchen cabinet next to a dish soap refill and plastic bags. Casual phone snapshot taken at home, slightly tilted angle, dim cabinet lighting, a little flour dust on the shelf, ordinary and unstaged. No people, no faces, no readable text or logos.",
+  "photo_query": "flour bag rubber band",
+  "product_keyword": "밀가루 밀폐용기",
+  "benchmark_note": "내 글 상위작의 '○○ 30년 동안 이렇게 두고 있었어...' 셀프디스 첫 줄+ㅋㅋ 실수 고백+'너네 ~둬..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "1+1 네오플램 밀폐 잡곡통 세트 미니쌀통 냉장고정리용기 1800ml, 투명, 2개",
+      "price": 19900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9741918199&itemId=29159524525&vendorItemId=90913766746&traceid=V0-153-96579254f8bd7b6e&clickBeacon=18bfc210-de56-11f1-be8e-ea8afd31ba86%7E3&requestid=20261112140118835158015653&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/0ISpCkOs0Ucojtx70BkupxgGe-vQLgWPn444xZCfkJFSbSI54BUr5YfMpI1qh91W3cF6IVaK-Dx2AMzANXqW1Z7x2mZCivINZjDH8IoYphY6JvhjFu-9D4XEpETwHLPB-25PyE9U65F36Y4QyV-2_Z0RCAglMIOLB8RRxrSp89no9MIaPey8wo5zh9xLwEYqG49dpB1_uX8j84lzDSG1QyG3W6WM-iPsbkdD3HE0tJ_vZQ3TrXdCwxRkI1ieioZu_RmWAfys3foVLmy6O7C5DUn0wrByQC0I3e6spqRbiDujvGasuyudngY-t8rL5WYQYzRgEdqYhfH-txgEvA49vj4osyM9KT8csnzsbi3I3Q7kGnlB7NJ-hrGUixqqeyfhaSb3_-QfVnOvi3i0tabI4js3kNF1RbNXfIo_pOwh9Mh6SRhuWOnk4OFpexYRdOeNQmv8Xg0ka-_l3beCQh4ZoqgL2mHOoJgUTzjoKSzFcoNbs1AWx_jAxDnhNaRgUwdZ5dtbtXhMxriSan7VtoD2-11y-9FPRdVJsZFHDeqkWBf5HyMKvuPomib4QQ7s7hwjsnMwVZ2RRETjGj2JIJoDOcV8Uw=="
+    },
+    {
+      "name": "인블룸 손잡이 밀폐용기 잡곡통, 투명, 1개",
+      "price": 8990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8373201389&itemId=24195902061&vendorItemId=91213556831&traceid=V0-153-26af438a30c6f82d&clickBeacon=18bfc210-de56-11f1-ac73-5015a344160b%7E3&requestid=20261112140118835158015653&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/3Z7v_8wp30OH4xGg3RlB0dkEGxZ0jE6hJDHsG3qpeMHArUJzWCanya5kSCQ4NAsDXCCC2ie8od7kw-0UqKioqCC4hyj0EpgmNIuIMYsubEV_IkU3xWNX_y2aUMaRA3rGTdFWv8tE-mwhCzhDt8L_VUxfzmPKolgzAK1zrHK1-R2LXMxMgbF1NT8UhChDjs8w6JOBNzxA5XD1VCZR2LpUjT2GBnMPYtoeLRtqkuVnoNuvNo-Z9L8pcgGSuIofgPjQaEId8zDJRA9BQli-TxC5AGF2FbYPSMp7yhdXJyGXuWsZfFODC_0zfIKMqHEftjP8_RlhukEIULJFA64quKGsL7zunbg9N2UQBUcoRDPyhzRYsgq8IX8FJ-Vb0R8KPa6Kaz4pvqebQ8vkXhdJKMOiRR_Gslu-ZJ0KmebYHZJSUiJEsSQpufT9L9Y4Ml-_Uy7MtE_fAuT572OrnVu54TGdm-AXwUNE0IwVe43ZwC1QII8V77XIYDYoquFR-PIyi6ohn44E25K-7Zf2xinXyvymrZOLf6JPp5x_VwiS5opju8kBVx1JL1b_i6UPFiV4R3XvEL64"
+    },
+    {
+      "name": "이지앤프리 클린킵 잡곡통 냉장고 정리 용기 1.2L 5종 세트",
+      "price": 9600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6824707302&itemId=16186122850&vendorItemId=83381363379&traceid=V0-153-7084532d040925bf&requestid=20261112140118835158015653&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/ELFkf0dUH93ZhqXMEGHm3UZMTcKtKWR_w5QngvN5qOFGcNUaK8h-9WfJSnGJYlqg2RfAG4a8AKSzt__ev_4uhX21zMYU0WJV5FZCusghNvhy6elSebSNCr1Brbg9ZhOXfzn4Bw2bQmpqU_ZG2xyvgjn9L1BIuWx4QQJxxG4JqOSk6iBEpEoDwoYP06-qoflWpomrCiesDytbPzva0GfBZjiXqHMBALJiv4KXoUDpEL8GtRzb_RXAd8MqHKsby6A0A6qapmFDKUX3KFLMmPWqHxw7Uqgq1s_zDY-ilUtiGwhCGueE-N3LfnYLbIkTBYZdffO7ZtZrsM8oNFRgAKupdvh9DBRYh_rS0WRT912_FPW1hyuSTaqJKyTlxtLuV4zRHKOyXkD-V0WT4xaHZATCkxJ8n14gsGduUZmx16RTyBD9MBptS3DKwLIFUo_g8uj6K6ijMkNeNT9cVtIVDNExabbxmHfqDvM_VSw5Fuz24dssYK5jn9dBB72fa9i1bd0abVN0LokYT5BqDykbYCIdZPQDdBDui_FqAmcIf83skKmeO_1zrLqwCw7Unv73A1NxwLJShvIQ7Tsrzi33w5kltRAkEQGnbPRFRqSqdYiC"
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Katja B) · ⚠️ 검수 불일치: 사진에 '밀가루를 뿌린 도마 위의 생면(탈리아텔레) 둥지와 밀대, 칼'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 307,
+    "has_photo": true
+  }
+}
