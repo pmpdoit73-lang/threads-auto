@@ -1,0 +1,53 @@
+{
+  "id": "20261112-2201",
+  "created_at": "2026-11-12T22:01:05.835912+09:00",
+  "publish_at": "2026-11-13T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무 실리콘 냄비받침·수세미 말고 — 김 서린 전기밥솥 아닌, 키친타월 아닌 '김(조미김)을 뜯은 채 상온에 두는 습관'",
+  "angle": "먹다 남은 김을 봉지만 접어 상온에 두면 금방 눅눅해지는 손해, 밀폐 후 냉동 보관하면 바삭함이 오래 간다는 점",
+  "category": "주방",
+  "subject": "김",
+  "hooks": [
+    "김 30년 동안 이렇게 두고 있었어... (9/10)",
+    "김 봉지 접다가 나 뭐 한 거지? (8/10)",
+    "얘들아 김 눅눅해지는 거 내 탓이었어? (7/10)",
+    "김 봉지 집게 원래 이렇게 쓰는 거 아니었어..? (6/10)",
+    "눅눅한 김 볼 때마다 이상했는데... (5/10)"
+  ],
+  "text": "김 30년 동안 이렇게 두고 있었어...\n먹다 남은 거 봉지 반 접어서 식탁 위에ㅋㅋ\n근데 김은 습기 먹으면 하루 만에도 눅눅해진대\n난 이제 지퍼백에 공기 빼서 냉동실, 먹기 10분 전에 꺼내\n너네 남은 김 어디 둬..?",
+  "subject_en": "opened plastic pack of Korean roasted seasoned seaweed sheets (gim), folded over and left on a kitchen table",
+  "image_prompt": "An opened plastic pack of Korean roasted seasoned seaweed sheets (gim) sits clearly in the center of the frame, its top loosely folded over, a few dark green sheets slightly sticking out. It is on a plain home dining table with a rice bowl and chopsticks nearby, shot casually from above with a phone, slightly tilted angle, ordinary indoor lighting, a bit cluttered, realistic amateur snapshot, no people, no text, no logos.",
+  "photo_query": "korean seaweed snack",
+  "product_keyword": "김 보관 밀폐 지퍼백",
+  "benchmark_note": "내 글 상위권의 '물건+30년 동안 이렇게 두고 있었어...' 첫 줄, ㅋㅋ 실수담 둘째 줄, '난 이제' 숫자 공개, '너네 ~어디 둬..?' 마지막 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "러브러 비닐접착기 5mm SK-210K",
+      "price": 57590,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9496950694&itemId=28289702034&vendorItemId=95242609623&traceid=V0-153-6be5d3f4e005de33&requestid=20261112220127547310485834&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/lH_DHb2UKIqptnV9lHettx0hqQ04Wuz7D0g4Z_ca9HGk1ZlydYfVPMGJPg0mkIxxCIY6bKVpZ4zuZSyKM-Lb96gXL6b4t5Hb-UAWtGXgxuxXvrqUQj0lYuoFi2LcrlsjYTHCrEHqtthsIXAW_yFIPNbjNKvRnIUk3hSXvAFMyV0EbMa8oE9mDjBpud8WbMA8D1GTaX4VyNXFcgpHL3x10yiegnYFm-0qC_g71WYeqXV_rioWNBDlIjE2THoJiAzVHTbxRDFY_h_c_Dd850XzhvIHrxijFk1ZOYRhSSvpyy1K64hVXmYRUgwJpakoAD0tkH84WtXIsANAiSSHOMl6DYJ_HNBTnfQWmOKXBkaCs-b0CHWr2DHp8yh_ogCNSulr-VXeyHg6OZ5gHjmsDv6yvs9Nbvv59qBkSG8cMHTpIOYLrlovdRyi-R5zroEMNQEEQbTECp1jtz9v6njQr7CFsnUyBYNbYwqj1Ryp55N1TsWIXsm0Ne21R6a6wkYVB4mz9f8t5wwVXuTzQ1lzRxcWeg=="
+    },
+    {
+      "name": "구운 곱창 김 25장",
+      "price": 8900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7723607481&itemId=21787484571&vendorItemId=88836177805&traceid=V0-153-aef1b27837ba3fa9&requestid=20261112220127547310485834&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/lWTKW9xLJHlr1enUlWOfsC7kEUJkfFTxuZOm763ZnmnPgocn5Wn-wcuCJA5YHgZzG3X9LE2EIkLFMKv6mpcHl1vxCVKVQpKT3V3Q1q9RVKALyarpIC1XmK9YncZuEgMAZoOtCnpvceSOAiuR-X_emxB6uqZlBAMLWFphVtNBgO4FbH_hWs_osOCk-worLMUy9x-hfxPGsi9McZXuVTSnPDv-yJYgg1Lb2ya6UbUGI4ElZCYZ3usr5IJI7pwG7mccTFnJJzqjKTzMV1r9WYlZ0xg_TSifCuWQJRD62sgk9O3lbWPI1CdLhUQxBT1WmRjft4nr_fCk8vsfMAAqUwAgFzxEl0wqEaHLA2JeTand0kvw1RgON28Oago3U7Yql8w3fBKShCRlzoYlpSZr-zik4gpsqtwnkyqrLNcRMy-6buBoVGsIramz_Vwt2sJwSF2jog5PiNyJaTqVWOZuMq_RO6DPM2HvLmHE-wKq68LCwNwC5i704wJ8FjkvgBC2nQMQWxHjg1GSyUF2sdRu_h2flQmrLnqH1X38PQnOUlyZOg=="
+    },
+    {
+      "name": "롯데이라이프 지퍼백 소 알뜰형",
+      "price": 35000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1636491&itemId=24030815676&vendorItemId=90784206111&traceid=V0-153-b9d3e9dd97efb2f3&requestid=20261112220127547310485834&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/XsLocqebMbEJB4pmXpggyPRt9yDHY3md2vV0CsTN3g0rKy67Cb2wGI_pQNbiCXvqE-Df_32B5GoaadaDxO7H4brAdopjjGQagVRQws8zUXJbze01fwMX_NnjAp-OddjrAVpGG05GXj1wc08_Wv5XU09Ehg0Fj6rQZUx-t03tLgljuVozIaUV_Q3esWfIu3fY3R0CmOII5TAXmCj5kfe1WwypGZPNAN5GXZpWd17cD7TEs3aDF97lq57StHWzj-973y2WOh2jN6B94JU4UWK-pcgkXOW5tXY4BtA9vSANuXdsRYePZbt0FliM6UXCKBUmN-DIZjUVXbIcUnRplMQ4jzeF0vjH7a8AO__bgGAjHaEiNqW7fI1tq8Rx9DQiBAJuJLsaax9b3u8b2MB6N4yhiwcdwD-KAL8jIRtGCSlLGxwDPZ22SEeSOYQV4mE1tCUxN7t6lQX2hYE-DE0Hy_Ede_2DU7Yr5V9-meNHYxEKOgiE76coDzcUf3Ga74yDW9xY_4RxKXDhBOuiSfHLpuB2CEPfZ4PTZ_w0wv6oFg=="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Emmanuel Zua) · ⚠️ 검수 불일치: 사진에 '접시에 담긴 김밥/마끼 롤(단무지 속 김초밥)과 연어, 상추'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 309,
+    "has_photo": true
+  }
+}
