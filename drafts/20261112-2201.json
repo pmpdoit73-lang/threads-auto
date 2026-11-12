@@ -2,7 +2,7 @@
   "id": "20261112-2201",
   "created_at": "2026-11-12T22:01:05.835912+09:00",
   "publish_at": "2026-11-13T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무 실리콘 냄비받침·수세미 말고 — 김 서린 전기밥솥 아닌, 키친타월 아닌 '김(조미김)을 뜯은 채 상온에 두는 습관'",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 309,
     "has_photo": true
-  }
+  },
+  "threads_id": "18121350146070535",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfqSByzHJjl",
+  "reply_id": "18001614132013510",
+  "published_at": "2026-11-13T08:53:57.895409+09:00"
 }
