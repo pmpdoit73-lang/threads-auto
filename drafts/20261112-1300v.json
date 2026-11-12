@@ -2,7 +2,7 @@
   "id": "20261112-1300v",
   "created_at": "2026-11-12T13:00:57.821459+09:00",
   "publish_at": "2026-11-12T14:40:00+09:00",
-  "status": "approved",
+  "status": "published",
   "product": 0,
   "extra": true,
   "issue": "사진: 댕댕이 뽀글이 코트 (떡볶이 단추·흰 카라 달린 5,000원 강아지 뽀글이 코트, L사이즈)",
@@ -56,5 +56,9 @@
   "message": {
     "message_id": 305,
     "has_photo": true
-  }
+  },
+  "threads_id": "17900621184612837",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfoU_9zDsYQ",
+  "reply_id": "18099932066128912",
+  "published_at": "2026-11-12T14:41:34.152319+09:00"
 }
