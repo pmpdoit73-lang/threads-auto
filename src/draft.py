@@ -169,30 +169,32 @@ def _fill_content(d, avoid=()):
 
 
 def _fill_photo(d, prefer_free=False):
-    if prefer_free:
-        data, note = None, ""
-        try:
-            data, author = images.pexels_photo(d["photo_query"])
-            note = f"Pexels 무료 사진 (작가: {author})"
-        except Exception as e:
-            print(f"[draft] Pexels 실패, 제미나이로 다시: {e}")
-        if not data:
-            data, note = images.get_image(d["image_prompt"], d["photo_query"])
-    else:
-        data, note = images.get_image(d["image_prompt"], d["photo_query"])
+    """사진을 만들고 글의 물건과 맞는지 검수한다 (images.get_checked_image)."""
+    data, note, ok = images.get_checked_image(d, prefer_free=prefer_free)
     d["image_note"] = note
     d["has_photo"] = bool(data)
+    d["photo_ok"] = ok  # True 일치 / False 끝내 불일치 / None 검수 못 함
     if data:
         path(d["id"], "png").write_bytes(data)
+
+
+def photo_mismatch(d):
+    return d.get("photo_ok") is False and not d.get("media") and not d.get("album")
 
 
 NO_COUPANG_HOURS = {7, 18}  # 하루 첫째(07시)·셋째(18시) 글은 쿠팡 링크 없이
 
 
+def _no_coupang(d):
+    return bool(d.get("publish_at")) and datetime.fromisoformat(d["publish_at"]).hour in NO_COUPANG_HOURS
+
+
 def default_format(d):
+    if photo_mismatch(d):  # 검수에서 끝내 안 맞은 사진은 기본으로 안 올림
+        return "coupang" if d.get("products") and not _no_coupang(d) else "text"
     if d.get("media"):  # 영상·인용 글은 사진 없이, 쿠팡 후보가 있으면 쿠팡 첫 댓글
         return "coupang" if d.get("products") else "text"
-    if d.get("publish_at") and datetime.fromisoformat(d["publish_at"]).hour in NO_COUPANG_HOURS:
+    if _no_coupang(d):
         return "photo" if d.get("has_photo") else "text"
     if d.get("has_photo") and d.get("products"):
         return "both"
@@ -361,7 +363,10 @@ def final_text(d):
 
 
 def new_photo(d):
+    was_bad = photo_mismatch(d)
     _fill_photo(d, prefer_free=d.get("image_note", "").startswith("제미나이"))
+    if was_bad and not photo_mismatch(d):  # 맞는 사진이 나왔으면 사진 넣는 형태로 되돌림
+        d["format"] = default_format(d)
     save(d)
 
 
@@ -411,6 +416,8 @@ def caption(d):
         f"🔥 이슈: {d.get('issue', '')}",
         *([f"📊 벤치마킹: {d['benchmark_note']}"] if d.get("benchmark_note") else []),
         *([media.label(d["media"])] if d.get("media") else [f"🖼 사진: {d.get('image_note', '')}"]),
+        *(["⚠️ 사진이 글의 물건과 안 맞아서 기본은 사진 없이 올라가요. "
+           "'🖼 다른 사진'을 누르거나, 그래도 쓰려면 사진 형태를 고르세요."] if photo_mismatch(d) else []),
         *([f"🙏 {d['credit']}"] if d.get("credit") else []),
         f"📦 형태: {FORMATS[d['format']]}",
         *(["🔥 오늘의 대박 공식 글 (모두 쓰는 가전 + 의견 갈리는 질문)"] if d.get("viral") else []),
