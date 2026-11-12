@@ -1,0 +1,53 @@
+{
+  "id": "20261113-0854",
+  "created_at": "2026-11-13T08:54:34.688781+09:00",
+  "publish_at": "2026-11-13T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 무선청소기 흡입 세기를 늘 '강'으로만 쓰는 습관 (세탁기 온도 글 후속편, 전기·배터리 아끼는 설정 각도)",
+  "angle": "맨바닥도 늘 최강으로 밀어서 배터리가 금방 닳는 손해. 바닥에 따라 단계만 바꿔도 청소 시간이 몇 배로 늘어남",
+  "category": "살림템·가전",
+  "subject": "무선청소기",
+  "hooks": [
+    "무선청소기 세기 버튼 맨날 이렇게 눌렀어... (9/10)",
+    "무선청소기 다 돌리지도 못하고 꺼지던 이유가... 나였어? (8/10)",
+    "얘들아 무선청소기 버튼 이거 그냥 누르는 거 아니었어? (7/10)",
+    "청소기 배터리 고장인 줄 알고 바꿀 뻔했는데... (8/10)",
+    "무선청소기 단계 버튼, 세게 할수록 좋은 거 아니었어..? (6/10)"
+  ],
+  "text": "무선청소기 세기 버튼 맨날 이렇게 눌렀어...\n켜자마자 무조건 맨 위 '강'으로ㅋㅋ\n근데 맨바닥은 기본 단계로도 먼지 다 빨린대\n우리 집 건 강은 10분도 못 가고 기본은 30분 넘게 가더라\n너넨 청소기 몇 단으로 밀어..?",
+  "subject_en": "cordless stick vacuum cleaner (handheld battery-powered upright stick vacuum with floor brush head, not a robot vacuum or canister vacuum)",
+  "image_prompt": "A cordless stick vacuum cleaner is clearly visible in the center of the frame, leaning against a living room wall on a light wooden floor. Casual smartphone snapshot taken at home, slightly tilted angle, ordinary indoor daylight from a window, a charging dock and a few crumbs on the floor nearby, a sofa edge partly in frame. Realistic, unstaged, slightly messy everyday feel, no people, no faces, no text, no logos.",
+  "photo_query": "cordless stick vacuum",
+  "product_keyword": "무선청소기",
+  "benchmark_note": "내 최고 글의 '[물건] [버튼] ~이렇게 눌렀어...' 셀프 디스 첫 줄+ㅋㅋ 고백 둘째 줄, 4만 조회 글의 말줄임표 열린 고리, 각자 답이 다른 '몇 단으로 밀어..?' 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "홈리아 BLDC 무선 진공청소기, HA-330w, 화이트",
+      "price": 129720,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8234329353&itemId=23772129061&vendorItemId=95725585888&traceid=V0-153-849c5ae500c3bfe2&clickBeacon=7c6498b0-def4-11f1-b679-416c5c1871d8%7E3&requestid=20261113085506467042105873&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/pGy7egCwwL55TGTipGkOLQez-EkB-AfgsOQIEhnWtE43k40Y4-kEwbtEL5ZuPgxhbviouZQ0rvcnnfe86gqwgkmO9v4yy0MjpeC5Yw8e5zxyh9UiQFlHn-487Ov3-tMCacucm7qvgPbZjkxLWO3-PivSHRdeE2-LpmMSFjWDkFNAOs1p7Oq2EZgTu2EtTupj7Af0BzL_uM7zqKKzP9dQT3pI-mvD01oRoxNAFasQcFGRLiOZ2U-6b2GdH0prbV0RKYWOYABjIANSTWO3l_ZgAhUWlSh-ooAGr4mqgGiF1q8a87kPKkWYb2znZhoQNBmAYkAXGYm2TsZzXv7hLbYIHG8_-oGHoYWOG5Bz95KvpfjD9a_GwGBT8dXbEz40bwLJF5ueV4xGo089MHRx7fOHoMFwcgb9YJ_e-wtoAurlcsoFcnVKV4C3ph_zztZm-6J22IBtoY4EZyiP39ApQ23hoH50ewKHgm_kF4DsPMycftR5gBOliFRfnnfuit7XIodi8dK-dszUrA-oanppseGmy1tgOkNxYw0="
+    },
+    {
+      "name": "틸루 스톰 2026년형 무선 스틱 청소기 + 차이슨 진공 청소기 거치대 + 구성품, 아이보리무드",
+      "price": 188300,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9165765535&itemId=27005273279&vendorItemId=93973957580&traceid=V0-153-2a442ef5c56d6cfa&clickBeacon=7c6498b0-def4-11f1-89d0-544bfdf16e22%7E3&requestid=20261113085506467042105873&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/m68-GJnsSDF9X4WfmxmiXH_Va3Qh98kUI9MqPD-b8qmgaiap8w7nUgQCVEdxSSbSg83uNpjBEEZJaaseEGmUvVFj3g49aUDdKF6mACEgRsGdcvUKQzOTuLd3n4SXZ4-SONzjuig6eH1mWhzVa0LdiF4tL06L3wpeYvcm89QvT17niTa-tcoC-bT36R-EoTTEGntgdx7jOLuCxirvBHO_6DSsuqxFgEnyf8hSMCik3CIqn65FZB9z5Zq3L7sBqIVbeqUhcxr03vyynJcirnwjVvFlgsme83XzKHvbr84ftIUgYeb3Vms58yPBjNLXuJ53ExICXk34Kolql7d-IyQ7kB6K016iN4tYmWdZ7nbLVd7Qn-zbIO2PdGNqBzEvw3ilw01tgz-_G650jNzCkm9gaWdPiI2Lbn1nBimQIY7IotDQIeAZ5igs7GYD56pMJafH8r1jVFZs3m6S24C8iKOxSpeWQmoF7la3s3CIqTQkon0ELJ6gN_r1V8NS1r0BsrjmsLNPxvDBdq1d05P_eAbJ-SiehGxk5pI="
+    },
+    {
+      "name": "디에스가추몰 무선 청소기 건습식 물걸레 일체형 강력 진공 핸디 청소기",
+      "price": 37990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9572397910&itemId=28571619438&vendorItemId=96175720517&traceid=V0-153-eb254c70a6c97e61&requestid=20261113085506467042105873&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/E2njTVI4Y_rITpPhEyoOMxanzWa4s_m--4tzWtVNCmik8qepHLrK-QV2lHQ0U3GfpbNTANr4A4HjZh5GoBmhZRkaebdXCsAreEpFBN6YVxHgNH5Kk8FBjgWmJJtA4Z7RBnLjxIGcL70KZEUtNU1TmGV4Aqm-1JUw24yHUHgtl1bmIr-xyMk9S8XSqgey0POCkPGQRJF2sdGa0ypQA3zXCaWUr3GzWIjKmhAGBj2a-X9E4V6V9A1PWElRIVGxzUzrRwHQHwVArlmYfbf2O2j9zYRJeRGu-En2Ohca-hAHXJkXSrKmoiE_Z-nFjQ7LmQmzcEUrR4B0rJgAofnungp6xQJX1cIJuiAmhI6gXiFLGs7hYVH4nC2_SEq9tq_9vv2tqpEd2RHdqRjVhWz6NEXyehSl78cTlCPCto3AyqKjDlPhMaTG28-vqR_ME7c6OgIXKWST4lOdo8hUOV71KTdad1tDiIci023fb6-TUZTIoUga706YwQ31P4lSVxRk05Y4wKwW89tL8NU3evlcBEs2fQsquKgIMHiKkeN64tXzjmQ8tA=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 310,
+    "has_photo": true
+  }
+}
