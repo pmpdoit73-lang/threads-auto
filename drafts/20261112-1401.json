@@ -2,7 +2,7 @@
   "id": "20261112-1401",
   "created_at": "2026-11-12T14:01:01.257518+09:00",
   "publish_at": "2026-11-12T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치통에 김치 꾹꾹 눌러 담지 않고 뚜껑만 닫는 습관 아닌 — 냉장고 탈취제 대신 '밀가루·부침가루를 봉지째 상온 보관하는 습관'",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 307,
     "has_photo": true
-  }
+  },
+  "threads_id": "17998173615020598",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfosA6NkSJ8",
+  "reply_id": "17963864622252771",
+  "published_at": "2026-11-12T18:02:37.007268+09:00"
 }
