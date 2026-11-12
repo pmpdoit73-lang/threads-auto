@@ -22,13 +22,20 @@ SCHEMA = {
         "hooks": {"type": "array", "items": {"type": "string"},
                   "description": "후킹 문법별 첫 줄 후보 5개, 각 끝에 (점수/10) 표시"},
         "text": {"type": "string", "description": "가장 센 후킹으로 시작하는 쓰레드 본문 (100~150자, 3~5줄)"},
-        "image_prompt": {"type": "string", "description": "사진 생성용 영어 프롬프트. 내가 집에서 폰으로 직접 찍은 듯한 평범한 실사 장면 묘사 (구체적인 물건·장소·상황 위주, 삐딱한 구도·대충 찍은 느낌, 예쁜 연출·광고 사진 느낌 금지). 사람 얼굴·글자·로고 없이"},
-        "photo_query": {"type": "string", "description": "무료 사진 검색용 영어 키워드 2~3단어"},
+        "subject_en": {"type": "string",
+                       "description": "subject를 사진에 그대로 찍힐 수 있게 쓴 정확한 영어 이름. 비슷한 다른 물건과 헷갈리지 않게 "
+                                      "생김새까지 넣어. 예: 휴대용 가스버너 → 'portable single-burner butane camping stove "
+                                      "(tabletop cassette stove)', 가정용 가스레인지가 아님"},
+        "image_prompt": {"type": "string", "description": "사진 생성용 영어 프롬프트. 첫 문장은 반드시 subject_en 물건이 화면 가운데 또렷이 보인다는 말로 시작. "
+                                                          "내가 집에서 폰으로 직접 찍은 듯한 평범한 실사 장면 묘사 (구체적인 물건·장소·상황 위주, 삐딱한 구도·대충 찍은 느낌, "
+                                                          "예쁜 연출·광고 사진 느낌 금지). 비슷하지만 다른 물건(예: 휴대용 버너 글에 가스레인지)이 주인공이 되면 안 됨. "
+                                                          "사람 얼굴·글자·로고 없이"},
+        "photo_query": {"type": "string", "description": "무료 사진 검색용 영어 키워드 2~4단어. 글의 물건을 정확히 (예: 'portable butane stove', 'gas stove'처럼 넓게 쓰지 말 것)"},
         "product_keyword": {"type": "string", "description": "쿠팡에서 검색할 한국어 상품 키워드"},
         "benchmark_note": {"type": "string",
                            "description": "조회수 높았던 글에서 무엇을 가져왔는지 한 줄 (참고 글이 없으면 빈 문자열)"},
     },
-    "required": ["issue", "angle", "category", "subject", "hooks", "text", "image_prompt", "photo_query", "product_keyword",
+    "required": ["issue", "angle", "category", "subject", "subject_en", "hooks", "text", "image_prompt", "photo_query", "product_keyword",
                  "benchmark_note"],
     "additionalProperties": False,
 }
@@ -309,6 +316,49 @@ def read_snapshot(image_bytes, note=""):
     )
     text = next(b.text for b in response.content if b.type == "text")
     return json.loads(text)
+
+
+CHECK_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "seen": {"type": "string", "description": "사진의 주인공 물건이 무엇인지 한국어로 짧게 (예: 가정용 빌트인 가스레인지)"},
+        "match": {"type": "boolean",
+                  "description": "글의 물건(subject)이 사진에 또렷이 보이고, 비슷한 다른 물건이 아니면 true"},
+        "reason": {"type": "string", "description": "판단 이유 한 줄 (한국어)"},
+        "fix": {"type": "string",
+                "description": "match가 false면, 다시 생성할 때 덧붙일 영어 지시 한두 문장 (무엇을 빼고 무엇을 보여야 하는지). true면 빈 문자열"},
+    },
+    "required": ["seen", "match", "reason", "fix"],
+    "additionalProperties": False,
+}
+
+
+def check_photo(image_bytes, subject, subject_en="", text=""):
+    """사진이 글의 물건과 맞는지 Claude가 눈으로 확인한다. {seen, match, reason, fix}"""
+    head = image_bytes[:12]
+    media = ("image/png" if head[:4] == b"\x89PNG" else "image/webp" if head[8:12] == b"WEBP"
+             else "image/gif" if head[:3] == b"GIF" else "image/jpeg")
+    client = anthropic.Anthropic()
+    response = client.beta.messages.create(
+        model=MODEL,
+        max_tokens=4000,
+        messages=[{"role": "user", "content": [
+            {"type": "image", "source": {"type": "base64", "media_type": media,
+                                         "data": base64.b64encode(image_bytes).decode()}},
+            {"type": "text", "text": (
+                "이 사진은 아래 쓰레드 글에 붙일 사진이야. 사진이 글과 맞는지 깐깐하게 검수해 줘.\n"
+                f"글의 물건(subject): {subject}" + (f" ({subject_en})" if subject_en else "") + "\n"
+                f"글:\n{text}\n\n"
+                "규칙: 사진의 주인공이 정확히 그 물건이어야 match=true. 비슷하지만 다른 물건이면 false "
+                "(예: 휴대용 가스버너 글인데 집에 붙박이된 가스레인지·인덕션, 세탁기 글인데 건조기). "
+                "물건이 아주 작거나 잘려서 무엇인지 알아보기 어려워도 false. 분위기·구도·화질은 따지지 마.")},
+        ]}],
+        output_config={"effort": "low", "format": {"type": "json_schema", "schema": CHECK_SCHEMA}},
+        betas=["server-side-fallback-2026-07-01"],
+        fallbacks="default",
+    )
+    text_out = next(b.text for b in response.content if b.type == "text")
+    return json.loads(text_out)
 
 
 def _external_text(external):
