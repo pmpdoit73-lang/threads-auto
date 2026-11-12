@@ -2,7 +2,7 @@
   "id": "20261112-1801",
   "created_at": "2026-11-12T18:01:01.146827+09:00",
   "publish_at": "2026-11-12T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑 아닌 — 키친타월·랩 아닌 '실리콘 주방 집게'도 아닌 → 냄비 뚜껑 손잡이 홈 아닌 '프라이팬·냄비 뚜껑 위에 국자 올려두기' 대신 '싱크대 밑에 세제·락스 같이 두는' 말고 → 커피 원두·믹스커피를 냉장고에 넣어 두는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 308,
     "has_photo": true
-  }
+  },
+  "threads_id": "18118876862115697",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfpAe2kFmKE",
+  "reply_id": "17939059686405742",
+  "published_at": "2026-11-12T21:01:29.835249+09:00"
 }
