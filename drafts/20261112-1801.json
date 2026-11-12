@@ -1,0 +1,53 @@
+{
+  "id": "20261112-1801",
+  "created_at": "2026-11-12T18:01:01.146827+09:00",
+  "publish_at": "2026-11-12T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑 아닌 — 키친타월·랩 아닌 '실리콘 주방 집게'도 아닌 → 냄비 뚜껑 손잡이 홈 아닌 '프라이팬·냄비 뚜껑 위에 국자 올려두기' 대신 '싱크대 밑에 세제·락스 같이 두는' 말고 → 커피 원두·믹스커피를 냉장고에 넣어 두는 습관",
+  "angle": "커피믹스·원두를 냉장고에 넣으면 습기와 냉장고 냄새를 먹어 맛이 변하는 손해",
+  "category": "주방",
+  "subject": "커피믹스",
+  "hooks": [
+    "커피믹스 30년 동안 이렇게 두고 있었어... (9/10)",
+    "커피믹스 타다가 나 뭐 한 거지..? (8/10)",
+    "얘들아 커피믹스 맛 이상한 거 이유가 따로 있었어? (7/10)",
+    "커피믹스 냉장고에 둔 거 나만이야..? (5/10)",
+    "커피 맛 변하는 거 원래 유통기한 탓인 줄 알았는데..? (6/10)"
+  ],
+  "text": "커피믹스 30년 동안 이렇게 두고 있었어...\n오래 두려고 냉장고에 박스째 넣었거든ㅋㅋ\n근데 꺼낼 때마다 습기 차고 김치 냄새까지 밴대\n난 이제 뚜껑 있는 통에 담아 햇빛 없는 찬장에 둬\n너네 커피 어디 보관해..?",
+  "subject_en": "Korean instant coffee mix sticks (yellow single-serve 3-in-1 coffee stick packets)",
+  "image_prompt": "A handful of Korean instant coffee mix stick packets clearly visible in the center of the frame, lying loose on a refrigerator shelf next to a plastic kimchi container, slightly damp with condensation. Casual phone snapshot taken at home, slightly tilted angle, ordinary kitchen fridge lighting, cluttered and unstaged, no people, no faces, no readable text or logos.",
+  "photo_query": "instant coffee sticks",
+  "product_keyword": "커피믹스 보관통",
+  "benchmark_note": "내 상위글 '○○ 30년 동안 이렇게 두고 있었어...' 셀프디스 첫 줄+ㅋㅋ 둘째 줄+'난 이제'+'너네 ~어디 둬..?' 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "미가데코 소나무 커피박스 만들기반제품 목공 커피보관함",
+      "price": 13000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=245666164&itemId=778718484&vendorItemId=4970327474&traceid=V0-153-cf2ddfca5ef3bcc9&requestid=20261112180120054131610355&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/RwboPGyk4LCYgQdLRzcT7nAjWomPqD1-xHGHku-UWBDUpv-lWbm1B5wMUx4EyzFIx-9IFnsBVlSp6B3O1OEKi1NsbBN63fpJj_pL9xYF6tpMohf6k8fks-N415AK8ctaLmrIYCklvJ_OpZj_yrRXaTZn64Dn-gZUuclqps1AYmsoqLdl0KOY1q557At7lQy0XeBo26lIzICoW9XZQEcP8ZOlkBAAcLfUEAyzE6V80NkPqiOxo5PgtrOBYyLjheQQGErDTiM9vry1OCv6LPp0yGMXybCpni56GpqB805pbFqlxjAkpv--LEnS51mA47VFxTKq2PpmkdQHt2wLkLkw_uyyoHfUw9FuQrxKk3h8kcwY1trIgTQMQVcvFufNYWAyRbkYAj8uqPgF9n03Xar4-lJdMLPDlqdSh4_oRcrOQ74kAMsjyAZ7xgbX1GDf6jf--x0mChCsSRpeM1GVzEpckhJHOWxQ3McS_uLUkRKLYVdqBVnbAXqLOvUDPPowe7GYzqB4AkkQ8n0psakiNUDW5JSuxO6llHZWsnXT57VN"
+    },
+    {
+      "name": "아윤 딱 좋은 사이즈 사무실 필수템 탕비실 정리함",
+      "price": 9800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9599828712&itemId=28658120703&vendorItemId=95533444755&traceid=V0-153-7d009af01b2dbfe6&requestid=20261112180120054131610355&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/sbC3tSOCA3S1vfQ7sZFqZ0VwQEFc4vKbIkGOm2E3owStYfMBUFGVrAMcuJRFokUlLC44cplHYt9bSBP5wrm_pmWXqa8nb0C4C2dpm90FT9HnGIfjtD9D83SMeexDzJ1DD-rmIweZBW_NvVy8BFXfcv0yJcchMOQPoe6penpOh6QVOBmcMHWm9b1HvsxmTxvjuy0ymYqMLF9Qpk8bayaPIU8TY0uTkhlWNEGTVNa5-x0JG8JcLSL44z2HceuJbC2G-2FXipahhLkGMzYCWlEatyvRVyDuuvLFsxUwIYsAayntkC5SSoRB1yxDrN6gwNMaokqiLS9bGgjcISxWw2BiIFy2uBjfHm4wFP82QlxOOsuY82jaq_hYv72IjSOI_HpSfRCW5BTLmxe8dwHCm5spudtfcmM-bc8hkQzDxdwrh1fvxNsTYxbmDDqXhcrmQ8vubqizAShZwRG32OFYO2jMk-se7Bkt0qf1t9rbLUH053nbJ6OI8-Xj8wec31YsuO8SpUyefQzzcQpKhaSHNhpZsezQrW5O4-JSJ5gH3gXeKJh3"
+    },
+    {
+      "name": "탕비실 커피스틱정리함",
+      "price": 6220.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8644271159&itemId=25094163758&vendorItemId=94523837922&traceid=V0-153-bbdf2636595a7b36&requestid=20261112180120054131610355&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/iUDhhp0daC0I3RYFiVfu7UgM6gVu-U-a3XIHZrzSXYvZjt1E3x2My5oQ0zm7Y6UI31zNTuau54ZUZrO5Hpxmr3CF72LIqJ_gQGOUAooLaw6fp5jFTS5G0kRrkDWcoc4DB8aSFBBp6ClIsjPFBVvpWca0tnA-Bhz4ixGvW7QQR6C8u9Z9j8Z-jPQ7xWQsalm2Pynbcc5L4K-EPobBUDYs7c_rkGL3_I_mff4ntN_n1r9zsFaF85FPqp2KFqgjIyGngmgvOBtXNH7AooNFSlLXeS35fLAOgGhkw9Jc4Invhsmhso8ZrgESXVcKbXztmQOnib1c1622KHAvUKVDixuPgrtwWeHm0iNk5LfeEO_LERnzA01ndBKcUyvwhUddWYLoB_T45Y7A1qM5-A_dM5vbpuvYM6OmS4hSIrWy22zv21u6e2ZPeNQifS0WHTMAcaAIoj0fPZfMwYn4dEYhaEEav6Oyb20x8aYiHG08Vaa5aes-1UiQJQZwIvQFZAWPgyszN6zNkAFeSwoWE9uyxfIBBCCZUDJcDTDfKZ2Rlq4FME8="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Ann-Sophie Snoeck) · ⚠️ 검수 불일치: 사진에 '대리석 위에 놓인 커피가 담긴 머그컵 다섯 개를 손잡이에 연결된 줄로 손이 풍선처럼 잡고 있는 연출 사진'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "coupang",
+  "message": {
+    "message_id": 308,
+    "has_photo": true
+  }
+}
