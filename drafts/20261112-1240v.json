@@ -1,0 +1,60 @@
+{
+  "id": "20261112-1240v",
+  "created_at": "2026-11-12T12:40:42.002348+09:00",
+  "publish_at": "2026-11-12T13:40:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "extra": true,
+  "issue": "사진: 강아지 바닥코팅 산책양말 (발바닥 고무코팅+벗겨짐 방지 찍찍이 4개 포함, M사이즈 2,000원)",
+  "angle": "양말만 신기면 자꾸 벗겨지는데, 찍찍이 고정끈이 같이 들어 있고 사이즈를 발 치수로 재서 골라야 한다는 걸 모르고 손해 보는 점",
+  "category": "최근 이슈",
+  "subject": "강아지 산책양말",
+  "hooks": [
+    "강아지 산책양말 신겼는데 다섯 걸음 만에...(9/10)",
+    "강아지 산책양말 사러 갔다가 나 뭐 한 거지?(8/10)",
+    "얘들아 2,000원짜리 강아지 산책양말에 이게 들었어?(7/10)",
+    "강아지 산책양말, 이 파란 띠 포장끈인 줄..?(8/10)",
+    "강아지 산책양말 왜 자꾸 벗겨지나 했더니...(6/10)"
+  ],
+  "text": "강아지 산책양말 신겼는데 다섯 걸음 만에...\n한 짝이 길바닥에 굴러다니더라ㅋㅋ\n알고 보니 찍찍이 고정끈 4개가 같이 들었고\n사이즈도 발바닥 너비 3.5cm 재서 골라야 하네\n이 파란 띠 포장끈인 줄 안 거 나만이야?",
+  "product_keyword": "강아지 산책양말 바닥코팅",
+  "has_photo": true,
+  "album": [
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAIBK2r1MhfrzaM03llUv5Hk9uEbAljOAAL3EmsbPjapV6ZuMyd2zJshAQADAgADeQADPQQ"
+    },
+    {
+      "type": "photo",
+      "file_id": "AgACAgUAAxkBAAIBLGr1MhdKD4_e8HI-m2FF_BTP_020AAL2EmsbPjapV7M6f5za-QRXAQADAgADeQADPQQ"
+    }
+  ],
+  "media_group_id": "14355632315056021",
+  "image_note": "gil이 보낸 사진 2장 (넘겨 보기)",
+  "credit": "",
+  "products": [
+    {
+      "name": "펫카소 강아지방수양말,초경량신발,슬개골탈구방지,미끄럼방지양말",
+      "price": 15000.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8595601680&itemId=18637585016&vendorItemId=72755306069&traceid=V0-153-0731703abeedfee6&requestid=20261112124053954279442011&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/r9ezG07VvRLmfsKbr9Aj6v56JT87gWKGVRVhXDR8LNpR9nN_pv4UP7agqbp7hJoBS9PwAKCooBSTR5BpP1QZxnVCIrG04E4DpsFUZdOlIGPG9u0UO7i_hijhL9ekbSGIFlKAED8w4p_TlDxgQaFgL6j9bK-c4H2p_WiuNsITVMJSXcMEBKiHyj5kKQxiShwVGOpcVvG2_uLPZmIH4LAgzpqSdlf8XUchqIwTX6-Afi2c0gjbrmtRiuuN083FKzPP1HewlqY2HngmsjpTwjET-19RKv8mJlm3-UXqKbg-c5hLLDW7W9iqkVW_11t6VzTCkTfhcGKhlRIGvVegChxwu131sBfRy3OfBnks5nc1h7EhzcJxNKyMzw_T4vY_9F_V0e8QpYQSs2_miitsRr9ueln0ZnaVR13wMN-EGdXxkFOBZNY2FqXFvFJpYn7CNp6THF2jZ-dZQIJkCjWatkbVzhZPNOoUDYJ-0jT4l44bYHFsAWRMzA24xuCAm7xOEAeSygWUiAcEm8H5PLr-CCsjSp-aHAEJktWmu68U5P1WPic="
+    },
+    {
+      "name": "반려동물 바닥코팅 산책양말 M 고정끈 포함 4짝",
+      "price": 2420.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9749760052&itemId=29193045714&vendorItemId=96113802871&traceid=V0-153-cf609cebf33464a8&requestid=20261112124053954279442011&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/dn3jRgBjiprgPFFvdoUrXDWeDmfmQ11-JiMlW7mdApdILXf9AQleQm6y__12MyyuQP9SeghH0_2pJqIXJnzzmFJSg16juz0R-QAgQD5djQ-KxKJvWnT7MB-Q1dvekKh3m2oto3vwxhpZa7ZnttzaL7VBzSIfcZsreA1UBvi--iNzb_4I5iNcsHJLZwc5BcDXv1fQqJYoMAjyql1h_AWrdD4MVo14QIGZ0PGZ_1en09qjGFg3KzfGYwfFhV3G_wmG2q8hrmw2TKzN5VnU39DZ-ya1eydfkCG1EudlSN1FGCIaM0u2O8Gwd-pfbHZrEoY1ByrVp9fNw93LyJ_XSf42Ba8QbPCvDLWCqckqnQV-5WdVaZ7Wca1WOgS53A85Isu9kTQEqdE5DZRxXuBsylObsr-5ee4A7GB9jPocisCTmPWSzDfaKTa4d_TwXoKFb4Nt5d0mC1W_-rSOfH4qize1i8jghu0VSmoGR0O8owf_TxOEWXUpjhmoR4z5kHw3SFig1GXB5Gn_gti4XtpjKqwiXCROFgEhykZgsdB7-rrzbg=="
+    },
+    {
+      "name": "강아지 미끄럼방지 논슬립 양말 반려견 실내 애견양말 발바닥 보호 사계절 양말",
+      "price": 8240,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9706260216&itemId=29038471128&vendorItemId=96056630483&traceid=V0-153-9a559d75fda0ea8c&requestid=20261112124053954279442011&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/7d9HGySlY_HsJlLy7din-SUSOiexKGrQfKbyk1AtM6JLjrtEVcuvhfyHKydRpHZc_ODDTPjM0SuAzI9z7r4I-V6dNqhjySnZv4oce7R0jKZwyuP13DkkXCvh4KeWBsKSaPLgfMJbndg7vrJ3UdMDEiTK2arnOkzN-fOa2abKsbYoDHDmdPm3c4WZHeVwTYODl47zqsgfL1RuMVtRhzpeJa_91wMnj-fTef0fq-wuZOuoO7uelt2lh7Ob4h46D8Meqwqcz3KAYkRifM_Mrfqk42krc2GHXwlO782ya9erSm-8KVQ594q844EoLFEg3kPGHAvq3EbzEDb9XfNMEB1N4ru3hdEHvGvg_wAITSSYeWQefmXXuUe5ivF-GDBGAxsTsyEQqRTzb8NoP0v4UhiG3ELH6Dxi8KmIfWgK4I4q5jLu4wCttHXrV4iV72c4KowOrxHa9W5cu954yLA8qM86SpFa4ufVvmcfLdnhODmU1hMHS3HBTY8Oq8HA73FneBZrBo1lsag2uqEvxxD2Rnu48HwHG9PvkaMTlNfzi__kvA=="
+    }
+  ],
+  "format": "both",
+  "message": {
+    "message_id": 301,
+    "has_photo": true
+  }
+}
