@@ -2,7 +2,7 @@
   "id": "20261113-0854",
   "created_at": "2026-11-13T08:54:34.688781+09:00",
   "publish_at": "2026-11-13T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": true,
   "issue": "오늘의 대박 공식 글: 무선청소기 흡입 세기를 늘 '강'으로만 쓰는 습관 (세탁기 온도 글 후속편, 전기·배터리 아끼는 설정 각도)",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 310,
     "has_photo": true
-  }
+  },
+  "threads_id": "18122338892050149",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfqgoBKIP5p",
+  "reply_id": "18108607946202905",
+  "published_at": "2026-11-13T11:01:34.994111+09:00"
 }
