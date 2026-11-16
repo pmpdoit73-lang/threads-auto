@@ -1,0 +1,53 @@
+{
+  "id": "20261116-1801",
+  "created_at": "2026-11-16T18:01:38.659768+09:00",
+  "publish_at": "2026-11-16T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 바나나를 냉장고나 다른 과일 옆에 두는 습관",
+  "angle": "바나나를 사과 옆 과일바구니에 같이 두면 금방 갈변하는 손해, 걸어두거나 꼭지 감싸면 더 오래 감",
+  "category": "주방",
+  "subject": "바나나",
+  "hooks": [
+    "바나나 30년 동안 이렇게 두고 있었어... (9/10)",
+    "바나나 사 온 지 사흘 만에 까매졌는데... 범인이 옆에 있었어 (8/10)",
+    "얘들아 바나나 꼭지에 이런 비밀이 있었어? (6/10)",
+    "바나나걸이 그냥 인테리어용인 줄 알았는데..? (7/10)",
+    "바나나는 냉장고에 넣으면 오래 간다던데 맞아? (3/10)"
+  ],
+  "text": "바나나 30년 동안 이렇게 두고 있었어...\n과일바구니에 사과랑 같이 담아 식탁 위에ㅋㅋ\n근데 사과에서 나오는 숙성 가스 때문에 금방 까매진대\n난 이제 따로 걸어두고 꼭지만 랩으로 감싸, 2~3일은 더 가더라\n너네 바나나 어디 둬..?",
+  "subject_en": "bunch of ripe yellow bananas with some brown spots (Cavendish bananas)",
+  "image_prompt": "A bunch of yellow bananas with a few brown spots sits clearly in the center of the frame, lying in a plastic fruit basket next to two red apples on an ordinary Korean home kitchen table. Casual smartphone snapshot taken at home, slightly tilted angle, warm indoor ceiling light, a bit of clutter like a rice cooker and dish rack in the blurry background. No people, no faces, no text, no logos, not styled like an advertisement.",
+  "photo_query": "bananas fruit basket",
+  "product_keyword": "바나나걸이",
+  "benchmark_note": "내 최고 조회 글의 '물건+30년 동안 이렇게 두고 있었어...' 셀프 디스 첫 줄과 '너네 ~ 어디 둬..?' 경험 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "다온 스텐304 바나나걸이 거치대, 1개, 실버",
+      "price": 10100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9706252204&itemId=29038442150&vendorItemId=95965682924&traceid=V0-153-782200b25859ad9c&clickBeacon=61d91340-e19c-11f1-98cd-07ab3aebefc6%7E3&requestid=20261116180159741131613792&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/yAJd6lDT3xlgWfdJyHJWvv4YR4XQLryZvdQ5lMGdRqwZ3CWyFiRD937JwkqKU6hEXBMwjfnFLrB8ku65K66nJTUleTTpKmhncdsfTzD6d_SO7Z_W3YSNbtzvgcgbWtwe5qRvcUJKKGemkKPcJpa-YSZDhSAMGcU5toV-ZR7QlcTHn4MRm1Gd5TVwQ3dvH_pTZ074WIuOD3od_VV0PXe3LQIVVeKY0Eo5khlMx80T5HCHqSiFgy8uJYOioITFoUcIjDZIaHbECeG3gqft4p9FqvEPjtUSVv6Y1zHKUfo2odyS5RriQsJUVazw5xCWxIrP63np3J2u02rENB2qEQvlAl3xKjph92_0Vrfnuh4HZmZdb6ZyIws55K_QFAO814G2V39ygdef3AwGksTdmc09wPj3iQlRBv8jdt2tRraWfc_kdlRn6g--LC60k9wmQFz11_tu5K7ZfK7vhB3uYfH8_y4EAIPydERt76jRIS0bwODvfxfLCU4nhOB9j-HNbb-aKugmiI_9VLLS3DZ7VDb7RReANR4IzHEO6A=="
+    },
+    {
+      "name": "도스텐데 원목 야자수 바나나걸이 행거 거치대, 우드, 1개",
+      "price": 23500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7735638980&itemId=25681620368&vendorItemId=92670950620&traceid=V0-153-8627b2c883eccd46&clickBeacon=61d91340-e19c-11f1-9b2e-36b9071cd0a0%7E3&requestid=20261116180159741131613792&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/6SSL6LFkuQdaFvYX6biwcpXrA3r3OPIVJlqgLs80e2m5QMxrQcPYj72X7cx1xnpwTgWFc0P4CpyhjqOwGahaWNwFqBP4nrgvhZMwIQguLnJOjRIqFru_0R3rGDyWlZBCQlHYxmWqIGcOrqYyAg2fPlc4M5ELE1qThb7e_2OomArB6SDu-DC3orW_SSRNaqlf2R-IukMbk7FDsBcJLUQrXxxKNEPYnGXbArmzJ_0a1gumHSMI-J2dNb9_b5AtR83ylGY9RaV37-YCgXUvAEgRVtqBo0I6k0mVHpTUGuP50IOk33HWgUu4AkXad-5MQhXcar9d_kr3jNd-Vsti4FMYtwBhrfso-QAgvy7Wk_d3U36D5izS9qMHFs1hFxh-FWmffKSF4uvWxaDWYXRTEVg-AkuuAvpbHYEX5MNqRCC50xWFlkyCVaPz4g6BScx45PkC_MFm6UW181yp5GSxtX0apbaNYEoXuyaIldIWb_aLobNdc4YdqTOQS87-JlPnIkxOfAsWNRYY5ygxSWXdRwS3A4RpM7qJ5T8j"
+    },
+    {
+      "name": "바겐슈타이거 스텐304 바나나 행거",
+      "price": 8660.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8121332583&itemId=23037024179&vendorItemId=90070756471&traceid=V0-153-970138093a319bf6&requestid=20261116180159741131613792&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/55b9VDMe1TWX4G1L5wpY-FVtk7xMR_xszPOkIirWxHh5ghHw2LmVRUgfHmVl8BDPLnAyTfh6zVBCiZY9UbAi65V9J9gc_08KPNFkzThKEAd78ESpnJFL2E8GUR9LdHdHkXeSDX0ELDF-agnYUTQGyAPnGAYjF8B_4ZyLTfH4ooq-2eG2ps_8dvS6ILXxhVaKhFzTUrgllhrsKkv-3m-S9w4-Uzz6NiKn_STm8pJKkVUiVGOaPZ-IctOtX17x6jxpCA6KGZMnocIoPngbwcYwkKLZPw-_4kEMkkUgWAh3CSW3rvG6PkVqSwdeOVtRRLrv6pE4gfEsL3Pg4xpqeRA7t29ennTn_mkOPtDwatGTqUpU_ITWQWHxtWrd5X1Da_4qsfKIv2K-oK93gfIxE0lB7_AGAoqsUucmUIlFmoZgcvWhkjCfHQTaTpySt3hfQi5y53WUVxDVY0mW2vREQ4Arrtb2-Pnz8lqXrWLLXf_eTpbxWOLrvQTJa11xZq6bHg99JgQci_d9l78SHXyKwBW9Sqdt"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 324,
+    "has_photo": true
+  }
+}
