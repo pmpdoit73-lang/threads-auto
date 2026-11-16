@@ -1,0 +1,53 @@
+{
+  "id": "20261117-0801",
+  "created_at": "2026-11-17T08:01:00.261433+09:00",
+  "publish_at": "2026-11-17T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 식기세척기 넣기 전에 손으로 애벌 설거지 다 하는 습관 (세탁기 온도 글 후속편, 물값·시간 아끼는 사용법 각도)",
+  "angle": "애벌 설거지를 열심히 하면 물·시간만 이중으로 쓰고, 기름때가 없으면 세제가 붙을 데가 없어 세척에도 도움이 안 된다는 점",
+  "category": "살림템·가전",
+  "subject": "식기세척기",
+  "hooks": [
+    "식기세척기 30년 살림에 이렇게 쓰고 있었어... (9/10)",
+    "식기세척기 돌리기 전에 나 뭐 한 거지? (8/10)",
+    "얘들아 식기세척기 넣기 전에 이거 하는 사람..? (7/10)",
+    "식기세척기 쓰는데 설거지는 두 번 하고 있었네ㅋㅋ (6/10)",
+    "식기세척기 원래 깨끗한 그릇 넣는 기계인 줄 알았는데..? (7/10)"
+  ],
+  "text": "식기세척기 30년 살림에 이렇게 쓰고 있었어...\n넣기 전에 손으로 거의 설거지 다 했거든ㅋㅋ\n근데 세제가 기름때에 붙어야 오히려 잘 닦인대\n난 이제 잔반만 털고 넣어서 하루 1번 꽉 채워 돌려\n너넨 넣기 전에 몇 번 헹궈..?",
+  "subject_en": "built-in kitchen dishwasher with open front door and pulled-out lower rack loaded with dirty plates",
+  "image_prompt": "A built-in kitchen dishwasher with its front door open is clearly visible in the center of the frame, lower rack pulled out and loaded with plates and bowls that still have light food residue and sauce smears. Ordinary Korean apartment kitchen, slightly cluttered countertop above with a rubber glove and a sponge, casual phone snapshot taken at a slight tilt, dim evening kitchen lighting, unpolished amateur look, no people, no faces, no text, no logos.",
+  "photo_query": "dishwasher open rack dishes",
+  "product_keyword": "식기세척기 세제",
+  "benchmark_note": "내 조회수 상위 글의 '[물건] 30년 동안 이렇게 ~있었어...' 첫 줄+ㅋㅋ 실수담+'난 이제' 숫자 공개+각자 방식 묻는 '..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "자연퐁 스팀워시 식기세척기용 세제 베이킹소다 55입",
+      "price": 10820,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5274574072&itemId=18917659939&vendorItemId=88356717269&traceid=V0-153-9c63f17ce67595b0&requestid=20261117080123898324083520&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/nlOqJoHxErCActkpnnTyVLM_MlTLxQnQtGDRyJItNxyhziedZSfSj2byLz9veSc2hBU3UbHfT6JDVAFoT7P_LZYUNOR2FmstDbeaWp6wEeBcfRl-V5XbbSuHts74Zv9PGMKij5NkkKdgm3JWGpIAW8C06PviIwPlYLFLlpLg8UrcolxFRQH4wEo9q01k3TWb6bT3QdHBeCQVqONpszLs84KFEJ2i-Jvxvs0RL56x4OBQsu2ZsZtpfPbIA5cZOcaQ0wxPhyaUzypEFvmQpsWwwm9ILuVZzAo7z9_fXekiMxsY4Pj7arRImsR4iSvx8bWv6RZOJ4AH7F4E3BopMSussc0FXntJK8xvrhy3oev7haXlU9PLya3dqrLbV3YAG4LerzJaweNVk-njkz3_nq2t6cMCxT4v522w9jUCbK-MAoR7ARuEt2Uv1mGA4FTPmiZTIXepW2JIggnHRlfYHPemxtV_-N5wsa3cVgJq3EASyuEfLCVIjMXrBfzf5oNCUgrBkeHSJZKYhMr5kngxsSr5NQ=="
+    },
+    {
+      "name": "자연퐁 스팀워시 식기세척기용 세제 베이킹소다 55입",
+      "price": 20140,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5274574072&itemId=11803436979&vendorItemId=88356721821&traceid=V0-153-9c63f17ce67595b0&requestid=20261117080123898324083520&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/_OeFc3fToX86I7d1_PlRwcSIHZkQ7LlH1Lj06oFlSpUj6aS-UokwxP_rzh7ALTH1qKDO0cu4GXpy-t-_Fm7ZF3Zy_WmnuR9G9ceTOft3skrvjcFMYEDjxEBhRQVUd0SpqIQEer9IJrkEYIaBVtT2U5naIsct4zvpUdhmF_zisRJ5aeEz8GraMh-QICJ5mLXPjrjLVWGFyl7wzKt-Ey5afVjmff0WxmsI3rtmmwC0AnI4Tv8mbaAZkb-Lyh7UhbP0iwJX5qk1u1KPBWVIwiNR3_hg81IURlHAsjpbfeIRYVcMq5ysxwRupg9R63owYne4FNf1j6ncrYF8cFwj0pLjX1oh7frcmO9d3_NUyzcLGDE4VKIw42Thqe4N90BxN242oxmSoH2KbomJu9fjJIpfj-NW8XCVTqpcAdnF3cPDs07GrEu-u7cCS5XfS8SLdSLewsEpOeBkI2G747JT0QNBQf__sdTwChpltek470b8IEhkeJBtyWBdBsxqI-EVaqtUnlytcQHJwcHrn1bmOFVeRA=="
+    },
+    {
+      "name": "프로쉬 그린레몬 식기세척기 세제 미니",
+      "price": 14450,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8591416884&itemId=24973976574&vendorItemId=93137429330&traceid=V0-153-631d1931d0713a94&requestid=20261117080123898324083520&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/fkViYrSfewMNJj5vfmqGihk1zqE_CukAgExEMy34O2PeDj6XTggJ4YdlvwVIneD7XZ5aKuxPiuEmoeC-R4jquwUBaEg9SiFHUTLA-KCAU4HzarMYY0TzwZYR70ERyfMCyyzBnL0hlNF17xsYoZ318e_m8ZffbslNfGd7SlPMWcB3XIqMJiihGBoxMPZjiWnp9fFAlvrcsHBow0IUBVkqY7kJYryDLDNKulzhEh7xlaC_ZPFxKpg1Nx4NVbCjnQ77472MHlilX58x3FwqTPRSTw3apyZRp2eJp6dnU8tiSl3nQZOdHxGq74CfGEriiXeP67uR7t2XG9ikXTU814dqN8HflSnj9eAI3e0Jkcu3mWkaXW4QRCxqDNfcVmFKPzdkRVZHLyuKft9hscjPDPb3eo95fWeMPB-Kq3_-SKL1VUX_SJeUzJvjngLfyfC_giHe3fYd3nzklMHTKf3aPAnyVlqDjYvyt1qkhw1IkoFBiwol2jOuC_IP8a85q4M_ljiKCWFPDfspPnsKKr1BDh2A"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 326,
+    "has_photo": true
+  }
+}
