@@ -2,7 +2,7 @@
   "id": "20261116-2201",
   "created_at": "2026-11-16T22:01:33.592872+09:00",
   "publish_at": "2026-11-17T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥·세탁기 말고 — 실리콘 주걱·고무장갑 아닌 '설거지 끝난 행주를 펼쳐 말리지 않고 수도꼭지에 걸어두는' 것도 아닌 → 냉장고 문 아닌 '김치통 뚜껑' 아닌 '양파망' 활용: 다 쓴 양파망 버리는 습관",
@@ -43,5 +43,9 @@
   "message": {
     "message_id": 325,
     "has_photo": true
-  }
+  },
+  "threads_id": "18189855799419339",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df0YVpVHboM",
+  "reply_id": "18359645398175102",
+  "published_at": "2026-11-17T07:01:29.770020+09:00"
 }
