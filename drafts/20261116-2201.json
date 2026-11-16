@@ -1,0 +1,47 @@
+{
+  "id": "20261116-2201",
+  "created_at": "2026-11-16T22:01:33.592872+09:00",
+  "publish_at": "2026-11-17T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥·세탁기 말고 — 실리콘 주걱·고무장갑 아닌 '설거지 끝난 행주를 펼쳐 말리지 않고 수도꼭지에 걸어두는' 것도 아닌 → 냉장고 문 아닌 '김치통 뚜껑' 아닌 '양파망' 활용: 다 쓴 양파망 버리는 습관",
+  "angle": "",
+  "category": "청소·세탁·정리",
+  "subject": "양파망",
+  "hooks": [
+    "양파망 30년 동안 그냥 버리고 있었어... (8/10)",
+    "양파망 버리다가 나 뭐 한 거지? (8/10)",
+    "얘들아 양파망 이거 그냥 쓰레기 아니었어? (7/10)",
+    "양파망 원래 버리는 건 줄 알았는데..? (7/10)",
+    "양파망 하나로 수세미값 아낀 거 실화? (6/10)"
+  ],
+  "text": "양파망 버리다가 나 뭐 한 거지?\n30년 동안 양파 꺼내고 바로 쓰레기통 행이었어ㅋㅋ\n근데 뭉쳐 묶으면 그물이 거칠어서 냄비 탄 자국 수세미가 된대\n난 이제 3~4번 접어 고무줄로 묶어 쓰고, 더러워지면 바로 버려\n너네도 그냥 버렸어..?",
+  "subject_en": "red mesh onion net bag (empty produce mesh sack), folded and tied into a scrubber",
+  "image_prompt": "An empty red mesh onion net bag, folded and bunched into a small scrubber with a rubber band, sits clearly in the center of the frame on the edge of a stainless kitchen sink next to a slightly burnt pot. Casual smartphone photo taken at home, slightly tilted angle, ordinary kitchen lighting, some water droplets and a dish rack in the background, unpolished everyday look. No people, no faces, no text, no logos.",
+  "photo_query": "onion mesh bag",
+  "product_keyword": "그물 수세미",
+  "benchmark_note": "짜장면 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄과 내 글 '30년 동안 이렇게…' 고백 흐름, 마지막 '너네도 ~..?' 경험 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "마마포레스트 생분해 메쉬 수세미",
+      "price": 5860,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7121236140&itemId=17830697488&vendorItemId=84994452093&traceid=V0-153-f18731510fc174e9&requestid=20261116220151261182675034&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/KWniBL3F_8yIuN9zKT4ghs112w6mJ90MI6bYIRf3F0AJa6Ju0PDuwd53kFKx7tr7l1TxSK7_QMk0TqGUhQe4ZKxc_xMMGaBX9uOIiMBU4OQMPSOngL8arD8dQhLIJFSNteN0uvHzaS6mf7OisUKpjeWxGHj0J_OwmpOqFmlbZsZGvu5x7hyMqezsJ0oH0d2ymBMBYrddtfIj15kXYt4OkKroHf5J9RrpShnAFwvfP3U082Vde6rqGOs7L9c-jHRQN765GTDfQ0efO2_jjqMRpYTg3c3hlJxRcr-4bU32SaWkCj95NHnL6GillND1Oz3d4nWziMbv2wBfkTXe2BfDE8Xxd3PYx99YgBvd-ox7rr0ulWh3Joi62AScB1c2Rdj0Rqjtd-jd-4HoTTjmyxTZIELJHRA2lqcQpNIgiBmnVx9Ez_KgMGYAsD_YdM1XJgbpOhU9mpPbCWXZSBKwndC7TfwTdg9HyHEJCQA58Zkwc9i8kfNMJq9QMCH4_Npwaq1XtBe1jmqdxk2jAurfkUbzzQ=="
+    },
+    {
+      "name": "크리미 반짝그물망 수세미 세트",
+      "price": 6380.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5342547080&itemId=7835728550&vendorItemId=75125500573&traceid=V0-153-84c8cb7d4677d1d4&requestid=20261116220151261182675034&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/EJ4r0pZnrt_Az5YREF3P9MYUx526TuLPdgkDDco-PV-bkf5QdG9W81fv9wd8NiWqiBHvT9cpgnQZoq0pSGnhmrOIzAyqJKhcwNOYHVaYjQphKrUQnVhNeXgTFcqga3vq3z4TWu7MhRLZsu7LBgkt_cA09G-iC6kVo0s_rv8nuGQ4k2RP7-ecqVq9fiFSmZGLCtnzGa1Nzw8T7IthEETOaSbfG9gmNhImp6z5kSXHwXZG5G4XzrW_fP_sBzvU8pz3k7txn4boz5zY3-thyg86aYfYsY3LV1lK3PN30zS6hCQ4tdl2BnLUceqHAd4cBhos4cHueFLhUlP0zEcKgIqRhrBNHuiraqs1eLV2HTXGOtpZsPc1dueiEBmRAeJXS8vrQsurEpAB_m0VkMCUYZKN1YDu7PsIL9qJE6OBayMZCTMSay2Hp-Fjn4SiV1wcYcdqa4iH1jQ4J5BUUK9D0T5nzB_b5sWcovyJNkJOmS8c2lQbcSz2uXe3_2ZO6YibeKGqt0QMcj0359ouuKR_dk-t"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 325,
+    "has_photo": true
+  }
+}
