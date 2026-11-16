@@ -2,7 +2,7 @@
   "id": "20261116-1801",
   "created_at": "2026-11-16T18:01:38.659768+09:00",
   "publish_at": "2026-11-16T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 바나나를 냉장고나 다른 과일 옆에 두는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 324,
     "has_photo": true
-  }
+  },
+  "threads_id": "18133998052684129",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DfzTstxlS2z",
+  "reply_id": "18121060261805299",
+  "published_at": "2026-11-16T21:01:50.957795+09:00"
 }
