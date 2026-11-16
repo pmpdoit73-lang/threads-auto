@@ -1,0 +1,53 @@
+{
+  "id": "20261116-1401",
+  "created_at": "2026-11-16T14:01:11.272606+09:00",
+  "publish_at": "2026-11-16T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 보관법: 고무장갑·도마 말고 — 식용유를 가스레인지 옆에 두는 습관",
+  "angle": "식용유를 불 옆·햇빛 드는 곳에 두면 열·빛 때문에 빨리 산패해 냄새 나고 버리게 되는 손해",
+  "category": "주방",
+  "subject": "식용유",
+  "hooks": [
+    "식용유 30년 동안 이렇게 두고 있었어... (9/10)",
+    "식용유 따르다가 냄새 맡고 나 뭐 한 거지? (8/10)",
+    "얘들아 식용유 자리가 이렇게 중요했어? (6/10)",
+    "식용유 병 반 남은 거 결국 버렸어... (7/10)",
+    "식용유는 상해도 티 안 나는 줄 알았는데..? (7/10)"
+  ],
+  "text": "식용유 30년 동안 이렇게 두고 있었어...\n튀김할 때 편하라고 가스레인지 바로 옆ㅋㅋ\n근데 불 열기랑 빛 받으면 기름이 빨리 산패한대\n난 이제 불 없는 찬장에 두고 뚜껑 꼭 닫아, 개봉하면 두세 달 안에 써\n너네 식용유 어디 둬..?",
+  "subject_en": "plastic bottle of cooking oil (vegetable/soybean oil) standing next to a kitchen gas stove",
+  "image_prompt": "A half-used plastic bottle of yellow cooking oil (vegetable oil) clearly visible in the center of the frame, standing right next to a household gas stove burner on a slightly greasy Korean apartment kitchen countertop. Casual smartphone photo taken at home, slightly tilted angle, ordinary indoor lighting, a pan and salt container partially visible at the edges, unstyled and realistic. No people, no faces, no text, no logos or labels.",
+  "photo_query": "cooking oil bottle kitchen",
+  "product_keyword": "오일병 소분용기",
+  "benchmark_note": "내 글 상위 '소금통·김' 형식: 'OO 30년 동안 이렇게 두고 있었어...' 셀프디스 첫 줄 + 이유·숫자 공개 + '너네 OO 어디 둬..?' 질문 마무리",
+  "products": [
+    {
+      "name": "말랑말랑 뾰족캡 소분공병, 흰색캡 10ml 100개, 100개",
+      "price": 13990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8394397457&itemId=18240149168&vendorItemId=90875695563&traceid=V0-153-4ceaa7e3354f8bfd&clickBeacon=c9901a00-e17a-11f1-ad58-5dd4dc78aa90%7E3&requestid=20261116140130850149411248&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/309D3hPhOh-TgOqz3yVtqoTEqMm_8T68WkQgAxAWGDYl4HpDEZgERuskgj1iGmaBct_xhay9pvu7SvlrZobv5MsuY7ga3CrwrTu1ugvExMF49c4tUGBwkD9BJQz-uwTYr0aFj5XQvoVT82bF02BxGU30K1f2E7pb58dgfaLJiKhR5HHxnsRBO3WUBW6TaXjYthMFTMVRJJdVnLujONLTxLoz-6VwuxSiCxmXqtSRS8Tk3KmpZs1BsEauV3GqRITuw8OBJyz_eZyHussVgjadaVbqizJEqWlOk2EKseuXhc33d9c3TGMEoMuWqfv6mRi9z6l4tDlTV_QVfy7Fb7ZpI2O8LuIPoGZsGXbNZdWEVe6pnGng1rgoj8hKqvSD-fDQ7TfUbezPv0EONSF8_hJv3zB2q-BReFgct12smH100KOhHXF30_Wzk453sB7HRVWfjN9Ym2gVTsG93-EOcRosKEFlRvZuuDjMmqOlVeXdCxvd75I8xoErUrl56KmLfYM88LJEP5QNfRj4fcONSRg6OfAzXnM0fXE="
+    },
+    {
+      "name": "제로리빙 대용량 말랑한 소분용기 뾰족캡 공병, 100ml, 5개",
+      "price": 7990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8209367512&itemId=18639492485&vendorItemId=90834809828&traceid=V0-153-ddbf9f94039cac3f&clickBeacon=c9901a00-e17a-11f1-abae-dd3eea7b2a00%7E3&requestid=20261116140130850149411248&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/UuGlllrC0SnMMznXUlT7bYIo2Kqxk1smE5Iwk_GRfNnqNOzf6h5tY4JNsu6O98Uss7-_cg26MvgHrTDO3vXa2BrLbHfLVMa9Jwlkc4aPD1W8G28w-nhXoLYRh9wiHL-lf_sjjz6mXQKtLZHQMI53BAGniJYBvWLbo186MLKkmWt7w4-xdBNA8lZAjDNcBO91NTvhn6I166evOPl9qHWPdmMFlOyLC6uM2mRjuOBXxGMxMLjef2d2jVKfUwxLHbxC9ipfi5_chCOFK03-Ro8zYpAGViJfZqCvtqEr5wBajtQjF9WBqx9w41KAYosQWNasG4XWBPBuShCEn-ypKmpH_SNVXf9377keh2MzKGKLj_sc9pJM1WlD4LGj2e84yglMFeRfF6ZbLRU0TlTufTsYgUW2kjwB6cZhcRPze-fG48zXiIcbsmbKlkDwE3KvEr9mXWlJhvvwJAyokat73B5UiI8mSq4mP-iVapHI1dEk_jOCRs0faHWO-bJ1NiiQOfiLPnN5cD4NP81JKYNQm7oQJdGUhwhIdINA6g=="
+    },
+    {
+      "name": "코멧 글라스 실리콘 오일병",
+      "price": 9980,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6075369599&itemId=11235574891&vendorItemId=78512860816&traceid=V0-153-84ade07dacc88a42&requestid=20261116140130850149411248&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/LvWBUQ1vvK-Au2BpLn4lRb4mW9dpkYszvYNlIq3qwVUGWITg_DMA_0Qyujic69A5M-DTYMbrwz0u3zrTLyXFSFbwg4O1ZU8aQkcCv_AhvuLwomE9otQ39Qt21fSgm8XVPruh0azWoszeFyTHpdJ8Uq_uoJ0UxOM92vOIR57ZERolnjDyyRlYbxonnx4qfkH7c6LdvJLLn3hdP-Z1VCgPhosry_5veIb-zpN7vCQrQDvNkkcozQq2BlUuS92SYAMBjcdzNfuP1QTXZuhIkp5PrVvmgQ2k3mqr4qq5SP2d2_uN0HA2l4bBpHFlwTFxJDoeBmbohhk6wLimpPGUwPuAcgrHI2prpsXecCWyUOHF3HkdtkYtzATJmfpmg_nqsF4MhMS-xDF9uYN6W-FraHWenxf5hHmYZU9Xw2F1_mxcMC08bGI24X1YjBz1UBcei62-sLCJFGVTDTR3DcA_viKDEeMGoQN_Z0O6TdQhpbjTf8utTlYljpY0K6cvnlVEcHe9fTSoGgr5J4FnBDy3t7Shc6Jz"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 323,
+    "has_photo": true
+  }
+}
