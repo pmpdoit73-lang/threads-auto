@@ -2,7 +2,7 @@
   "id": "20261117-1801",
   "created_at": "2026-11-17T18:01:05.091445+09:00",
   "publish_at": "2026-11-17T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기그릴·밥솥 말고 — 수세미·행주 아닌 '실리콘 주걱'도 아닌 → 밀폐용기 김치 냄새 배임(뚜껑 고무패킹 빼서 말리기)",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 329,
     "has_photo": true
-  }
+  },
+  "threads_id": "17905430577376662",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df14e8PoMGi",
+  "reply_id": "18102888038431088",
+  "published_at": "2026-11-17T21:01:48.529599+09:00"
 }
