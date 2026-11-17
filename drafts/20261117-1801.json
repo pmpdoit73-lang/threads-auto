@@ -1,0 +1,53 @@
+{
+  "id": "20261117-1801",
+  "created_at": "2026-11-17T18:01:05.091445+09:00",
+  "publish_at": "2026-11-17T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기그릴·밥솥 말고 — 수세미·행주 아닌 '실리콘 주걱'도 아닌 → 밀폐용기 김치 냄새 배임(뚜껑 고무패킹 빼서 말리기)",
+  "angle": "밀폐용기 뚜껑 고무패킹을 끼운 채 씻어서 냄새·곰팡이 남는 손해",
+  "category": "주방",
+  "subject": "밀폐용기",
+  "hooks": [
+    "밀폐용기 30년 동안 이렇게 씻고 있었어... (9/10)",
+    "밀폐용기 냄새 안 빠져서 버렸는데... 내 탓이었네 (8/10)",
+    "얘들아 밀폐용기 뚜껑에 이런 게 숨어 있었어? (7/10)",
+    "밀폐용기 뚜껑 테두리 그거 장식인 줄 알았는데..? (7/10)",
+    "밀폐용기 김치 냄새, 이유 듣고 소름 (6/10)"
+  ],
+  "text": "밀폐용기 30년 동안 이렇게 씻고 있었어...\n뚜껑 그대로 수세미로 슥슥 닦고 끝ㅋㅋ\n근데 테두리 고무패킹 빼 보니 안쪽에 까만 게...\n난 이제 일주일에 1번은 패킹 빼서 씻고 바짝 말려 끼워\n너네 이거 빠지는 거 알았어..?",
+  "subject_en": "plastic food storage container lid with removable silicone gasket ring (airtight snap-lock kitchen container)",
+  "image_prompt": "A plastic airtight food storage container lid with its removable silicone gasket ring partly pulled out is clearly visible in the center of the frame. Casual phone snapshot on a cluttered home kitchen sink counter, slightly tilted angle, dull indoor light, a used sponge and the container body nearby, water droplets, ordinary everyday look, no people, no text, no logos.",
+  "photo_query": "food container lid gasket",
+  "product_keyword": "밀폐용기 고무패킹",
+  "benchmark_note": "내 글 상위 '○○ 30년 동안 이렇게 ~있었어...' 셀프디스 첫 줄+ㅋㅋ 둘째 줄+'너네 ~..?' 마무리 형식과 산책양말 글의 '이거 ~인 줄 안 거' 틀린 추측 질문을 가져옴",
+  "products": [
+    {
+      "name": "데이락 냉동밥 보관 반찬통 에코젠 논패킹 1호 밀폐용기 350ml, 단품, 6개",
+      "price": 22980,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9395123785&itemId=27922583255&vendorItemId=94881113253&traceid=V0-153-5e8a6797a7d0f391&clickBeacon=7c821470-e265-11f1-b5f5-672f1e230e2f%7E3&requestid=20261117180133301137974743&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/3BzDIi-NRXsFk0KV3P4rXkI7naWMqNbY8VIm1WatctvRcRpK1-E1-bfCZF64MdN5-63JAtr0gp8hiFMGB5M3GUufrdjtE4YICFP9Gm7Fn-1XnslbqUMK5x3iQwAQ83XjgOIa4nr6wXvDatags1hK7ZylNQYAn03McsadxZ3UQwajUpuB_FI6MEI-vY9vvbiSSm84fRethnJyQHbeY6Z9X6uXyex8mKcdLwAZJtN1kSBK2xkPHNE6dM4AdWu9nmVv75E3tJetkl_4wJPtzHUA_Ija8efm4FGcvxRYyN2pR-YK5dTFhs_lCFSIJs8objHKvntULfwcsbOL_N9ckp-g2iPIXULqSfAdqyDt-lEYA6aQKbQZE4MFZRlR_dK8AmY0ESZ2_oXcaoHd9ARhHgfJksCHyvOZW79niyeTCSahBHAuPsDS0O-1_rdwCpx8FZonG6SM9J6K8r3cdz1gL5wXY_r_3wydHQOseGU6seLlySvVKldFuOajKnVkE0Bmm2ZwpxdSNrSqXj6QG-OKP-eBFo7C2hrYUw=="
+    },
+    {
+      "name": "반찬 용기 패킹 고무 반찬통 뚜껑 잘라쓰는 밀봉 밀폐 교체용 실리콘",
+      "price": 9500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9007510146&itemId=26451306761&vendorItemId=95923213742&traceid=V0-153-e8a425899fb6daf2&requestid=20261117180133301137974743&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/ZY2h_zBWNuxIBofpZUhJlKFc_MLUVX0Qj-wkIpuKebSShgLUcSEOVe4ysiet031dQeiCsZK_ZN37XUbWTruCr5Se6OYNI2cchfglodXP0DJk3JbfIwwGgzasx7hzPayPWnsbZn6cJdv-FNyKUdYf8IuRopkh1061Dydh8VPFTbJZXrJ04nINVkLWJXogUuxr4xKZCwSrZOKgdWwBVL2U3Su4aEw0GvC_qJwluVN23TnMFKVAYI-4MHiIBis0aJEnXfR3yqe4jh8JWJ9t1V3fEBNeeTbJ70v1TfeZsjKB9UpOqI4yzymlu-5BV3L_nsgNvx0LFG9bU4HqFisUOKEOoJVC29-hPbZCEMzObH7g86Jkbrz9EE9dYzmovw5A_y6hugTbXDlXi4VqviFLBrhWiUkQ-Zpx8AjKxo5GzAxjLKo7kYxFEtYXmUT3PLGSIddi7R3u0LcdL46EtpGxFJ2u443R3inDip5oK4_cTie_pO_Pr41CfzrPy_LHamsLkF0BywsZXE1aK7V2HqFtCkn6ugGhzehKKEKszROFfk5WWcf9kJY="
+    },
+    {
+      "name": "반찬 용기 패킹 신선 보관 상자 링 고무 반찬통 뚜껑 잘라쓰는 밀봉 밀폐",
+      "price": 8500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9013129471&itemId=26576458308&vendorItemId=93939474879&traceid=V0-153-b297a201763ae0da&requestid=20261117180133301137974743&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/AkPp49TqXol7f2eKArVR9oJXULjBHFQBRoi7cW3jIRxnd9cbSc36acFGDBZ_9X92ddvsV-vvvQWP5HLPu9Zi0huPQu13MS0HWMS7D1YoWjFVYujSIa3wcjqFEabt_XF_m5IGfjihwpKfF5hXep86Hre7FgaxYDkAboiKlcDyoauzi2oYrIneamsuU4qh1jELc7B8PQFbooBlM_xgShi21wUK476dan0b-inDDb6SWO3PFBSxh_u6ymZDQPHdxYAzEuEYhLPCdPcOCpjV91B83Z_uuz40NRaJBGiHSmRaLpt9XJ0kb_8JweUWPZonB1fXTIPTdxK6z30dmWq30Vx3HlCnSAxwxZ0XB6OfSKjh3_MjNu2CG3uEbo3Pc0Xkx2FoTqQTO2k5sJMbF8MTRhPgWKWiCHq1Jst6cMQS2LsYf6EEsB49g-JGHQ-rgHSr2opFSeYvvO58mVQZ_nHv4CPUs5LRq_4GcQ-KUF8X5wvqMPN94BWtZy9zLpocliWYCZhopx6tuFvMQLj76VIKxl-GelC3K5kWiP6u2ZMk-i4N2mQCUq74"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 329,
+    "has_photo": true
+  }
+}
