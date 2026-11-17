@@ -1,0 +1,53 @@
+{
+  "id": "20261117-1401",
+  "created_at": "2026-11-17T14:01:24.662490+09:00",
+  "publish_at": "2026-11-17T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥 아닌 — 에어프라이어 아닌 '냉장고 아닌' 김치냉장고 '저장 모드' 대신 → 고무장갑 손목 안쪽 고리(걸이 구멍) 말고, 지퍼백 아닌 '쿠킹호일 상자 옆면 고정 탭' 용도",
+  "angle": "호일 상자 양옆 '눌러 주세요' 탭을 몰라 호일 롤이 통째로 빠져나와 헛손질하던 실수",
+  "category": "주방",
+  "subject": "쿠킹호일",
+  "hooks": [
+    "쿠킹호일 30년 동안 이렇게 뜯고 있었어... (9/10)",
+    "쿠킹호일 뜯다가 나 뭐 한 거지? (8/10)",
+    "얘들아 와, 쿠킹호일 상자 옆에 이게 왜 있어? (7/10)",
+    "쿠킹호일 상자 옆 동그라미, 장식인 줄 알았는데..? (8/10)",
+    "쿠킹호일 뜯을 때마다 롤이 통째로 튀어나오는 거... (7/10)"
+  ],
+  "text": "쿠킹호일 30년 동안 이렇게 뜯고 있었어...\n당기면 롤이 통째로 딸려 나와서 손으로 붙잡고ㅋㅋ\n근데 상자 양옆에 '눌러' 탭이 있더라\n난 이제 그 탭 2개 꾹 눌러 고정하고 한 번에 쫙 뜯어\n이 구멍 그냥 공기구멍인 줄 안 거 나만이야..?",
+  "subject_en": "roll of aluminum kitchen foil in its cardboard dispenser box with a push-in tab on the side end",
+  "image_prompt": "A roll of aluminum kitchen foil in its long cardboard dispenser box is clearly visible in the center of the frame, a thumb pressing the small perforated push-in tab on the box's side end, a torn sheet of foil hanging out over the serrated edge. Ordinary Korean home kitchen counter, slightly cluttered, casual phone snapshot, slightly tilted angle, plain daylight, no faces, no text, no logos.",
+  "photo_query": "aluminum foil box",
+  "product_keyword": "쿠킹호일",
+  "benchmark_note": "내 소금통·얼음틀 글의 '30년 동안 이렇게 ~있었어...' 첫 줄+셀프디스, 3rd party 글의 일부러 틀린 추측('공기구멍인 줄') 마지막 줄로 정정 댓글 유도",
+  "products": [
+    {
+      "name": "베스타 참좋은 쿠킹 호일, 30m, 30개",
+      "price": 124200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6248808599&itemId=9048606205&vendorItemId=82226212902&traceid=V0-153-95a85986b5d3af37&clickBeacon=fd0deaf0-e243-11f1-9358-f7144f131712%7E3&requestid=20261117140146057294373397&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/vHaGwnH9BDrrQGDpvDVYK366aokVe4s6D3FVDhvVQDBlKhwgWIuzAf0-1F1Gm0zXERKq8iT1yM6dDRCTFceyixnXuhNycmnFH0rHXskIrBP040Kg69xWqd-6fpDBnXuswb2q_bf-lTO2T8PNZi9BU2wup34xRPcNa0c-zq2tpY75u6W5fKAXpSF1Lhal60fLkFr5z8YcdLGpwetRlgyfLTvCer6f5L5ACh2xRRMtggTRgkNmSkqHcKllhU3-vUEgecyZkIeIiK_pdD2WQ0WwC7yFA1hD7kCpnfrcPPJMa7JogyxUINZV3Q4qVkX4xmiDsiXwMtGh-VgPFkKX27ZS5rXpkYk4aFOTEBC_2XljGev2kriUb0TYa6TVLqcVjSgSeh24-PTOdt3c9ahZC4DvOpxqW_NYAMf002SotL1fvIJk787OrZwTjLgsZvOXigCnR_JU4u8h4N7NBB5Qwj2I5NVmhxa7k7UAZbZwGmvfqATDSP1EuCSJsOBo4sD2Km-luUELhTqnHPwcckiRjKX_cw7YfeQ5sA=="
+    },
+    {
+      "name": "베스타 참좋은 쿠킹 호일, 30m, 20개",
+      "price": 108000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6248808599&itemId=12934068696&vendorItemId=96118270691&traceid=V0-153-95a85986b5d3af37&clickBeacon=fd0e1200-e243-11f1-a0e1-9aa0562ba5ab%7E3&requestid=20261117140146057294373397&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/ZXOOK2vUGfdEHkP-ZSJ7EjzZa8Kcj7mXRWS76Rgdch1VCiIKug1a_FWu_uxJ-P9TTf9r4xmPqy42PmB9DHnr2ZqpAac5rj2zwRHJ0cRW3gH5D4ah5OHXmwJKHypMDL7QRRKo_Y4nfyFrh_jN-bJ1i5vdSQSuoap3UQECRZSgUdeS65TzzKbC_37GIZTG3_1pinmDRJ5FnINNLGvcKJqneIyZdahdGoe7Fybay4XrxcsKAQx00zIaUwVuigjSG-79eS9PpdG7WLBFzvPISinYetU48L0kdZHIVlUcHrVCBNi814xUN0JWG3kz7kj3oCXB3NBvr-XwJESIDqYzi0-0G-_vb8pkHFw4JGQ-bw9iuV8h3MAKRnJTK64KP0SKawreZNP0vcF7horoO4CH5kZaQtSE6Fg2piH6Q6D-WfKUbx6w4qxMwV4sTX1yiFRl8VjJN_QYTt0NIQc7nt0uHEh1SnMVIhhpYjXbl-CcTzEGS6MMoPlMXsc5hWMt9DuM6r1L-z3cvkyjr0vD5g=="
+    },
+    {
+      "name": "삼아삭스호일 e 쿠킹호일",
+      "price": 6780,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7463423701&itemId=24379380441&vendorItemId=91394493921&traceid=V0-153-41775c42e273736c&requestid=20261117140146057294373397&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/wJs6gav-tQJrgw3nwL23V1qAVY7V--MKAoqYjrSQCYdQLoOAasPGI1invnHsNehO1jVW3hUm72EaOXvDZs4Ae_Cxl11t9DQoruxsc-3o_zcw07oMw1v_fzFshvjiJrOg-OUmUpYch-yVwzpFcCrFMw4Jz53dSfMHLCgEnOyMBQi0_fNK3gDTqvoqMw--drGepZ426JaAadjBWbMMY3PCp7-NL4c52NO9-ifaNx5uVu2449MQXgHqKhU6RysN9VHw4lmlCoFgmRUG37OAdoutwnwAMnmxjWpbI58yMGF-IBfIkpbx6MeSDq5efV4PU3OqBy_SAN2k-1rbjt3nU5wvJtcObxLN1523_ncgkUSiGWnMNd2K3s9Yvxt46IbHNx4hScHw308VpmQzp5zD4cbG0R4oco2MMV4M6bB3DLfnBdmked2WHBH74ijwIFjm6vXypUt73B88f6GUAcjiT9T0EuicQrj5AB30-qJWtZVS_jOQGZztTU0dPU0kduHRcREVQX7B780K6FLMDBzynSY6xJ6QnQ=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 328,
+    "has_photo": true
+  }
+}
