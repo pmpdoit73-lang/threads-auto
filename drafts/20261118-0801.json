@@ -1,0 +1,53 @@
+{
+  "id": "20261118-0801",
+  "created_at": "2026-11-18T08:01:15.966977+09:00",
+  "publish_at": "2026-11-18T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 식기세척기 코스를 늘 '쾌속'으로만 돌리는 습관 (세탁기 온도 글 후속편, 전기 아끼는 코스 각도)",
+  "angle": "빨리 끝나는 코스가 절약인 줄 알았는데, 오래 걸리는 에코 코스가 낮은 온도로 불려 씻어서 전기를 덜 쓴다는 점",
+  "category": "살림템·가전",
+  "subject": "식기세척기",
+  "hooks": [
+    "식기세척기 코스 30년 동안 이렇게 눌렀어... (9/10)",
+    "식기세척기 3시간짜리 코스, 고장인 줄 알았는데..? (8/10)",
+    "식기세척기 버튼 누르다가 나 뭐 한 거지? (7/10)",
+    "얘들아, 식기세척기 제일 느린 코스에 이런 비밀이..? (7/10)",
+    "식기세척기 '에코' 버튼 장식인 줄 안 거 나만이야? (6/10)"
+  ],
+  "text": "식기세척기 코스 30년 동안 이렇게 눌렀어...\n빨리 끝나면 전기도 덜 먹는 줄 알고 맨날 '쾌속'ㅋㅋ\n근데 3시간 넘는 '에코' 코스가 낮은 온도로 오래 불려서 전기를 덜 쓴대\n난 이제 자기 전에 에코로 돌려놓고 아침에 꺼내\n너네는 무슨 코스로 돌려..?",
+  "subject_en": "built-in kitchen dishwasher with door open showing loaded lower rack of plates (household dishwasher, not a sink or drying rack)",
+  "image_prompt": "A built-in kitchen dishwasher is clearly visible in the center of the frame with its door pulled open and the lower rack slid out, loaded with everyday plates and bowls. Casual phone snapshot taken at night in an ordinary Korean apartment kitchen, slightly tilted angle, warm dim ceiling light, a dish towel hanging on the counter edge, some clutter nearby. Realistic, unpolished, not an advertisement. No people, no faces, no text, no logos.",
+  "photo_query": "open dishwasher dishes",
+  "product_keyword": "식기세척기 세제",
+  "benchmark_note": "내 최고 글 '[물건] 30년 동안 이렇게…' 셀프 디스 첫 줄과 5줄 구조, 마지막을 각자 방식 답하는 '너네는 무슨 코스로 돌려..?' 질문으로 가져옴",
+  "products": [
+    {
+      "name": "공간케어 초음파식기세척기세제 초음파활성제, 13L, 1개",
+      "price": 16800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7069854134&itemId=17553465269&vendorItemId=84720308443&traceid=V0-153-1c70e70f237f63cc&clickBeacon=df4ed730-e2da-11f1-a5d0-6b1e77941964%7E3&requestid=20261118080150165067791930&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/1yVkqHUrEXK96aSy10kyv5_0Nx1ZFbaJ1Ii1PwcwCiCPviDY0XtJQG-PzdR13VfHrJVHt5M5paDtPsMjUV9sqlaQPRg8oYCnI9R3-0PXC-QTTS5zXYrNL3cICaVsZsn83p20nPlFKDqkw7I_cxWthm5uVuOGgaNVWRcU-_zM3XS4UPZZ9NvQEAJ8V2YSGAclktYb-KoyXKxe7gxERgWDbqjHGnIROqjJ4fwsNRw4MHk8W-RG0I1AMYXVPdG1lpKKv5xX2aZOINqzsBD4gnoy45pO6eWAgsj7MSINypYtPummsl0FdnfdXxkZ6PptgYuBRdN5oCirPaQafV7-TPAFIqfuUYW8_EdovgyGSmZ3sn5ysf5jNJSC9Pz5vSswN3U-H2VrTWWVk0Wcguh2WOGuMi30XFxCHRYm1WrWW0HN442HI49aPvDSZySfOQ7nmtWgUMeFopjL-zFV62Xx66_yjWwHlyOeH8hc3WBOT1lhfOnqV0yIBPcym_Im7s2_LdR3Uz6b1cMEPIb5DMJ-E6xWU5zSPiX7bg=="
+    },
+    {
+      "name": "아이리벳 올인원 식기세척기 세제 타블렛 60개입, 2개, 600g",
+      "price": 21880,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7229941819&itemId=15374692618&vendorItemId=93546628242&traceid=V0-153-8996079253e67635&clickBeacon=df4ed730-e2da-11f1-a54f-5a0c0f3ee8d6%7E3&requestid=20261118080150165067791930&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/IY8Xcb59zzIorEUMIQVxBSduT9jmHA3xEoAtC6YpWS7ukoMMthvDKf8vhoXh0NTU1K_dG5lYrGs9o34LyAbMxXTbjwNisq9OsiBnSLxPytJSRhXIii8WXgJhPpfR6VCgBBXi5QNKrv8cJLFZIuXZo4vM-TA_BBg9XnvHpTVuzWjO53AeFDPQeOJkp8Bq-LIZzgZs9gvEYAJb_1MCXcqqudVYp_RyHfWvNjyZrheOe8e3OeMh1vx_lKChZXqoESxdH4BwgBZg9FW71oQuEbQSq8g32yMy6uYcVovPoHPPfl_5RZiCzkfzfoP-NflcfGKnKKsdN7vyYLTupUdtWmpzKMg276FJE9HznAYayKhzyR_cQogin6k-NeId4WLMZfU-ZcQQQeM9kMXhkm3oX5EP0-7bIwvMZJbaVTON6xTYU9nQ9iV7-Uj3pSKzNvdmk1D1EK_crwaV3domH1oMLd6aCJ8HmM5rjYqwVvRCpzhvUxCEoHkaqxDTooRALEIWkikY8onAvZnPdoBMdrmxfiqMM5wLyuAF"
+    },
+    {
+      "name": "자연퐁 스팀워시 식기세척기용 세제 베이킹소다 55입",
+      "price": 10820,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5274574072&itemId=18917659939&vendorItemId=88356717269&traceid=V0-153-9c63f17ce67595b0&requestid=20261118080150165067791930&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/TDG8cMMxP4RL_X2UTJtmuonZrAHdl1IM4HDqJIAgb3e8NINxSHefRbDxmixLATyMRV7HCge5by19c1UNbsjRMG_pJIXOMKpr9Jfczbf-9mThEceyihE1B7Me-c4bYFbJPqydjzSDXoL_9ir2S_Hy0oHubFo7v8dbL3hnQyOZ9QnT9EET4xcME0GrTEAgbGEsVPS7UrF2-expZT4yO3p6OuPk1DBhfAe3dsrwcNMK0DfZvRnIhFWPIOctY4dRwxzMO5eaoJdX_fWTAG5Psb1Gxo6HxNAJKUUp2lFlrZ2UbD4xASNjOWqooMQQj0XP-gqcXBySpDWYT42PdxjbERMitCk00BapMt7nbP-lrc3XCZVZJUIa1xjP28jY1ssHiSv5jP4thZQmWoD10QrUYSJ9tcCuBS7DKbzuUfdDPc8JKo-P1FakK8hymdYM9hBDAkK8tYGybidzkVi4JiOLQOKy-OcSzEt7sTsLBECP8Yy7TYaNiC_hDdlZ0Kr036z-k8Ewia1C3toiZGASH_E0BQ3KNQnW"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 332,
+    "has_photo": true
+  }
+}
