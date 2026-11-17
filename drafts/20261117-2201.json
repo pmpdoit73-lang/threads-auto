@@ -1,0 +1,53 @@
+{
+  "id": "20261117-2201",
+  "created_at": "2026-11-17T22:01:30.961802+09:00",
+  "publish_at": "2026-11-18T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기밥솥 취사 끝나고 밥을 안 뒤집고 그대로 보온하는 습관",
+  "angle": "취사 끝나자마자 밥을 위아래로 섞어 주지 않으면 바닥은 떡지고 위는 질척해져 밥맛이 떨어지는 손해",
+  "category": "주방",
+  "subject": "주걱",
+  "hooks": [
+    "주걱 30년 동안 이렇게 쓰고 있었어... (9/10)",
+    "밥솥 열고 주걱 들었다가 나 뭐 한 거지? (8/10)",
+    "얘들아 와, 주걱질 타이밍이 따로 있었어? (7/10)",
+    "주걱으로 밥 퍼는 순서, 나만 거꾸로였어..? (7/10)",
+    "밥 맛없다고 쌀 탓했는데... 주걱이 문제였네 (8/10)"
+  ],
+  "text": "주걱 30년 동안 이렇게 쓰고 있었어...\n밥 다 되면 먹을 때 위에서부터 한 공기씩ㅋㅋ\n근데 김이 갇혀서 바닥은 떡지고 위는 질어진대\n난 이제 취사 끝나면 1~2분 안에 십자로 갈라 밑에서 뒤집어\n너네 밥 바로 섞어..?",
+  "subject_en": "plastic rice paddle (Korean rice scoop spatula) resting on an open electric rice cooker with freshly cooked white rice",
+  "image_prompt": "A plastic rice paddle is clearly visible in the center of the frame, lying across the rim of an open electric rice cooker inner pot filled with freshly cooked steaming white rice, rice partly turned over showing the bottom layer. Ordinary Korean home kitchen counter, slightly cluttered, casual smartphone snapshot, slightly tilted angle, warm indoor light, no people faces, no text, no logos.",
+  "photo_query": "rice paddle rice cooker",
+  "product_keyword": "밥주걱",
+  "benchmark_note": "내 쓰레드 상위글의 '물건 30년 동안 이렇게...' 셀프디스 첫 줄 + ㅋㅋ 실수담 + '난 이제' 숫자 공개 + '너네 ~..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "꼬소모 국내생산 밥알 안붙는 친환경 밥주걱, 1개, 허니 옐로우",
+      "price": 15900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9773288702&itemId=29255291466&vendorItemId=96173335194&traceid=V0-153-c96aa735f98d03aa&clickBeacon=0e0c1050-e287-11f1-81b5-ca452ebaa4f9%7E3&requestid=20261117220150856021570006&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/zKFhAtZIKZFv8ONfzJCfxtui15rPFzGkxFqqlHiLE_jwZRsKQ54IX5SmgM2cmhgZlqMgOxxR24Lb0tBoVIhx9OyajjY_9HOXzG7v4PH0H49bKP__8BFgUtwNN91-vYnPZdDBTCbciRAzEGWXvvJq7UqXUlwAGInRGvYh0oQTllNNL6LlaAz3R6Mhw-G_c5_QHg2sQFpSPGRvMtpsi3wiIPAfhY_rwIVUy7k5lSoo2J9EfPuyN1MZz6DVLrftd7WPUKZeGERL3uuQD87edZgCjRB8_YVrUESnFphXrStH7nYowAZYY_MossR96hnKjv-iFhJ6cjmrOIpVtj5EsQIxZ53cAzQ2msG9oXMCYaKjuulCPTii26FIdi-WTrwZcl4BXx1Lo0naQg3l1d5VA6GDFaNQw-ibBRuxTNCNO6mtpbI6_cO1Cgm-I6Dd3i0o2aWH7TNNCTH6Nz02Yr7TSKeHhwaVhfZgYjL5U8sNIDzdoW-dk49meTgh3MIzJAhakVPkYeHsvkBFKGGJFdoA_MoWOMohN09ZUVHy"
+    },
+    {
+      "name": "딜리오 밥풀제로 3.0 논스틱 밥알이 붙지않는 스탠딩 밥주걱 2P, 2세트, 라이스밀크 화이트",
+      "price": 19800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9713639775&itemId=29064251428&vendorItemId=95993764696&traceid=V0-153-b6bebfadf3c84dbb&clickBeacon=0e0c1050-e287-11f1-ad4a-5873ae0e13c5%7E3&requestid=20261117220150856021570006&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/hfIL-oYsBN3fgG5yhfh458yC6eb2CsaQ-eYZjSENaS-PCiggOu7-fqguFMJtVe3QeHAZijvEOVjy3p3LaxZIOp1n9N0rOwYmJ8NEowcvIH4Ae7w0HfCuON1YMg0BsguOGGy8rtHqRrEsIWhiP42zHKY68SVgG-EphnIsru0Va7GhCvU5Ycvh1WmQmYZRFM7BmgJweRCivkRB-KEwc-Rg_Tf39yNj8hA50FrRpyOwjTpxPAN4IGcu7rn3HjBeedZxfK7nTZV2skbxTiKXiynbtfyMhPJTmDvkdIrZh-HeppI9l_6PTFYHAsmOoyWRyXXNR5t3drEF85ucBGN59sWqyyYKWeC-uXB8UPKU2OR_v2dlvKe7bwLVD6lWbMATypkAagw8mGDOXMXxakX5SCZGpn4GVbK8xKYgnjKkpKDoMtKMYTm0elNHs1ALEdMo8u-0KINykaUgZi4VclBaZ-FgAF5q04BKxbyTD0qNnTD4cQ92GZatwzMThPwB5LCrwsap68HxVMYLJpARdeHbt9OcKs9Audgj3gN1"
+    },
+    {
+      "name": "마르나 키와미 밥주걱",
+      "price": 7800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4840807778&itemId=6256116551&vendorItemId=96223968096&traceid=V0-153-b875813380bf20a2&requestid=20261117220150856021570006&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/nyL4tV-PtL8zjf0qn8StFbxwUJ1qxU5PRvBwlz9noxdckMwYgPgsrYjobjRpPydOlrqLYsFvy_5l4YkMKKWl56Pwwp1aoMJDUfna_K2zXdjXECa6RuUYANa14sHIr8mOmXJBNEoqDe-4jFntq90k4MLgFWCTlCnHoiO6cslFt5XzGKCf9r1zqWNPF6cw5CxdaCl_owlIarSk3dvYR7a-Ji-MeooHv_cae8EvaIBfYt1uctNZI6biEU4D3HoUo9zq4FfsZgFemvn1YoztbYWu2eFaSBE8gUwH9pQbZrbRzYlKRKNBPa662VUcugXJl-O2cXDSPVZXFYsqcEDO1Z6V-NfDRrXL5lzEGBWUg_fMTdyzg5Ky3e4lDzEUOMjSiIVW0UHbKgA_nwPYwG8T67lisz3W5shDPzmJYkjZiyf8ikLWc6and48wA3ojhCwiFfChRioMeL5VQPL6kIxqM0CEb5PnyWcVRxp60cntFLMy4lMSMpqgvLrRYwXcDRuWclSuMqYsr6iYYscCrTOn9XQhHX00vdlTr2ErylPEShTyHQAwjzM="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 331,
+    "has_photo": true
+  }
+}
