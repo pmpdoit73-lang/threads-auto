@@ -2,7 +2,7 @@
   "id": "20261117-1401",
   "created_at": "2026-11-17T14:01:24.662490+09:00",
   "publish_at": "2026-11-17T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥 아닌 — 에어프라이어 아닌 '냉장고 아닌' 김치냉장고 '저장 모드' 대신 → 고무장갑 손목 안쪽 고리(걸이 구멍) 말고, 지퍼백 아닌 '쿠킹호일 상자 옆면 고정 탭' 용도",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 328,
     "has_photo": true
-  }
+  },
+  "threads_id": "18393936754239919",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df1kDtJG7MD",
+  "reply_id": "18060475634561868",
+  "published_at": "2026-11-17T18:03:14.959881+09:00"
 }
