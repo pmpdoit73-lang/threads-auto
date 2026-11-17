@@ -2,7 +2,7 @@
   "id": "20261117-0801",
   "created_at": "2026-11-17T08:01:00.261433+09:00",
   "publish_at": "2026-11-17T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": true,
   "issue": "오늘의 대박 공식 글: 식기세척기 넣기 전에 손으로 애벌 설거지 다 하는 습관 (세탁기 온도 글 후속편, 물값·시간 아끼는 사용법 각도)",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 326,
     "has_photo": true
-  }
+  },
+  "threads_id": "18116620382518832",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df0zy88jUsh",
+  "reply_id": "18134172400704027",
+  "published_at": "2026-11-17T11:01:34.622600+09:00"
 }
