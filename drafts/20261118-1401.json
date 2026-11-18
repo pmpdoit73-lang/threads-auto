@@ -1,0 +1,53 @@
+{
+  "id": "20261118-1401",
+  "created_at": "2026-11-18T14:01:02.359627+09:00",
+  "publish_at": "2026-11-18T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기그릴·밥솥·식기세척기 말고 — 냉장고 정리 아닌 '두부 먹다 남은 거 포장째 냉장고에 두는 습관'",
+  "angle": "먹다 남은 두부를 개봉한 포장째 두면 금방 시큼해져 버리게 되는 손해, 물 갈아주며 보관하는 법",
+  "category": "주방",
+  "subject": "두부",
+  "hooks": [
+    "두부 30년 동안 이렇게 두고 있었어... (9/10)",
+    "두부 반 모 남긴 거 열어보고 나 뭐 한 거지? (8/10)",
+    "얘들아 두부 남은 거 어디 둬..? 나만 이랬나 (6/10)",
+    "두부 포장 비닐 그대로 덮어두면 되는 줄 알았는데..? (7/10)",
+    "남은 두부 또 버렸다... 이유가 따로 있더라 (7/10)"
+  ],
+  "text": "두부 30년 동안 이렇게 두고 있었어...\n먹다 남은 거 뜯은 포장째 랩 씌워 냉장고에ㅋㅋ\n근데 열린 채 두면 이틀만 지나도 시큼해지기 쉽대\n난 이제 밀폐용기에 찬물 붓고 매일 물 갈아서 2~3일 안에 써\n너네 남은 두부 어디 둬..?",
+  "subject_en": "leftover block of white Korean tofu (half block) in its opened plastic tray",
+  "image_prompt": "A leftover half block of white tofu in its opened plastic supermarket tray, loosely covered with plastic wrap, sits clearly in the center of the frame on a refrigerator shelf. Casual phone snapshot taken at home, slightly tilted angle, ordinary fridge interior with a few side dish containers around, uneven fridge light, no styling, no people, no text, no logos.",
+  "photo_query": "tofu block refrigerator",
+  "product_keyword": "두부 보관용기",
+  "benchmark_note": "내 글 상위작의 '○○ 30년 동안 이렇게 두고 있었어...' 셀프디스 첫 줄 + ㅋㅋ 실수담 + '난 이제' 숫자 공개 + '너네 ~어디 둬..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "오컴멀 국내생산 젖병소재 두부 과일 야채 보관용기, 1세트, 용기+채반(1.25L)",
+      "price": 18200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9775334027&itemId=29262252381&vendorItemId=96179987577&traceid=V0-153-7e6e511ac90c76d9&clickBeacon=18295d00-e30d-11f1-87f9-c5ff156c334e%7E3&requestid=20261118140120402199721026&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/yb5Zgf9jddiRGpz8yXj3X35K6cRLJ6TPoExuWImbvI2rGGfH8Fde3BuwYkMpQGP7JB4Ik9dTm15mGT_-BBpwxW1GuJHxLWE3el9EJ_qkNAyAohcKi1JMwbuu3oKZvDDIyM-akl4ZgRh6qIJZOURQJYJ6BwofNC1v2NkwRZPqBzK8TTz89hj6uB82YIj_NAFOHdzcqkpA356f4s1Vg4IjxqeddFryglSv0zViYkfz1HtQGfnB0ODhZTru9PnyicWjb5tIP8oW82LsKqWcCgn-f6cSJ7kE_VNPozRc-mW09nSwxHDw58nA8WtYQ-sKmvvUkG4POAavb4U7v2sLEGsQMKj8pm0-8V8ibwwAZKW4hRhH9muRkoFzbhRa4ih9hfMORqfSi9v2koFySMZ3MvckAG4WP1bTGRPZj50r8_e57hO-FryHX3UhCm46FlTgcoUHpovnCwwr8cr5DGCoERUmQ2_aPNFPCNgMEJyOlA7EckReaVkgYmGZkf4rW7BIL96F_K2S7s5sgwRQUgUBZr5VsmeSNrMFYhvhAg=="
+    },
+    {
+      "name": "진공 밀폐용기 진공용기세트 5종 세트 + 전동펌프, 진공용기 5종 + 진공펌프, 1세트",
+      "price": 20900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9509813113&itemId=28338464553&vendorItemId=96244004131&traceid=V0-153-db1a09374a51d677&clickBeacon=18295d00-e30d-11f1-b7d0-a6d31864b1ae%7E3&requestid=20261118140120402199721026&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/OFMM4PJ0hbmsbhRnOHkGOJYvQ0OjJBSsb2ziA9uoef3I9agPtVH2cT0OTcXHcoSJX8o8G6fZ5FE5ga29UC7f_fueiKtMW_kFMhOn3lSmOOj4tdwCuoHV3a9sRavxzERmKMP7iEghqh07tUrPTSsdaFcmZ15ptios3LnCy5f9geOsAinC7-QT8_TX2Msm5RoE5--BhZ2DYHxR25Kbim7LksNc5Lw1kL_DK-91rAzesT-xpiWWEaYB8Fwj9lazuQqFvT6IKb5FIdClU-9yZoCCjOikbQRfCsatLr7y59eAICwgOQGSSvz0j8UVqT8l2szAJsLkEnoPQ5SM7a6IWyz42ghpRZyqC_kkl_TCzgX9auTZlh8yX91TvcA8s7r6vu16CurmiPGioxKl6MqbhGOiDeJjozmS4ggDD_soy8NDMFj7V_xdVo39ZqxNvKqZ9u0Y-aNwlb0gXa9q8SZf_yDE9ZcKW14ByjWg6qVNCn-rFU2yyY655Q5hUn7GTFJ6Q-4xf_ppt8w6fBANBuy6KSWew2jUAtL04hLk"
+    },
+    {
+      "name": "바겐슈타이거 드레인 스텐304 채반 박스 두부 물빠짐 보관용기",
+      "price": 26800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9785438245&itemId=29297304252&vendorItemId=96213122430&traceid=V0-153-b596edbe30224902&requestid=20261118140120402199721026&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/vlww8ZqWSC4ok_Fpvj9Qhep1vsw8gDjvpWGNCLOWCB6zjNyKp3bT8ptSx5gQ6Jea_WiaQAsrPThdR9GZEa6NVDuYdRLkXQSV079Hzf65gQ0m0IkSezXAslRSZ41aPWZ-GPusiCA9JMpoks3FJkhQJ1HWzz2Zvxzm6uzhyPv3z3d5Fqs641GCpJgrkNkdVNJqhFeQKp9Y9fbgIebhyqE2x0MfpsYMo0XrkRBvVkfViEAYzeynhaPjuecbyv1xezfpEaTVPqOqB0YCVAxa5gtIKWQ37yMeHA2Z4EXShHc8vV1nNx2rDksdfa9xuT-YM_4-WSEIs5HF5_hX6ClIXxwvo5zzTuTCNZ6G_77CSY12LELM6ZS1Vr8IHMOK3YUD5MjCV9n8oSFah3xgZRdG7PKfiFW9fJt6b6kk0eciqsKNz4On6WJy87TWRv_a9S2EeZGdQrwZHxX9ATZy6X8xAC8N_HOlW-xDme-nB3cT2fhxdF1_bgfrQSyzDDDz5B9MPpUz10gsSSPUdPhTt17gdJWrrJTNBA8yCKVMANurTyakMMVExqnL"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 333,
+    "has_photo": true
+  }
+}
