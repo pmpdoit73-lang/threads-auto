@@ -1,0 +1,53 @@
+{
+  "id": "20261118-2201",
+  "created_at": "2026-11-18T22:01:04.010856+09:00",
+  "publish_at": "2026-11-19T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기포트에 물을 늘 가득 채워 끓이는 습관",
+  "angle": "한 잔 마실 건데 물을 꽉 채워 끓이면 시간·전기 다 손해, 필요한 만큼만 끓이기",
+  "category": "살림템·가전",
+  "subject": "전기포트",
+  "hooks": [
+    "전기포트 30년 동안 이렇게 끓이고 있었어... (9/10)",
+    "전기포트 물 붓다가 나 뭐 한 거지? (8/10)",
+    "얘들아 전기포트 안쪽 눈금 그거 왜 있는 거야? (7/10)",
+    "전기포트 끓는 데 왜 이렇게 오래 걸리나 했는데... (7/10)",
+    "전기포트 최소 눈금 그냥 장식인 줄 알았는데..? (6/10)"
+  ],
+  "text": "전기포트 30년 동안 이렇게 끓이고 있었어...\n커피 한 잔 마실 건데 물은 맨날 꽉 채워서ㅋㅋ\n근데 물 양만큼 끓는 시간도 전기도 그대로 늘어난대\n난 이제 컵으로 재서 한 잔 더하기 조금만, 최소 눈금은 꼭 넘겨\n너네 포트 물 얼마나 채워..?",
+  "subject_en": "electric kettle (cordless plastic or stainless electric water kettle on base with water level window)",
+  "image_prompt": "An electric kettle with a visible water level window is clearly shown in the center of the frame, sitting on its power base on a slightly cluttered home kitchen counter next to a single mug with an instant coffee stick. Casual smartphone snapshot taken at home, slightly tilted angle, ordinary indoor lighting, a bit of everyday mess, not staged, no advertising look. No people, no faces, no text, no logos.",
+  "photo_query": "electric kettle kitchen",
+  "product_keyword": "무선 전기포트",
+  "benchmark_note": "내 글 상위권의 '○○ 30년 동안 이렇게 ~있었어...' 첫 줄+ㅋㅋ 실수 고백→'근데 ~래'→'난 이제'→'너네 ~..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "다룸 온도조절 멜로우 보온 전기포트 퓨어 바닐라 1L, (ZT-10DW95)",
+      "price": 44910,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8248083200&itemId=23741920672&vendorItemId=95032659204&traceid=V0-153-eb009dbf7d48bf9b&clickBeacon=2ff72190-e350-11f1-9c77-dd5dc2768493%7E3&requestid=20261118220136608297872801&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/YrWHilrVRZBuiWHHYvFLeoklaD8Vy_E0jj7YPGnshbKzHQB-Ad2qRCJSmuKg3zNYBQS-kYvfLp96XnfcjScA2EnkcApxpnBKLX3Xd5IXsBuWjgFVvVbWHMSGymPF8mClx7aiyRmy2gl0L8YnRpF5HwCfhtoMWPZBJUPHEOxOU3oZCwn73Ue3AJAEd2hHXnI6bcoTQ5EqLPj3ufHWprh3oI_x2L4U464V8pSoK-B1NHsgEButWMiVZDlqhFsWMKgEjmW8obYxsInT0pDTd2m5vm6TrUPP4Q3Rm4iwkX8dWCCRUbDRoNRpmrhHL1SkPMy7Wd6w1tnMdyueHWN5SDSMiDcq_mFWF-C9GFvrhio7OAHOFtZYyf_q2kvHrDY5qQqGzh26fw5oRhIBpJxN1YULlosHrCiuE711SJHVoSK3xHyUJCJwO1au4BT0vj5L2qr8atP8GX436YyGjNMuje0W85mnPQhLC8EfmxFzRxdKhhf8B6oE2ZRQJkOFZw7TJxm8YLY5zXrTHzM="
+    },
+    {
+      "name": "블레스 무선 전기포트 커피 티포트 주전자 NK1000 이중단열 통주물형, NK1001",
+      "price": 28600,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6185362010&itemId=12173399597&vendorItemId=92430289236&traceid=V0-153-67d2944d47ca9c4c&clickBeacon=2ff72190-e350-11f1-a612-fa6d26de96c9%7E3&requestid=20261118220136608297872801&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/s5-yKhteu-APWSphs8VmTznPasEZz_l4uEXZSk6pDjflaFhSSjttUA-qfiqBrx2ZJ1Z8Hp-WbsoyYhWoOJgqoIWl7aa3vI2jniozIeSJyYAzVO62IuOKgbPtj6BFHpDMem95OWdzbcyuvdJVO78Y8dGUjqc5R3H99kOGb7yHGqhb6ZtnyUfa45dXAFeuFCeRCA_52cLp0rsUxb9EffHuoDWm1IsGZGxrPQj_MsFno3w8PxDE-EflTOaXPTgfz5Xyyo4b3xjTbUUrrBKiZow5-DHEoVNLh1h5rxTXNE_QJra0c5g-J43bT_CxixJTvxGBXRx7mo07d7OvtLPXmtAyhSSe-FDQEpmXxPq1xeCkd6qno89Gb3nyTmt8YCaBmIkusb9niN6gvvU1_aDkLrlTfeUbN3DMchHIouJV6446_yw6QGVhhwPYSdHsTP_MydipmjD-SZr-otcokuCWUxZlEnlKLZjj2hZdJ69Lx2uDgjymhdo7rLzV9T5aL874C_LVN-HEyJXq9zBojV_JN9KI_U1KnJRg"
+    },
+    {
+      "name": "필립스 3000 시리즈 무선 전기 주전자",
+      "price": 25080,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=2068932759&itemId=3515436046&vendorItemId=71501561600&traceid=V0-153-4e57f5c60cc75e80&requestid=20261118220136608297872801&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/4OG-S8ZKuL9DNexk4JSE1aZuu22ltpoKpiWf0uLar9p-DGTLIC4C1m4-jMYKFZDxaNMiFkVgJFw2NkYMdnD5cn8jkCCTJ90ClZOegeu4r77KGOyrdCFn0QLN98CinWXoQbxBw0OxJ7xHhOBVVgZjm0ssm2rHnYato7q1eia1wtgST5xFx-nNonk49vnqOCHWr3K32D_yUEVTDQQn_Tur4xbVJGEldLjJL_Z0KIqyFxScj2FmK17iLxW_Ep8Qwa2wecESqwDQ1SSgB9rHIgXTfWQKkz3RRFVV7cOCn0nPbpBrmuOSCjJ1lHRKWNg6xKWzyJBHyezBnPq-bxtZLH8hDXhAVlwMDb1KwgIV4FStauXldv1GBrFaPtOGcfQXof4XR6DC5MSRFMRJJP2z8MczqIZs1IXxhTBRRied9pdtnOUIvLHnkM77Z4Ywaw5Fuq9WC-QUvXOMkceX3BoNDNXl4Zc_zsEjtMmB9F5N0lQUIKDYs8vGx_EvyuCi74SkhB1lohWFIOGOikGvofHuB5e3MLkOzwRlMfXCH9UfNNmJn5qgaRP35hIzUTXWWA=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 339,
+    "has_photo": true
+  }
+}
