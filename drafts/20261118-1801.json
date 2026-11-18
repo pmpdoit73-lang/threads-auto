@@ -1,0 +1,53 @@
+{
+  "id": "20261118-1801",
+  "created_at": "2026-11-18T18:01:00.721289+09:00",
+  "publish_at": "2026-11-18T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 냉동실에 고기를 사 온 스티로폼 트레이·랩 포장째 넣는 습관",
+  "angle": "마트 포장 그대로 냉동하면 성에·냉동화상으로 고기 맛 버리는 손해, 소분해서 납작하게 얼리는 법",
+  "category": "주방",
+  "subject": "냉동 고기",
+  "hooks": [
+    "냉동 고기 30년 동안 이렇게 넣고 있었어... (9/10)",
+    "냉동실 고기 꺼냈는데 하얗게 변해 있더라..? (8/10)",
+    "마트 고기 냉동할 때 나 뭐 한 거지? (7/10)",
+    "얘들아 냉동 고기 이렇게 넣으면 맛 다 빠진대? (6/10)",
+    "냉동 고기 겉에 하얀 거 원래 서리인 줄 알았는데..? (7/10)"
+  ],
+  "text": "냉동 고기 30년 동안 이렇게 넣고 있었어...\n마트 스티로폼 포장째 냉동실에 툭ㅋㅋ\n근데 랩 틈으로 공기 들어가서 겉이 하얗게 마르고 질겨진대\n난 이제 한 번 먹을 만큼 지퍼백에 공기 빼고 1cm 두께로 납작하게 얼려\n너네 고기 포장째 넣어..?",
+  "subject_en": "raw meat in a styrofoam supermarket tray wrapped in plastic film, inside a home freezer drawer, next to flat zip-lock freezer bags of portioned meat",
+  "image_prompt": "A supermarket styrofoam tray of raw pork wrapped in plastic film with white frost on it is clearly visible in the center of the frame, sitting in an open home freezer drawer. Beside it lie a couple of flat zip-lock bags of portioned meat. Casual smartphone snapshot taken at home, slightly tilted angle, ordinary kitchen lighting, a bit cluttered freezer with frozen bags, no people, no text, no logos.",
+  "photo_query": "frozen meat freezer bag",
+  "product_keyword": "냉동 지퍼백 소분",
+  "benchmark_note": "내 상위글의 '○○ 30년 동안 이렇게 두고 있었어...' 셀프 디스 첫 줄+ㅋㅋ 둘째 줄+숫자 공개+'너네 ~둬..?' 마무리 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "덴라이프 국내제조 육수저장팩 700ml, 1개",
+      "price": 9900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9304675205&itemId=23054489571&vendorItemId=90088143400&traceid=V0-153-e284c67897e161d7&clickBeacon=a6980f20-e32e-11f1-9e2f-c621cf2ede30%7E3&requestid=20261118180132761248849451&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/QkNCTWEefhpVObPyQiFnziMEU66eDydsTYRDe5m391pFIJQBPB3rqcuTm8OuT7R7j9J8MqZniuONlJoV36gC5ITOpOu2vxlqxM4o9V3HVPgaPs2PDKz5AJbkcY8kpn-LPX1zwZxqc1WMYwIHWXn5RFgPO9b0uOko59jjCazw0ZoI44M8v4-G7oZQ5xf2dQkeOXri58ZyasMjraFxnWHNiJJqEb2yoRDJ3X_bx6ZEho-xPfrp5Tdl74ryvZeNlMS760h7_OsyIAsi9OS1ONg_YjILWeIFh0hcCURwT5HwXCUV2yoAfQKcV5UY05wcnZOywckHMeXIlVMpVfq_MiHRIwRAdK5shp21d-IikqrokaA6a2q-g9qsFkrKs9j5YWzaP2Ukt1txoEQHZ0atrPwZ_W-AXIlcLYNpa2645_dpQi1w0yj565jxL7u84OmD74g2QhWw_SES4kcTbTGlnhOzzVwREaPJ1Ywmz51p65zzxmIM8wI5Ot7F_ZQEgaU1p9ckZsAnqjTPa44="
+    },
+    {
+      "name": "지퍼백샵 대용량 300매 3종 대중소 세트(15x20 20x25 25x30) 냉장 냉동 소분 정리용 지퍼백, 1개, 300개입, 혼합",
+      "price": 20900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9501797847&itemId=28308052232&vendorItemId=95262198552&traceid=V0-153-f87b1f1bf7cf73f3&clickBeacon=a6980f20-e32e-11f1-bac0-ff496faba5b7%7E3&requestid=20261118180132761248849451&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/xG1HciKebW4GERslxIonG4NS66SqCr3qFM-ifCviFLywlCIR1vpma8n-IT_-k9idanB1z8plh8autAvZD28t1nd4GkI3o-QW3ZH7Gfx5jsRmIMyfFQE63sEVFFDlUpfyxU_5axQw_kyzfDR-EKLKi145f8K0yCQ7VE3EN1fni7rdy0d8kR3_E4S_K6k4mA8HWpEXANgHInWD5iJhkM3RRaZd0oDz1aQH_sElsq9vMwBAXcUL7tIlKjjGYljEliBPRd2Pq2LnV9vll_P1MEM3Gl0ElKyrR2ldRAAiX9CbPZc7-yNYHDKs_5cWAe1q5-su8goiJ92VPED-F8Bs8FJmc8TBL3i3aOp_JojbSnB_yLG8rtMeK-MWjRrDSDL0UyZ2nwQgYy4VPiWqlC856PF54dw8f36vzZh24oODfQcYC7rYy31KUhK7lQI-6GyB53mYaYUujtE7L_IYlaaa83glObdNXvi9rlOlOMzEXGR5jyl6-7tHbD1-SuyVZGuBQODQl9_CZ0olkIo2P5Lv2QhMJO4mMRh_"
+    },
+    {
+      "name": "코멧 더블 지퍼백 중형 50매 + 대형 50매",
+      "price": 9890,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=170016366&itemId=486458377&vendorItemId=4226718301&traceid=V0-153-47079a5d9e354cd5&requestid=20261118180132761248849451&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/RyR5MCD7k_qhsS6bRzNpyjWmiK65D6bBZIrYXInQgWSTmURUSPrQFP3SgvsFr3ssrcc5SZ3Eej_iIdF4c3duKW43OxSVfkC55wAK03j0QoekF8STO2Iwg8Z0Kf32yVB54EbbcMmCOGD9YKdj1nMFYzrEgzdtkLmeP1IqrkNbTJbB63NVabfWqWBIyWzn3SAuQ00lppAeQevqY2k6aIp15v-mZtJyt_Z7sWpC-xLRzqUAT4IgKPKzPEi6MOCqrRfQa-sJ_TQFgLn-pxtMASr9bAxsJDs-15nOEW2f3d6p4jrQXJa3WxyTM3UOKS648h_XM7ZdDLRviyRu-8WZ9AcgM3LfyJHQjRZ4Ic3ix81s5K6PDnG_KwhS5BUOJGV-2B01bhfNTgGPPAAEuGQQaoHQ1tfW9zBjt3ZzuFD-m8gs9p-8uePTJs8Yn_8UCDuk3xgo1baiXmcaZT-nB-9NJDPM5yIJF8MmJNenHxCqCyI5UGW5SiZszfN54hnLS1Uyg021-WgbCAI6KBzjd7WlSsh10HIj"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 334,
+    "has_photo": true
+  }
+}
