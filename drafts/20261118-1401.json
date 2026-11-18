@@ -2,7 +2,7 @@
   "id": "20261118-1401",
   "created_at": "2026-11-18T14:01:02.359627+09:00",
   "publish_at": "2026-11-18T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기그릴·밥솥·식기세척기 말고 — 냉장고 정리 아닌 '두부 먹다 남은 거 포장째 냉장고에 두는 습관'",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 333,
     "has_photo": true
-  }
+  },
+  "threads_id": "18001964060825681",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df4I2JeEQ59",
+  "reply_id": "18649399600003782",
+  "published_at": "2026-11-18T18:03:03.982147+09:00"
 }
