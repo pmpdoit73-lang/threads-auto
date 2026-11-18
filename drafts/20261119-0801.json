@@ -1,0 +1,53 @@
+{
+  "id": "20261119-0801",
+  "created_at": "2026-11-19T08:01:07.770861+09:00",
+  "publish_at": "2026-11-19T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 전기밥솥 '백미/쾌속' 대신 늘 '취사' 버튼만 누르고 밥 짓기 전 쌀 안 불리는 습관 말고 — 냉장고 냉장실 칸 꽉 채워 보관하는 습관",
+  "angle": "냉장실을 빈틈없이 꽉 채우면 찬 바람이 안 돌아 오히려 덜 차갑고 전기 더 먹는다는 것 (냉동실은 반대)",
+  "category": "살림템·가전",
+  "subject": "냉장고 냉장실",
+  "hooks": [
+    "냉장고 냉장실 30년 동안 이렇게 채웠어... (9/10)",
+    "냉장고 정리하다가 나 뭐 한 거지? (7/10)",
+    "냉장고 냉장실 꽉 채우면 알뜰한 줄 알았는데..? (6/10)",
+    "얘들아 냉장고 냉장실이 이러면 전기 더 먹는대 (5/10)",
+    "냉장고 칸칸이 테트리스 한 거 나만이야? (6/10)"
+  ],
+  "text": "냉장고 냉장실 30년 동안 이렇게 채웠어...\n반찬통 빈틈없이 테트리스처럼 꽉꽉ㅋㅋ\n근데 찬 바람이 못 돌아서 안쪽은 덜 차갑대\n난 이제 냉장실은 60~70%만 채우고 냉동실은 꽉 채워\n너네 냉장실 몇 % 차 있어..?",
+  "subject_en": "household refrigerator fridge compartment (main refrigerator section, not freezer) with open door, shelves packed with food containers",
+  "image_prompt": "A household refrigerator's main fridge compartment with the door open is clearly visible in the center of the frame, shelves crammed tightly with plastic side-dish containers, kimchi tubs and bottles with no gaps. Casual phone snapshot taken in an ordinary Korean apartment kitchen at night, slightly tilted angle, warm fridge interior light, a bit of clutter on the counter beside it, not staged, no people, no faces, no text, no logos.",
+  "photo_query": "packed refrigerator shelves",
+  "product_keyword": "냉장고 정리 트레이",
+  "benchmark_note": "내 최고 글 '[물건] 30년 동안 이렇게 ~했어...' 첫 줄+ㅋㅋ 실수담+'난 이제' 숫자 공개+'너네 몇 %..?' 각자 답하는 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "하코리 냉장고 정리 대형 다용도 트레이, 10개, 클린",
+      "price": 29990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8819129406&itemId=28930609917&vendorItemId=95861900334&traceid=V0-153-545c5fa08a441d7a&clickBeacon=fb138190-e3a3-11f1-accd-3f5a5c099489%7E3&requestid=20261119080125603055611523&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/M3Urif9Sn3Y5XRaqM0lYvUWQAJiFpKDpBLzw9_NmLx6JjVeTgK32tl3N1WQ1sW6x5b-ENFHT9NKLGFiJP3-a74IjsvuQiXr8fgCgvSSd4MOEkNN7_aFxpplXXA9qjQm9z4B7RlMX02Dy2r0eZOGNaXRGcUXTBya7_V3IkF5n-ULZ2t7gailPN1K3ga9qsLu3eLA4EeP9B6XesxGTH6lelphbNrIXm5HeH69T0aog2FKaAYcCQ4K1u42Vup715t72p2pevkNpiu5I5CdMWfb9TRtC2vz_L8pdJafFckXN8Uuu17KRY9pJzr_RLwmPiaNddMEfFZU4ED7cEuPvKPXnnnm5e77BkQ7K_ChKRrBs8SrGJp4EgM5uvLNbmIbr50vKT-LHioS_FaG8TOKYiY-k8g-E2UuGG4_Gd1du2tl52XYCvqW5J2S4acSy1V9tA5HOocrQ8ZOyeGse8onG0eu5IFPjQ3cuIF4pecPfStyCxq49jecw8FhT2WL8AGiHRw7t-g6wp88d6ax3euswRERq3X-qIoR0QQ8A"
+    },
+    {
+      "name": "하코리 냉장고 정리 대형 다용도 트레이, 4개, 투명",
+      "price": 18900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8819129406&itemId=28548294711&vendorItemId=95493092119&traceid=V0-153-545c5fa08a441d7a&clickBeacon=fb138190-e3a3-11f1-a050-eb1cc555ab0c%7E3&requestid=20261119080125603055611523&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/LS3RAaQbbPCFGPmFLSlefb5JirSLQWi9mtqYrWzFUj4z6sFaoqgvULwCJBmz8bTKj3Qf25kgAS7GkHwSagBmpAmTJcvlOwBCHTWX7UI9jhGLTrQqqo9fs4gEtnApLb2AngXAQJRyCGq0TZSidMJ-YI0NFdYify0nK70vFGc46ELJ1ilhEHHxKBtZPUqRT2GrNvaNR0akNUwJxLENN-BlavcwI-ysGtF1Mw4h--ZtQ0lOOMM7iN4SrX3dDwSWRalobpAI2ksHEV0ar3HpyMJKuoGqWvRe0Z8idUZA8QU0IedOS7abp8pSf4cOgIqYy3Pz5m-U8hx3WoZRPHKP8JhFVf4SxXeGzTptPauhBeQKK29ZNWHfd4VFYyqPit79I5YYUcw7_gpb1CUtLBZkPbfWTw1j76ma03dzSU4lw9e2ZRTfVb0gHmEgXsAawdH0cpfE4-qP-uuYDmaLcXrDGBRlZG1gcWkUxMGeSms8OlVFid9BcAdOvp_87wvjgtYyLWhlDnzbKCw3zg4VG1R7dI_uEO8dLY0qsruh"
+    },
+    {
+      "name": "한누네 국내생산 다용도 냉장고 정리함",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9472473568&itemId=28195520033&vendorItemId=95149932700&traceid=V0-153-ea6b9b52d214a290&requestid=20261119080125603055611523&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/cRfPRvtd9wqme1Oecb0l5dLzGl57KP7ljU7DwFZfhwcVA04wAUTBRKhK2DtedO82HMnfGNAUGwTq9OwofNsk1QCrGJjSwOWhCACh0viOyqRpvsmtFpqwXrYveGL-qoItpuj4qirVWk47JuDJGl1FdrgFu5dryx04E_9Jy4NiS4R2iBL_t-vot2QIYrhNfsBDE3t7IvNa96dk9uOqHu4cQ6CWq1vPSui2iLfeWtnwTOyPhTe4fKISRjqApWTP5uAbk0GIztQrV-t7t9r8OcpqJyib8xj4u1jquyUfJchxu8XaAJ9dlYOFHRAF3mH3pa2iOUCTWicuxUlZUF1NOUDo3xx9TO2Y4ZZWUcHSG78ZyLpJ2h88dor0SY4LsaaM_8e3ShapOE_zSfYP0GVfEDrbidjUvB-oh226yr-o4RhcSnn3AlW7O2lSPLOieV0xbxCqi6iYXbW3dStkFDF4AQJrnNBQNyFywphD5PHi17CZGYuHE5-nZoRmoC4c-qQdppfrgCcZ7ubONKGCoHF-Xdc5esjCZdqRxLwnxsbVX2ox8TXgNA=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 340,
+    "has_photo": true
+  }
+}
