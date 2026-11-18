@@ -2,7 +2,7 @@
   "id": "20261118-1801",
   "created_at": "2026-11-18T18:01:00.721289+09:00",
   "publish_at": "2026-11-18T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 냉동실에 고기를 사 온 스티로폼 트레이·랩 포장째 넣는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 334,
     "has_photo": true
-  }
+  },
+  "threads_id": "18136228498680038",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df4dRHIm-fO",
+  "reply_id": "17916951480517673",
+  "published_at": "2026-11-18T21:01:40.061954+09:00"
 }
