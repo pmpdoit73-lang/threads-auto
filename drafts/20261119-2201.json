@@ -1,0 +1,53 @@
+{
+  "id": "20261119-2201",
+  "created_at": "2026-11-19T22:01:02.580147+09:00",
+  "publish_at": "2026-11-20T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 다 쓴 고무장갑 버리는 습관 말고 — 키친타월 대신 '설거지 후 싱크대 물기' 아닌 → 바닥에 떨어진 머리카락 테이프 대신 '돌돌이(테이프 클리너) 뜯을 때 사선 절취선' 모르고 손톱으로 긁는 습관",
+  "angle": "돌돌이 테이프에 사선 칼집(절취선)이 있어서 끝이 바로 찾아지는데, 그걸 몰라 손톱으로 한참 긁던 손해",
+  "category": "청소·세탁·정리",
+  "subject": "돌돌이",
+  "hooks": [
+    "돌돌이 30년 동안 이렇게 뜯고 있었어... (9/10)",
+    "돌돌이 한 장 뜯다가 나 뭐 한 거지? (8/10)",
+    "얘들아 돌돌이에 이런 게 있었어? (7/10)",
+    "돌돌이 테이프 끝 찾느라 5분 쓴 사람 손 (7/10)",
+    "돌돌이 이 줄무늬 원래 무늬인 줄 알았는데..? (8/10)"
+  ],
+  "text": "돌돌이 30년 동안 이렇게 뜯고 있었어...\n손톱으로 테이프 끝 찾느라 박박 긁었지ㅋㅋ\n근데 사선으로 칼집이 미리 나 있는 거래\n난 이제 그 줄 따라 끝만 살짝 들면 한 장 바로 떨어져\n이 사선 줄 무늬인 줄 안 거 나만이야?",
+  "subject_en": "lint roller with sticky tape sheets (handheld adhesive roll for clothes and floor, with diagonal perforated cut lines)",
+  "image_prompt": "A handheld lint roller with sticky adhesive paper roll is clearly visible in the center of the frame, its diagonal perforated cut line showing on the tape, a half-peeled sheet with hair and dust stuck on it. Casual phone snapshot on a living room floor mat at home, slightly tilted angle, ordinary indoor lighting, a bit cluttered background, no people faces, no text, no logos.",
+  "photo_query": "lint roller tape",
+  "product_keyword": "돌돌이 테이프클리너 리필",
+  "benchmark_note": "내 글 '소금통 30년 동안 이렇게…' 첫 줄 고백형+말줄임표, 셀프디스 ㅋㅋ 둘째 줄, 산책양말 글의 '포장끈인 줄 안 거 나만이야?' 틀린 추측 마무리를 가져옴",
+  "products": [
+    {
+      "name": "베노비아 초강령 돌돌이 테이프 사선커팅 리필, 48개",
+      "price": 35550,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9802458082&itemId=29353140954&vendorItemId=96266204449&traceid=V0-153-722448f98f289058&clickBeacon=529703e0-e419-11f1-9c7a-f0d47142f762%7E3&requestid=20261119220123473173094181&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/KeNyKlVxhf0MrYeIKTICNEFywR9TKD8L5d7aEpXxjn_k4Z3sZl6jBpKWNzIksLPvstOeTJijr-_B-hmzlVmBoHmz_tYj_edJSGcOHT2ShpcF_fKpJ9JKOOL6WVx-PLu0S_UB1lntaWIe15qlGvif_zhnHBu3WX03nmCd5cPYqZ9K6JVocEXmStXuBPpEctSS6LiRibyAFahoDEL9695eDdIvuCgA1qoCErB29IOA_H65Y3MKHSmIoGRpASrZWMJTI7fAOR8vYjQbqkdX7K9Gp117HG94mjTqG5UrkBzN-TLnX2dTLeLfqdIYeuNGzP-WPuk3Hnez1l_HQIO8PjtP9-DqWHzu8CZjQQFp-ivQEy7qGp1hxcGxpC_EOKO4TJeasGxp9NRKu2yMkT0o7TH_iEwL4qrzt4PlHOQvDYfFRAJjIX-j-6OAuVnIRoZvIf7C_taT1l1LemJ88BvfglnxjqjBa2jXVNF4GzHcDjkZFyseVYEAhijgwZi0KdiZWwZVhT3Cq7hPAVn5oMHVTkY4uR8VAK6v"
+    },
+    {
+      "name": "베노비아 초강령 돌돌이 테이프 사선커팅 리필, 36개",
+      "price": 42800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9802458082&itemId=29353140961&vendorItemId=95904420644&traceid=V0-153-722448f98f289058&clickBeacon=529703e0-e419-11f1-93c1-bc3d30f883ba%7E3&requestid=20261119220123473173094181&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/dbqeOK56fpvSJ_9eda2i5O1MjCWY2S3gM1wYt6sqz2zifwR0cefv-zzv3rl3GUMZETyMXONFYoRokOw3mSI_toZBr4CoaU0uaim8enX4qoxvEWSkbRDqCnEyRwfaMKu743xPUeA618fZ9TRZD2Mf2AsaipCIF30M_6g4IJQFpwIkKIADe_boI4iKNGo6N3NRqBhkZYMQ_END9n8A4LJk95wwmd-37Wr0wYydhbVUU83iej0Z7ZxJ6UVNznPPRpEbA7o7Ol5Vr8KcKRlUfmg5tT9JXEM9IpfoFFz0qH8POPXaAYduDWGmG5W_DjT0xrCQBcQmiblM4TGMPxTh8RwN2x7sCHtCoB_r39QIKqH5Z-Z-LBLupov5Eids-EgRBCd0MCkLPnTEwecuXEIYrXL_UK95MEUuR6iuovICtu9FjdUPhxy5A8OoRxerzQ8ci0C0hC5dzhPstkoo2RUX5C7vIB5L1TX8sYaTQZpTHY6U8-yhZuL6SZZ2MDRmTb3pNANa3kt-R_3lNoW6wK28wY-noiTT9I97"
+    },
+    {
+      "name": "코멧 사선컷팅 일반형 테이프 클리너 리필, 16cm x 12m",
+      "price": 10890,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7828230571&itemId=21283314170&vendorItemId=88343353193&traceid=V0-153-c7be4fae2979fb95&requestid=20261119220123473173094181&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/gYnmFEWi5FS7JPkogTDp6P9TDe0kkjZSEjBz08DGBmZRqYsDzbH4j2dnVQPr0YTqj3FZR8jZAbZ0RB1Ypb4h5v81JWhuqRXQtWtFxs5h16hb_A6gDAPcHxhHoRNLq_9bYoE9fS6GZq48cce2eYiyPw0OoxJdoFgdP_GLBWTPwDVZAHsNGm-7oljh8H22Z0ufoe2i0Pz_usgCq4UqK_Qwu24sg4HR0D0Bzyg_3tca_AraQxGQQNJovg16JM8Sm_M6OI-IHfLisPRNrik_TDP-9Tef77rKzXpSDJbvh2oY68cxbmomNaLVocYvPditILqROOFUtlRG4XMzdiw5i1qpsxh5M8T7QS16Gg0KFk--tn2RVOJ7PgKHZOwxh3w_fIW-zQ9LGA4GFoQN_bqW7MhrlKo0CZC9AOx9SzTO5W19pIN66S1WC14oZINWMZHEZ38LvhvVFAKh3eR-1X_HtUQksiVQGmWMhzbN1_nRPDFsJslkHIV_T7Ny_6rWnPKVBXen_3kC5nreSICNySfSsB3efcY="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 345,
+    "has_photo": true
+  }
+}
