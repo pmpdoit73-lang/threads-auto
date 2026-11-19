@@ -1,0 +1,53 @@
+{
+  "id": "20261119-1401",
+  "created_at": "2026-11-19T14:01:54.314234+09:00",
+  "publish_at": "2026-11-19T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 꿀(벌꿀)이 하얗게 굳었다고 상한 줄 알고 버리거나 냉장고에 넣는 습관",
+  "angle": "하얗게 굳은 꿀은 상한 게 아니라 결정화된 것, 냉장 보관하면 더 빨리 굳어 손해",
+  "category": "주방",
+  "subject": "꿀",
+  "hooks": [
+    "꿀병 30년 동안 이렇게 버리고 있었어... (9/10)",
+    "꿀 하얗게 굳은 거 보고 나 뭐 한 거지? (8/10)",
+    "얘들아 꿀이 하얘지면 그게 무슨 뜻인지 알아? (7/10)",
+    "꿀병 냉장고에 넣었다가 큰일 날 뻔... (7/10)",
+    "굳은 꿀 상한 건 줄 알았는데..? (6/10)"
+  ],
+  "text": "꿀병 30년 동안 이렇게 버리고 있었어...\n하얗게 굳으면 상한 줄 알고 통째로ㅋㅋ\n근데 그게 상한 게 아니라 당이 뭉친 결정이래\n난 이제 실온에 두고, 굳으면 40도쯤 미지근한 물에 병째 중탕해\n너네도 굳은 꿀 버린 적 있어..?",
+  "subject_en": "glass jar of honey that has crystallized and turned white and opaque, with lid off",
+  "image_prompt": "A glass jar of crystallized white opaque honey sits clearly in the center of the frame on a cluttered Korean home kitchen counter, lid set aside, a spoon stuck in the hardened honey. Casual smartphone snapshot, slightly tilted angle, ordinary indoor lighting, a bowl of warm water nearby, plain everyday look, not styled. No people's faces, no text, no logos.",
+  "photo_query": "crystallized honey jar",
+  "product_keyword": "꿀 디스펜서 유리병",
+  "benchmark_note": "내 글 상위(소금통·김·부침가루)의 '○○ 30년 동안 이렇게 ~었어...' 첫 줄 + ㅋㅋ 셀프디스 + '난 이제' 숫자 + '너네도 ~..?' 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "유리 꿀단지 허니 디스펜서 꿀병 꿀통 시럽 소스 보관 용기",
+      "price": 18600.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9818019070&itemId=29405046137&vendorItemId=96315433227&traceid=V0-153-65b2fea4179193a1&requestid=20261119140215944083505378&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/ntk7Zf-yZTpGMT_nnno3uLgeBNlWoi-1BTiTYTp_WHooMoKZtI15CCIECg020x2sQTl_M84WOQf1Gnh-n7B8txLllBcmTS6v_f4g_Ji_WbnSetMDHgP26CF2GAqfKhEksQKjKh_Pak51UtDIv7UUF3OdZ61ubhGb9Sxn4Mx69fOKMqWM59Vi_BxcdiWIyJyDAgbFRowGcLIhEOKxUKKdVZgRe5bSh6_7WXp86moLvuuP09kp525aq0ZoMWm05ZFOtEGglpBBGeMaej9au8HPrr5kWmKQwoawjtKH_Wuh_w-nbeHATqiUiNh4aZwv5334IC-mqDgvGk4rEC_HOgK3EYe3cb225L498uSxEBRCSZDSBKbcO16fG3THTBmX81Tcxw9MODZNwVIHJKJnk-0cp6Qd3dkkvXxSsstCdnXL9BpygXT9t_RTXjduRqyifkbOyoUVQUsWGq1ia4pNRGH5k8C_UxXXit-em3hSM26AHO-BjZmpQAni4msHyd2zlFzlqzn-or5pDSuzvJ9klfjuqb6Pyjr_EVscwUeZlvaqE1os"
+    },
+    {
+      "name": "유리 꿀단지 허니 디스펜서 꿀병 꿀통 시럽 소스 보관 용기",
+      "price": 20100.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9818019070&itemId=29405046134&vendorItemId=96315433226&traceid=V0-153-65b2fea4179193a1&requestid=20261119140215944083505378&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/Qr5OifuDgIuJrkp6Qj0jGyIIl0KqFq2HAPhGVhsoixHXH2FZWbByE1Uf79j13mBVn1mc1oQ_Hueq4KBGFroLYw9Y6pyuvH7rrorPPbvEz95eHmdpk28B73rQOkkGAmwfvzTGG0lNXNGZ_ZqW7RK2oV3Vf25Bq_5mu_Eap_HzR5RgUga4UoGNuNGVS6nrh5UKb1a9K8W96xQK5lIuvs5s56w765kL9tka0Zun-QEHExP0sHms1SsGW-wOgfvNkEhI2h0bu55p5FlhW4YJYgFdh9spYZ1gsqAatpFhUTNi_5mUYKvm3ZYCJzCSjnkfvUqxNE_bHSCrUFF7azPXqoE4q-gZk5t30n83xQxbachmH3mOxzZidfgEy-m8Ae6tVdFI8T5ZQHAo5cgbz545-daSOUkkchL_nvrFlEXhosoI4nBubE9zzLdb0xdDGp9GBgkVmww-SxOagrEksTyvvD4h2iJ9hzTLm_Bt_jzFpOx6TbDUs9zKoEv7aaHrc2MM1Oo13nvTo3OlFYjycSueXiDqxkDpDBBK5_Cl02rARAKu89Q="
+    },
+    {
+      "name": "유리 꿀 디스펜서 손잡이가 달려 있고 투명하며 꿀이 새지 않도록 설계된 누름식 주방용품 꿀병 빵",
+      "price": 37100.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9748192477&itemId=29186642045&vendorItemId=96107694651&traceid=V0-153-d83d17f8840e3541&requestid=20261119140215944083505378&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/TB_oWtiAWYgLBopVTIWeuaaXU6-SDlerqg8Jqcd3E9C5LyrzgcbaKST2x9ZznHRo35G-XNE8XeHGSe3zfKWf9GTaU4PRinpplzicKDFwgHMmIgN8edxfEZhQrGzBVWzhiAmKh4L9rRIvKtYjdJu-5NCp_TkoZbPgho8VTTBgITMy53T8V5bZkM7SdNars7Bqr-jSRiY7VmXZTbVDjzLNrwzQKRV5CyY8qvIxTgRzwUE6tI0NNauYsGSFaslBZ87PjWaIxx2qUEjna4y5WQy-ixx1oiAXgM_Z8VUDZRZmDe_0qoe7yhESEX6a05W7YVTwNJMOVGJaIGIdbILRjgKlDExpcuPPr9rTxRgUk3PBGXX11YqM8s81QwHmdvRk0jXB7Mx5JUDOyM0syKHlmiNotgwpqTZKtv_qis76ySO5FmySF_Ep0DsSgIihU97Mmm0KshNOJbUwBXvgQQq4ICkpJ-6gfzajs0PHGcbIQVU8-eE0e94jj4GDlwDi2rZnisH3VgqAMr0aEKtqJ93DdrCUiskUInlUw0mYmS8ZXNxq7g=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 341,
+    "has_photo": true
+  }
+}
