@@ -1,0 +1,53 @@
+{
+  "id": "20261120-0801",
+  "created_at": "2026-11-20T08:01:57.270387+09:00",
+  "publish_at": "2026-11-20T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 드럼세탁기 빨래 꺼내자마자 문 닫아두는 습관 (세탁기 온도 글 후속편, 쉰내·곰팡이 각도)",
+  "angle": "깔끔해 보이려고 문을 바로 닫으면 통 안 습기가 갇혀 고무패킹에 냄새·곰팡이가 생긴다는 점",
+  "category": "청소·세탁·정리",
+  "subject": "드럼세탁기 문",
+  "hooks": [
+    "드럼세탁기 문 30년 동안 이렇게 해뒀어... (9/10)",
+    "드럼세탁기 빨래 꺼내고 나 뭐 한 거지? (8/10)",
+    "얘들아 드럼세탁기 문 이거 나만 몰랐어? (7/10)",
+    "드럼세탁기 냄새 원인이 세제인 줄 알았는데..? (7/10)",
+    "드럼세탁기 문 닫는 습관 하나로 이렇게 될 줄... (6/10)"
+  ],
+  "text": "드럼세탁기 문 30년 동안 이렇게 해뒀어...\n빨래 꺼내자마자 쾅 닫기ㅋㅋ 깔끔해 보이잖아\n근데 통 안 습기가 갇혀서 고무패킹에 냄새·곰팡이 생긴대\n난 이제 세제함까지 열고 2~3시간 말린 뒤 닫아\n너넨 세탁기 문 열어둬 닫아둬..?",
+  "subject_en": "front-loading drum washing machine with its round glass door left open (home laundry washer, not a dryer)",
+  "image_prompt": "A front-loading drum washing machine is clearly visible in the center of the frame with its round glass door swung open and the detergent drawer pulled out. Casual phone snapshot in an ordinary Korean apartment utility room, slightly tilted angle, plain tiled floor, a laundry basket at the edge, dull indoor lighting, a bit cluttered and unstaged. No people, no faces, no text, no logos.",
+  "photo_query": "front load washer open door",
+  "product_keyword": "드럼세탁기 고무패킹 곰팡이 제거제",
+  "benchmark_note": "내 최고 글의 '[물건] 30년 동안 이렇게 해뒀어...' 고백 첫 줄+ㅋㅋ 둘째 줄, 벤치마크의 '나 뭐 한 거지' 셀프디스 구조와 사람마다 답이 갈리는 양자택일 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "세탁기 패킹젤 드럼세탁기 고무패킹 세탁조클리너 통세척 청소",
+      "price": 11020,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4731137579&itemId=5996536886&vendorItemId=73294317321&traceid=V0-153-f730e12c4dd62052&requestid=20261120080221968272247901&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/gxR-VpgqFISNJHcfg_pRH9vBYFC2nornatbItUVVL4L8TPLfdYQZFR1cq-oVXTFJpVCMD316_LgzJOOhge7a46-gvv1jxtG7WbLYs8sRgGznAw5TwjtqJ1bf83UiAyVhWrVge8h6DYLttxw_WDwgbr-Fl5yZ-PSJ8LOVD6oi0aUQt4pbS1dXl295fKJkmNeSEbReTWCccbTzIf-VeCTOIovKKNphSWFAWiVuV8T-FxT6OQTV1tk41DEchv_zy2fj2DeiVMRxi6NNR6myIIChyhNVCm3o0-szYB2VXLlZVPtNSuElAKucbHHhxtk6vfJfI5CzFqkqCchl5CrlTlLd2q2R-hkF_SeRCYfrnrm2wSCEnG1qsa64ZZeThd6UmkI-O7aD8TDPyd8eX6eUim3SgWlIOU0QfC50YvgG9ULMrXm9vYWRyhrnp1wHWqxcdALu8zEeJeMCMdzBfp7S3p6bG9DxSHqNZWGhXmrDrQjvt3Q6v6LGHa_KUyAJYmrn9Ld_V391nY2L-mRIiOy240rh8ZY6VjC4Xdil_LYc7mw="
+    },
+    {
+      "name": "라이프엔 패킹젤 드럼세탁기 고무패킹 청소 교체 곰팡이 세탁조 클리너 통세척 2개 세트",
+      "price": 17620,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4731137579&itemId=23980988171&vendorItemId=91006339382&traceid=V0-153-f730e12c4dd62052&requestid=20261120080221968272247901&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/ChaIGXM1gXTvr3sYCioBzXYVyFVAT_60hGh50EI0fx6ClHSybI63D16qSsg-iKhyZcLVPSaBPg56VUSmZIPXVUCxDw7aHa8_MVv4sJMqVTjQfPGZhCRpDudV2udpQCPERcpTmMG-e7FYDhe3Mta0nnbOxO_W5h4HSyvw_ztyyHM0VI2_3gZoy_79ltBcC9hD6cDnff0HyPIMIa-WRDL1iQlK1zUBGg7oE5vvzVTPtckAt3DaEX91rwjJVnEMNlON-6Tz9WzJ38nPa21SWwzlCmO7yDxXsQz_Ro3NKSCcEQi1ieNWlQ65zq6U0RtILXDOi5TGyJzywD85LlZsJS_nCYAxfJuCZEIgnmwq5cz8xoBSSqv71bZk3XVM_VaiPXsyhMSbyuiHM3_aZ4BtiIFxkRlQKTmfxaV_CLIjofgvwBvDqMo6EkdcURsZVduI2jJ0azqXgBjXzIxvT_ZMm0kZete_BsufQYWfQsp267u8ipEIEyHbP0QvajeCpq3Kfpb4jPPUH3kHqsFbA3IFRWAKLLzhAM75blf0ZRS0VTw="
+    },
+    {
+      "name": "드럼 청소 고무패킹 세탁기 곰팡이 클리너 제거젤",
+      "price": 11200.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9599974196&itemId=28671650155&vendorItemId=96243298091&traceid=V0-153-e1db7e918afb0a50&requestid=20261120080221968272247901&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/FGf2rCeQovajMEs7FENy6QKpeQl7t-ShlrW4hHja_RdMDtFikbTHZWfV6RuYE8wNc3trF238Dx5YSTPEBiZZ3xc614x-y7drEfpwMA4S_3LHwS7rwHjn9zWhMQMD0z0sQQOh8z7_xUTaAcJrqeuqyY3-i_bDmiqxPUCwGM2Z_sfzgvCYovhLWsMDj2VAACNtEJU2LZMhVdIvyh9BQFrPl0adTy193z1g7o7DKLnPViivKU_JiOoyfD4yty4uOU9dI5tm-_PW5ql0khR3ZzsDSL5I84Xi9mh-miNoI9FrPudiymQFSexlhgnve9uTar3nETxIMXLY8ou5wEQgHVNdOaw-KyImSIO0jo0tQmXymxquyZ188xhgrp7RfMQIUTsbOjwehPffi6Iw7PgiyYMXh5iMtxA4p-oHGndXmoezB1qUGDXnxwGkUj5h1XkFAFDPpmePWZJkwJBmA5OebfT8GmLt7HVzmilvLjmHF5IhgogzVzFiVm1zFIWHlOzniKZ6qpz428FjDZrzgy4XrOUF6Lmqdgyn1jyEjtXgyR06mA=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 347,
+    "has_photo": true
+  }
+}
