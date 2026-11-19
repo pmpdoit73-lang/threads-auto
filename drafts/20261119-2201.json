@@ -2,7 +2,7 @@
   "id": "20261119-2201",
   "created_at": "2026-11-19T22:01:02.580147+09:00",
   "publish_at": "2026-11-20T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 다 쓴 고무장갑 버리는 습관 말고 — 키친타월 대신 '설거지 후 싱크대 물기' 아닌 → 바닥에 떨어진 머리카락 테이프 대신 '돌돌이(테이프 클리너) 뜯을 때 사선 절취선' 모르고 손톱으로 긁는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 345,
     "has_photo": true
-  }
+  },
+  "threads_id": "18018569582966493",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df8GuuVH2S9",
+  "reply_id": "18121316102060110",
+  "published_at": "2026-11-20T07:01:32.220542+09:00"
 }
