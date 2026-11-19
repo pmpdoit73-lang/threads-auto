@@ -2,7 +2,7 @@
   "id": "20261119-1802",
   "created_at": "2026-11-19T18:02:06.390110+09:00",
   "publish_at": "2026-11-19T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑·도마 말고 — 키친타월을 기름 프라이팬 닦을 때 뜯어서 통째로 여러 장 쓰는 습관 아닌 → 냄비 뚜껑 김 서림 물방울 아닌, '실리콘 냄비받침' 아닌 '김장 비닐'도 아닌 → 냄비 손잡이 구멍(국자 거치 구멍) 용도",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 343,
     "has_photo": true
-  }
+  },
+  "threads_id": "17973047748192316",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df7CDg8FOPg",
+  "reply_id": "18148106644594859",
+  "published_at": "2026-11-19T21:01:31.828397+09:00"
 }
