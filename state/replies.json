@@ -1103,9 +1103,11 @@
    "reply": "소금 한 꼬집은 몰랐네ㅋㅋ 꺼낼 때 깨끗한 수저 쓰는 것까지, 다음 두부부터 해 볼게",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "sent",
    "created_at": "2026-11-19T15:20:59.442270+09:00",
-   "message_id": 342
+   "message_id": 342,
+   "reply_id": "18039764966654273",
+   "sent_at": "2026-11-19T15:41:20.021752+09:00"
   }
  }
 }
