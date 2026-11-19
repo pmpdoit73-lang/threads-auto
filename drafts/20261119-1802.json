@@ -1,0 +1,53 @@
+{
+  "id": "20261119-1802",
+  "created_at": "2026-11-19T18:02:06.390110+09:00",
+  "publish_at": "2026-11-19T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑·도마 말고 — 키친타월을 기름 프라이팬 닦을 때 뜯어서 통째로 여러 장 쓰는 습관 아닌 → 냄비 뚜껑 김 서림 물방울 아닌, '실리콘 냄비받침' 아닌 '김장 비닐'도 아닌 → 냄비 손잡이 구멍(국자 거치 구멍) 용도",
+  "angle": "냄비·프라이팬 손잡이 끝 구멍을 걸이용으로만 알았는데 국자·뒤집개 꽂아두는 거치 구멍으로도 쓰는 것",
+  "category": "주방",
+  "subject": "프라이팬 손잡이 구멍",
+  "hooks": [
+    "프라이팬 손잡이 구멍 30년 동안 이렇게만 썼어... (8/10)",
+    "프라이팬 손잡이 끝 구멍 보다가 나 뭐 한 거지? (9/10)",
+    "얘들아 프라이팬 손잡이 구멍에 이런 용도가 있었어? (7/10)",
+    "프라이팬 손잡이 구멍, 원래 공기 빠지는 구멍인 줄 알았는데..? (8/10)",
+    "프라이팬 손잡이 구멍 정답 알고 좀 웃겼어... (6/10)"
+  ],
+  "text": "프라이팬 손잡이 끝 구멍 보다가 나 뭐 한 거지?\n30년 동안 벽 고리에 거는 용도로만 썼어ㅋㅋ\n근데 요리 중에 뒤집개 자루를 저기 꽂아 두면\n국물이 조리대에 안 떨어지고 팬 안으로 흘러\n이 구멍 원래 공기 빠지는 구멍인 줄 안 거 나만이야..?",
+  "subject_en": "frying pan handle with a hanging hole at the end, with a spatula handle inserted through the hole so the spatula head rests over the pan",
+  "image_prompt": "A nonstick frying pan on a home kitchen gas stove is clearly visible in the center of the frame, its handle end hole with a plastic spatula's handle slid through it so the spatula rests over the pan. Casual smartphone snapshot taken at home, slightly tilted angle, ordinary cluttered kitchen counter, warm indoor lighting, a little oil splatter on the stovetop, not staged, no people, no text, no logos.",
+  "photo_query": "frying pan handle hole",
+  "product_keyword": "실리콘 뒤집개",
+  "benchmark_note": "내 조회수 높았던 '○○ 30년 동안 이렇게…' 셀프디스 대신 벤치마크 '나 뭐 한 거지?' 첫 줄 + 마지막 줄 틀린 추측('공기 빠지는 구멍인 줄') 정정 댓글 유도 형식을 가져옴",
+  "products": [
+    {
+      "name": "트루쿡 계란말이 실리콘 뒤집개, 1개, 베이지",
+      "price": 12500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8810917283&itemId=25667002769&vendorItemId=92775763178&traceid=V0-153-7ca222a7fe5d4031&clickBeacon=f7254c40-e3f7-11f1-892e-1dd395888de9%7E3&requestid=20261119180236709016906149&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/uqltORXC8oGeQcmsut-87PbB2fXcYAVOic-0BG4Ou5H_aPPARA9qguvDo-cVJt4TGZIUjUZneLv0v0aIiHm7VL5A3-t66UHzspjNlEqF0BJczniTtnU7nOt6GtXQdfWxGJDnGS_foLHLk4wz18n8nKN02XqfR-OafFW7B0Vp0wOzFlz7soOld5vV5N8yXEGxe4f-ZFTDkkgBGsUrn138IauMZLseRQto8vRcfLjX9LQXn75GHejlFDbUHLQQd7_0RcsnQe4mNr-H4LiCsagYWFCC9Jxr0so0TbpO8i5lOKRQaQivOS1NKtBUCCYRWk0RSFRz8MMRH_OamunbYOVpx0olNeNed2p6vTWiSSAbNZ5w2_ZPN1qm-nLSDSfPwlvRWl8Aa_7U6EFxb6RraQ6f7xvHtvgjZhHR1Co_X6tZBRerjlRExbAfrAtpnpwtx593TVK8_gqYvQ9WbXLoAxWgR4rOYMiFDZXKZ4DOKRizwAiXmqO5IcuS7rQ8Pg5T69EXGFynxhqa3DsCrOUcV139WKGU8LoWRhVb"
+    },
+    {
+      "name": "트루쿡 올리브 실리콘 조리도구 뒤집개, 1개, 베이지",
+      "price": 6250,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8334328140&itemId=24865081651&vendorItemId=95856240643&traceid=V0-153-21a1ce487fa5df92&clickBeacon=f7254c40-e3f7-11f1-aee7-e4db38d685e8%7E3&requestid=20261119180236709016906149&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/lP893KhapxXtAQuLlMRl2TMk4gE9BfOZgNeisOQHhcxoRnWWQp8pHgQdtJ2PK4U4DbV02-NpohJVdz937ciQAX58G_q-xdqhkDdaf87qqOkJEhHkRtLrwFGLXQlnRFApRBpR-TCa6dUlms2gXJWbEL8NlSi-Y-Fk2OWM1lLWCYvVS8a59FtFv50wKVJBrcXJKjQcBPKo0d6arruPYHn8mAj3pUKqwVBCOAYgiWU_Y4OWOjmDB_P0JOidG-MHa24UOKChaLV5DmEFxqOy0Tcxfi-4k_YCoBFQGZ5VJ8UQoRmGuRgBNV4b0Su6G4_XfCKZFcgrNPT0JWLb6UkbbGKYY6reDN7-QwDAEV8AgQR7YRWRUPLsYqRfG2DRw2kFDPAzyUlOKVBZ3YNJATdqTsOhKT4hvCMdAKtqYDpGr0_mqo3QSTfdYcazg1W0rSzXn_WgbegaAZ6-2bqPzWdKoEtP9Ly82RmbzLyMgwxOvxliXLSEnB7SD_c-rWMvRfHK6p_6kd2zFCd-at64"
+    },
+    {
+      "name": "바겐슈타이거 플렉시벨 플래티넘 실리콘 뒤집개",
+      "price": 7100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6786596292&itemId=15977201103&vendorItemId=83183190453&traceid=V0-153-a44699ed77a6962f&requestid=20261119180236709016906149&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/REiyMGs71kyNb33WRNI3fxlxIxEDd1Kcn7Y8bPdgPwH2PwqP68D0bAPEuvM886psPpNFG76eYtUnGxrGSMexqmoagFNnVoNcFW0fvhy890ktB8HLCgTp892xoQ2sal32BZIU2FonVpEZVJQVwolvyLhDmS3mcCV6IupOmho6Noz8r-gM2An9PWh-A2pRaFirjqICzOG7QXccZmlpVsLKzFyJgcbNyCOjpBp-oDPSP-aJZuHsA9iOXiP98pkp-7yuNFbLKs6RaRZkQQ2H18ClUcLbL10RCnByk2A9Amqv2u900zh1hvOmLW6ru-hDUjORaWUvHLuFxHLranvGrAE06p2agAc5Y5b7ycGXO8hfQFmAPOpk69GnOW51l921FyhNk8e3Thh9uRGBgyfuVZCv08Vv0oTwUqh_cTKzwJakcsRgvVJmXtbDPSZOUOaoeUCLDq8q0ufyU1Wkv8wSrwJe23SfR4TdDQuRy9TZUfY0c8ApOdiDnwbld_eSkmdn-fnS98O7mXH3PNUkERMc7WR8WvAcOz-b"
+    }
+  ],
+  "image_note": "제미나이 생성 · ⚠️ 검수 불일치: 사진에 '가스레인지 위 프라이팬 안에 뒤집개가 놓여 있고, 팬 손잡이 끝에 구멍이 보임'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "coupang",
+  "message": {
+    "message_id": 343,
+    "has_photo": true
+  }
+}
