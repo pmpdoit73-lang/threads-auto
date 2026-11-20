@@ -2,7 +2,7 @@
   "id": "20261120-1802",
   "created_at": "2026-11-20T18:02:12.111520+09:00",
   "publish_at": "2026-11-20T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥 내솥 눈금(물 높이 선) 백미·잡곡 구분 오해",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 350,
     "has_photo": true
-  }
+  },
+  "threads_id": "18148638493584398",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df9m4btm6pB",
+  "reply_id": "18027211304945339",
+  "published_at": "2026-11-20T21:01:52.335600+09:00"
 }
