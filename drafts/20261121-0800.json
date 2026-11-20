@@ -1,0 +1,53 @@
+{
+  "id": "20261121-0800",
+  "created_at": "2026-11-21T08:00:57.079852+09:00",
+  "publish_at": "2026-11-21T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 전기밥솥 급할 때 늘 '쾌속' 버튼만 누르는 습관 (세탁기 온도 글 후속편, 밥솥 버튼 각도)",
+  "angle": "쾌속은 불리는 과정을 줄여 밥이 꼬들해질 수 있다는 걸 모르고 늘 쾌속만 누르던 습관",
+  "category": "살림템·가전",
+  "subject": "전기밥솥",
+  "hooks": [
+    "전기밥솥 취사 버튼 30년 동안 이렇게 눌렀어... (9/10)",
+    "전기밥솥 밥 지을 때마다 나 뭐 한 거지? (7/10)",
+    "얘들아 전기밥솥 버튼마다 이런 차이가 있었어? (6/10)",
+    "밥이 맨날 꼬들했던 게 쌀 탓인 줄 알았는데..? (7/10)",
+    "전기밥솥 쾌속 버튼 원래 다 똑같은 줄 알았는데... (6/10)"
+  ],
+  "text": "전기밥솥 취사 버튼 30년 동안 이렇게 눌렀어...\n급하든 안 급하든 무조건 '쾌속'만ㅋㅋ\n근데 쾌속은 쌀 불리는 단계를 줄여서 밥이 좀 꼬들해진대\n난 이제 쌀 30분 불렸을 때만 쾌속, 아니면 백미로 해\n너넨 밥할 때 무슨 버튼 눌러..?",
+  "subject_en": "electric rice cooker (Korean household electric pressure rice cooker with control panel buttons on the lid)",
+  "image_prompt": "An electric rice cooker sits clearly in the center of the frame on a cluttered Korean kitchen counter, its lid control panel buttons visible. Casual smartphone snapshot taken at home, slightly tilted angle, ordinary fluorescent kitchen lighting, a bag of rice and a measuring cup nearby, a dish rack in the background. Plain, unstaged, not like an advertisement. No people, no faces, no readable text or logos.",
+  "photo_query": "electric rice cooker",
+  "product_keyword": "전기압력밥솥",
+  "benchmark_note": "내 최고 글 '세탁기 온도 버튼 30년 동안 이렇게 눌렀어…' 첫 줄 실수담 + 무선청소기 글의 버튼 습관 고백·'너넨 몇 단으로..?'식 각자 답이 다른 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "루니엘 그레인 전기압력밥솥 1~4인용 솥밥 누룽지 밥솥, 오트 화이트, 스마트 만능 압력밥솥",
+      "price": 129000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9697926752&itemId=29008935621&vendorItemId=95937154815&traceid=V0-153-c5646483e1806678&clickBeacon=52930ec0-e536-11f1-8ebf-58c0f8bf646a%7E3&requestid=20261121080130077122044846&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/RPo3vMSQOgr3s6VERDRU05s3-iOw0oUIG81FukD5nDRTLtsBOdm_iYRYFvXKqKV7f_kqpEEvjvt3MT184mmxQdxs8ANIE1Ttcted0OPyOQ0zQhrcYkDhP0w4Hw9ig9bF9jpjy79Yw7WkrslbVVP78VwQUCXzeNYSXMcw5RwCDyivKSbqa_8fo27tv7lJEogC9TOGuEDtsB3NrWpQ83HGlde1wDIG3ETxSPn8dG_46Q-s9cm6qlkT9tqhQ3y361u_eBCokIjUqCkSNoG-mHmFT7nOf8S2T5dmnOXExyro74DJxCi6wyBFhIwFlQF-AR1Pw5iZzmj35SvnT_dWqg8Za_lyRBLvUdsvUI2kXcxIzgXdzmUMNCGZiMI30go4JuMwkWSro3w8kVuK9fzJDgQM7uvVchiVIVMLJddeppGJk8mht1sKPEcRwIf7_3aRDjj_erqq4qLRGRG7ijklLYpdOT0H6b7CcESX_gn86AJXswJRNG7RXBTCzw9Y_BFLp6r2iPLhkoPsEwnHPjXK5ZJDLrhf2j7lmp_B"
+    },
+    {
+      "name": "까사맘 4분 전기 압력밥솥 시즌2 누룽지 가마돌솥밥 1~4인(최대6인) 홈쇼핑 정품, 블랙, PC28T, 1개, 2.8L",
+      "price": 149000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9738892601&itemId=29147448758&vendorItemId=94324069942&traceid=V0-153-92d16b366d4d0657&clickBeacon=52930ec0-e536-11f1-963f-2c49b8f2909c%7E3&requestid=20261121080130077122044846&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/Z-0WWw2Z2RvJlDFHZxqifBUZC9lwNJ8x5Cd-2y8l5YQN5wSGKswXoZCqJsdYVsxtKvhja3qX7hVXDr7cwVfap8WoZAIWgYx9k9-LYf-pc8OgETElX7q2U2RQ2Ysr1GBA16D5UMZpiZ4-3E9a1fmoTGOC3DpKxNK05qH-MlyEgIf24MpVkv-qkr3KhJ6iP2zZ9f_EgvFAHkTFLujn5LiL3MpUI2xHS_CqRcYMGzUDOZX3Wh8Ag9sDPJ0GICbq4qB_3DjfOrCxUI0OKUCYCDjwI0BQ2bTfyWSXn3hy6nDAJEjzGE7EvHnXRQWo4DgoYIGcK2XO1pvcimKFabW4wAb6oKhzqGYJVzwGk0_GrxmlramR_IVWHhyMA-3kusNX1mYfWdWFVK4s7BxQo6YH11iEfUDZSw_BktU1DlIce60eKa53Tr8hLDuCpAU27yqxY7h6SgORTUQJcYuEw66uvUgOf9TE4sBfoJ6pxIu0kC7l54ZRYgTM6kdeIkbYN_qB7wRCtAEbDfl1NyTXccSqqirF5RiRXxtJV0xeQw=="
+    },
+    {
+      "name": "쿠첸 더핏 슬림 전기 압력밥솥 6인용",
+      "price": 129500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7883278780&itemId=21564530461&vendorItemId=88616630152&traceid=V0-153-9de4f61ce6f47ceb&requestid=20261121080130077122044846&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/wWNhwGZKvTZScxpIwVbOXnsCHSBxs311jMIQQ_TePm5zKjQ23p-x2TgWWQxrsDgx0Bf4fgFTbsPw8Z3FJbUdWG3zZr4MagXPQSXJYIdNEMTvzFaDvzRLIrrleUbQ5xJqG9xQUZkio126QqMbFNnQz9chfg6W37RQHPdQ8n7USWZ0z0O-Mf2cASWUxDjxYV-CBd7rv-bz79G7Iy_2LMwDrRrdGkRC4Jb0HFN3FumKMkVV1SuL_fK1BaHeJHryKLlFKjE0M_9y1o3D0_q_05L6vJbJTFAK7c5U8569qgCayReKrObV8uMGwrz9_4j0-1ISt5WcqXdzTiOF7utNPy-Axc0zbWVRFv3E81o9JoEbz5xAb0hy4e0v1DLTlDOPNWg6KVMpnitn_s_Qlx0iXvt9KdOdzC64xNldATJ-0hw56qRjwPUYXDJmXuYGyaWNR4K_vhzrPhLIMu4nlLaYW8I7a_yZogu3d_uHvAVB1We4hPU0GFg8gnemzvB5Cffh5AgWyG7wJg4xv0Ey8HYLa3z4EXhObBQ="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 355,
+    "has_photo": true
+  }
+}
