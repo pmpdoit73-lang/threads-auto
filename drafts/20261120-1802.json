@@ -1,0 +1,53 @@
+{
+  "id": "20261120-1802",
+  "created_at": "2026-11-20T18:02:12.111520+09:00",
+  "publish_at": "2026-11-20T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥 내솥 눈금(물 높이 선) 백미·잡곡 구분 오해",
+  "angle": "밥솥 내솥 안쪽 눈금이 쌀 종류별로 따로 있는 걸 모르고 아무 선에나 물 맞추는 습관",
+  "category": "살림템·가전",
+  "subject": "전기밥솥 내솥 눈금",
+  "hooks": [
+    "전기밥솥 내솥 눈금 30년 동안 이렇게 봤어... (9/10)",
+    "밥솥 내솥 안에 줄이 왜 이렇게 많나 했는데..? (8/10)",
+    "얘들아 와, 전기밥솥 내솥에 이런 선이 있었어? (7/10)",
+    "전기밥솥 밥이 자꾸 질던 이유가 내솥에 있었네... (7/10)",
+    "내솥 눈금 옆 작은 글씨, 그냥 장식인 줄 알았는데..? (8/10)"
+  ],
+  "text": "전기밥솥 내솥 눈금 30년 동안 이렇게 봤어...\n쌀 3컵이면 아무 데나 '3' 적힌 선에 물 맞추기ㅋㅋ\n근데 백미·잡곡 눈금이 따로 그어져 있더라\n난 이제 내솥 옆 작은 글씨 보고 쌀 종류 선에 맞춰\n너네 밥솥 눈금 몇 줄 있어..?",
+  "subject_en": "inner cooking pot of an electric rice cooker, removable nonstick bowl with printed water level lines inside",
+  "image_prompt": "An electric rice cooker inner pot, removable nonstick bowl with printed water level lines inside, clearly visible in the center of the frame, sitting on a kitchen counter next to the open rice cooker, a measuring cup with a little rice beside it, casual phone snapshot taken at home, slightly tilted angle, ordinary daytime kitchen light, cluttered everyday counter, no people, no faces, no readable text, no logos",
+  "photo_query": "rice cooker inner pot",
+  "product_keyword": "전기밥솥 내솥",
+  "benchmark_note": "내 고조회 글의 '○○ 30년 동안 이렇게 ~했어...' 첫 줄+ㅋㅋ 셀프디스+'난 이제'+'너네 ~..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "[호환] 쿠쿠 내솥 업소용 대용량 35인용 CR-3555B, 1개, CR-3555B",
+      "price": 95000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9685067681&itemId=28963225043&vendorItemId=95416184385&traceid=V0-153-313502598629d506&clickBeacon=27c94940-e4c1-11f1-b7da-f1838adb670d%7E3&requestid=20261120180247191243440112&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/lxyAv6_P7mVRKiuhlxNeaQ6ZNyheXtTpDvKRVFWoVlYZlspZfAOmlkrwniEigfF7Sa1ir4hYYyPZLZKPBGvb2cDor1BDQePUK7uHB6t2428XhBDv5FzXqD5-GMOFf2eliHpkavdZYKSRAhRKFIBFcc0KiNlI1fltDv8LIPjDVq-upvE7-BQ-HwMDqI4_x4goo3h7rKhhX8j6Yuoktdy6L2FnH3rsk1XlgN_lkBN8aL7MyhTf_xeKeJ03TFBUP2TMYuRsisSQ035qL3g2yDKhBLqqBKCXPYmYX3lrhC2MTBI_Yr9CjKyIy7Ph2wXy-jbQhbvyOd1PHWIFuLdibKDIFh-TmbliffM-CSxrEn4-ap5wZVjXET7yKcerjdjMck1iyjQcbnEGbzQrK-nGNyBZJG2zr6fNHA1_4DC7228E9v9UqOK663vsGRcu05fbMNlKcYiOfgYdmR0aMgUIfAphb8hR4dwsuYEUIyQrkZ_f4nF9dGi69spfyourKUqKG0eVbEcZfJaS9DdA1czQuJKSPwelliZS1EKbYZ-YF99nqv2ITg=="
+    },
+    {
+      "name": "정품 케이스 CRP-DHP0610FD 쿠쿠 2중 압력 고무 패킹, 1개, 정품케이스 포장 CRP-DHP0610FD 압력고무패킹",
+      "price": 20500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9807343475&itemId=29369886767&vendorItemId=71945131205&traceid=V0-153-525e28ed7da9b6a3&clickBeacon=27c94940-e4c1-11f1-bc8b-8aa5c54a6937%7E3&requestid=20261120180247191243440112&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/kFrVjevkMepMUWmVkGR6nlvozF1IjKmTp80AwL52yubWDte-r1dpX2eCNmsXeINn3ih5NItHoEu8gyQIHOPueblSQ3S5IFGXj80wNNn5iYOHwSk8aYwhZB5pBNkm06wcvTuAppCnsy-6UkX7KZxgoULKVxwkHI_UY6qQ6E_m4aY1iyDbs_OGuSUDAWF0J8pNxPPk9EORv5C1Qqrs0CmmPAvjwupWLjw-mDD1EdbH1pOxuzEkgrq8rc774EL13RhDf7l7PAaoVPhgVOeiDZ05rtG1CvnYFRXDW8pAtxdRkgfj2vzdvHEReeNOp5IC-oB4Qyq6U5JPzN1q7P471heLtW7hFIC5_wI5ZceVkIM2w2LBOeZ9gc53nkoh_Kxh_S0-KE475ldCNCiNoR_TVecnxlPiqB3KomdIMMhD2zlImM6Sr9fluKaeoL4BwVUdkiVS--NcvPO3DQInrCSrAsAMyvMKKOuyFF-6GgCCCa9skqqmPBFt2uyycyeq18uPl_ZF5TZHlFvYWqxQDObNH8F6DDjBuVtqtBMSdAkzUgHv3HZmmNd8QsI4sxUPGbrfW7Sj7fVEPYK17nqZUQ=="
+    },
+    {
+      "name": "호환용 스테인레스 밥솥 내솥 5L, 밥솥 호환 저울 포함 밥솥 밥솥 내솥 교체 밥솥",
+      "price": 14280.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9673556787&itemId=28924146219&vendorItemId=95873235033&traceid=V0-153-0ebe5c85b7a05454&requestid=20261120180247191243440112&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/RF0z_1IWzmD79mYoRJ1iQg_TXGT5mUNVfkD2xPvmRdOHhEQql8lWQiR9mSjzKMyfrgHxoj77PZnRELrGtONOBJLZwY-VE4AcwNqZMy8XLnoCxTUVtvARON7LMoUnzPv6SeTPeZMV4xeqguLHM1DIvvrx8-WyWWJU7eZTvTEhOK_ky7kdIL89FLZK4yr1k97Qkz78pAp3nQuRn74-xQ-HFKRiLnMXRvTYXIYM6bczhOwYmgGzP7y9uR3Koa3cHgNzYQe_MHiztVnuLPxNwLgelxUWBxoeTiBUOXyjvhccFdJ_xO4DsF6Vintybum5hnzlLZHtBmD09xi7xFFGxPx154m8jO_OZuKk5oInhGcgjLz2CkOvzP1oSRJ6i84JHvVPc4EeV-SjHrNmjHVhis4l23yb_Q3gV_sNiBvau4okJZmv6G8019mj-RG6_UqXYX3lCem_CgTbcIxvl1UA8RcokNnU7JpBD23o8IvhstIjvefaiFqVB9jnjxop9O8fdWy1QcEnKCdmcqKe2_NdSn6xwhYD6HzgRoeAUVHz1KxjPNIAgUM="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 350,
+    "has_photo": true
+  }
+}
