@@ -1,0 +1,53 @@
+{
+  "id": "20261120-1401",
+  "created_at": "2026-11-20T14:01:35.369519+09:00",
+  "publish_at": "2026-11-20T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 다 쓴 랩·호일 말고 — 냄비 받침 아닌 '김치통' 아닌 → 귤을 박스째 베란다·거실에 두는 습관",
+  "angle": "귤 박스째 두면 하나 무르면 옆으로 번져 한 박스 금방 버리는 손해, 꺼내서 펼치고 무른 것 골라내기",
+  "category": "주방",
+  "subject": "귤 박스",
+  "hooks": [
+    "귤 박스 30년 동안 이렇게 두고 있었어... (9/10)",
+    "귤 한 박스 사 왔는데 일주일 만에 나 뭐 한 거지? (8/10)",
+    "얘들아 귤 박스 바닥 뒤집어 본 적 있어..? (7/10)",
+    "귤 박스째 베란다 두는 거 원래 그러는 거 아니었어..? (7/10)",
+    "귤 박스 열 때마다 왜 이렇게 아깝지... (5/10)"
+  ],
+  "text": "귤 박스 30년 동안 이렇게 두고 있었어...\n사 오면 박스째 베란다에 두고 위에서만 꺼내 먹기ㅋㅋ\n근데 밑에 하나 무르면 닿은 귤로 금방 번진대\n난 이제 사 오자마자 쏟아서 무른 거 골라내고 신문지 깔아 한 겹으로 펼쳐\n너네 귤 박스째 둬..?",
+  "subject_en": "cardboard box of Korean mandarin oranges (tangerines) stored on the floor",
+  "image_prompt": "A cardboard box full of small Korean mandarin oranges (tangerines) clearly visible in the center of the frame, sitting on a home balcony floor tile, a few tangerines at the bottom slightly soft and moldy, phone snapshot taken casually at home, slightly tilted angle, ordinary daylight, cluttered everyday background, no faces, no text, no logos",
+  "photo_query": "tangerine box",
+  "product_keyword": "과일 보관 바구니",
+  "benchmark_note": "내 상위글의 '○○ 30년 동안 이렇게 두고 있었어...' 셀프디스 첫 줄과 '너네 ~둬..?' 열린 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "코드86 냉장고정리 페이퍼백 야채망 세트, 1세트, 브라운",
+      "price": 12160,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9179256797&itemId=27067058740&vendorItemId=95223560760&traceid=V0-153-6a5664f9335e0c57&clickBeacon=82441930-e49f-11f1-b071-9b6ac493ffb8%7E3&requestid=20261120140156026013295716&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/trwZVFK8icJ_YdmYtqQxCDhjFSDzPf4_oEfwWtf0Fbh0Xu16jFnIbZ0GRVYfSp0rI-s0jA1fvgmH4WZHbW0oY6HMy2SfozBei4bBmUN1-JeaZYFmU9OYy-7nbAz79T81Zk-flKH5vu69Ly9aqIOTySaKa-IqN41D5DWwTRaVKcwgQwtL3pmHmtNUbJIzh04wqibR_04Cwc_XbJ9eZ9rYZ8ABqZYTi8c-q3fAVdWJxjPoTBHgCSbMUzCaJ3i4nwgayHSFNtrTgW6ObM98CES-Y17F0SB4egSfxCLPyVTHg4DcjwFmM-7lJXO5538j6XgeOzkilQ9kP-tb-zBfEh1s8cApso_Qjm5b0xkTFpBsDrad010vEAzbH9wXT-t1iQ23EkK-kBwv9JnkruQFnaFQuczPqZQmtAxifY1yLreHnnLHowx-rPFJehe7DUmd_jmKecedAgWrGlCfZtZEfeO9Ld010STQuODfhlOXWFH-11xbS3DqTXOTIX4zV2cKjoKxjDzWlEjR-T-4k83zoGwpIkGHIJYr9ItxC8_8quRylh6Eb6ocJLhWEgReOJrsdZiVHVuAuVWrrmj-qA=="
+    },
+    {
+      "name": "피앤케이 2단 철제 수납 바구니 다용도 우드 손잡이 정리함, 블랙, 1개",
+      "price": 11340,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8575068956&itemId=24848156474&vendorItemId=91855262718&traceid=V0-153-a63a09cc3a394fec&clickBeacon=82441930-e49f-11f1-8f23-923b3e628c1a%7E3&requestid=20261120140156026013295716&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/AnCUd2p1TBQ0xVvcAoUK-wsdZI9nW28HHcaZ5lbLxqPND3ko8t1pVIE1LmtAE6eYUr2dZ2rsep74vha9hKTD2BU2owQKe9rqibnQay9sjBOv9E8O9n7NRIEPrV_TouHcEbEjhUa7Y-PweEe9cM9zjptZokSfoEis1tpatVVGErQ9ehC_2W654xC7vUKu307lBiTg2jlHzN0tvObnPxF9hH3UmdHeMb0ULXOnW81aTG6KUrm250br8VHDP1VBtG3imYjBpx3Z-Bg3_0wgICF4-51uTWWfO1etGsGkTVDV0SkiO4LrDiYLZvDfM-Ce4XIgsLcPhInl92MWHBPJmjw8SIoJ4TlAnp9rfUxmpSBvgl0ACY0vQTUOwtl3yRxC7PKL5sN7jgKAd-eM9_XWqURmshatlzSGV3I9TQjVSJ56umFw3mpKJhmqd-iFktS3NLSylCcsk85o_bdhOD8VS5kC6PmVl2k0XnCGk1H2ZvBbHBoz1svrxwbz68XKWt-dabky5VEORLh6Bw=="
+    },
+    {
+      "name": "데일리쁘띠 페이퍼백 냉장고 정리 크라프트 다용도 바구니",
+      "price": 9900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8982451715&itemId=26300026772&vendorItemId=93277804390&traceid=V0-153-8ca9e5ed2d11f884&requestid=20261120140156026013295716&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/sVbHU42pNcDBJMdYsSaSq2lVXAattVMC1V1K1i4PxwG5E3mSK6Zideo35hCIVLT1frRAJBNq-b3_nMgmvj4MwedRGUAX4eywipkuNeOanzbwXknfVUom4p31Bq19s2ZNhrmkcRD6mVOqPWI0Ezz1eb3uPobMqNCF6nv4Shs0Ow7vxiXpBfNkyNSxaieQGSsU3LeiMBw9lLCNpQ_mJYHv7_3FafRX3w6ITVTVDzasiIyv7nYlxJg9NWYjdjoo-Kl17F0IvmDfVTsLo0TllD_BFMnTEdzeyg3P6BsUo1iPQMmpLY5Gl4J8QYTZZ8JP7Dgbe-1Wu34GjLchkMmelrFm8JrzFFL-cCvtwBu8iV2eR93EUSSbDFGQf7K8URI2xX-OZyK1bNLB3yTAmHVhvuJ5GE87bjz_RAdOs30sAHKan1no13fPgB2IMXg9_uwm28LmKSTWNv8jg5n6mnOFGane63ls03NIo2vg9q1n91qMZqlNmrmXQOlVY1yzh89sAd7HTEoPCVlMLRMy05TAdT-vJuiU1mwvs5p4l1FVb_5xMxzUZ3np"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 349,
+    "has_photo": true
+  }
+}
