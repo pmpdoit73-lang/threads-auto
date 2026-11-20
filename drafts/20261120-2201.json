@@ -1,0 +1,53 @@
+{
+  "id": "20261120-2201",
+  "created_at": "2026-11-20T22:01:19.084449+09:00",
+  "publish_at": "2026-11-21T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑 끼고 뜨거운 물 설거지 후 손가락 부분 안 말리는 습관 말고 — 김치통·냉장고 아닌, 쌀뜨물 그냥 버리는 습관",
+  "angle": "",
+  "category": "주방",
+  "subject": "쌀뜨물",
+  "hooks": [
+    "쌀뜨물 30년 동안 이렇게 버리고 있었어... (8/10)",
+    "쌀 씻다가 나 뭐 한 거지? 쌀뜨물 얘기야... (7/10)",
+    "얘들아 쌀뜨물 이거 하수구 보낼 물이 아니었어? (6/10)",
+    "쌀뜨물 두 번째 물이 진짜라는데..? (7/10)",
+    "쌀뜨물 그냥 구정물인 줄 알았는데 나만 그랬어? (6/10)"
+  ],
+  "text": "쌀뜨물 30년 동안 이렇게 버리고 있었어...\n쌀 씻자마자 싱크대에 콸콸ㅋㅋ\n근데 이게 기름기 그릇 애벌 담가두기에 좋대\n난 이제 두 번째 물 받아뒀다가 하루 안에 설거지·된장국에 써\n너네 쌀뜨물 그냥 버려..?",
+  "subject_en": "cloudy white rice-washing water in a stainless mixing bowl beside a rice pot in a home kitchen sink",
+  "image_prompt": "A stainless steel bowl filled with cloudy white rice-washing water sits clearly in the center of the frame on a home kitchen sink edge. Beside it, a rice cooker inner pot with washed white rice and a few greasy plates in the sink. Ordinary Korean apartment kitchen, slightly cluttered counter, casual phone snapshot, slightly tilted angle, natural daylight from a window, no people, no text, no logos.",
+  "photo_query": "rice washing water bowl",
+  "product_keyword": "쌀 씻는 볼",
+  "benchmark_note": "내 글 상위권의 '○○ 30년 동안 이렇게 ~있었어...' 첫 줄 + ㅋㅋ 실수 장면 + '난 이제' 경험 + '너네 ~..?' 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "신흥클라스 스테인리스 쌀 세척볼",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7937222227&itemId=21850369212&vendorItemId=88900190315&traceid=V0-153-ccee60e2f5080042&requestid=20261120220152398135104285&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/2jlNQhe-eVvqbn6n2q5i29mdu-Y_VRzpmagblCQVxn2gBsrxeLraPaBkVABd5KgIz--shK2OM1M4AwBxre5NPDiySwvTlaDI9BUgOOqvNO4tnqCYGeKjjAKXtiYz8s8vI-w6FUsFluljV6E4oECJY0AWw2WxGNRLxKYhGV9ijYxonLQPzc7zOISf2skxzlfLUwXzwlg9OCyE2Sb1eoc-7ob7uHjImfnxLBp8A7WOe7qt2dV-rHmu5grkyRB885B8XspNQxq4fGDztBg-OaeNahExk8Hf1uHwpCnQBANYScBJW5nUuhWE7m49Cqe45ICGg4UpaxhZkynMQhufnBAmf2aE_nx0eP0RgINYEsZNhs3-Xz94uoS7qdm-pGTE_Njxt1I3eD1V9dSmaSv62Z_m-SBIeUsibMHxNNHO5SVdcltmGbxk5KUhPXjFFD1uzTYBvr5E_xgFAk3qQROKk4lTfFL2IthY5vQawX5BaHKiLxWRFu47vRkm9TcNpg1bgKjkGm55kBxjVxpZnGSVkhS8Uuqo58WhwwFgNQOlNgbH-Y0K0T0="
+    },
+    {
+      "name": "리빙글로리 멀티 세척볼, 실버, 1개",
+      "price": 13650,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7925819846&itemId=21788528830&vendorItemId=88837212778&traceid=V0-153-b9de4c765fb080a3&clickBeacon=8e3780e0-e4e2-11f1-80cb-d108597872a4%7E3&requestid=20261120220152398135104285&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/qAJrgt0KizgCEi0LqJq325biknaVEWO78DrziIwXlh80ZUPvB9RIcfpDpkAZMmn0_WG11Tj9_6H0KWkn9z2-LnUrD5Dkgjai98Gh1pyo97hwN6yy0tfLkyZmtQ8OfHiy-9WSKWx7iM0phLeSgmBcUlPA7TJkxqjI5sXetuU2OPXbmj5zpvyM0lx2b2M1hcXwVEW3C4VQwEzoXzwlapllxpR2RMAfaV529a0EbN_XWF2w2p1UXjo9_PHbaIqA4Y8q6Cd_Eu38Uc9ZJEE82kIVH2fVmYA4KtndBLRu4PGw9zMh2n1Vv8hLYm3QEbOo7PvzVrF_7JpNPhlN24TcP7rrBzU2EE6GjFzk-JRAtrpKu3aoaXVig1RJ4MtJ6G4_8AzPBZakym8yvbHjRdeNzCOO2tKHiGt6_dzAjzpywVaDpbciv4hBoWhVPMe73vujCHnO_9EzgCHtD9yNqRN8DTaGP3PRSSYpaapFKQwqH32Q6diFj9cSJeSlxD5Zb2Zb9P16jBkwSeUZ3Bs="
+    },
+    {
+      "name": "다오 스텐 304 쌀 세척볼 연마제 제거 완료 대용량 채반 믹싱볼 쌀바가지 다라이, 1개, 단품",
+      "price": 13690,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8800973900&itemId=25627034843&vendorItemId=92716253495&traceid=V0-153-fcc9e25937274a85&clickBeacon=8e3780e0-e4e2-11f1-863b-acc67426b0e5%7E3&requestid=20261120220152398135104285&token=31850C%7CMIXED&pt=1&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/y4DZLCEX4BFLZLJmy8bp3HG2Pom6TimVhBeVwVZtz3I6spx16Q2ftfJ3recnFndmbpLsxr4-bplVMPEJJI_qpcUn4IJ6DVt-DPtasSYudPIAfGs-OywTmMxkzmU0spV1bXKQFMdsPooeJdaUeVpArY1G8VSC3KVc3zg203B2hWV5mzsTUv6gRz6WQ_2excifgzvuMoeaZI7AiXsmXo-x369cmqGzWhlwiQe6DimnZ_TqQVbjBxLJIrZVhq6-HRu3ec4jaNOPTGJLaoB9xS-MXYpOI-ZOW5ngI0tJcRE6Iy8Wv0kg5YIiNBsocm7XC4GdKIPiDn_VmmtKBMGXPLl3DV2mGESRCn9cXEhoIeUWr7NRpEGuP1w55ZErQsYnbQvRumjsdX3hOWlKY-rT-H_Pvl6b1Am3-nR-bLdXgwQF4X2jyleNA9xL-r3Sk3v6FoBMTFKtN4cdGFjJUIKca_er1OyN7cUuyqDS5em6bpg9gvXfiMfpPjIdVvNcl_DYt6tZjDGVNRQ5qva4sJJcrjeB1Li5M5aSqik="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Jay Abrantes) · ⚠️ 검수 불일치: 사진에 '검은 그릇에 담긴 볶음밥을 젓가락으로 집어 올리는 모습'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 353,
+    "has_photo": true
+  }
+}
