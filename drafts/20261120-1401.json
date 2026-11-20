@@ -2,7 +2,7 @@
   "id": "20261120-1401",
   "created_at": "2026-11-20T14:01:35.369519+09:00",
   "publish_at": "2026-11-20T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 다 쓴 랩·호일 말고 — 냄비 받침 아닌 '김치통' 아닌 → 귤을 박스째 베란다·거실에 두는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 349,
     "has_photo": true
-  }
+  },
+  "threads_id": "18141232225654266",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df9SQ6jmyuv",
+  "reply_id": "18648576226012677",
+  "published_at": "2026-11-20T18:01:32.801540+09:00"
 }
