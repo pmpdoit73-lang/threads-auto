@@ -1078,7 +1078,7 @@
    "reply": "찬물 매일 갈아 주는 거 같이 하는구나ㅋㅋ 그것만 해도 확실히 덜 시큼해지더라",
    "suggest_skip": true,
    "reason": "자기 상품 홍보 목적의 댓글",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-18T18:41:04.400803+09:00",
    "message_id": 336
   },
@@ -1092,7 +1092,7 @@
    "reply": "맞네, 포장에 적힌 보관법이 제일 정확하지. 나도 뜯기 전에 거기부터 한번 볼게",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-18T18:41:04.400832+09:00",
    "message_id": 337
   },
