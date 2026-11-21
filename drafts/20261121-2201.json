@@ -1,0 +1,53 @@
+{
+  "id": "20261121-2201",
+  "created_at": "2026-11-21T22:01:20.384718+09:00",
+  "publish_at": "2026-11-22T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 가위·칼 말고 — 감자칼(필러) 옆 뾰족한 고리 용도",
+  "angle": "감자칼 옆에 달린 뾰족한 고리가 감자 싹·눈 파내는 용도인 걸 모르고 칼로 따로 파내던 습관",
+  "category": "주방",
+  "subject": "감자칼",
+  "hooks": [
+    "감자칼 옆 뾰족한 거 30년 동안 장식인 줄...(9/10)",
+    "감자칼 쓰다가 나 뭐 한 거지?(8/10)",
+    "얘들아 감자칼에 이런 게 달려 있었어?(7/10)",
+    "감자칼 30년 썼는데 반만 쓰고 있었어...(8/10)",
+    "감자칼 옆 고리 이거 뭔지 아는 사람?(7/10)"
+  ],
+  "text": "감자칼 옆 뾰족한 거 30년 동안 장식인 줄...\n감자 싹은 늘 과도 꺼내서 따로 팠거든ㅋㅋ\n근데 그 고리가 싹·눈 파내는 용도래\n난 이제 깎다가 손목 한 번 돌려서 콕 파내, 칼 안 꺼내\n이거 걸어두는 고리인 줄 안 거 나만이야..?",
+  "subject_en": "handheld kitchen vegetable peeler (Y-shaped or straight swivel potato peeler) with a small pointed eye-remover tip on the side",
+  "image_prompt": "A handheld kitchen vegetable peeler with a small pointed potato eye-remover tip on its side is clearly visible in the center of the frame, lying next to a half-peeled potato with a sprouting eye on a worn plastic cutting board. Ordinary Korean home kitchen counter, potato peel scraps scattered, casual slightly tilted smartphone photo, flat indoor lighting, a bit cluttered background with a sink edge. No people's faces, no text, no logos.",
+  "photo_query": "vegetable peeler potato",
+  "product_keyword": "감자칼 필러",
+  "benchmark_note": "내 글 상위 '○○ 30년 동안 ~...' 첫 줄+'ㅋㅋ' 셀프디스, 동네골목 글의 일부러 틀린 추측('걸어두는 고리인 줄') 마무리 가져옴",
+  "products": [
+    {
+      "name": "일본 다용도 요리 필러 감자칼",
+      "price": 5750.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9368827670&itemId=27804446747&vendorItemId=94764402989&traceid=V0-153-ae5b3fabdd1f4863&requestid=20261121220141667095008124&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Jvr37WQAVEiImXagJsDIw388KoSZdd3YtZE-E43YnGeZ-0A8OU1UQ88QUH7wEDkgCyubVVe7vWsPlDfnsG5ZiOGqMPL75TVQGx7evGQ_qNSeb9d6Z0F-qJcFQXNHHWI-xNK92vsd9SrbeYcP7l-xeMOW1nFARwqLwMXZw1UmdqvoWZ7h9-NeDpTKQH4hyQBTITgVawJkjduC6qFAq_mrbGVYe1KvhLdCJ4h3jDI4plRRoDjwl8c9onwx_CcyDrwHdzAUc-1g7tetC6nSX9U2-q2MuUftQMSvQAXuYmSjoWOpgNeeJuuOiO_mbhCoXYbh5VeMI6sLPHHZF2xnm75rxug4SLMelXQg3h5cYOkFKcwopcJ8C1A8mulEEuRAWOdc1gj0G9Mb2Ug8lTfhDpGkOuEfzOKdynKjNj6oSLUt_24AMmx_9ogibRMi63ZngmWk4_Tq31YRifRZQpzrur7W867zTRDTW7fXx8BOaT0A1plgDu2Rrf5kjHk1t40LHo4W6DhDq4GCGkF0XKF6CcGnuFLoPvKtMA0r9xpedHhx7A=="
+    },
+    {
+      "name": "바겐슈타이거 멀티 스텐 필러",
+      "price": 11500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5642972008&itemId=9209922638&vendorItemId=76495629070&traceid=V0-153-f7e699ae579eef70&requestid=20261121220141667095008124&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/Sv734ds5O44N3-iFSj4M3pjibmekFR7Nl6FMaXN5_9AaiflmyvjoFwmVfAux8PAHbcFus5UNeyUuATfs1tcOJVhjTW3jqIRUk9tBJVvNOhR14RLVwt1ZYJp4k99RFp9pzVRm9HyE6bea-UUn4j14mUrksJSaxaMgEZbw-ETAoKBK4rbWXo_x-FdWOwiJH_nAavr9RCEYO3jdQFLZ2AISOQB3YLXmUqqp5GS91Q6AR9K8lU7B6GjCEQthkLjYE_cgfgPA4maiCnU7dt_9n7YSkYud9gSsPo39eKS-nGB7K4BhoUtzNqteGdKJvgbHQHvtkPQAa6mLverx2aCL4wFOqN4dB9G4RSxyDYVP3u7br7UMdFhmj2mNGDQQAnuIu0RhqHdH4tKlxS_kryoGofyE6QU_PypESTpR3q-oFtv0GhdoAD-WSknfj9hTYMon81tUr7oloWeg6yeiF6VNEFo8DHo55ItFqkUWF_WfKkwxh_RFUvPtIrdYEqeBArNwCRDtypUsXBJ-64mK13l_MA8P"
+    },
+    {
+      "name": "트라이앵글 스위벨 필러(50mm)",
+      "price": 17900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=66511&itemId=141316&vendorItemId=3000074695&traceid=V0-153-b53081ead330f3e3&requestid=20261121220141667095008124&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/0-C80geXVT2bicuP0zNStNOqHn2xxlQZhsEq4OXlAnHHFMx430wgCDDulfjcLewBrwsqG1FZOwAUyk7NUWTf07Ov3v0flc0kdstjVEZ5EdjdqTaI6pMIl8Sv3TAdOmMrx0BV8xV6Oq4Un159Sy1cD3G32QiibtK_8obSconEy9Ui-BiXEBEJuiHXEHkohqvbXKxrL-sEEj0quCDGuJwaB2PC6G3hiFzjAaSaWEeeInhkAHpz75TQ4e-d2oK7w_Nun0QQI5GFE4lAFLoCjGXCKJ-iGXDY5CYUXrVcw-ZNJA-jV1WK5V93h71VKNW6ZPwbs6uiL5M04zgi14JEIC15zNP1KcJG0XTpjYtd7iKjEhj1dUXLc5znsTbWDCyvZ5M7cclThZoP0sywdM_XKku5bVj83gn2Bv2IpiumW2KonFDzUQ9BHnCsiHhxhdk-7cEAblF0VxMXiBfcm8YQmi5B_JJILP_ECAfK4h-ljrHCLlJTUqVBK6Gxw4uzskp0_kVOVug4eATId_HZ"
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: HellphoX) · ⚠️ 검수 불일치: 사진에 '바텐더가 Y자형 필러로 자몽(오렌지) 껍질을 벗기는 장면'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 362,
+    "has_photo": true
+  }
+}
