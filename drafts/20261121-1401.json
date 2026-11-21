@@ -1,0 +1,53 @@
+{
+  "id": "20261121-1401",
+  "created_at": "2026-11-21T14:01:18.731430+09:00",
+  "publish_at": "2026-11-21T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑 손목까지 뒤집지 않고 물 들어가면 그냥 끼는 습관 말고 — 키친타월 아닌 → 랩 씌워 전자레인지 돌릴 때 랩을 꽉 밀착시키는 습관",
+  "angle": "전자레인지에 랩을 팽팽하게 꽉 씌우면 김에 부풀어 터지거나 음식에 닿음, 한쪽 틈 남기고 살짝 띄우는 게 맞다는 걸 모르는 손해",
+  "category": "주방",
+  "subject": "전자레인지 랩",
+  "hooks": [
+    "전자레인지에 랩 씌우다가... 나 뭐 한 거지? (9/10)",
+    "전자레인지 랩 30년 동안 이렇게 씌우고 있었어... (8/10)",
+    "얘들아 전자레인지 랩, 씌우는 법이 따로 있었어? (7/10)",
+    "전자레인지 랩 팽팽하게 씌우는 거 나만 그래..? (6/10)",
+    "전자레인지 돌리고 랩이 풍선처럼... 이거 정상이야? (7/10)"
+  ],
+  "text": "전자레인지에 랩 씌우다가... 나 뭐 한 거지?\n북 가죽처럼 팽팽하게 꽉 당겨 씌웠어ㅋㅋ\n근데 김이 갈 데가 없어서 부풀다 펑 하거나 음식에 붙는대\n난 이제 그릇에서 살짝 띄우고 한쪽 2cm쯤 틈 남겨\n너네도 랩 꽉 씌웠어..?",
+  "subject_en": "microwave-safe plastic cling wrap loosely covering a ceramic bowl of leftover food inside a home microwave oven",
+  "image_prompt": "A ceramic bowl of leftover stew covered with clear plastic cling wrap sits clearly in the center of the frame inside an open home microwave oven, the wrap pulled tight and slightly puffed up. Casual smartphone snapshot taken at home in a Korean kitchen, slightly tilted angle, ordinary fluorescent lighting, a bit of food splatter on the microwave walls, unpolished everyday feel. No people, no faces, no text, no logos.",
+  "photo_query": "microwave plastic wrap bowl",
+  "product_keyword": "전자레인지용 랩",
+  "benchmark_note": "42,193 조회 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄 + 내 소금통·김 글의 5줄 흐름과 '너네 ~..?' 경험 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "삼아삭스호일 슬라이드 커팅랩, 100m, 1개",
+      "price": 8230,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6122427900&itemId=19573479434&vendorItemId=86681217228&traceid=V0-153-b6c4d1741f7a425d&clickBeacon=a53c7bc0-e568-11f1-b9c2-77dbe32b4514%7E3&requestid=20261121140143604024748198&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/GI-s9r40vCJfwLuzGP7LDhzgTDbOEnx5oa9mSp9AcNO_RMUzeAHfauartyXZ1Nn6FcvuaH9mpOLG7V2hWzmFJPzQRws0AGmrFtJbf08q1MSX7Yrb1bqSG1Ttq_cuAThfOWd5yjK1YsUu3SmOtWjBGxpDWqJWQmdYuoNGerfn2GXbGiK0O8y5_RODgpevlEWaZDzLE-iqxI192-M193DIVjbzMXO073Sa-50Wbs0JJbzoHSFDHz1dDjv1jHqkASukUhs4n-CBAbRi1X8NQGkjfMFBRXSfl_z-eBcpEC2XO13CLZHXRp6RtkK5H-B5GInycqbj9hB9WkiSSBXF3DaHqVJMD6_UJrC0cWpx6VPC9aQDZa-3DJ3_JsmioOnrSqp1Nx1TxueJ0lsp5QtXThxgVQlC-fEv5_voigK04HtU7_FXpcCub4ooe3zJj26EjRMo4TWns7lzp0gCJewo6Ss3r7fJfVg_rv2SlWOvs_Dv8rt13xuN-JqpybEuV4MwDDsfzI64ywmmL50ESjkg2YthfhKbKuw5z2dGOaCIBzrxkWE="
+    },
+    {
+      "name": "마켓플러스 전자레인지 덮개 그릇커버 푸드커버, 1개, 100개입, FREE(one size)",
+      "price": 9850,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8220515119&itemId=23625988576&vendorItemId=90651511233&traceid=V0-153-d661848bc765a246&clickBeacon=a53c7bc0-e568-11f1-b754-00c9d69cc2f4%7E3&requestid=20261121140143604024748198&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/AD2yZRYI3lvakMRsANSIQWUYf6zgnziv4futflG6Ecw-n5fGBMdi8UpiFfwZ1_E1BRzVc1Yiq1yzvwPPYbfNakW4vKgv8XhHGJKiW7-eMHXIMohe9DjEX9OBFcYFu-WVGdqatgteYcAH4po4CcSvyVczzYJ0rVaEOKkAcOzTg-dYJHqruFOvSVchtgY9n2uj5mtcusfdurthFn8OIvveWVild-rI8LOyW0YHca1GQaepcegStoBFAS3NLnA1bCwGRw4dl7uX8tL32iX9q9cZrvv69GFEYzZJFc0zNSNO1B2BXMs03gdwUDeXyzFIK0MAPArKeYBbeG7dkiSOgyux3KklwWO0ZhQ1rnsjZbfABiV2_aLxbTiqC4_bHa2HF4qBT6hURaFZHZ7Xo0n4ErQXmHtHVB3UFEiosy666HINTMYrj_bfDpF_T4V-BU2zx6MEz3KjffZfl_2nsq96YSFaolj6fZ2GIAPzIfL_MySvRnqImmZdS0_ZjHVdmZdGpS5z7KiNOfqHkpGTvUM1KVACjI5IHuhtaR6St58VywJGmL8g_sJKqvLcsYxGPB2_V406LbX5qrlUqAY2"
+    },
+    {
+      "name": "글래드 프레스앤씰 매직랩 일반형",
+      "price": 9150,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9445273260&itemId=24579112318&vendorItemId=3001897577&traceid=V0-153-1f9f7e3efe375d3c&requestid=20261121140143604024748198&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/sCZLQ_6-bwDnoLxHsGXmng9ImmIJfDY09lDCdbKvzIj05SWo7nHJbfz3lenYg8e9dMIcJETex3RYlfzaHBuS7y3BGC18XZA6tMRr13Do6xNkll_EjxZ04Wba-mx4JollJ8-_yyghREv6edpUojazAoNY7u11ImBcv6HY2ktGaRHleshcQ2DeIz8veBiZCkkQ5sGhvhr8bv_CmA4919frIvzIOJKp-btC5p8dlvecnQKBTxTHT5ARPmI8AS0z9KySaOEuu-jxAvzesDs9gRKHkjE_maaRt5sf1nV9wMPaa1E9Mxdul54yTKhCuI8R-CNYvN15HM0Cq8dDi4D_RqzF0TsB_EMlzqQ6F978XMwBHfeLMFmYwDAHZ5DORpvwaYHb1hGWNUJYw9iGgPjkAfhMMV-lJp1gsDXm2n4ky8bhby_Qwp-GJpAqq_ALZ3PiA2a5ihboq6sCLQZw3gEJJp548BKP7WaiKaDc-jluIYyVePriSHO4oRg-ksyqy5c4dpqh0MlQTmtV5gOK7np-0_n_T0YH"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 359,
+    "has_photo": true
+  }
+}
