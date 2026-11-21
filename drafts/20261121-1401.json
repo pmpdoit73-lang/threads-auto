@@ -2,7 +2,7 @@
   "id": "20261121-1401",
   "created_at": "2026-11-21T14:01:18.731430+09:00",
   "publish_at": "2026-11-21T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑 손목까지 뒤집지 않고 물 들어가면 그냥 끼는 습관 말고 — 키친타월 아닌 → 랩 씌워 전자레인지 돌릴 때 랩을 꽉 밀착시키는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 359,
     "has_photo": true
-  }
+  },
+  "threads_id": "18110175317530939",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/Df_3JGPkRd_",
+  "reply_id": "18132542060310916",
+  "published_at": "2026-11-21T18:02:16.072469+09:00"
 }
