@@ -1,0 +1,53 @@
+{
+  "id": "20261122-0801",
+  "created_at": "2026-11-22T08:01:25.807839+09:00",
+  "publish_at": "2026-11-22T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 에어프라이어 온도를 뭘 넣든 늘 200도로 맞추는 습관 (세탁기 온도 글 후속편, 온도 설정 각도)",
+  "angle": "높은 온도로만 돌리면 겉만 타고 속은 덜 익는 손해, 두꺼운 음식은 온도 낮추고 시간 늘리기",
+  "category": "살림템·가전",
+  "subject": "에어프라이어",
+  "hooks": [
+    "에어프라이어 온도 맨날 이렇게 맞췄어... (9/10)",
+    "에어프라이어 돌리다가 나 뭐 한 거지? (7/10)",
+    "얘들아 에어프라이어 온도 이거 나만 몰랐어? (6/10)",
+    "에어프라이어 200도가 제일 빠른 줄 알았는데..? (7/10)",
+    "에어프라이어 만두 겉은 탔는데 속이 차가운 거 실화..? (8/10)"
+  ],
+  "text": "에어프라이어 온도 맨날 이렇게 맞췄어...\n뭘 넣든 무조건 200도ㅋㅋ\n근데 겉만 타고 속은 차가웠던 이유가 이거래\n두꺼운 건 온도 낮추고 시간을 늘려야 속까지 익는대\n난 이제 180도로 돌리고 중간에 한 번 뒤집어\n너넨 몇 도로 돌려..?",
+  "subject_en": "countertop basket-type air fryer with pull-out drawer and temperature dial (home kitchen air fryer, not a convection oven)",
+  "image_prompt": "A countertop basket-type air fryer with a pull-out drawer and temperature dial is clearly visible in the center of the frame. Casual phone snapshot in an ordinary Korean home kitchen, the drawer slightly pulled out showing frozen dumplings that are browned on the outside, a cluttered counter with a cutting board and a dish towel nearby, slightly tilted angle, warm indoor ceiling light, unpolished everyday feel, no people faces, no text, no logos.",
+  "photo_query": "basket air fryer dial",
+  "product_keyword": "에어프라이어",
+  "benchmark_note": "내 계정 최고 글 '세탁기 온도 버튼 30년 동안 이렇게 눌렀어…'와 무선청소기 세기 글의 첫 줄 실수 고백+말줄임표, 5~6줄 끊기, '너넨 몇 도로~..?' 각자 답 다른 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "리빙웰 스텐 에어프라이어 대용량 16리터 AF16, 블랙, AF16",
+      "price": 149000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1730725229&itemId=2946066162&vendorItemId=70934600852&traceid=V0-153-eb73d93fbaa819c7&clickBeacon=8c044fb0-e5ff-11f1-a18e-b5fc8751d2c8%7E3&requestid=20261122080155283070401142&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/60J5qhovNO6j5Gtm63VDMvl0LA17g1zodAG6-kSU9hsCzY8d4dAZxQ5rbdq2ywPHDQ2FuPnO6IU50_wL7J_B-G42FoxvsNrn1Z30K2MatXvwKV1Ob0WuA67IZMjzlEJX3ANkB98CR0nWwhcvqyHP_ckjDOm2jjllkjqgy-somOmvQ1uvK3NhjcPAgAC-pLUjstzt7zz6XqLmF8qd44z_4QYf6s7h4T_r2AfsUWeJK7_jP5IbIIXqizx6-2sk2__k5M7RDPYft4fhPeXkCSbWQesqGP8eLa116cekIz-6my-q_DWeDu8UdDma-QDjS_2FQs77kKcYI5h3tMads8qDJNPGX8MIGqCFaCcL5-gwVoBKRbA6BSyXghcDQFGNDbIiAwafeq3Db5FMs7ZYREkuHAU31mgm96TRGrqm7RLortsMG7TyCZiWMyzrHGkNxf3ksJfgBsBAk_PVgQ_VBZ1saUnIogpGnZIVxRjX4TNd-qg75RLG591nFXt6eP1KGxPu0ePruf8bdhMi04sA4UlkxoNGV0aQxD0PBLik7fGuxAXXivbEF3WjmZeTyKF2S7z1Z1LJj4p5dXlp"
+    },
+    {
+      "name": "리빙웰 스텐 에어프라이어 대용량 16리터 AF16, 화이트, AF16",
+      "price": 149000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1730725229&itemId=2946066163&vendorItemId=70934600865&traceid=V0-153-eb73d93fbaa819c7&clickBeacon=8c044fb0-e5ff-11f1-8efb-4b00443d0536%7E3&requestid=20261122080155283070401142&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/dyzHHlVo6jBhFcbxd767atwxtb5wzZ5-aGCu9bc2o-3d0F0MWTANfm7VL8ZnoJ9Hf4ZSXgL0SxXoA6-FkbjA5MKAyKifnizzfV0KZqgINBGxVEC6yp_S3pDwXV7zOjhpy1UROcHyElJALspJ41IPVq85RSIHT9OzS55FStpPDfgmXjVXFCC4peM3BQSngNRsco4Y6a561v2T6gYHci-V6rb3RbbOuau7L_8u1uOGMv01KlQOM_T7WzWpt3kJoVr-PYn9MmP5byOOYeFv87cS6JA1VT_NSxxfYdiE_guOlUMf9XK04BdTIzGPlC55Fka5kfr3VMmqJDRVH_Xif91Kzt533PspMlrtqMK7PK8aXFDc1fWO8cBGGn592b6fB3VaQViDuN_oBvBI0uIpq62XBwxVgjVIeoumQu2JIFPg0dosljhH6eW6a5nezEJdti-96duFHO1QTfgubvpxyIG9oRdb5qWd8SSXV1A-h30oCUVr24zpOQ0JSa7ppLefJI9dtPPL8SJHhCDk3l5JvCcUVK4bQVWOvGA="
+    },
+    {
+      "name": "루미닉 대용량 보이는 에어프라이어 5L",
+      "price": 39800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9648198897&itemId=28835272701&vendorItemId=96031438474&traceid=V0-153-27e0b93a7e438ab6&requestid=20261122080155283070401142&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/tTycZaTH0wcTS7N9tf9SgUbvEACHrVpMqgGM9QX-htiuAST4yO8yVDi1ElsJ_s3PgWAx_10qxriA-QwZNTho58LRqkv1w7JftJVvcsMey5uXnKQy0EpZ6uMUOkFe3XTEZqY5xsoMJjSbhLzbI76X6MGvP4T2tdGyWMpGK23bPzgcm7_m0sF3JvKRGSTMKPk-j4FdBV0D05LKmL0m8fS9LgZv8rwhrWBL5SIU_aiYd0ExPM3oissXd761KQ4DxKKbbITRbINHSbdJVs-_jKHI1DbfXi84TbXyrOrpQk65Dom9y9C1DPH53KVQkU66xv9HbpHrakmt-pkxulAMn16TrmTR11YK_Og3j3deOuGW3PbIj8f4BqZJ6mjelprwtZ9wWu_E1pFuu2WDFJzR7a0j3NaLcO_h07ySLpVcfPS-i-P6qFFaHSnpM8YKQuK9F-7bfz6LxpLqDnkE8JroLpa9pO-Ahd3rlPhLC8OgiDQY7hY0DNfSaj3JmnBYkMprpLEa2VPKqA96efyDKWHo19U0gy-u"
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Khalil mahmoud) · ⚠️ 검수 불일치: 사진에 '철망 바구니에 담긴 튀김 음식(어니언링, 팔라펠, 만두튀김)과 소스'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "coupang",
+  "message": {
+    "message_id": 364,
+    "has_photo": true
+  }
+}
