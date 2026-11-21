@@ -1,0 +1,53 @@
+{
+  "id": "20261121-1800",
+  "created_at": "2026-11-21T18:00:50.050211+09:00",
+  "publish_at": "2026-11-21T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑 끼고 끓는 물·뜨거운 냄비 잡는 습관 말고 — 수세미·행주 아닌 '실리콘 주걱' 아닌 → 스펀지 수세미를 전자레인지에 돌려 소독하는 습관 대신, '설거지 후 싱크대 위 칼꽂이' 아닌 '칼라 스펀지' 아닌 '와인잔 아닌 머그컵 바닥 물때'… → 텀블러 빨대 세척솔 없이 물만 헹구는 습관",
+  "angle": "텀블러 빨대를 물로만 헹구면 안쪽에 물때·곰팡이가 남는데, 1,000원대 빨대솔 하나면 끝난다는 점",
+  "category": "청소·세탁·정리",
+  "subject": "텀블러 빨대",
+  "hooks": [
+    "텀블러 빨대 물로만 헹구다가 나 뭐 한 거지?.. (9/10)",
+    "텀블러 빨대 30년 살림에 이렇게 씻고 있었어... (8/10)",
+    "얘들아 와, 텀블러 빨대 안에 이게 있었어? (7/10)",
+    "텀블러 빨대 끝에 검은 점 원래 무늬인 줄..? (8/10)",
+    "텀블러 빨대 불빛에 비춰 본 적 있어? (7/10)"
+  ],
+  "text": "텀블러 빨대 물로만 헹구다가 나 뭐 한 거지?..\n불빛에 비춰 봤는데 안쪽에 거뭇한 게ㅋㅋ\n물만 흘리면 안에 막이 그대로 남는대\n난 이제 1,000원짜리 빨대솔로 매번 3번 쑥쑥 밀어\n너네 빨대 그냥 헹구고 끝이지..?",
+  "subject_en": "reusable plastic tumbler drinking straw (detachable straw from a cold-drink tumbler) held up to light",
+  "image_prompt": "A reusable plastic tumbler drinking straw clearly visible in the center of the frame, held up against a kitchen window light so faint dark residue inside shows. Casual phone snapshot taken at home over a cluttered sink, slightly tilted angle, a plastic tumbler with lid and a small straw cleaning brush beside it on a wet counter, plain everyday lighting, no faces, no text, no logos.",
+  "photo_query": "tumbler straw cleaning brush",
+  "product_keyword": "빨대 세척솔",
+  "benchmark_note": "벤치마킹 4만 조회 글의 '나 뭐 한 거지?' 셀프디스 열린 고리와 내 글 '이렇게 두고 있었어...'식 5줄 구조·'너네 ~지..?' 경험 질문 마무리를 가져옴",
+  "products": [
+    {
+      "name": "에스미르 빨대 세척솔 2종 세트 텀블러용 빨대청소솔 굵은솔 얇은솔 세척브러쉬, 단일색상, 3개",
+      "price": 15900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9565790584&itemId=28548478549&vendorItemId=95502461346&traceid=V0-153-ecff123b7c681223&clickBeacon=1925ef00-e58a-11f1-a770-81d19cddfde8%7E3&requestid=20261121180111466030511047&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/XzOFxNDR05Js0AEmX8YMgsKI5RjYy-2VT5kteZxio0guDZ4hDKoG3jisP5xQVn01WOBf4ysgdKM4pUZKiEFoxpC8Ai9g_jHGfKcCySBuh6WCMF_O2HDGamHH3Cre5XZ42weZKQ2O_5ciPPANm-0OZXsbjPU48JRlIFnYfwQ0p3WeyhaPFBvllMHFfyQzmS-Yr_9SDgt2qmldomM-xP2yUbHMfdgF1qfk9YtDu-8C03-uL5eDBGHwbxI5Erq7xooRqoteFSgaEHKPxdEm2Nkr5hEyyQEUeDUcSJoBeKvz1_KQPyKbyru1E1qDG9cknZB9goQLZHr-WwRuIUifKFIvY26LU0UMQGxSLmDvK1BdBLvFigvS8EuV8iAivQyYE4CE8cQyLAySMys3PuNsh9L1DxhqitIICZXRl7G_fUe80i4iu0DD0bThAongCpQQxdjeAjA9SkdbRMKQe3c-rs29bRnOalEGwHZ7ilmdynaJWGq-WXMh_mcmfbMcpOWst3rK18PTcopLNiBMvUq7zFdKXqOk46S7UcY="
+    },
+    {
+      "name": "일상채움 30cm 긴 빨대도 손쉽게 34cm 실리콘 빨대 세척솔, 핑크+블루, 2개",
+      "price": 11900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9095181391&itemId=26731633016&vendorItemId=93703031904&traceid=V0-153-33919b760761d708&clickBeacon=19261610-e58a-11f1-8c9a-347f8c76cfa9%7E3&requestid=20261121180111466030511047&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/n2VbpByWTrg3ZR6enwwFbFWsYRYYZJnYhKEq4LgtBMx6X4U2AYKLCW05nbvT7lY-Oads4iiWLPZYEU9-7TeukhMojQh_tpBT9zz24vurKEjyzrTx-mQPzfjYyqzFRPtsNi_mlsXTg43CJR018GfSohOaCYzreuwbHlRfsOpw4L43q7e1oe2uXt_geuiTC-TkkSlLeA9cPlsGCuL6KLffSAuzzHQ7ILdkDFygQJ7J6Q9CsUOKqpKaaOFog-4fisO596bukVTKVBx2zoRI8TAzrnvXnaA_h7cuspTLN34_TXiCy1lBJla4hfpwzywkDKCeYOYfMY4g4z0crlP04svWo87MI3NRcs73djIItk599677T7cSLqkBBHOrDOPv6GE4sV3_JihtUxp9gP299RlmujG8T5H3oQB5kiNPirXp7YZU_4XBXGo31ESk2U7cb4Rjc7XjsTRH8UJ37GPk_0Lkh9ADkK5gl7Bg3YzdUtKtEk_Bbv92dRgx51drB6uyMlzNiw03xxnElVLY8TP51E6vSwf3n94bn_gEMvpGW_3mP0TY_nwaQfOFwGVArTE="
+    },
+    {
+      "name": "아윤 30cm 긴 빨대도 한번에 쓱싹 32cm 실리콘 빨대 세척솔",
+      "price": 7200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9622296926&itemId=28734221930&vendorItemId=95673926528&traceid=V0-153-bccf0396e44b3e8d&requestid=20261121180111466030511047&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/AxlQUiawIWh8Gi3qAyHKRfcV3BhnxLM0LEmRPvv_Hm_9AfXBuc-gBuJhfpouqkJzPPlTeUMQh8q0TJjr7Iu6uDARYSPXochwLkUkeahSHE1xAX3dhNBwV8fTY1g3E0pj_ILbYlAzpA88HzpZqteV6EI6j1Wd07qa3YzbyI1SQL72iqdxZ37V4mirsZsOionalg6AIi5Jq3ZGBBZ5d0veIgzUs-UgAL8TbqO697-d3xVocDUPfbI9rOZaFvlPav_TKJg5PeMkkjvM5A_0UORbqmZEG3H-z8yFLDr3Z416MC2zPsYAqgwUxpEOlXKsb1G-jZxcTfYEV5GpcqNhblYhRuV4P4ceDQOvvepikEjksqqfv-Ymxc8m61vClxKPh5iLBPHkUgyO1ftAidcr9YMd33YO4Q6jZ3UKvnlliXLOf9ol1ZHnVJYoczHRUHJQI_NJWoUnpiTWvvN55-xWmKA1TNecnKt9S4BrHRMgCeJ2kdydcg84TBi-TwBBT-2XWlWsKp7UINBkCFdZZAWtTyk69TNTgfGxCAKR68v9AUqmrBtJAfHC"
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Elle Kwee) · ⚠️ 검수 불일치: 사진에 '아이스 커피가 담긴 유리잔에 꽂힌 스테인리스 금속 빨대'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "coupang",
+  "message": {
+    "message_id": 360,
+    "has_photo": true
+  }
+}
