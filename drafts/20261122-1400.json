@@ -1,0 +1,53 @@
+{
+  "id": "20261122-1400",
+  "created_at": "2026-11-22T14:00:53.803569+09:00",
+  "publish_at": "2026-11-22T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치냉장고 김치통을 꽉 안 채우고 반만 담아 두는 습관",
+  "angle": "김치통에 김치가 줄어도 그대로 두면 빈 공간 공기 때문에 빨리 시어지는 손해",
+  "category": "주방",
+  "subject": "김치통",
+  "hooks": [
+    "김치통 30년 동안 이렇게 두고 있었어... (9/10)",
+    "김치통 열었다가 나 뭐 한 거지? (8/10)",
+    "얘들아 김치통 반 남았을 때 이러면 손해였어? (7/10)",
+    "김치 맨날 시어지길래 김치냉장고 고장인 줄... (8/10)",
+    "김치통 뚜껑만 잘 닫으면 되는 줄 알았는데..? (7/10)"
+  ],
+  "text": "김치통 30년 동안 이렇게 두고 있었어...\n먹다 반 남아도 큰 통 그대로 김치냉장고에ㅋㅋ\n근데 빈 공간 공기 때문에 더 빨리 시어진대\n난 이제 반 넘게 비면 작은 통에 옮기고 위에 비닐 덮어 꾹 눌러\n너네 남은 김치 큰 통 그대로 둬..?",
+  "subject_en": "plastic kimchi storage container (rectangular food container with lid) half-filled with kimchi",
+  "image_prompt": "A plastic kimchi storage container half-filled with red napa cabbage kimchi sits clearly in the center of the frame, lid removed beside it, on a kitchen counter next to an open kimchi refrigerator drawer. Casual smartphone photo taken at home, slightly tilted angle, ordinary indoor lighting, a bit cluttered background, no people, no text, no logos.",
+  "photo_query": "kimchi storage container",
+  "product_keyword": "김치통 소형 밀폐용기",
+  "benchmark_note": "내 글 상위 '○○ 30년 동안 이렇게 두고 있었어...' 첫 줄+ㅋㅋ 셀프디스+'너네 ~둬..?' 질문 형식을 가져오고, 낮았던 글처럼 정답 문장을 둘째 줄부터 늘어놓는 건 피함",
+  "products": [
+    {
+      "name": "나누담 클래식 음식보관 밀폐용기, 3개, 1.1L",
+      "price": 11100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8185285656&itemId=17806999259&vendorItemId=89252013993&traceid=V0-153-69aba6eb4ad2f4e7&clickBeacon=be1b1d30-e631-11f1-b29c-5b439c632085%7E3&requestid=20261122140114160239506745&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/yO9tuccXn28FmiwdyBU7S2DyL9CjXgsjlROzR-_ngLIz2O75fK7HGx61LetLRri2Qj2coTl_Zh41oOAIutnM7bfhXG2y3-cQ_OeldO84eXvEYR2G6PxoVvB9lNz9djMmwDn0V7k_HhoGpsR5DTf2fdvL3Kty65vZujtKsxwgkujuwKV3TXfZkeP5mM3Vl40v-0WhCWI59XMyxs_k3dhex08YaN03J5B_mbf54HY_i8Pq4R0wCDW-rfgzAsQYzQlcMCjkDKo455uyymjXMMJ34D1fF9K632KOTkbOxcNIbUgO6hdUaGkmY5k5kPg5IB3EVHrT8ObCDSFLuv-8_N295Z_DWH_tzsT-Y-XmZSp7XryNEfmY9l7TTfBAg1XryZlNqthPlXnWBbE4Sj8Zd7kRGYsKdbzp10kAI7eF5MKbtssuxpacMjLoJp84qUlmm1ZJ0K8Os3GQZx4zzhZFDK2FGgMXvVLX9cksUSwfGYpzPtDGLJP8VcfjUhiaDv8v0srplm-NYosHh13VC6MDCNl7ZpU30GsPueNibg=="
+    },
+    {
+      "name": "키친아트 스텐304 프리미오1 전해 무연마 김치통 미니",
+      "price": 16900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8441915317&itemId=24040994886&vendorItemId=91061225546&traceid=V0-153-627e8831dc436a30&requestid=20261122140114160239506745&token=31850C%7CMIXED&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/XkJ1pqbrpFB_B4S-XoPlZK1fv8urbudGPB1FTVFggjlLBY8Pa4-CE6dVW6XNixjJrkNMZlfhO9bnJ9Yws0L561RF1oINUD0ydvgSZhbHyPvw6OghtLb0KV90lJjJElLgqlsJDBJFYY4sFxYJ6VtVS7TzJFIA9Uj9P7Ew64yaaUvEDdpIpFUxkx4fEcDmTiaklFpoZg4VFG_4qJsUDiDPHlIBUKS0iXaJnXYpdNbsyr-E-Z4wLvIXgM0Lu0_OyVY6R-uv-ErhZKYiU2mi4WLHPqzYpI5-LJ8np08PbeOZKh020zg7cOIkGBhAC37BpOPQAtDAPhcK0uK-9mwAPzWG1b5L1Am_8pEZtpXyHNFGM2xaYVLQQvnwcloC06YzktfrYrYcr6sEB_U2NQIFjLFZdqBvMezvKs0LW-fqR1gAXPWIzB9PP13zK3Ao6FDbkW6LHyJP4ev196OHKfj6K8g6Bwv4L6rJZ1wUb5GTVpG4ZW828XfwwlBlZsKsK9JulihQQR8K0ve0Zceh0j_joBa1SAuhAQ=="
+    },
+    {
+      "name": "까사베니 연마제 없는 스테인레스 김치통",
+      "price": 14100.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8220619283&itemId=23626475492&vendorItemId=90651996674&traceid=V0-153-799127a47b662d41&requestid=20261122140114160239506745&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/3e_hDIMb1xwBZt4s3Vfr4Bkq4nGKKGLfUC8Xx0rPATHctnbdlGtYGBugUmf_pVa4-h4_j9WO5zD2P7C2ptnwVGfk8O3SsC8DlIuXF8ww7wVL4Xm20wR_q3DAWQwwl56SxpoPlVUtr8BJTXKAUzobzI1Fi8Pv49oMovqpZeoiBfQjOAKWTJhInsf5M-t-0PUINS-DF_nEkoa9RxeBA2OicdvJokZMSetdq40yyBLzihQ-6WHgHnzZWZSp_aFAELbF2ff1rUOUjzwna4Q_GRzwQIbMt8DP6nigNLK71Xwo0f9Zbbob-KL8PafxD39-2rPWCCdg2nsEpfESbPoMXMYJPozXMMtAbCqS46nHHr_JR4SlBNjM62_D4CVTXm3XeCdCl0G2ZMwpZdJQMZ-XSL6tTWLwZC9m0bQny_W2zDVp837gQSNH5A_TFuYcX_VhPZjBex9J7uJt18QCxM2KiHI3O8BBJNcUGiOmOEshYGldEAFO-bwX-DLrkW5f5pKnpQ0vaVgXMYmfluzidJ6MIltTVGok_-k="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Ibrahim Plastic Industry ( IPI )) · ⚠️ 검수 불일치: 사진에 '뚜껑이 열린 빈 빨간색 원형 플라스틱 용기'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 366,
+    "has_photo": true
+  }
+}
