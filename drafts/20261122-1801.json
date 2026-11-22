@@ -1,0 +1,53 @@
+{
+  "id": "20261122-1801",
+  "created_at": "2026-11-22T18:01:31.652781+09:00",
+  "publish_at": "2026-11-22T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉동실에 얼린 밥을 비닐랩째 전자레인지 대신 — 밀폐용기 아닌 '세탁기 아닌' → 실리콘 냄비받침 말고, 뚝배기를 센불에 바로 올리는 습관",
+  "angle": "뚝배기를 찬 상태로 센불에 바로 올리면 금 가기 쉬운데, 처음엔 약불로 데우는 걸 몰랐던 손해",
+  "category": "주방",
+  "subject": "뚝배기",
+  "hooks": [
+    "뚝배기 30년 쓰면서 이러고 있었어... (8/10)",
+    "뚝배기 쩍 소리 났을 때 나 뭐 한 거지? (9/10)",
+    "얘들아 뚝배기 금 가는 게 뚝배기 탓이 아니었어? (7/10)",
+    "뚝배기 바닥 금 간 거 원래 싸구려라 그런 줄 알았는데..? (8/10)",
+    "뚝배기 찌개 끓이다 식탁이 국물 바다 됐어... (8/10)"
+  ],
+  "text": "뚝배기 찌개 끓이다 쩍 소리 났어...\n바닥 금 간 거 싸구려라 그런 줄ㅋㅋ\n근데 찬 뚝배기 바로 센불 올리면 급하게 달궈져 잘 간대\n난 이제 약불로 3~5분 데운 다음 불 올려\n너네도 냉장고에서 꺼내 바로 올려..?",
+  "subject_en": "Korean earthenware ttukbaegi clay pot (small black stone-like stew pot) on a gas stove burner",
+  "image_prompt": "A Korean black earthenware ttukbaegi clay pot sits clearly in the center of the frame on a home gas stove burner with a low blue flame, a little doenjang stew inside. Slightly tilted amateur phone snapshot taken in an ordinary apartment kitchen, cluttered counter edge visible, dull overhead light, no styling, no people, no text, no logos.",
+  "photo_query": "korean ttukbaegi pot",
+  "product_keyword": "뚝배기",
+  "benchmark_note": "내 글 '김 30년 동안 이렇게…' 형식(첫 줄 말줄임표, 둘째 줄 셀프 디스ㅋㅋ, 셋째 이유·넷째 숫자 경험, 마지막 '너네 ~둬..?')과 짜장면 글의 '나 뭐 한 거지' 실수담 감정을 가져옴",
+  "products": [
+    {
+      "name": "비자트 인덕션 세라믹 가마솥, 아이보리 + 마블, 18cm, 1개",
+      "price": 38110,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9483264927&itemId=28375943021&vendorItemId=95328195233&traceid=V0-153-04c9d6b995f88efe&clickBeacon=60451450-e653-11f1-9967-8103a0c5e650%7E3&requestid=20261122180159672233639643&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/NVIqf39PbfbduSFVNZkUc2dsJuhTjTKf6KWXttrCyiQ2BOxAsLQcsBx6eTEIvj7lLpiGS3BahIrOkBbhxV9yzN4-MCZ_dpO4QBs9Idf0cLHG1ic4oUqtk9a_iNbFsvpAKQe9WtP5I2nX_adCSDWvdvcrLT8TIN6yZT3XFveL2OCgJACHQq5xSw18_IFvDS_CSzr04WdkDwLwDR9DXs-f387gobIkstK5GDGbdvZEdjvsQdTF6-eE0ThStPijPyF3MjTPlJUi7DEKYCmq3Ojs4FexRdX_m81_7CqpJbp35vDkDUMOVh6ugdA7c3PI7odcLaZG595epE03zG2U_yojRTKXkGzcYy4C-PDyFzvOYpcCsSN9ukJU6F-gHblGa4S5Li19rSFc7otAa99444GM8cTCh1Xj2yboHV9mvtDqMgkvbtx591Rva3uRUg1pLS58_sw0sWJeX0IwA_cd_SUrGipPknV-WyOYhiSY5hih2E_9uTG3r3UOyNB_7MhKn5UbcY1wHkpC"
+    },
+    {
+      "name": "귀월미 인덕션 뚝배기 가마솥 화이트, 1개, 18cm",
+      "price": 38500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9302262325&itemId=27557470467&vendorItemId=94521591018&traceid=V0-153-1571534f1667f104&clickBeacon=60451450-e653-11f1-98b9-90868b53efaf%7E3&requestid=20261122180159672233639643&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/fyn-Helg7x-TSYyrf99fsSnZ7Zi5VWSrJRIfTC4Y2CSBxvZuZ8Qtwz4Viutq84w6mWOMKIalAHZjhbUkr8aimAvC0h55ICFt_YhLIbbAbw-Qh7BgPEDBBu3d71WMdVVxm771HVwWDGDed3DEAhuDk0y8YBVuKGH2Fj1okMvKMvKlAkTWbibQY4bnjjHybEnq30jHR0bEHMLzlUc7RrWCBdIGzt3pHIj_vJjZAQcI0aqyvZYfZy0GxEG5y8mb9UyxqjW2znCbEh1WpPVlrL6ItzLFzhY5I604ICT3FcUJ9LM66I1HKpSOLp_vXQZwDK0TreuLUi5iJynlMdbVjd8peSTOSuEgbvjBJCLO2buPH7MXFGqbSPVjtTSfEE5NCQzsXc287h1lQsDPlzoZqOT2L_aeo7ZXJCIKBTCIJoQ_Ex5VVvz7scN4G9hW-Qr5uKVeNsKq_3jCYdHTcjERQ0zKs50H2jkwV38mREI8yD4zFAqDiyFPvKceZ2tH8CETAL4fvNYtC8KNMXaC6KjHF4D3IJbQ5IC83A=="
+    },
+    {
+      "name": "해피정 진뚝배기 직화 설렁탕기A 2호 + 멜라민 받침 세트",
+      "price": 7470,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6654125875&itemId=24832890804&vendorItemId=82476929785&traceid=V0-153-08d739679eaf6854&requestid=20261122180159672233639643&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/Xtzasw7pZsJ4MQGXXjcC0F4IaQcFEYiFmSBNMOzRSB4zq8AdLElVAa6lMYe9LkRIUvVzRBpeufkDRLCfO_37rfGrRGA6ZobWQ3UW8NXxPpH3VN2p8tPGmLCLE68FVBP0Hi79RS2GdTC6vOpW-1mdqrdRaH71Ya5UeWWzP6Ni-a4OXQRJB0eG2epcQLIr6M5b77a5j9SRq_yik1f8v_saPllswC75ANPtLpb7-bX7dJ19GnNunlqvV9v6EH8Xi27SNjPNh4S_Hq_5qVF1XSES6yQ-ApkC5rEkLmPHiPNHamW9i9dzppz6qBuMXsC9dcaQjZdpcqkAG1uROBxjUSlTFqEysrGXmwHXk4FpHJMiO52yjadPCOxmpYfEKCl5CXWOnfgvXpcszhTlNd5KRqbqY59THdLIpXPBoPJpvMMq5Mfkq5SNuufnyeopDXkd6vKP7EnzsSj9i49ux6QKnB9YkFg2vimccVqVyzmqd4NazdUFyXFtWF06cnXeCtdeFLqI8DZ0qJI0T2ONYzg8SGUPXjugpMsbEjatcp5t1WRi7VDLul2tyX34571xvYo="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Peps Silvestro) · ⚠️ 검수 불일치: 사진에 '한식 상차림 (해물파전, 김치전, 만두, 라면, 떡볶이 등) 위에서 내려다본 사진'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "coupang",
+  "message": {
+    "message_id": 367,
+    "has_photo": true
+  }
+}
