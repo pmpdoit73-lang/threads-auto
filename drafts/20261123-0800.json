@@ -1,0 +1,53 @@
+{
+  "id": "20261123-0800",
+  "created_at": "2026-11-23T08:00:53.287698+09:00",
+  "publish_at": "2026-11-23T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 세탁기 섬유유연제 투입량을 늘 넉넉히 넣는 습관 (세탁기 온도 글 후속편, 섬유유연제 각도)",
+  "angle": "섬유유연제 많이 넣을수록 향·부드러움 좋아진다는 오해, 수건 흡수력 떨어지고 세제통 잔여물 생기는 손해",
+  "category": "청소·세탁·정리",
+  "subject": "섬유유연제",
+  "hooks": [
+    "섬유유연제 30년 동안 이렇게 부었어... (9/10)",
+    "세탁기 섬유유연제 칸 보다가 나 뭐 한 거지? (8/10)",
+    "얘들아 섬유유연제 뚜껑에 이런 눈금이 있었어? (7/10)",
+    "섬유유연제 많이 넣을수록 좋은 거 아니었어..? (6/10)",
+    "수건이 물을 안 먹는 이유가 섬유유연제였다고..? (5/10)"
+  ],
+  "text": "섬유유연제 30년 동안 이렇게 부었어...\n향 좋으라고 뚜껑 가득 콸콸ㅋㅋ\n근데 많이 넣으면 수건이 물을 덜 먹고 잔여물만 남는대\n난 이제 뚜껑 안쪽 눈금 선까지만, 수건은 아예 빼\n너넨 유연제 얼마나 부어..?",
+  "subject_en": "fabric softener bottle with its measuring cap filled with blue liquid softener, next to a washing machine detergent drawer",
+  "image_prompt": "A fabric softener bottle with its measuring cap filled with blue liquid softener is clearly visible in the center of the frame. Casual phone snapshot taken at home in a small Korean laundry corner, the cap resting on top of a white washing machine with the detergent drawer slightly pulled out, a folded towel nearby, slightly tilted angle, dim everyday indoor lighting, ordinary cluttered feel, no people, no faces, no text, no logos.",
+  "photo_query": "fabric softener cap",
+  "product_keyword": "섬유유연제",
+  "benchmark_note": "내 최고 글 '30년 동안 이렇게 했어...' 실수담 첫 줄+ㅋㅋ 둘째 줄+'난 이제'+사람마다 답 다른 '얼마나 부어..?' 질문 형식",
+  "products": [
+    {
+      "name": "허글리 실내건조 섬유유연제 코튼캔디 리필, 4개, 2.5L",
+      "price": 31900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9521871504&itemId=28386255709&vendorItemId=95304167777&traceid=V0-153-2947b031eb92069f&clickBeacon=9c973940-e6c8-11f1-91ed-96381e927483%7E3&requestid=20261123080111958189521554&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/YT5BGU557XjGTrtAYaj9YI0U-kgqzqXWpJk5q6ZxIhmYeTiStEgc7CQt8nWXKLj-6W-zFtSw9pTiXetJ5nZ6JD5k65pYPQrqSyqObqnHyJvXav-9eJ81RSkzOejHHjyTIOPkzLsLAjZLWcfKtoWMtOcMez1u7mcNPRRYKAxesrqI-Mv3pNgQO5RR5-YRoxZUCQGPbD74UPjkoQCFAClVfz1kSdhubF7rjhk9yDzR2DScZkQfKOiUWi6zZbw1zDiY7H7U7dsNNs-serUprsKhZ-5Tiks-sKZl_4IQ6i-KmCCnQx0WY6RBhGCKwznNFKClg3CCX1-k-lrjM-afPKngC0ZexmdmneS_Nr7xBt-bIMSkyE88sT4jRS_qRHF2FY5Ffm1o_x_a3eSILSZfoEoFQU-7G7gwhBigMlKiMiSddgrwebWJhMpVRae6KesjDxYM2UprunzSyGeLT8vFUCObGgPHj8DNSDauwJc4Tpx3qzcQAYeCOZnt_1WJJvVwZjkBTYHvfBF2m0Vbx1ZuUvuad21z8YU="
+    },
+    {
+      "name": "허글리 초고농축 섬유유연제 코튼캔디 리필, 3개, 2.5L",
+      "price": 25900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9430447039&itemId=28038218958&vendorItemId=94995194284&traceid=V0-153-d0ffa119a1acbf16&clickBeacon=9c973940-e6c8-11f1-b86a-fd021e515ec6%7E3&requestid=20261123080111958189521554&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/s9HPNSu0rgLrEQajs_F0sw-sqgh_9k61DC_OlBNyCkkD-3XRv35xmvvj8T85ncMJHuwGZRsl4gYFqRMmq5zUtC4UhZknIZhjMukZY5kUNWJPBuR4WTowqeI5PBTGSAykKGHS_LIM74blmSB09Ax2M7Md3124MTvcK1AGXpisCyJsJNeJYVfbdgYH1w6fL9-bzf-96nfKO9vhwrRzrC41sV67wY4gWfOSYVKX_Ll30F4Sxk9Ud0ppZErlvvIBMcvxWbZxPT9xT_z9biIU3YE1dUEcpdbzZ-fsF49UxDi6F-jsRxWI2STzaA5p_c-eFCtP7Z9lHpBSzWX8lvevTqrXMpI-HIAA-e8HLVpi2HVAGznEoZazg_bEGP_ZJiLhOoLYba1ysflByhTeJIv6nEQk07GBxMIMMtFyAJvVZiyucA5euEfUJW1ieBM4xl8HZmEbKBmBH2lY1Qf24aBqXNGcfG-418OaAgwO_sJpDljj3q9D9MvrGs6L5LBpE5-6VGWwJUYqF0eMpHJ1FrGlHGrNYpPVfGA2"
+    },
+    {
+      "name": "피죤 강력탈취 섬유유연제 핑크로즈 본품",
+      "price": 17640,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=142412365&itemId=6088507327&vendorItemId=3056632559&traceid=V0-153-72a4a71d73f4678a&requestid=20261123080111958189521554&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/DKaDI5Ws_e7whhsYDFCkLwOWETfCf0OQQ0CNN6RoPNHnRpVCjkKdS8T9PXzG8ZxrUIsljHMpl-7vqj1ICj7tMOBewf4MIfoVWm7o0ooV5KzGC9GuiyUy7juNtd7fHQHHGvEOzw8EN24M9pLlCDPiAxsIdtgoZ343PgxNZMs0w1kU8WMkZ_Wt_bOl8M4Yz3eSTg0Eo5KeK6vdaeshqMOxSqYdh_0DWM58LxeZzNoe4u7ahZCrnXqJLXgB_5U8Q8xNr5iKA2lms4K3R1W1O59kmiRBzkNvdU2EUJi_mQuzyz2oTXxSfoBr4vkLfgRR8Z8QTCtDCKEY4uyVTd6iwbRAJBMst0vB9-x21obtFc1eek9-fSbK5U-_MCJiApzBMD0A9SxV4ovWDzlawRfZ7hqHwEwD9JErZN95JMDQnMCXNpwa74QLcRntGjGdGPtn0oGvn9DJQoBI56SNjTSTX3OnSvCayTBh8z6VbCTSwQmRw3dkyRigh_sbZWpl-6oJXhWtE1BVXyckLmdxjycL_Xo6zw=="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Vilvah Store) · ⚠️ 검수 불일치: 사진에 '캘린듈라 베이비 바디버터 원형 틴 케이스(나무 도마 위, 꽃 장식)'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "coupang",
+  "message": {
+    "message_id": 370,
+    "has_photo": true
+  }
+}
