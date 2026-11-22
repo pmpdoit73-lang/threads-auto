@@ -2,7 +2,7 @@
   "id": "20261122-1801",
   "created_at": "2026-11-22T18:01:31.652781+09:00",
   "publish_at": "2026-11-22T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉동실에 얼린 밥을 비닐랩째 전자레인지 대신 — 밀폐용기 아닌 '세탁기 아닌' → 실리콘 냄비받침 말고, 뚝배기를 센불에 바로 올리는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 367,
     "has_photo": true
-  }
+  },
+  "threads_id": "18020193086987410",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgCwcJnm5EE",
+  "reply_id": "18119404288838096",
+  "published_at": "2026-11-22T21:01:31.747214+09:00"
 }
