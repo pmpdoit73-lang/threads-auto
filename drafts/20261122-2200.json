@@ -1,0 +1,53 @@
+{
+  "id": "20261122-2200",
+  "created_at": "2026-11-22T22:00:50.316133+09:00",
+  "publish_at": "2026-11-23T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 과탄산소다를 찬물에 풀어 쓰는 습관",
+  "angle": "과탄산소다는 찬물에선 잘 안 녹고 효과가 약해서, 찬물에 풀면 가루만 버리는 셈이라는 점",
+  "category": "청소·세탁·정리",
+  "subject": "과탄산소다",
+  "hooks": [
+    "과탄산소다 30년 동안 이렇게 풀었어... (9/10)",
+    "과탄산소다 담가놨는데 얼룩이 그대로...? (8/10)",
+    "얘들아, 과탄산소다 이렇게 쓰면 가루만 버리는 거래 (7/10)",
+    "과탄산소다 거품 나면 일하는 중인 줄 알았는데..? (8/10)",
+    "과탄산소다 풀다가 나 뭐 한 거지? (7/10)"
+  ],
+  "text": "과탄산소다 30년 동안 이렇게 풀었어...\n찬물 받아서 한 숟갈 넣고 휘휘ㅋㅋ\n근데 찬물에선 잘 안 녹아서 힘을 못 쓴대\n난 이제 40~60도 따뜻한 물에 풀어서 30분 담가\n너넨 무슨 물에 타..?",
+  "subject_en": "oxygen bleach powder (sodium percarbonate) white granules in a plastic scoop over a basin of water",
+  "image_prompt": "A scoop of white sodium percarbonate oxygen bleach powder granules is clearly visible in the center of the frame, held over a plastic laundry basin filled with water and a stained white towel. Casual smartphone photo taken at home in a small Korean bathroom, slightly tilted angle, uneven lighting from a ceiling lamp, tiled floor and a shower drain partly visible, a little spilled powder on the basin edge. Ordinary, unstaged, no people's faces, no text, no logos.",
+  "photo_query": "oxygen bleach powder",
+  "product_keyword": "과탄산소다",
+  "benchmark_note": "내 글 상위 '김·부침가루 30년 동안 이렇게 두고 있었어...' 셀프디스 첫 줄+말줄임표, 5줄 구성, '너넨 ~..?' 열린 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "위아홈 과탄산소다 대용량, 10kg, 1개",
+      "price": 27100,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6886004705&itemId=19342211410&vendorItemId=92308188964&traceid=V0-153-b1790301c57efcaf&clickBeacon=cf180a10-e674-11f1-9d06-0a86b4b5c33f%7E3&requestid=20261122220118959314853510&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/U0snK7Da_D_Ov-ArU7jUr90gbbHd4f7_jEPATsIKMjHJsUeBTcLY8qt9XGFbX5UynptwIFERTCEoH6dOoiFpMD34DgxI2DnLs057OfdoXureKc2FErPqB1eCqlry_PnALaIYxT3zdEZ3dwRO1-ZxMny2QC3bw5sODij16Bl0FvlyoIGBo6QGoDzI72tABwNqigP-KfDk_7PLHRkDLyAPmhkqsL4Z3Df5p6k9FC3QJKsrAgWqmM9jpSnYfLRePVuihshh4iYVNlpUbRyIAg81TCoTtcgsy2IkqE4z8xWfRSmoDmMptuOEzVAQPGHC0jMLR577ZKpMU3qj4tQ5nu1FjQR4cyIfQ5fNTcEHWs9REOHuVQysCkT6cmVTlDSG5rNxMceMDU8Gppu1UySEX9SRb8yLueunNXDkPjU-VcTEhza2FPbIwsK1764GWMgODEHpAohv513ZSSDDVf6Em4-MMwRvI-dGR5WeaarAoWkti7KhKjGrQIySHTau6IvBTtxdHYYSSJJqN-U="
+    },
+    {
+      "name": "아이브케이 과탄산소다 버킷형, 4kg, 1개",
+      "price": 14360,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8715194975&itemId=25311957333&vendorItemId=92307063068&traceid=V0-153-731ddc540042d662&clickBeacon=cf180a10-e674-11f1-b868-9b9b0f799026%7E3&requestid=20261122220118959314853510&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/23CiLCOEYWJryqq-237GbpkzG4aK5xNaXaX_bRHgeswj-Q4OyKLQg7xpyp03hQqDllOohwJtMRn1hQ4qK-ghQHBqOXDWXq7OHAE-ymYEpftViQoBSN8lklXRRMGUv11yWXzZbWfGJCPzsLlMloHNKtdFbI3moZSeO2WNPhfT93J5YTl0TLEsOLHiajHeS99cqi-CfW0mwT1TN8stN4TFsr02BwOtkkTwI6-frwTcDyIfdIMGDjnhYXEWcmcUF5Q-r_dke-OV4x5HFAQc0JuNxrALLpkBaYX5HDNRrCGcg--mf3RXtMmnKZPkUJoc88Dv-CavpABpEYiEm2jJhXqenKeYDrfAGWl65Q3k4arelaSf7gc2JQ3vXlPEW1A6NkYlA3s2D7o7yMW83AUcorke2ANKysbPyK8UTYRDmHnXWGzE3pF5sfW-NsidoInWFN1_WJJYgl5pmfKytQXwwxUV24HtsDT4lgtJsOUgTSj5EUW3p-pDM4I7Cfn41g_vCql7e9l2qGVGs4jpgtlQ7jMCI8dDK_0w"
+    },
+    {
+      "name": "레인보우샵 과탄산소다 프리미엄 산소계 표백제",
+      "price": 9900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6333551452&itemId=17748027176&vendorItemId=3146261533&traceid=V0-153-2a421bea187e0878&requestid=20261122220118959314853510&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/OmUAI_8g2GEia6TXOlX_Ec22klu1NLBIr7htX_TIF-9hTfq688l5UV8Jn2ofbs1icPIH8cBguHOdrDMTIHIHbSjhMgEs1Urbv9crBgzfwCCS1k6fl8gA3FCZdtHgqFGw-AXuyieDf_y4Eg9ujXrAbECCt62BuBA17LfhWzd3Q2GsuqmCSjHvmzF2Sr5yNK1X1PgeiaNOsnwudP7wQ0LJ8UwlqLzNlcZ36EPZa_fuIoKjoT34ytszToUlZG5vYom1EsNYlFUs32YW15Pzh2NErxFVIJg6CWj51Th4awC-Cb-723P380c_-38LkfWT3BMfCB-zPb4sRFMkeuZU5AZRKsmdPnr6c2iLWdBvsOdaRqxrouOLCS65hYfxYs9DBeDKiHiQd6LjtvyEUSvsAGg_fwiGl6CZ9_2ZxdBBo3GzK04P9hPCsBHslmXPnxgbLEl9foHBexCAD73MYEvE22gPieMKweMM28vLiaKCtg2BjO5hyBrnJJanXo5REEcbz9E5uoZP1D-ZODcr5uHrebfOY14g"
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Achi Murusidze) · ⚠️ 검수 불일치: 사진에 '야외 빨랫줄에 흰 빨래를 너는 두 여성과 라탄 빨래 바구니'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 369,
+    "has_photo": true
+  }
+}
