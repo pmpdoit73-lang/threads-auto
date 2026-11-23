@@ -1,0 +1,53 @@
+{
+  "id": "20261123-1801",
+  "created_at": "2026-11-23T18:01:00.111655+09:00",
+  "publish_at": "2026-11-23T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 샤워기 헤드 필터 안 갈고 몇 달씩 쓰는 습관 말고 — 빨래 건조대에 수건을 반 접어 겹쳐 너는 습관",
+  "angle": "수건을 건조대에 반 접어 겹쳐 널면 겹친 부분이 늦게 말라 쉰내가 나기 쉬운데, 한 칸 건너 널기·간격 두기로 줄일 수 있다는 점",
+  "category": "청소·세탁·정리",
+  "subject": "빨래 건조대",
+  "hooks": [
+    "빨래 건조대 30년 동안 이렇게 쓰고 있었어... (8/10)",
+    "빨래 건조대에 수건 널다가 나 뭐 한 거지? (9/10)",
+    "얘들아 빨래 건조대 칸이 그냥 있는 게 아니었어? (7/10)",
+    "빨래 건조대 수건 쉰내, 세제 탓인 줄 알았는데..? (8/10)",
+    "빨래 건조대 앞에서 남편 흉봤는데 내가 더했네... (7/10)"
+  ],
+  "text": "빨래 건조대에 수건 널다가 나 뭐 한 거지?\n자리 아끼려고 반 접어 다닥다닥ㅋㅋ\n근데 겹친 부분이 제일 늦게 말라서 쉰내가 거기서 난대\n난 이제 한 칸씩 건너 널고 접는 건 끝만 10cm 정도 내려\n너네도 수건 반 접어 널어..?",
+  "subject_en": "foldable indoor clothes drying rack (wing-type laundry airer) with towels hung on it",
+  "image_prompt": "A foldable indoor clothes drying rack (wing-type laundry airer) is clearly visible in the center of the frame, with several bath towels folded in half and hung tightly side by side on its bars. Casual phone snapshot taken in an ordinary Korean apartment living room near a balcony window, slightly tilted angle, plain daylight, a bit of clutter on the floor, no people, no text, no logos, not staged.",
+  "photo_query": "indoor clothes drying rack",
+  "product_keyword": "빨래건조대",
+  "benchmark_note": "조회 4만 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄 + 내 김·부침가루 글의 '난 이제 ~' 경험 말투와 '너네도 ~..?' 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "딤즈 확장형 이불건조대 튼튼한 빨래 스텐 걸이, 실버, 단순배송상품",
+      "price": 43900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7980422207&itemId=22139022487&vendorItemId=95892586900&traceid=V0-153-f1bda76d9fdc7257&clickBeacon=71a5d530-e71c-11f1-80a0-4cfa26f87f6e%7E3&requestid=20261123180117621249918460&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/YrM44eXRq6BLLc2lYt_3tDrPdLpJ90n7ZjPq4uk7baOC3IYOfwazE2sPo633KVRXrWHJV6lMkfePAH4v9gefVdLu519ZooQrhhVlQ6ouXwqsw_WWJDkTm7674FaCV0YPRbN_Y1FV6JE8fwd0drvXaertvZveAAGVp8kohogzgu85GZ4Grdd5vzM0uxJ6Ro8pREvPCXJWJUOTzw8lO2NKGloGDnaIHtpGdP1U00QbbcgXXI0iFEk8M1GuH5MjGso8w17VCQ9d-BNVfayvLaHyMRxQs0GXU3aDTLMyKkLnc-zscIAPG7j6oXbSFvRVVCn25RcRDHYvqEfRuKlF8GEw7IP3WSnbM5csdcDjv-6CBaf3wjpvADIkH3Stb8gH93ykoBzE_r6ipvUAW2aJtxBZ1A_dKCgshnTczyVH1trIAdK2VkNeMeSpwG_JJPW7HlSRrzOeDY3MB-GvgE9d1oasO0EconvrvMpvZKmC-xalghJsG5uGaEXN-K0Jvcuzx9crDZlj5LdJmKvX_up79kVvGKZOMmtbY9U="
+    },
+    {
+      "name": "New World 접이식 빨래 건조대 3단 이동식 실내 다기능 튼튼한 빨래건조대 170CM Y317B, 크림 화이트",
+      "price": 60000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9555566635&itemId=28512714710&vendorItemId=95175549528&traceid=V0-153-f1aee238815f9b4b&clickBeacon=71a5d530-e71c-11f1-90c2-6baf5e1c67ba%7E3&requestid=20261123180117621249918460&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/UfACUopczoI-tV4dUXBcJwS7_9vCPI3h9XPdbpXvHq3Dmhk2FISOGPTdOYHjMG_zWGfPR7ZiOCVchoy5mWolQKOX_IASrVrIetp2D-5nJszOMk42VUPZQV2ZF2PCXF1svPQkVwjqY8fYqKKhQFGI3AvWszviZQwViD1UaHwxOpqy1FhlmeNOji3z7do3yfDdEa7zFPT1NwMPePvUa9BsmR74IfVJA-eYZiMAIh9wF0FtoPNXMHGreHXIZtYqR8Hls4jykHHUgxim-izoxk86t_6u7GFVeGPZHQZBAPwivjr3n-7liq5TU6BeNG4lH6w3BZy81F-NnsqdxVGsKAN_LCRUWwJ35O33P1Y8cRCShJ1Y5x0TJmK9rCytVOq7X6jhsoi8hyv8QNlwn1dt9FGpsLNNuW-QZl1seJfB42zIx7_PNVbbbIwkpo2M0iRfDzSdHNvnYeGOpe_u7JuJmm-sTp66o02sJPOAXXJ-wHMDwuFUV_bf8DxK1Y-uyl6q7y2pKMyLFNIguXXcvhXWG3CxD5Sfh0rYY9XZ"
+    },
+    {
+      "name": "베이제 빨래건조대 이불건조대 스텐 길이조절 YJ24",
+      "price": 29250,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9690497141&itemId=28982213495&vendorItemId=95912770549&traceid=V0-153-c89bd3e03568407b&requestid=20261123180117621249918460&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/mnPzeDiYGegMxuzFmlifTsszR35y46VB62aEvTWO4ez_MPhfpBM4626bRy1__qF3JVCZe71PgVqt9SDG8UpnHSZMJ7kYtG-b40V7Z8uf7NndLgTINbvxpJhRjT3-7JIDNEmqoRQ2K1nNRW9DN0cKz67Txwf_AAyBNYTodSRbPqR1cNazXtFdNiYL2LQOQM0ZTVK0_JVEZD9idRLOx1q735cC9rDv5VKwnr0DymbQGYLrn8ouif6DFXnw5cpmUy8kZ4__SsuklGBonVhhO_8f1DK8R6AbX63vu0QMQm1BxtLrJ9nZbhLsac-x0X_45_dyD6d5xa0WJOHfuu6nKwMXTTLkyVDG77nCgWzGrWhqOj0oZIii_DomS-D5GJ7IXU7xrfLieg0JKHeIjDTnkfsCMgs8S-pN_d75ZI1A_kOUg7Gx2ow6LskrqWKDbjuBV06uofAK6Xp0BJfxvjgamC3YlLTwAsNwddGaIpR3NKT8Dbc3KfOUpmKLNq_6tc-spCVfNQA7DThWj10yuHL5XkVYIUSTa1aHZaTnel1WG66GxVurog=="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Tiarra Sorte) · ⚠️ 검수 불일치: 사진에 '성조기 앞의 검은색 행거(옷걸이 랙)와 빈 흰색 옷걸이들'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "coupang",
+  "message": {
+    "message_id": 374,
+    "has_photo": true
+  }
+}
