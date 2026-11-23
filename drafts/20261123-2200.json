@@ -2,7 +2,7 @@
   "id": "20261123-2200",
   "created_at": "2026-11-23T22:00:53.629411+09:00",
   "publish_at": "2026-11-24T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 얼음 정수기 아닌 — 고무장갑 아닌 → 세탁기 아닌 '빨래집게' 아닌 '지퍼백 아래 바닥 펴지는 거셋(스탠딩 바닥)' 대신 → 행주·수세미 말고 '전기그릴' 아닌 → 압력솥 아닌 '스텐 채반' 아닌 → 마늘 다지기(마늘 프레스) 안쪽 청소 핀 용도",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 376,
     "has_photo": true
-  }
+  },
+  "threads_id": "18607261609069583",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgGZ4-ACUTr",
+  "reply_id": "18435562831150044",
+  "published_at": "2026-11-24T07:01:24.668631+09:00"
 }
