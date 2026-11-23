@@ -1,0 +1,53 @@
+{
+  "id": "20261124-0800",
+  "created_at": "2026-11-24T08:00:52.987516+09:00",
+  "publish_at": "2026-11-24T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 전기밥솥 밥을 하루 넘게 보온으로 두는 습관 (세탁기 온도 글 후속편, 보온 시간 각도)",
+  "angle": "보온을 오래 두면 밥이 누레지고 냄새 나는데, 다들 끝까지 보온으로 버티는 손해 습관",
+  "category": "살림템·가전",
+  "subject": "전기밥솥",
+  "hooks": [
+    "전기밥솥 보온 30년 동안 이렇게 썼어... (9/10)",
+    "전기밥솥 보온 버튼 보다가 나 뭐 한 거지? (7/10)",
+    "얘들아 전기밥솥 보온에 시간 제한이 있었어? (6/10)",
+    "전기밥솥 보온은 하루 종일 둬도 되는 줄 알았는데..? (7/10)",
+    "전기밥솥 밥 누레지는 거 나만 몰랐던 이유 실화? (6/10)"
+  ],
+  "text": "전기밥솥 보온 30년 동안 이렇게 썼어...\n아침에 한 밥 다음 날 저녁까지 그냥 둠ㅋㅋ\n근데 보온 12시간 넘기면 밥 누레지고 냄새 난대\n난 이제 한 김 식혀 1공기씩 냉동, 2분 데워 먹어\n너넨 밥 보온 몇 시간까지 둬..?",
+  "subject_en": "Korean electric rice cooker (countertop pressure rice cooker with keep-warm mode, lid open showing cooked white rice inside)",
+  "image_prompt": "A Korean electric rice cooker sits clearly in the center of the frame with its lid open, showing slightly yellowed cooked white rice inside. Ordinary home kitchen counter with a rice paddle resting on the side, a few frozen rice portions in small containers nearby, casual slightly tilted phone snapshot, plain daylight from a window, cluttered everyday background, no people's faces, no text, no logos.",
+  "photo_query": "electric rice cooker rice",
+  "product_keyword": "밥 냉동 보관용기",
+  "benchmark_note": "내 계정 최고 글의 '[물건] 30년 동안 이렇게 썼어...' 셀프디스 첫 줄 + ㅋㅋ 실수 장면 + '난 이제' 숫자 공개 + '너넨 몇 시간까지 둬..?' 각자 답하는 질문 마무리 형식",
+  "products": [
+    {
+      "name": "네오플램 BPA FREE 내열유리 전자레인지 용기 냉동 밥보관용기 세트 360ML, 10개, 원형 360ml",
+      "price": 39990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9823637083&itemId=29422891838&vendorItemId=86249933910&traceid=V0-153-f0cee2c33ccd2e3c&clickBeacon=cc785b70-e791-11f1-a1be-62f2b9f9c561%7E3&requestid=20261124080121091070612500&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/5QBl4LhGYk6T43hP5dMGU-BCKrdkm2ve8Sn-pRnUa7o91RqkWfV1a-Xdm2n2P7vkwIyOhLJKq_lsAUoRHNjDtiaQgsGpsHeveegTwn16sWQVU2akz2uamPYqDGJsvtzoAlvqMQZztZz_KowB7CMS80VCYiTpSPiOvLHvjs3NqcIv7_Mkfc9xCJ4hbxE1U34fC5OjM2Al6nAGRJwQRFkXjcqjo1hHvHz0p8eylP3UG791LBP5OLhvKrg2rGTsFcfnM95cQRg8U0N1d7ellR6cDpDplRB4ClXDDbEOCfBXOnv8K6Jl1xqfthQGV-mfo3Op-G_et5dxHfhP1MJ3pL7sW7xHul0J5lNPgnOqRQQeNI5hBrXm0jSKnhb7L28qGxDKdsBje_dQD4nGvu6oJHc7skkAg4gQeQJ5D6rTIq52OnDXAHoPK5gFtkhaksgacJ7XDYshGhb9fwUJo4zMxUZMObCJvYC_Nfzk0o8pZGmsNaKJkbZ8154DZ8V6koKG2fpYPA0ZPkOB1D_oX90ZUFgU2n4bDYI1_cS9EQ=="
+    },
+    {
+      "name": "에코센스 히트락 올트라이탄 냉동밥 보관용기 전자레인지 컵밥 세트, 1세트, 컵밥 350ml 8개",
+      "price": 44900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9528488463&itemId=28413452040&vendorItemId=95364562711&traceid=V0-153-f0bb9f02f98e6189&clickBeacon=cc785b70-e791-11f1-81ec-fad2e7775c43%7E3&requestid=20261124080121091070612500&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/Vv_KudgG4XB6do-ZVmUxSmulocuhtRAfl2--e6NeWdHcG_T_jDGvg2OqWa3tw4vmk2FeGyWb-EViCCV9SFC8yKW-WLySCC9tIDDbhTLIsSlz5l2E8iXYtaJIrkN-68CnP9kBP271PrkAwEvvQ4MomO1sRGqCItIhY0vGKASu6aBjaYraROFkwz9jluCp5-iHGLt5fgWbv6YoEojcH4rBMPZ_xeh5wF00PQwASrYptyDqnWz_Cuoo3ypvkhP2NwVJEok1G8Av4VNPC7yWXDfA8Bd1-y8WUqBBLw8wHK3ZP8IqQJOMFdkt78r4-QwDRH0p_auydSBg_EeIRI0nedH8EhT3Htmd_im07GSf-h6KHhvYxeqMEDYe6Rdwd_2lApxvqa60YJJwMIBmTUQXbkM5ggVMCB7BB7gFH3rmOeb3TIxZvcnTXbnluxXu-EIIEtS5kwScxut9J3AjSrknKyNov_aueWBnPwouxHx8-EbKPtChrYU-oOMc_QDBP0MLxJi7D2_theZlXg3fBZ-Ehhe_El_Vf-yjAMhj"
+    },
+    {
+      "name": "뚝땁 냉동밥 보관용기 밥 소분 용기 450ml",
+      "price": 11900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9823688566&itemId=29423054011&vendorItemId=92043189239&traceid=V0-153-206b42dc5ae69d8a&requestid=20261124080121091070612500&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/HvA9AK1MHHurtsFUHlz7kX65r8HGJtFYCFf0S9z77HIXsZtS152NilXL932qLg21R4U7qE9sVZB9-wbvjphNLAh8aswKizVep0EDiNJ29z86ERSRa0Lo1JC5_6VxvgvodOv4s5vo5b8yPY5a6ZkarBLUj6JFzuMXOZA-0z9KDVnTX0pWH4dsN7-NzrZuAXQSbgt0vjtubpiaMKzig6JxGpKyasb8vmcGQ2xm8cOyBLi6Oqd52u0mLYtGuw3u3qk_3fhdFNdPbRuDOPxyikY_gX24TXronSYDAQPpkq1U7yfumvSzRAPqDCY6cI82CK_XBaBDaKHQixfmbinD7029NXpen1m9GrZicmVTVw8kkFTQ5qXyXHrg2kc4fHdbfi_easQbnnTGXfE5w7rvgAQYdxAQniBzr6Kvi8nXHiDupaGsTAT0E86muz-eb07FlwWYsEX3zpJalbuUN8-sDfqs3HIl3WArWu5O0-n40DCItCGuX_JgNmQ-W2xoWoCtLKuQ02_7hK7PLAh4l4PgNs7xNpd2hlCVyjmjB1A8ZDZGFZgTjw=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 378,
+    "has_photo": true
+  }
+}
