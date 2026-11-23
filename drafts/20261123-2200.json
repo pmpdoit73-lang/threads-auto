@@ -1,0 +1,53 @@
+{
+  "id": "20261123-2200",
+  "created_at": "2026-11-23T22:00:53.629411+09:00",
+  "publish_at": "2026-11-24T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 냉장고 얼음 정수기 아닌 — 고무장갑 아닌 → 세탁기 아닌 '빨래집게' 아닌 '지퍼백 아래 바닥 펴지는 거셋(스탠딩 바닥)' 대신 → 행주·수세미 말고 '전기그릴' 아닌 → 압력솥 아닌 '스텐 채반' 아닌 → 마늘 다지기(마늘 프레스) 안쪽 청소 핀 용도",
+  "angle": "마늘 다지기 구멍에 낀 찌꺼기를 이쑤시개로 파던 습관, 손잡이 쪽에 청소용 핀이 달린 제품이 많다는 걸 몰랐던 점",
+  "category": "주방",
+  "subject": "마늘 다지기",
+  "hooks": [
+    "마늘 다지기 30년 쓰면서 이걸 몰랐어... (9/10)",
+    "마늘 다지기 씻다가 나 뭐 한 거지? (8/10)",
+    "얘들아 마늘 다지기 손잡이에 이런 게 있었어? (8/10)",
+    "마늘 다지기 구멍 파는 데 10분 쓰던 사람 나야... (7/10)",
+    "마늘 다지기 뒤에 달린 거 장식인 줄 알았는데..? (7/10)"
+  ],
+  "text": "마늘 다지기 30년 쓰면서 이걸 몰랐어...\n구멍에 낀 마늘 이쑤시개로 하나씩 팠잖아ㅋㅋ\n근데 손잡이 쪽 오돌토돌한 판이 청소용 핀이래\n뒤집어 꾹 누르면 구멍 수십 개가 1초에 뚫려\n이거 고기 누르는 데인 줄 안 거 나만이야..?",
+  "subject_en": "handheld stainless steel garlic press with built-in cleaning pin comb on the handle (kitchen garlic crusher, not a food chopper or blender)",
+  "image_prompt": "A handheld stainless steel garlic press with a cleaning pin comb on its handle is clearly visible in the center of the frame, lying open on a wet kitchen sink edge with a few crushed garlic bits stuck in its holes and a toothpick beside it. Casual smartphone snapshot taken at home, slightly tilted angle, ordinary fluorescent kitchen lighting, a bit cluttered background with a dish rack, no people, no faces, no text, no logos.",
+  "photo_query": "garlic press",
+  "product_keyword": "마늘 다지기 프레스",
+  "benchmark_note": "내 글 1위(김·부침가루) '30년 동안 몰랐어...' 셀프 디스 첫 줄+ㅋㅋ 둘째 줄, 높은 질문형 글의 일부러 틀린 추측('장식인 줄')으로 정정 댓글 유도",
+  "products": [
+    {
+      "name": "플라잉타이거 코펜하겐 마늘 다지기 프레스 우드 핸들 유로커머스",
+      "price": 14700.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9551664465&itemId=29057550642&vendorItemId=95984098007&traceid=V0-153-2639f899310213f0&requestid=20261123220132521038619067&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/CUe3yRJXovSmaQ5cCX1WQwStxOwmVs_o4PRWfX1K02SqA9-5fxA7VdkTnpPsmWqik3UDXHzAoElMKYYCkm82OngcG68PicrSmQWasBG76IbyP1Y5LrqXtlc46pFVLk9EU19yqB0_wgn9KSd3XeGuf79Fu_EDEXB8a-8bAuodVLVaHrZMaxh35RHqAZaF0qGiq1ECshrhxxeeNbh2nQVQ3d0nbzzRxg3Ahdcm--lml-nJMMEZF72muIzSwkMbmg5r2WbVqX8ldGhyQ3hC1NHCme77OaopKNls5j5ziZDvdYfd9VWV5z48jTTsBvCxXVBl_o8Uv3r0wHBtbW2keiN2dYCqe5fjT01W_hsuncZOAqxsEIa6r7T9CU9BPW5fmbyzm2hfuQNlj6GAozMZ_Ail2UgolKUAjYT6DixPRcvndrRxFCLNU6K5o3AxXsDyd0oj2raXXmHjOemIyxo3Wtvr6xn_GOBgyXZrVSv3EurCtizNylxL4_Ftr1srl9iFwOiW8uf3vexoVOvo2Cse-4C5PbiwSlbTkQv4yvZZw3R0oRWFQo8i9DfPwxDeLb7E3CAtzBmfuMAlYHUwALEHmdEs1MyIkvkmPHeT"
+    },
+    {
+      "name": "오샤레 마늘 다지기 프레스 으깨기 스텐",
+      "price": 8900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7701871844&itemId=20623214020&vendorItemId=87690437521&traceid=V0-153-d08033aaa417e46b&requestid=20261123220132521038619067&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/2yXmqkKm91HQhIdD2_8w1OsAMoC3P43eztWaHmgZChYhwVqBTfK7sUusMZl1C0wL1YYGAMWHunLpLkzQqMWTxZzR-XrVlf7DEyrZZ4ErlSS5bFgiy7hKOVbbP4Ae4xnhKhkNfOIZ8XNdAZnwRyeQc4gb3Taa5XwDTM5Cjm3Tc1uaSXTxSB-6s7dZWg0DU9YhNAubKd7rC7Op8kRQ4Yfs7qjw2IH0zYylZgekyRwwJxuV2ENp7mRGNRxsnuE4umezXuDRAKHQbteHCd4WNJYOyMj0Ow4Y2Ro_m6RGRhQ9102AwfJ2-puKM9DLXVSQOPc_EsJyFZxUQ1WggJQIbzcTa9NHZZkkfM3b5YQngBixnYgA1S9Tr8aJAKOMmCwnqFSX8AlKmVM57jqdwIwWCC5i4frFMtf2fn6hT-8RKJM-VC1CYK6q0BAcO60jXVdWM7y0uMC9ZIv5ZlQd0BxfvgbdRt3ANIkUD4tQSOLwphMeA15Zm0wzMbq5cuw20_Sm8Kn0s0UJfM3yd3taShURcmwFbsbU6d138kVGEBiBFlW1KLEdKuWR650s-EM6AMme8BDPB-fEP1PlFf-aieNwcRrgzTepBMiZBnJdZDRA"
+    },
+    {
+      "name": "압축 프레스 스테인레스 마늘 다지기",
+      "price": 5500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9693670830&itemId=28993424284&vendorItemId=95922074309&traceid=V0-153-71f2df135472e560&requestid=20261123220132521038619067&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/WQJS4gmZ6E3vQn-aWScyFmMVuzw-4D052wh0j5IaUJASVqUu-jo6sS5ki8iqb72ZdUBkrbKmEdHOIx8XJ4xncisMvHu0qF4UwZfmZ0aYsabozSG-sQFGyRXKEAjaQ146l2aasyzUyfuPyKN2taEirxqO-ujZ66WzBL11Cc-7PMicKiOP4AeW6QBcSPKwIokNI5lH_2Gf9vQsek7s1pqR22Kvh3bGiaodpb_qn3kNUNnAiyFE6eJP80Sgp5CFlTPBqOwf2Yk_U3o9U7L_nbIZtop9l3bjUqwGnrk8izP0SIGTCY_J_JGo6L9UpphKXA6JhRF2CvH75WCsxFP6r5lnOx7zDrFqRjAeorUddJDyiypZt9ftDVuThRbXpfHolt2UcVEFAVqL-YZyRMMbscJXyB8oZ0TNwDRfyBMiqfaHO7mHshLhx7dCLEpz6QFQAPWTay42KfJd3Guhl3atSGmIMtQ_4RZf_-2nSTAzDFLLIxI2eSL4FUOFjt2izgEcdASLXxTpwaIXXUaK_L1lOBq5Je7s__A8OTJB1bZAf1inq-23k5_HxxyTI-lhXB1NUXMTj7g4rm5qmVptx-VuHDJails-liZxrCrvhz8="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 376,
+    "has_photo": true
+  }
+}
