@@ -1,0 +1,53 @@
+{
+  "id": "20261123-1400",
+  "created_at": "2026-11-23T14:00:53.198990+09:00",
+  "publish_at": "2026-11-23T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑 낀 채 끝부분 잘라 쓰는 거 말고 — 김장 후 남은 고춧가루를 봉지째 상온에 두는 습관",
+  "angle": "고춧가루를 봉지째 실온에 두면 색·향이 빨리 날아가고 벌레·곰팡이 위험, 소분해 냉동하면 오래 감",
+  "category": "주방",
+  "subject": "고춧가루",
+  "hooks": [
+    "고춧가루 30년 동안 이렇게 두고 있었어... (8/10)",
+    "김장하고 남은 고춧가루 보다가 나 뭐 한 거지? (9/10)",
+    "얘들아 고춧가루 색 바랜 거 이유가 따로 있었어? (7/10)",
+    "고춧가루 봉지 원래 이렇게 두는 거 아니었어..? (7/10)",
+    "고춧가루 색이 왜 이래... 나만 이래? (6/10)"
+  ],
+  "text": "김장하고 남은 고춧가루 보다가 나 뭐 한 거지?\n봉지째 집게 집어서 싱크대 위에 몇 달ㅋㅋ\n근데 습기·빛 닿으면 색이랑 향이 금방 날아간대\n난 이제 지퍼백에 한 달 치씩 나눠서 냉동실에 둬\n너네 남은 고춧가루 어디 둬..?",
+  "subject_en": "Korean red chili pepper powder (gochugaru) in an opened plastic bag clipped shut",
+  "image_prompt": "An opened plastic bag of bright red Korean chili pepper powder (gochugaru), folded and clipped shut with a plastic clip, clearly visible in the center of the frame, sitting on a cluttered home kitchen countertop next to the sink. Casual smartphone snapshot, slightly tilted angle, ordinary indoor lighting, a few red powder specks on the counter, no people, no text, no logos.",
+  "photo_query": "korean chili powder bag",
+  "product_keyword": "고춧가루 보관용기",
+  "benchmark_note": "김·부침가루 글의 '나 뭐 한 거지?' 셀프 디스 첫 줄+ㅋㅋ 실수 장면+경험 말투 해법+'너네 어디 둬..?' 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "리빙패밀리 3구 조미료 통, 650ml, 3개",
+      "price": 6580,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9701967685&itemId=29023295386&vendorItemId=91464502947&traceid=V0-153-96854cdd53a84b84&clickBeacon=e8c568a0-e6fa-11f1-ad83-f858e2e66fef%7E3&requestid=20261123140114565030510487&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/2Omiaed8QiXiQkGH2BExsIVDkDL5PrWa9teu2eaoPuUV84-J63tvFU0rS0bvHlzpRO5he-SbmGduHaCOgnqgJ01Cr3i4nplIGgGtZAYk2jdHwCRrsg7h40GFdgVQEumpYQUiDf_7No-j2DgeygJZcdviQPOhkdzuLWgXaxMXMs3DgZjQUocopxt2IrSjxOAsJ4Z0ex3CDEqskZtNLgRFCC4jnAURZWQikMcUGB8yF586vQXkmi3gzQbKQwauMOO9O9wtoaC8mKFwyat6CuhWq8saNiEiJiQP0RnJXApMGZFrSnCvy9kVxyVUnmEO43IQf-GEN8hszJXMDRy9_5V3WuLd6hAjoELfAyNOHBGSdCD9O6Uuvw-RN9jM6M7vsEa6uBoqttZnftcnDPQOfnhRjkFhRFV0Pn6Pb1P_4LNknUmCZhL5kwMSP4g_qSVXczbj1zxWCO9s9jS21cISLtlyKzUfASiFUnccT3l003uf0WM1y2tYympw4iKdpn9zHio4nUQNRoufA4Q="
+    },
+    {
+      "name": "리빙패밀리 3구 조미료 통, 500ml, 3개",
+      "price": 5970,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9701967685&itemId=29023299248&vendorItemId=91464502937&traceid=V0-153-96854cdd53a84b84&clickBeacon=e8c568a0-e6fa-11f1-b40d-c0aa8c2f5f97%7E3&requestid=20261123140114565030510487&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/-6UMXP_Mw_yAW4fH-5OjH1H78F8qwCbAWtrGQin3TqdkFvzeyzo6YTraqoBkmJqAhYfBpUbkjzWCdBq0MsT-Mc6dEm5C8crZYIn8UOIrW0o3fVurUXaEmnSQPUtZpdvg6UaFAIz7pHAXa6CeobrbewwpuyMkHbHQ0BVlcKT3i6OHjjrqvjYbj5EEEC7VM8LnoWRsyMBSeyrBboVczjty9vUKlaKurJxlLPEfyEsXnVi95tA09egVWL9BjkTk25BnkXcDlWQUYHsUm0SGIH-ffnBJbHARIEShWeO9Nh6LbJquHKK_Z6IS7sEOjR_lgviLuVbrAgPEG3ubXaV__Sjme3I6geZEq12Y5SGYaXT8lrUnUJLSH2UaCNSmJ7waxJ3i1Vbw3sx9fi-pJJe4ighEpyViRRbw1VGC4V4KzVQyMXx9k_GcIAP2CQ4SI1NJJSJJ6_Xgow6lyBoukazY8ivqF_DUelTDTbM8EUtfijExkQuvoeW3Ry7Tr5LAZdjCMQOtOKEoZmY2"
+    },
+    {
+      "name": "바른미각 BPA FREE 사각 양개형 양념통",
+      "price": 5970,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1745835584&itemId=27206121167&vendorItemId=95234458860&traceid=V0-153-7afd3814dbf5afc1&requestid=20261123140114565030510487&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/LQFhvKr4NbfSJrxaLaCxTOC9hiKm7Wbp6_kPesOtxDIgnAyWE3XfImEH-VV68tBz3P1wIcFBkkulZtVWHEQXbZpLPAXwA-9nl_qEvN2LLZepw0U0X7cdxMzAPyMtAqY-Rl_o2P3V3CH3Ju0Rk36vEG0B2gAPEI8mKim1DvPZ7dwkEVTD6CfJ2G-7S2_1qx1jcmwRcQRK_aAN_g3A2c05Ef4tcZ2j7jJCuygZ1kaUEGJ7Qlwg52lyNm_XcFhDx6FN0RayF4qjpRVM3uPL2-6i1NfaS0bT9Zs0fMHRQxJkQcAnDpSAic8m05xrLAYFzxFCNN3JuN4xl4paQ-LGQs_adkcfhWKgu2LI_hCaa1z02mBBDCWzkxoI9A8_97gctDFa9ieXt-M_i73_QgSoDt-4VzylIm1ClvmdZAIFZFJEBLdlf04dW9Tyi7knJG0F4m73f67vPkZKUGEtc8UVz4Vm1HmCzeo7VThBd3EM1p0yYWFcHn4RO4VwnB_EeORytkekkzy54hICeI6i-pWbGrN-L_ghxugkd3M="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: JJ Jordan) · ⚠️ 검수 불일치: 사진에 '공중에 떠 있는 스페인 훈제 파프리카 가루 캔, 나초칩, 빨간 고추, 나무 도마'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 373,
+    "has_photo": true
+  }
+}
