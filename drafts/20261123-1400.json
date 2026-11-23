@@ -2,7 +2,7 @@
   "id": "20261123-1400",
   "created_at": "2026-11-23T14:00:53.198990+09:00",
   "publish_at": "2026-11-23T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 고무장갑 낀 채 끝부분 잘라 쓰는 거 말고 — 김장 후 남은 고춧가루를 봉지째 상온에 두는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 373,
     "has_photo": true
-  }
+  },
+  "threads_id": "18140012860656862",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgFAvRalhPq",
+  "reply_id": "17947978323383361",
+  "published_at": "2026-11-23T18:02:22.246722+09:00"
 }
