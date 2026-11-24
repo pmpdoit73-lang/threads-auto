@@ -1,0 +1,53 @@
+{
+  "id": "20261124-1800",
+  "created_at": "2026-11-24T18:00:54.154653+09:00",
+  "publish_at": "2026-11-24T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 세탁기 통세척(통살균) 코스를 한 번도 안 돌리거나 빨래 넣고 돌리는 습관",
+  "angle": "통세척 코스는 빨래 없이 빈 통으로, 한 달에 한 번 정도 돌려야 한다는 걸 몰랐던 점",
+  "category": "살림템·가전",
+  "subject": "세탁기 통세척 버튼",
+  "hooks": [
+    "세탁기 통세척 버튼 30년 동안 이렇게 썼어... (8/10)",
+    "세탁기 통세척 버튼 누르다가 나 뭐 한 거지? (9/10)",
+    "얘들아 와, 세탁기 통세척 버튼 이렇게 쓰는 거였어? (7/10)",
+    "세탁기 통세척 버튼 원래 장식인 줄 알았는데..? (8/10)",
+    "세탁기 통세척 돌렸는데 냄새가 그대로인 이유... (7/10)"
+  ],
+  "text": "세탁기 통세척 버튼 누르다가 나 뭐 한 거지?\n아깝다고 수건 몇 장 같이 넣고 돌렸어ㅋㅋ\n근데 이건 빈 통으로 돌리는 코스래\n난 이제 빨래 다 빼고 한 달에 한 번 돌려\n너네도 빨래 넣고 돌린 적 있지..?",
+  "subject_en": "front-loading drum washing machine with an empty drum and the door open, control panel with tub clean course",
+  "image_prompt": "A front-loading drum washing machine is clearly visible in the center of the frame, door open showing an empty stainless drum. Casual phone snapshot taken at home in a small Korean utility room, slightly tilted angle, ordinary daytime lighting, a laundry basket with a few towels on the floor beside it, plain tiled wall. Realistic, unpolished, not an advertisement. No people, no faces, no text, no logos.",
+  "photo_query": "empty washing machine drum",
+  "product_keyword": "세탁조 클리너",
+  "benchmark_note": "내 글 상위권의 '물건+이렇게 썼어/나 뭐 한 거지' 셀프디스 첫 줄, ㅋㅋ 고백 둘째 줄, '난 이제' 숫자 공개, '너네도..?' 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "생활공작소 세탁조 크리너",
+      "price": 11510,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5110086166&itemId=17794779831&vendorItemId=5396021225&traceid=V0-153-de03dabcd0aa428b&requestid=20261124180113982265532953&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/TwcoGf4bYecxVmVGT7QiTUoBdEiR98zbVcZ9CUAxZkpJHppvB13jw5Kd1LPRAMajD25jxrkl4iTqtmEKaTKvcn1ATdCUg_EhNbwUlvwDZMPTRHRKmuppBBtiJBaUZ_k-O4Yh-cAI0nbj6sUcTW7HcWU0wgvUSryyxsc5m625uVPLVXH4NLo_Xw35EpXSRiacHN9fLpf0LkZfP2iekku4V8HpWUKIo6AAwjL1tdwym9sWtuZhUzNUrnKKz5VZtT_qM5Q5KBe4V5w7NHiuASXeHdV5td9E09a7f-e4VOXIbQmo-3dKIv1B1cu5cjvAudNIXbCtYeSAEwiB9knnl4FMqvABe3Ts6rt2TVoZIrJplNN8WcvqtvD71N6YbDQSgh9rYCMN9Mid9POQk58pJH6kdmpwsyM9FJj5tyx9B3Q4iFPzOcq5RTwMtzKTD4c9JtJLEqku6t6DeTeRqwIcR2X17l_mCIw-Fek9ZC4PmnNmw_vgzD0pWWh-Vv0OP-a735Z6wp4tGJun9zwPwZRZqrM="
+    },
+    {
+      "name": "SeeHope 세탁조 클리너 발포정 드럼 통돌이 겸용 곰팡이 악취 제거 세탁기 청소 세제",
+      "price": 9500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9670389660&itemId=28913489288&vendorItemId=95769758006&traceid=V0-153-5cd033b84689dde1&requestid=20261124180113982265532953&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/toM2OeXVISO8cMw3thOjFfbP-LYHIgZXKd6aTQ3B9-oq2m5t8L2RGFfpR1Kp3H4wsdN5EAhkc7pCeynSBxfF8d6hYWVZXygpWEmMVxyIVwjI_MPskFWgX3qX8bPI-lJ8IqS5n0dS-sF3bEBHzMseaIZnTbHs-Xp9Cmo3XX-cikmrrl54vl4pC3ibwAuyzwzUW45LyBqBbCbw5AI3eHLDJBURsUsBNarTzcH5cBfLMVHz4RCKFYI5xurZfNasYBDewHwCrhVT7afJL2JB2AuJ0RM9Mbx5VjRc3u4_D_I5sskXJHpjvc1qzfntf6Y9r490IAaqL5v_TVRNoq7KC0HgQHr5Er1HzS8_XzNMPgkc88sZWHQTreokygK8ZUSD5g8w5NEunoSh5HlXAeJNcXlQ6a5LMkEBjd6tZNMzhy6F-SCNQl8OI3qLAH7aW4TKD9cbnSY_jvkMr-mdmtGXr8a247nojAMwO36km_z38HITawY6k6i1BQ1gj0uBbfHf42Uf4BZqkkxvjZwKZOGXYma1n58e5qbv06OC72zIKCWNjgQ="
+    },
+    {
+      "name": "세탁조 클리너 발포정 세탁기 청소 발포형 세제 강력한 세탁조 냄새 제거 곰팡이 제거 간편한 사용",
+      "price": 6000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9126990684&itemId=26851845314&vendorItemId=94940286996&traceid=V0-153-b7536880694b7e4c&requestid=20261124180113982265532953&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/uYBmXXdMkmXZKGLzubb5AFMcH2U1XK8UsrI9-0LHnyMhd00-nML7ZDb2yHOMxuAQaLShGRyCLVCmX5X2RS_xoxJDqLptgMNT7yjjMAKKnROEQ5RQSnuylcaPBob0yQzulYcA-34TNEKk2mXwtyK8DgdYysQYHuAq20gyU1hL7GxKAKoWSRAmPF8OTgr5n0G7epq6U1A2d7S3WGkxfV6c8SWBStOEOhcQIuyL22ORjQhXE8Z5YbE_TwjEs7vX8S5AyLrF7VNYAB9z4xulE7wjuMrNeLzdgW1ld5rt3prdhUEzsLR-GRGNm1e7UNszilhzKmay8vdw1FnilCcEJE3RAa48hGQXrSKf5xt4c5zVcltzqzB2uBjH0h-qdh1QMDeYQBTx7kcATescGBZiC9AwZfjR-dhIhG2wZrNWJAQhCPiufEGlBt0Ph9xNJ3PLGTKGLwTPa7G28VMiUoMRHouwjmOwI4ke5YE5ly91faWRDC6skDy-0qZz5gb4BHEfTWtWNq7f1Eug3Wa7q6LcyHBrnhE6G6YNGnN7Z6vG8I-gsJ0="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 392,
+    "has_photo": true
+  }
+}
