@@ -2,7 +2,7 @@
   "id": "20261124-092301r",
   "created_at": "2026-11-24T09:23:01.871585+09:00",
   "publish_at": "2026-11-24T13:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "remake_of": {
     "text": "부엌칼 30년 동안 이렇게 씻고 있었어...\n편하다고 식세기에 같이 돌렸거든ㅋㅋ\n근데 뜨거운 물살에 그릇이랑 부딪혀 날이 무뎌진대\n난 이제 손으로 씻고 바로 닦아서 칼꽂이에 꽂아\n너네 칼 식세기 돌려 손으로 씻어..?",
@@ -54,5 +54,9 @@
   "message": {
     "message_id": 380,
     "has_photo": true
-  }
+  },
+  "threads_id": "18183929554429837",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgHDHVcG_dL",
+  "reply_id": "17954712174305867",
+  "published_at": "2026-11-24T13:01:42.014620+09:00"
 }
