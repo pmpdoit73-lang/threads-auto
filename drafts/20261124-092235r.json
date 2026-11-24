@@ -2,7 +2,7 @@
   "id": "20261124-092235r",
   "created_at": "2026-11-24T09:22:35.694008+09:00",
   "publish_at": "2026-11-24T12:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "remake_of": {
     "text": "세탁기 온도 버튼 30년 동안 이렇게 눌렀어...\n뭐든 40도가 깨끗한 줄 알았거든ㅋㅋ\n근데 세탁기 전기 대부분이 물 데우는 데 쓰인대\n난 이제 평소 빨래는 찬물·30도, 수건만 40도\n너네 온도 버튼 몇 도에 두고 써..?",
@@ -54,5 +54,9 @@
   "message": {
     "message_id": 379,
     "has_photo": true
-  }
+  },
+  "threads_id": "18169892254486862",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgG8N9WIZi-",
+  "reply_id": "17917586112503452",
+  "published_at": "2026-11-24T12:01:28.873256+09:00"
 }
