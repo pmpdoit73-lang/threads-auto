@@ -292,6 +292,64 @@ def create_extra(item):
     return d
 
 
+REMAKE_LOG = Path(__file__).resolve().parent.parent / "state" / "remakes.json"
+REMAKE_GAP_DAYS = 14  # 같은 원문은 2주 안에 다시 리메이크하지 않음
+
+
+def _remake_log():
+    return json.loads(REMAKE_LOG.read_text(encoding="utf-8")) if REMAKE_LOG.exists() else []
+
+
+def pick_remake_sources(n=1, min_views=1000):
+    """조회수 높은 내 글 중 리메이크할 원문 n개. 최근에 리메이크했거나 리메이크로 올린 글은 뺌."""
+    posts = threads_api.my_posts_with_views(limit=100, pages=3)
+    log = _remake_log()
+    since = (datetime.now(KST) - timedelta(days=REMAKE_GAP_DAYS)).strftime("%Y-%m-%d")
+    recent_src = [x["source"] for x in log if x["date"] >= since]
+    remade = [x["text"] for x in log]  # 리메이크해서 올린 글이 또 리메이크되지 않게
+    picks = []
+    for p in posts:
+        if p["views"] < min_views:
+            break
+        if any(writer.similarity(p["text"], t) > 0.8 for t in recent_src + remade):
+            continue
+        picks.append(p)
+        if len(picks) >= n:
+            break
+    print(f"[draft] 리메이크 후보: {[(p['views'], p['text'].splitlines()[0]) for p in picks]}")
+    return picks
+
+
+def create_remake(original):
+    """조회수 잘 나온 글을 조금 바꾼 추가 초안. 예약 글과 1시간 넘게 떨어진 시간에 올라감."""
+    now = datetime.now(KST)
+    d = {
+        "id": now.strftime("%Y%m%d-%H%M%S") + "r",
+        "created_at": now.isoformat(),
+        "publish_at": extra_time(now).isoformat(),
+        "status": "pending",
+        "product": 0,
+        "remake_of": {"text": original["text"], "views": original["views"], "date": original.get("date", "")},
+    }
+    post = writer.remake_post(original, used_topics())
+    print(f"[draft] 리메이크 글 (원문과 비슷한 정도 {post.get('remake_similarity')}): {post['text']}")
+    d.update(post)
+    d["benchmark_note"] = f"🔁 리메이크 (원문 조회 {original['views']:,}) · {post.get('benchmark_note', '')}"
+    try:
+        d["products"] = coupang.search_products(post["product_keyword"])
+    except Exception as e:
+        print(f"[draft] 쿠팡 검색 실패: {e}")
+        d["products"] = []
+    _fill_photo(d)
+    d["format"] = default_format(d)
+    save(d)
+    log = _remake_log()
+    log.append({"date": now.strftime("%Y-%m-%d"), "source": original["text"], "text": d["text"], "draft": d["id"]})
+    REMAKE_LOG.parent.mkdir(exist_ok=True)
+    REMAKE_LOG.write_text(json.dumps(log[-100:], ensure_ascii=False, indent=2), encoding="utf-8")
+    return d
+
+
 def attach(d, item):
     """영상·인용 링크·사진으로 이 초안의 글을 쓴다."""
     about, credit = media.split_memo(item.get("memo", ""))

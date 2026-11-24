@@ -23,6 +23,17 @@ def main():
         draft.send(d)
         print(f"[make_draft] 초안 {redo} 새 이슈로 다시 보냄")
         return
+    remake = os.environ.get("REMAKE", "").strip()
+    if remake:  # 조회수 잘 나온 글을 조금 바꿔서 다시 올리기 (숫자 = 몇 개)
+        picks = draft.pick_remake_sources(int(remake) if remake.isdigit() else 1)
+        if not picks:
+            telegram.send_text("🔁 리메이크할 글이 없어요 (조회 1000 넘는 글이 없거나 2주 안에 이미 다시 올림)")
+            return
+        for original in picks:
+            d = draft.create_remake(original)
+            draft.send(d)
+            print(f"[make_draft] 리메이크 초안 {d['id']} 전송 (게시 예정 {d['publish_at']})")
+        return
     force = os.environ.get("FORCE") == "1"  # Actions 탭에서 수동 실행하면 바로 만듦
     slot = draft.slot_to_fill(datetime.now(draft.KST), force)
     if not slot:

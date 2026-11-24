@@ -95,9 +95,18 @@ def permalink(post_id):
         return ""
 
 
-def my_posts_with_views(limit=50):
-    """내 계정 글과 조회수를 가져온다 (조회수 많은 순)."""
-    posts = _get("me/threads", fields="id,text,timestamp,permalink", limit=limit).get("data", [])
+def my_posts_with_views(limit=50, pages=1):
+    """내 계정 글과 조회수를 가져온다 (조회수 많은 순). pages>1이면 더 예전 글까지 넘겨 가며 가져옴."""
+    posts, after = [], None
+    for _ in range(pages):
+        params = {"fields": "id,text,timestamp,permalink", "limit": limit}
+        if after:
+            params["after"] = after
+        res = _get("me/threads", **params)
+        posts += res.get("data", [])
+        after = (res.get("paging") or {}).get("cursors", {}).get("after")
+        if not after or not res.get("data"):
+            break
     result = []
     for p in posts:
         if not p.get("text"):

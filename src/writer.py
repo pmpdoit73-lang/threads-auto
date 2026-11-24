@@ -165,6 +165,48 @@ def _subject_ok(post):
     return bool(subject) and (subject in head or any(w in head for w in words))
 
 
+def similarity(a, b):
+    """두 글이 얼마나 같은지 0~1 (띄어쓰기·줄바꿈 무시)."""
+    import difflib
+    return difflib.SequenceMatcher(None, _norm(a), _norm(b)).ratio()
+
+
+def remake_post(original, used=()):
+    """조회수 잘 나온 내 글(original: {'text','views',...})을 같은 주제·후킹 구조로 새로 쓴다.
+
+    쓰레드는 같은 글 반복을 싫어하므로 첫 줄·문장·디테일은 바꾸고, 원문과 너무 비슷하면 한 번 더 쓴다.
+    """
+    used_text = "\n".join(f"- {day} {subject}: {issue}" for day, subject, issue in used) or "(없음)"
+    user_msg = (
+        f"아래는 우리 계정에서 조회수가 크게 터진 글이야 (조회 {original.get('views', 0):,} · "
+        f"좋아요 {original.get('likes', 0)} · 댓글 {original.get('replies', 0)}, {original.get('date', '')} 게시).\n\n"
+        f"[원문]\n{original['text']}\n\n"
+        "이 글을 '리메이크'해서 다시 올릴 거야. 같은 물건·같은 핵심 정보·같은 후킹 구조(실수담 고백 → 몰랐던 이유 → "
+        "난 이제 이렇게 → 사람마다 답이 다른 질문)는 살리되, 처음 보는 사람에겐 새 글처럼 보이게 다시 써.\n"
+        "리메이크 규칙:\n"
+        "1. 첫 줄은 원문과 다른 말로 시작해. 원문 첫 줄의 표현('30년 동안 이렇게' 같은 문구)을 그대로 쓰지 마. "
+        "같은 실수를 다른 장면·다른 말로 고백해 (예: 엄마한테 배운 대로, 신혼 때부터, 버튼 위치 등).\n"
+        "2. 문장 순서·길이·말끝을 바꿔. 원문 문장을 거의 그대로 가져오면 실패야. 겹치는 단어가 적을수록 좋아.\n"
+        "3. 핵심 정보(숫자·방법)는 사실 그대로 유지하되 표현을 바꿔. 새 숫자를 지어내지 마.\n"
+        "4. 마지막 질문도 원문과 다른 말로, 그래도 사람마다 답이 다른 질문으로 끝내.\n"
+        "5. 길이는 원문과 비슷하게 (100~150자, 4~5줄). 첫 줄에 물건 이름(subject) 꼭.\n"
+        "6. 페르소나의 '후킹 문법'으로 첫 줄 후보 5개를 만들고 채점해서 가장 센 걸 골라. 첫 줄에 정답 있으면 0점.\n"
+        "7. issue 칸에는 '리메이크: ' 뒤에 원문 첫 줄을 적어. benchmark_note에는 원문에서 무엇을 살리고 무엇을 바꿨는지 한 줄.\n"
+        "8. 사진은 원문과 다른 장면으로 (image_prompt·photo_query는 같은 물건이지만 다른 각도·다른 상황).\n\n"
+        f"참고: 최근 30일 올린 글 (이 글들과도 문장이 겹치지 않게):\n{used_text}"
+    )
+    post = _ask(user_msg, SCHEMA)
+    first_new = (post.get("text", "").splitlines() or [""])[0]
+    first_old = (original["text"].splitlines() or [""])[0]
+    sim = similarity(post.get("text", ""), original["text"])
+    if sim > 0.5 or similarity(first_new, first_old) > 0.6 or not _subject_ok(post):
+        print(f"[writer] 리메이크가 원문과 너무 비슷함 (전체 {sim:.2f}) 또는 주어 없음 → 다시 씀")
+        post = _ask(user_msg + "\n\n주의: 지난번 결과가 원문과 너무 비슷했어. 첫 줄과 문장을 완전히 다른 말로, "
+                    "첫 줄엔 물건 이름을 넣어서 다시 써.", SCHEMA)
+    post["remake_similarity"] = round(similarity(post.get("text", ""), original["text"]), 2)
+    return post
+
+
 TEXT_SCHEMA = {
     "type": "object",
     "properties": {
