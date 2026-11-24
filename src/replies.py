@@ -1,4 +1,10 @@
-"""내 쓰레드 글에 달린 새 댓글 → 반말 답글 초안을 텔레그램으로 보내고, ✅를 누르면 답글을 올린다.
+"""내 쓰레드 글에 달린 새 댓글 → 반말 답글을 써서 올린다.
+
+AUTO_MODE = True (자동 모드):
+  - 단순 공감·칭찬·경험 나눔 댓글 → 확인 없이 다음 회차(약 20분 뒤)에 자동으로 올림.
+    텔레그램엔 알림만 옴 (올리기 전엔 '🚫 올리지 말기', 올린 뒤엔 '🗑 답글 삭제' 버튼).
+  - 질문·가격/구매 문의·불만·민감하거나 애매한 댓글 → 예전처럼 ✅를 눌러야 올림.
+AUTO_MODE = False (승인 모드): 모든 답글을 ✅를 눌러야 올림 (예전 방식).
 
 poll.py가 20분마다 부른다. 상태는 state/replies.json 하나에 저장.
 """
@@ -24,12 +30,23 @@ MAX_POST_PER_RUN = 3           # 한 번에 올릴 답글 수 (몰아서 올리�
 DAILY_LIMIT = 40               # 하루에 올릴 답글 수 상한
 GAP_SECONDS = (20, 60)         # 같은 회차 안에서 답글 사이 쉬는 시간 (초, 랜덤)
 EXPIRE_AFTER = timedelta(days=3)  # 이만큼 지난 대기 댓글은 정리
+# 자동 모드 스위치. 예전처럼 전부 승인받고 올리려면 False로 바꾸면 끝.
+AUTO_MODE = True
+AUTO_MAX_LEN = 120             # 이보다 긴 답글은 자동으로 안 올리고 확인받음
+# 이런 말이 들어간 댓글은 AI가 괜찮다고 해도 무조건 확인받음 (질문·구매 문의·불만·민감)
+ASK_RE = re.compile(
+    r"[?？]|얼마|가격|어디서|어디꺼|어디 거|구매|구입|파나요|팔아|링크|제품명|모델명|브랜드|정보 ?좀|알려 ?줘|알려주|"
+    r"뭐(예요|에요|야|임|죠|지)|어떻게|왜|맞나|맞아요|되나|"
+    r"광고|홍보|뒷광고|협찬|사기|거짓|틀[렸린리]|잘못|아닌[데가지]|아니던데|아니에요|아니죠|별로|실망|환불|고장|불량|위험|다쳤|화재|불나|병원|아파",
+)
 URL_RE = re.compile(r"\S*(https?://|www\.)\S*|\S+\.(com|kr|net|co)\b\S*", re.I)
 
 STATUS_LABEL = {
     "pending": "⏳ 대기 중",
     "approved": "✅ 승인됨 (곧 올라가요)",
+    "auto": "⏰ 약 20분 뒤 자동으로 올라가요",
     "sent": "🎉 답글 올림",
+    "deleted": "🗑 답글 삭제함",
     "skipped": "⏭ 무시함",
     "failed": "⚠️ 올리기 실패",
     "expired": "⌛ 오래돼서 정리함",
@@ -120,6 +137,13 @@ def _clean(text):
     return re.sub(r"\s{2,}", " ", URL_RE.sub("", text)).strip()
 
 
+def _can_auto(c, r):
+    """확인 없이 올려도 되는 댓글인지. AI 판단 + 글자 규칙 두 겹으로 막는다."""
+    return (AUTO_MODE and r.get("auto_ok") and not r["skip"]
+            and c["reply"] and len(c["reply"]) <= AUTO_MAX_LEN
+            and not ASK_RE.search(c["text"]))
+
+
 def draft_replies(state, comments):
     results = writer.write_replies(comments, _recent_sent(state))
     by_id = {r["id"]: r for r in results}
@@ -127,13 +151,16 @@ def draft_replies(state, comments):
         r = by_id.get(c["id"], {"skip": True, "reason": "초안을 못 만들었어요", "reply": ""})
         c.update(reply=_clean(r["reply"]), suggest_skip=r["skip"], reason=r["reason"],
                  status="pending", created_at=_now().isoformat())
+        if _can_auto(c, r):
+            c["status"], c["auto_ok"] = "auto", True
         state["items"][c["id"]] = c
 
 
 # ---------- 텔레그램 ----------
 
 def caption(c):
-    lines = [f"💬 새 댓글 · {STATUS_LABEL[c['status']]}",
+    head = "🤖 자동 답글" if c.get("auto_ok") else "💬 새 댓글"
+    lines = [f"{head} · {STATUS_LABEL[c['status']]}",
              f"📝 내 글: {c['post_text'][:40].splitlines()[0] if c['post_text'] else '(사진 글)'}…",
              f"👤 @{c['user']}: {c['text']}", ""]
     if c.get("suggest_skip"):
@@ -141,6 +168,8 @@ def caption(c):
     lines.append(f"✍️ 답글 초안:\n{c['reply'] or '(없음)'}")
     if c["status"] == "pending":
         lines += ["", "고치고 싶으면 이 메시지에 '답장'으로 새 답글을 보내 주세요."]
+    elif c["status"] == "auto":
+        lines += ["", "그냥 두면 자동으로 올라가요. 싫으면 🚫, 고치고 싶으면 '답장'으로 새 답글을 보내 주세요."]
     if c.get("error"):
         lines += ["", f"⚠️ {c['error'][:200]}"]
     return "\n".join(lines)
@@ -155,6 +184,11 @@ def keyboard(c):
         return [row] if c["reply"] else [row[1:]]
     if c["status"] == "approved":
         return [[{"text": "↩️ 승인 취소", "callback_data": f"c|{cid}|undo"}]]
+    if c["status"] == "auto":
+        return [[{"text": "🚫 올리지 말기", "callback_data": f"c|{cid}|skip"},
+                 {"text": "⏸ 확인하고 올릴게", "callback_data": f"c|{cid}|undo"}]]
+    if c["status"] == "sent" and c.get("reply_id"):
+        return [[{"text": "🗑 답글 삭제", "callback_data": f"c|{cid}|del"}]]
     if c["status"] == "failed":
         return [[{"text": "🔁 다시 올리기", "callback_data": f"c|{cid}|ok"},
                  {"text": "⏭ 무시", "callback_data": f"c|{cid}|skip"}]]
@@ -162,7 +196,7 @@ def keyboard(c):
 
 
 def send(c):
-    quiet = _now().hour < 7
+    quiet = _now().hour < 7 or c["status"] == "auto"  # 자동 답글은 소리 없이 알림만
     msg = telegram.send_text(caption(c), keyboard(c), silent=quiet)
     c["message_id"] = msg["message_id"]
 
@@ -181,15 +215,27 @@ def handle_button(data):
     c = state["items"].get(cid)
     if not c:
         return "이 댓글을 찾을 수 없어요"
-    if c["status"] in ("sent", "skipped", "expired"):
+    if action == "del":
+        if c["status"] != "sent" or not c.get("reply_id"):
+            return f"지울 답글이 없어요 ({STATUS_LABEL[c['status']]})"
+        try:
+            threads_api.delete(c["reply_id"])
+        except Exception as e:
+            print(f"[replies] 답글 삭제 실패: {e}")
+            return "삭제 실패. 쓰레드 앱에서 직접 지워 주세요"
+        c["status"], c["deleted_at"] = "deleted", _now().isoformat()
+        save(state)
+        refresh(c)
+        return "답글을 지웠어요"
+    if c["status"] in ("sent", "skipped", "expired", "deleted"):
         return f"이미 처리된 댓글이에요 ({STATUS_LABEL[c['status']]})"
     if action == "ok":
         if not c["reply"]:
             return "답글 초안이 없어요. 🔄 다시 쓰기를 눌러 주세요"
         c["status"], note = "approved", "승인! 곧 올릴게요"
         c.pop("error", None)
-    elif action == "undo" and c["status"] == "approved":
-        c["status"], note = "pending", "승인 취소"
+    elif action == "undo" and c["status"] in ("approved", "auto"):
+        c["status"], note = "pending", "자동 게시 멈춤. 확인하고 ✅를 눌러 주세요" if c["status"] == "auto" else "승인 취소"
     elif action == "skip":
         c["status"], note = "skipped", "이 댓글은 넘어갈게요"
     elif action == "redo":
@@ -216,7 +262,7 @@ def set_text(message_id, text):
     c = next((x for x in state["items"].values() if x.get("message_id") == message_id), None)
     if not c:
         return False
-    if c["status"] not in ("pending", "approved", "failed"):
+    if c["status"] not in ("pending", "approved", "failed", "auto"):
         telegram.send_text(f"✏️ 이미 처리된 댓글이에요 ({STATUS_LABEL[c['status']]})")
         return True
     text = text.strip()
@@ -239,7 +285,13 @@ def _sent_today(state):
 
 
 def post_approved(state, me):
-    queue = sorted((x for x in state["items"].values() if x["status"] == "approved"),
+    # 자동 모드를 끄면 'auto'로 기다리던 답글은 확인 대기로 돌림
+    if not AUTO_MODE:
+        for x in state["items"].values():
+            if x["status"] == "auto":
+                x["status"] = "pending"
+                refresh(x)
+    queue = sorted((x for x in state["items"].values() if x["status"] in ("approved", "auto")),
                    key=lambda x: x.get("commented_at", ""))
     room = min(MAX_POST_PER_RUN, DAILY_LIMIT - _sent_today(state))
     for i, c in enumerate(queue[:max(room, 0)]):
@@ -273,7 +325,7 @@ def expire_old(state):
                 pass
     # 끝난 지 오래된 항목은 지워서 파일을 가볍게 (seen에는 남아 다시 안 잡힘)
     old = [k for k, c in state["items"].items()
-           if c["status"] in ("sent", "skipped", "expired")
+           if c["status"] in ("sent", "skipped", "expired", "deleted")
            and c.get("created_at") and _now() - datetime.fromisoformat(c["created_at"]) > timedelta(days=30)]
     for k in old:
         del state["items"][k]
