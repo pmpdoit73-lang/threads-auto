@@ -2,7 +2,7 @@
   "id": "20261124-164328b",
   "created_at": "2026-11-24T16:43:28.509664+09:00",
   "publish_at": "2026-11-24T19:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "bench_of": {
     "author": "apple._.429097",
@@ -53,5 +53,9 @@
   "message": {
     "message_id": 390,
     "has_photo": true
-  }
+  },
+  "threads_id": "18219740221362476",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgHsTZhGwUi",
+  "reply_id": "18131163403852888",
+  "published_at": "2026-11-24T19:01:35.772050+09:00"
 }
