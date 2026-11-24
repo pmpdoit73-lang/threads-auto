@@ -429,9 +429,10 @@ REPLY_SCHEMA = {
                 "skip": {"type": "boolean", "description": "광고·스팸·욕설·시비·뜻 없는 댓글이라 답하지 않는 게 나으면 true"},
                 "reason": {"type": "string", "description": "skip이면 이유 한 줄, 아니면 빈 문자열"},
                 "reply": {"type": "string", "description": "답글 (skip이어도 무난한 답 하나는 써 둠)"},
+                "vague": {"type": "boolean", "description": "뜻이 애매해서 무슨 말인지 모르겠는 댓글이면 true (답 안 하고 그냥 넘김)"},
                 "auto_ok": {"type": "boolean", "description": "확인 없이 바로 올려도 되는 단순 공감·칭찬·경험 나눔 댓글이면 true"},
             },
-            "required": ["id", "skip", "reason", "reply", "auto_ok"],
+            "required": ["id", "skip", "reason", "reply", "vague", "auto_ok"],
             "additionalProperties": False,
         }},
     },
@@ -451,10 +452,14 @@ REPLY_RULE = """내 쓰레드 글에 달린 댓글에 답글을 써 줘. 댓글�
 - 아래 '최근에 단 답글'과 같은 문장·같은 시작 말을 되풀이하지 않음
 - 광고·스팸·욕설·시비·정치 얘기는 skip=true (그래도 reply엔 무난한 답 하나)
 
+vague (아예 무시할 댓글):
+- true: 무슨 뜻인지 애매한 댓글. 맥락 없는 한두 글자, 'ㅋㅋ'·'ㅎ'·이모지만, 글과 상관없는 말, 비꼬는지 칭찬인지 모를 말
+- false: 짧아도 뜻이 분명한 공감("몰랐네", "대박 꿀팁"), 질문·불만·문의처럼 뜻이 분명한 댓글
+
 auto_ok (주인 확인 없이 바로 올려도 되는지):
 - true: 단순 공감("나도 그래", "몰랐네"), 칭찬·고마움, 자기 경험·꿀팁 나눔처럼 어떤 답을 해도 문제없는 댓글
 - false: 질문(물음표가 없어도 묻는 말), 가격·구매처·링크·제품명 문의, 불만·지적·반박·틀렸다는 말,
-  건강·안전·돈·사고처럼 민감한 얘기, 비꼬는 듯한 말, 뜻이 애매한 댓글, skip=true인 댓글
+  건강·안전·돈·사고처럼 민감한 얘기, vague=true·skip=true인 댓글
 - 조금이라도 헷갈리면 false"""
 
 

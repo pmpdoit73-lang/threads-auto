@@ -3,7 +3,8 @@
 AUTO_MODE = True (자동 모드):
   - 단순 공감·칭찬·경험 나눔 댓글 → 확인 없이 다음 회차(약 20분 뒤)에 자동으로 올림.
     텔레그램엔 알림만 옴 (올리기 전엔 '🚫 올리지 말기', 올린 뒤엔 '🗑 답글 삭제' 버튼).
-  - 질문·가격/구매 문의·불만·민감하거나 애매한 댓글 → 예전처럼 ✅를 눌러야 올림.
+  - 질문·가격/구매 문의·불만·민감한 댓글 → 예전처럼 ✅를 눌러야 올림.
+  - 뜻이 애매한 댓글 → 답글도 알림도 없이 그냥 넘김 (IGNORE_VAGUE).
 AUTO_MODE = False (승인 모드): 모든 답글을 ✅를 눌러야 올림 (예전 방식).
 
 poll.py가 20분마다 부른다. 상태는 state/replies.json 하나에 저장.
@@ -32,6 +33,7 @@ GAP_SECONDS = (20, 60)         # 같은 회차 안에서 답글 사이 쉬는 �
 EXPIRE_AFTER = timedelta(days=3)  # 이만큼 지난 대기 댓글은 정리
 # 자동 모드 스위치. 예전처럼 전부 승인받고 올리려면 False로 바꾸면 끝.
 AUTO_MODE = True
+IGNORE_VAGUE = True            # 뜻이 애매한 댓글은 텔레그램에 안 보내고 조용히 넘김
 AUTO_MAX_LEN = 120             # 이보다 긴 답글은 자동으로 안 올리고 확인받음
 # 이런 말이 들어간 댓글은 AI가 괜찮다고 해도 무조건 확인받음 (질문·구매 문의·불만·민감)
 ASK_RE = re.compile(
@@ -50,6 +52,7 @@ STATUS_LABEL = {
     "skipped": "⏭ 무시함",
     "failed": "⚠️ 올리기 실패",
     "expired": "⌛ 오래돼서 정리함",
+    "ignored": "🙈 애매해서 그냥 넘김",
 }
 
 
@@ -151,7 +154,9 @@ def draft_replies(state, comments):
         r = by_id.get(c["id"], {"skip": True, "reason": "초안을 못 만들었어요", "reply": ""})
         c.update(reply=_clean(r["reply"]), suggest_skip=r["skip"], reason=r["reason"],
                  status="pending", created_at=_now().isoformat())
-        if _can_auto(c, r):
+        if IGNORE_VAGUE and r.get("vague") and not ASK_RE.search(c["text"]):
+            c["status"], c["reason"] = "ignored", "뜻이 애매한 댓글"
+        elif _can_auto(c, r):
             c["status"], c["auto_ok"] = "auto", True
         state["items"][c["id"]] = c
 
@@ -227,7 +232,7 @@ def handle_button(data):
         save(state)
         refresh(c)
         return "답글을 지웠어요"
-    if c["status"] in ("sent", "skipped", "expired", "deleted"):
+    if c["status"] in ("sent", "skipped", "expired", "deleted", "ignored"):
         return f"이미 처리된 댓글이에요 ({STATUS_LABEL[c['status']]})"
     if action == "ok":
         if not c["reply"]:
@@ -325,7 +330,7 @@ def expire_old(state):
                 pass
     # 끝난 지 오래된 항목은 지워서 파일을 가볍게 (seen에는 남아 다시 안 잡힘)
     old = [k for k, c in state["items"].items()
-           if c["status"] in ("sent", "skipped", "expired", "deleted")
+           if c["status"] in ("sent", "skipped", "expired", "deleted", "ignored")
            and c.get("created_at") and _now() - datetime.fromisoformat(c["created_at"]) > timedelta(days=30)]
     for k in old:
         del state["items"][k]
@@ -341,9 +346,12 @@ def run():
         batch = new[:MAX_NEW_PER_RUN]
         draft_replies(state, batch)
         for c in batch:
+            if c["status"] == "ignored":
+                print(f"[replies] @{c['user']} 댓글은 애매해서 넘김: {c['text'][:30]}")
+                continue
             send(c)
             save(state)
-        print(f"[replies] 새 댓글 {len(batch)}개 초안 보냄")
+        print(f"[replies] 새 댓글 {len(batch)}개 처리")
         for c in new[MAX_NEW_PER_RUN:]:  # 너무 많으면 다음 회차로 넘김
             state["seen"].remove(c["id"])
     expire_old(state)
