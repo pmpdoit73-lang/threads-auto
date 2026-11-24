@@ -1,0 +1,57 @@
+{
+  "id": "20261124-164405b",
+  "created_at": "2026-11-24T16:44:05.280155+09:00",
+  "publish_at": "2026-11-24T20:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "bench_of": {
+    "author": "juri_xoox",
+    "text": "내가 본 다이소 역작;;\n\n올리브영에서 비싸다던거 다써봤는데\n손톱정리 이렇게 잘 안되던데\n\n이거쓰고 네일샵 예약\n다취소해버림.."
+  },
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 가성비 살림템: 비싼 손톱깎이 대신 천원대 손톱 줄(네일 파일) 발견감",
+  "angle": "비싼 손톱깎이·네일샵과 대비해 천원짜리 손톱 줄이 손톱 갈라짐 덜하다는 걸 몰랐던 점",
+  "category": "청소·세탁·정리",
+  "subject": "손톱 줄",
+  "hooks": [
+    "손톱 줄 하나 보고 멈춰 섰어;; (8/10)",
+    "30년 손톱깎이만 썼는데 손톱 줄이...? (8/10)",
+    "얘들아 손톱 줄 이걸 이제 알았어 (7/10)",
+    "손톱 줄 원래 네일샵에서만 쓰는 줄 알았는데..? (7/10)",
+    "손톱깎이 대신 손톱 줄 쓰라던데 왜지? (6/10)"
+  ],
+  "text": "손톱 줄 하나 보고 멈춰 섰어;;\n\n손톱깎이 비싼 거 바꿔가며 썼는데\n깎고 나면 끝이 자꾸 갈라지더라\n\n근데 한 방향으로 살살 갈면 덜 갈라진대\n천 원짜리 하나에 왜 이제 알았냐ㅋㅋ..",
+  "subject_en": "handheld emery board nail file (thin flat double-sided manicure file), not a nail clipper",
+  "image_prompt": "A thin flat emery board nail file lies clearly in the center of the frame on a wooden living room table, next to an ordinary metal nail clipper slightly out of focus. Casual smartphone snapshot taken at home, slightly tilted angle, warm indoor ceiling light, a bit of clutter like a TV remote and tissue box at the edge. No faces, no text, no logos.",
+  "photo_query": "emery board nail file",
+  "product_keyword": "손톱 줄 네일파일",
+  "benchmark_note": "🧪 벤치마킹 시험 (@juri_xoox 형식) · 본보기의 짧은 감탄형 첫 줄(;;), 2줄씩 문단 나누기, 비싼 대안과 천원템 가성비 대비, '~냐ㅋㅋ..' 구어체 끝맺음을 가져오되 사용 후기 대신 발견감 정보로 바꿈",
+  "products": [
+    {
+      "name": "손톱버퍼 다듬기 샌딩 손톱줄",
+      "price": 900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9820730417&itemId=29413316024&vendorItemId=96323597862&traceid=V0-153-4cbddafcf751c0aa&requestid=20261124164429730048092906&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/QfjSpgO7kTKxWjLFQbMFA9buEURWkMfICXHm3em9lplJZFiM4sXGyPq3iIjyVBfE2fGOw8j1G4XiQTnLJIu2AnNqzDH3FKC6ku44ZHTqlGgxBD0PbWu34dXszhrDcTBnZD3snZrHMojqB3AFUX-4RQoi5mwGVCLHsiJ-qIIFLS7sV5WmYUXIcNE8yLszmPQtMBl5KFfkTe0MrxzXDLcOLQ0MsKGRdLhq6Fp-Sz0nJwpJlwbIqwuaFR-zi_d_XyzO4ZOptpCzJkrkxTfwXcB0VqTJ1wKZLJb56A9TVTEDnT6vgbwSPwVFr7erMGZIwpUTooUKe0e2sI5MVrhgNzZ5Yo6NSuaUaqc4eB-_bm3HZIR6xbqd0ijd8KnKl5mW0Pl8zD9I95XeVnOe4K4KK13-wOBJFgNkySQjEMbtEvYYAgm72AXGtHQ27ZEd3wqF0gA8eAqfz1jSFy6gkLqCH57Y58BvWL0bmeZtwoV4ERZ_DwzHGY1eEjZ_zSMNLVJgXcPbFF1I-1HI4nbV6EYgOoQdAlFfQSy4olnjpUoB6s6etOI="
+    },
+    {
+      "name": "손톱버퍼 정리도구 손톱줄 네일",
+      "price": 900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9821768928&itemId=29417010380&vendorItemId=96327204419&traceid=V0-153-5eb80ace3994e9fd&requestid=20261124164429730048092906&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/5xvd_qXtCfseOR2O52u4KRHrhmBvEBxTRdjdkLMwGW2jaCCbfqRgh78wSSX_d0EHatk7FlQOXCmLnym0fGz9GiNR9JrMTxqgqU5roEyfPSQq7uz6PKYvOeKpWiKT1eFEuGrUbduGh3AxvLzgVWrY2az6XXSSJB-zqiIeRsssaKWRno-joDeS_Vbbp1qBzViu0P129mqtAzYiIEDNH9NHRDvK-rbSBITxpbeEKjttsxuWyakkrkHdonZJd8WV2tyd4SgBX3X_HosEpbZiUf132bdVzgYRN3psc-dz--whHM_h37NEmB-nwFnyTf9C7Haol2uh2WcGHLwTjTQypGSrHwpMGOv1EPHIUM0gj7YRvyy_bKyvAa8qCSJur12DmhCnuIdsgaPjoLxt0y6lxPVchkxMHnb4jC-76zWOHpTHsWVOU7ElQeb7NtkjxYoIoVXzPF8XnoKHKM1-Ri0QsujYXFOAVpIYm8U3anxrFkWaAJkQIIuLa6sr5Hfz0DrmK9_8XATAE9Mhg5jJhErmPjSN_pdovHg5OwPWCMaeh3l97w=="
+    },
+    {
+      "name": "아도렐 시그니쳐 컬러젤",
+      "price": 128920.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9089321942&itemId=19528532000&vendorItemId=96374865545&traceid=V0-153-86b56309410979e9&requestid=20261124164429730048092906&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/YipOVVwJcoq5MEM9Ygxzg0xbVQS8cFighSyCUfHuaenJOALDT4BhanPMA31BkB39B69wofugWJ0XFIlJ0xymiiYCBGKMQvs5u9HLuQ90HNc6mg4qOOC9VbeM73GCWfICIAyxVh1FjApxoAL_3yK0HaCtetKAx4Znv8yToezODx5b7g_KvvlaW-qaGskqsAa3o-v2Q_FskJKSUSqEnEFKRuCGgIgxxtBnChOKp5KLqHp2rsfdzUMelZ1Sd9Yl8cQE1QzZL7jAbOH604fBSwiZlj6Ka917x-USBbOxYNZr7OWZK3pMrF16B7LXPH6SKJX4xPcrgfzgvuy-2dC7IfABYvI3FfEGrH5yaEskI53EJAginTRGXzFg-En98Mt4uBz91supOa6ybI8fZ6KpYA19bg8StDfQJbt3gK6sCaLxpeObwQhPmB2p14c89o0gCIFW78SQ_RdsNjFFXmX1oNDXrNoCliHaf--ZnJw-R3G7cVkt43gdWZVsX6dfFoA0N_Qd776D2gmnOA6g2F8FoNktuXU602aEtlVrjYnc2KZKsUUn"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 391,
+    "has_photo": true
+  }
+}

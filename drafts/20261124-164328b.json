@@ -1,0 +1,57 @@
+{
+  "id": "20261124-164328b",
+  "created_at": "2026-11-24T16:43:28.509664+09:00",
+  "publish_at": "2026-11-24T19:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "bench_of": {
+    "author": "apple._.429097",
+    "text": "다들 좋다고 하길래 다이소 간 김에 샀어.\n자 이제 말해줘.\n얘가 어디에 어떻게 좋은거여???\n묻지도 따지지도 않고 냅다 사버린 나 어쩔 🤣"
+  },
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 살림템 질문형: 다들 좋다는 실리콘 냄비뚜껑(진공 실리콘 랩 뚜껑) 어디에 쓰는지 묻기",
+  "angle": "유행이라 샀지만 용도를 모르는 공감 상황 → 독자에게 사용법을 묻고, 랩 대신 쓰면 랩값 아낀다는 점만 살짝 던짐",
+  "category": "주방",
+  "subject": "실리콘 랩 뚜껑",
+  "hooks": [
+    "다들 좋다길래 실리콘 랩 뚜껑 세트로 들였어... (8/10)",
+    "실리콘 랩 뚜껑 서랍에서 꺼내 놓고 한참 쳐다봄..? (7/10)",
+    "실리콘 랩 뚜껑, 이거 냄비받침인 줄 알았는데..? (8/10)",
+    "얘들아 실리콘 랩 뚜껑 크기가 왜 다 다른 거야??? (7/10)",
+    "실리콘 랩 뚜껑 사놓고 랩은 또 사는 나 어쩔... (9/10)"
+  ],
+  "text": "실리콘 랩 뚜껑 사놓고 랩은 또 사는 나 어쩔...\n다들 랩값 아낀다길래 크기별로 들였거든ㅋㅋ\n자 이제 말해줘.\n얘 그릇에 어떻게 씌워야 쫙 붙는 거여???\n냄비받침으로만 쓰는 거 나만이야? 🤣",
+  "subject_en": "set of round flexible silicone stretch lids (reusable food covers that stretch over bowls), not silicone trivets",
+  "image_prompt": "A set of round translucent silicone stretch lids in several sizes is clearly visible in the center of the frame, lying stacked on a Korean kitchen counter next to a half-used roll of plastic cling wrap and a ceramic bowl. Casual smartphone snapshot taken at home, slightly crooked angle, ordinary overhead kitchen lighting, a bit of clutter like a dish towel at the edge. No people, no faces, no text, no logos.",
+  "photo_query": "silicone stretch lids",
+  "product_keyword": "실리콘 랩 뚜껑",
+  "benchmark_note": "🧪 벤치마킹 시험 (@apple._.429097 형식) · 본보기의 '다들 좋다길래 들였다' 공감 상황 + 중간 '자 이제 말해줘' 질문 줄 + ???·🤣 자조 마무리 형식을 가져오되, 사용 후기 대신 용도 질문으로 바꿈",
+  "products": [
+    {
+      "name": "살림홈 뽑아쓰는 그릇커버 100매, 1박스, 투명",
+      "price": 8500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9616810320&itemId=28715162031&vendorItemId=95655800979&traceid=V0-153-19d3bb9278f6514d&clickBeacon=cb11e370-e7da-11f1-9a9e-d5e0f042910d%7E3&requestid=20261124164352052025306617&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/98LQFy0aIkaO3rAs90c2g1hHzZIGnbUcnteOtOiK_rlSkblhElHy4UHPM6oX-76GsMh84oJHgJ9Iw-p1jfJXfVQpu16N48x0mhLr4ST2JAAW3uIqLjXnQZASSbYEEQa7IUAjjbZTIYH1P9G2fzE7cWIrXh58yj5m6vR0tgzc1nZKHjCtXtAVdJlXHl-d1xYYGOLWauOTO8z-GtCe3CwqGE6fg7jSQTr_x6iAJG1gz_WKjX1AiFFe_6oDRBOMAupUTYp_28nNAwgb1QdiiSNbvcJM-ndqUD1x-NNAXixSYq0yIWni2wRoXNTE52NRLI498ck8RNVJmLWGtERX64fHDrPnF90IQzhwVmXr0KQiKw-9NYBsp1szZQBpXt86sfDAT4FiKgLQ5hEus4Xrf1Dze-vals6M3chopgnmGx_gC6mSq9TeXe3PX10Y8ns-Mo-u-tYCYHf3UI90Wx2TnXK9w27LULjn4RcKSpuU9O4pFpSGUDF5Kmy4sHjS0u0ZyORD_RZUQEQpEihV83mRoRzWxhOCgdTcDpg="
+    },
+    {
+      "name": "남은 음식 만능 실리콘 밀폐 안전 커버 사각+원형, 반투명 화이트, 1세트",
+      "price": 28500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9707476337&itemId=29042765944&vendorItemId=95962402646&traceid=V0-153-a0ddefe72fafbe12&clickBeacon=cb11e370-e7da-11f1-b1fa-e0d90bb78778%7E3&requestid=20261124164352052025306617&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/EGgj98PhKnALox5UENC1XTSLpVQ1OqID4jHQWXG28X-HFDOEBfi-1Oif11koXR_XEzy0mQxUzEyUKIBrYyXzCnirZE0B59EoWV1XOnghiy_gN_gQxud-NnculNRhk8TFcDHNrzjqlQqDfAQ6kbn1q3bjQuRe-_ScQUOsitMqX7L1w4jVTCZqzTVGBw0CGZcOXRWeRrdVkV-8qllLZ5kFFaGrcNLmyw8FcBOYPpToYwkqGw9s2A5k4P125ei5u9A_Gjy92HQ5_BqF12oBJFno5z8VqXcKtJeVOXUxY2gKpjnvlux8hGbpXN6iP9CSpQwuVxN06fbvRdm7lROUDfE2GUdbOoEv9S6rsQn-reaeK97kZeTl-830IoeUl3kwI0zny3Sb__B-RtZ7mSmjIyYXmDADOIg3ZJ_ZN3JJYZG_UochPbJn5PaP23Y4JUO8jZN0_pVIXQC7f5BVrzRvId5tblYtmQYw0CIPWhW0xnxy0KDWjIhDnPnlMKrS9fALpvL0Mj8Eu18nsmTqvdolQzLQTNay592tyw=="
+    },
+    {
+      "name": "마켓플랜 실리콘 만능 뚜껑 세트",
+      "price": 4500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=295437184&itemId=28287224182&vendorItemId=95240163107&traceid=V0-153-a6324c2acf243e6b&requestid=20261124164352052025306617&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/ieosEdRf27iVeAR_iTIwRiYq9x0WiLYH80R_gv0YqXXxdg64de0QvREIiJmoYjt2K8HNTMPJz3IzRbtAp7Cv2KG6Z6ZvrtmZdKJP48z20-i-DkxwsG1BKRBSqXwZjXsJiOFHw4CTOxZPFZjF34hFOt1WCKIM0Bg2pbyml5vXVXWeKLbDojCpMv_7k5LkzB2_hovyc73kowubMzzs_6LBAQWkwh0TEEUT_9nVqc4SYaSLBDdPatzmXYjptsZpem5LTZC3oMdJsIYEsEltBLHsaofF0V7rxW93Bb66X6EhZj0fPRgaxS5nibS2ZfGLy9UsgRxwbYFi68BTtVrsArvAGSIOm_eZKWhMMvC1QWjkvasYQkjjaUi9v5UUi9eJq5xsUW-28zsqwgNJSB0Tg86rDfHzSooITVqHKGNW4eEEXHd2gBNE1j7lCexeFNuVHoFV4HxGcQ37NZzg-ew2MGQkPeaEmrwIMznVMmSwuDT399gAcosi8onYxTs7SojxU8ox9cy57x1iCS2Ok_eCo04EGgMNbdBDJg=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 390,
+    "has_photo": true
+  }
+}
