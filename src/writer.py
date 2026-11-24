@@ -7,7 +7,11 @@ from pathlib import Path
 
 import anthropic
 
-MODEL = "claude-opus-5-5"
+# 모델 나눠 쓰기 (2026-11-24, gil 요청: 낮은 모델로 돼도 되는 건 바꾸기)
+MODEL = "claude-opus-5-5"         # 글쓰기 (초안·조회수 공식·리메이크·다시 쓰기) — 조회수에 직결돼서 최고 모델 유지
+LIGHT_MODEL = "claude-sonnet-5-5"  # 단순 작업 (사진 검수·캡처 읽기·댓글 답글) — 비용 약 절반
+USAGE_LOG = Path(__file__).resolve().parent.parent / "state" / "api_usage.jsonl"
+USAGE_KEEP = 3000  # 사용량 기록은 최근 이만큼 줄만 남김
 PERSONA = (Path(__file__).resolve().parent.parent / "prompts" / "persona.md").read_text(encoding="utf-8")
 
 SCHEMA = {
@@ -195,14 +199,14 @@ def remake_post(original, used=()):
         "8. 사진은 원문과 다른 장면으로 (image_prompt·photo_query는 같은 물건이지만 다른 각도·다른 상황).\n\n"
         f"참고: 최근 30일 올린 글 (이 글들과도 문장이 겹치지 않게):\n{used_text}"
     )
-    post = _ask(user_msg, SCHEMA)
+    post = _ask(user_msg, SCHEMA, task="리메이크")
     first_new = (post.get("text", "").splitlines() or [""])[0]
     first_old = (original["text"].splitlines() or [""])[0]
     sim = similarity(post.get("text", ""), original["text"])
     if sim > 0.5 or similarity(first_new, first_old) > 0.6 or not _subject_ok(post):
         print(f"[writer] 리메이크가 원문과 너무 비슷함 (전체 {sim:.2f}) 또는 주어 없음 → 다시 씀")
         post = _ask(user_msg + "\n\n주의: 지난번 결과가 원문과 너무 비슷했어. 첫 줄과 문장을 완전히 다른 말로, "
-                    "첫 줄엔 물건 이름을 넣어서 다시 써.", SCHEMA)
+                    "첫 줄엔 물건 이름을 넣어서 다시 써.", SCHEMA, task="리메이크")
     post["remake_similarity"] = round(similarity(post.get("text", ""), original["text"]), 2)
     return post
 
@@ -229,7 +233,7 @@ def rewrite_text(issue, angle, old_text):
         "첫 줄에 이유·방법(정답)이 들어 있으면 0점. 가장 높은 하나로 시작해 '글 흐름'대로 100~150자, 4~5줄로 써.\n"
         "정답은 셋째 줄부터 공개하고, 첫 줄에 가전·물건 이름은 꼭 넣어. 지난번 문장은 되풀이하지 마."
     )
-    return _ask(user_msg, TEXT_SCHEMA)
+    return _ask(user_msg, TEXT_SCHEMA, task="다시 쓰기")
 
 
 MEDIA_SCHEMA = {
@@ -260,10 +264,10 @@ def write_for_media(about, kind, used=(), external=None, images=(), videos=0):
         "5. issue 칸에는 '영상: ' 뒤에 물건을 한 줄로, product_keyword는 쿠팡에서 같은 물건을 찾을 키워드로."
         + _external_text(external)
     )
-    post = _ask(user_msg, MEDIA_SCHEMA)
+    post = _ask(user_msg, MEDIA_SCHEMA, task="사진 글")
     if not _subject_ok(post):
         post = _ask(user_msg + "\n\n주의: 첫 두 줄에 물건 이름이 빠졌어. 첫 줄에 subject를 그대로 넣어서 다시 써.",
-                    MEDIA_SCHEMA)
+                    MEDIA_SCHEMA, task="사진 글")
     return post
 
 
@@ -292,19 +296,19 @@ def _write_for_photo(topic, used_text, external, images, videos=0):
                                                 "media_type": "image/png" if img[:4] == b"\x89PNG" else "image/jpeg",
                                                 "data": base64.b64encode(img).decode()}}
                    for img in images[:10]] + [{"type": "text", "text": user_msg}]
-    post = _ask(content, MEDIA_SCHEMA)
+    post = _ask(content, MEDIA_SCHEMA, task="사진 글")
     if not _subject_ok(post):
         retry = "\n\n주의: 첫 두 줄에 물건 이름이 빠졌어. 첫 줄에 subject를 그대로 넣어서 다시 써."
         post = _ask(content[:-1] + [{"type": "text", "text": user_msg + retry}] if images else user_msg + retry,
-                    MEDIA_SCHEMA)
+                    MEDIA_SCHEMA, task="사진 글")
     return post
 
 
-def _ask(user_msg, schema):
+def _ask(user_msg, schema, model=MODEL, task="글쓰기"):
     """user_msg는 글자, 또는 사진이 섞인 내용 목록."""
     client = anthropic.Anthropic()
     response = client.beta.messages.create(
-        model=MODEL,
+        model=model,
         max_tokens=16000,
         system=PERSONA,
         messages=[{"role": "user", "content": user_msg}],
@@ -314,8 +318,23 @@ def _ask(user_msg, schema):
     )
     if response.stop_reason == "refusal":
         raise RuntimeError("Claude가 이번 글쓰기를 거절했어요.")
+    _log_usage(task, response)
     text = next(b.text for b in response.content if b.type == "text")
     return json.loads(text)
+
+
+def _log_usage(task, response):
+    """호출마다 모델·토큰 수를 state/api_usage.jsonl에 한 줄씩 남긴다 (비용 점검용, 글 내용은 안 남김)."""
+    try:
+        u = response.usage
+        row = {"t": datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M"), "task": task,
+               "model": response.model, "in": u.input_tokens, "out": u.output_tokens,
+               "cache_r": getattr(u, "cache_read_input_tokens", 0) or 0}
+        lines = USAGE_LOG.read_text(encoding="utf-8").splitlines() if USAGE_LOG.exists() else []
+        lines = (lines + [json.dumps(row, ensure_ascii=False)])[-USAGE_KEEP:]
+        USAGE_LOG.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    except Exception as e:  # 기록 실패가 글쓰기를 막으면 안 됨
+        print(f"[writer] 사용량 기록 실패: {e}")
 
 
 SNAP_SCHEMA = {
@@ -344,7 +363,7 @@ def read_snapshot(image_bytes, note=""):
     media = "image/png" if image_bytes[:4] == b"\x89PNG" else "image/jpeg"
     client = anthropic.Anthropic()
     response = client.beta.messages.create(
-        model=MODEL,
+        model=LIGHT_MODEL,
         max_tokens=8000,
         messages=[{"role": "user", "content": [
             {"type": "image", "source": {"type": "base64", "media_type": media,
@@ -356,6 +375,7 @@ def read_snapshot(image_bytes, note=""):
         betas=["server-side-fallback-2026-07-01"],
         fallbacks="default",
     )
+    _log_usage("캡처 읽기", response)
     text = next(b.text for b in response.content if b.type == "text")
     return json.loads(text)
 
@@ -382,7 +402,7 @@ def check_photo(image_bytes, subject, subject_en="", text=""):
              else "image/gif" if head[:3] == b"GIF" else "image/jpeg")
     client = anthropic.Anthropic()
     response = client.beta.messages.create(
-        model=MODEL,
+        model=LIGHT_MODEL,
         max_tokens=4000,
         messages=[{"role": "user", "content": [
             {"type": "image", "source": {"type": "base64", "media_type": media,
@@ -399,6 +419,7 @@ def check_photo(image_bytes, subject, subject_en="", text=""):
         betas=["server-side-fallback-2026-07-01"],
         fallbacks="default",
     )
+    _log_usage("사진 검수", response)
     text_out = next(b.text for b in response.content if b.type == "text")
     return json.loads(text_out)
 
@@ -470,4 +491,4 @@ def write_replies(comments, recent_sent=(), force=False):
     recent = "\n".join(f"- {t}" for t in recent_sent[-30:]) or "(없음)"
     extra = "\n- 이번엔 skip하지 말고 앞과 다른 말투로 새로 써 줘" if force else ""
     msg = f"{REPLY_RULE}{extra}\n\n## 최근에 단 답글\n{recent}\n\n## 댓글들\n{rows}"
-    return _ask(msg, REPLY_SCHEMA)["replies"]
+    return _ask(msg, REPLY_SCHEMA, model=LIGHT_MODEL, task="댓글 답글")["replies"]
