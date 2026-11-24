@@ -2,7 +2,7 @@
   "id": "20261124-1800",
   "created_at": "2026-11-24T18:00:54.154653+09:00",
   "publish_at": "2026-11-24T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 세탁기 통세척(통살균) 코스를 한 번도 안 돌리거나 빨래 넣고 돌리는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 392,
     "has_photo": true
-  }
+  },
+  "threads_id": "18128729527919794",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgH6BjoFTm5",
+  "reply_id": "18114753773271520",
+  "published_at": "2026-11-24T21:01:21.941915+09:00"
 }
