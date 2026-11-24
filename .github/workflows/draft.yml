@@ -17,6 +17,10 @@ on:
         description: "조회수 잘 나온 내 글을 조금 바꿔 다시 올리기 (몇 개, 예: 2. 비우면 안 함)"
         type: string
         default: ""
+      bench:
+        description: "텔레그램으로 보낸 벤치마킹 캡처를 본보기로 시험 글 만들기 (몇 개, 예: 2. 비우면 안 함)"
+        type: string
+        default: ""
       redo_mode:
         description: "text면 주제·사진은 두고 글만 다시 쓰기"
         type: string
@@ -47,6 +51,7 @@ jobs:
           REDO_ID: ${{ inputs.redo_id }}
           REDO_MODE: ${{ inputs.redo_mode }}
           REMAKE: ${{ inputs.remake }}
+          BENCH: ${{ inputs.bench }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
