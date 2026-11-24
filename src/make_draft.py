@@ -34,6 +34,17 @@ def main():
             draft.send(d)
             print(f"[make_draft] 리메이크 초안 {d['id']} 전송 (게시 예정 {d['publish_at']})")
         return
+    bench = os.environ.get("BENCH", "").strip()
+    if bench:  # gil이 보낸 벤치마킹 캡처를 본보기로 시험 글 만들기 (숫자 = 몇 개)
+        focuses = draft.pick_bench_focus(int(bench) if bench.isdigit() else 1)
+        if not focuses:
+            telegram.send_text("🧪 본보기로 쓸 벤치마킹 캡처가 없어요")
+            return
+        for focus in focuses:
+            d = draft.create_bench(focus)
+            draft.send(d)
+            print(f"[make_draft] 벤치마킹 시험 초안 {d['id']} 전송 (게시 예정 {d['publish_at']})")
+        return
     force = os.environ.get("FORCE") == "1"  # Actions 탭에서 수동 실행하면 바로 만듦
     slot = draft.slot_to_fill(datetime.now(draft.KST), force)
     if not slot:

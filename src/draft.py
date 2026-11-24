@@ -143,7 +143,7 @@ def publish_time(d):
 
 VIRAL_HOURS = {11}  # 하루 1건만 '조회수 공식'(모두 쓰는 가전+의견 갈리는 질문)으로 씀
 
-def _fill_content(d, avoid=()):
+def _fill_content(d, avoid=(), focus=None):
     collected = trends.collect()
     print(f"[draft] 이슈 수집: { {k: len(v) for k, v in collected.items()} }")
     try:
@@ -157,7 +157,7 @@ def _fill_content(d, avoid=()):
     used = used_topics(exclude_id=d.get("id"))
     viral = bool(d.get("publish_at")) and publish_time(d).hour in VIRAL_HOURS
     d["viral"] = viral
-    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks, external, used, viral)
+    post = writer.write_post(collected, list(recent_issues()) + list(avoid), benchmarks, external, used, viral, focus)
     print(f"[draft] 글 작성: {post['text']}")
     d.update(post)
     try:
@@ -347,6 +347,33 @@ def create_remake(original):
     log.append({"date": now.strftime("%Y-%m-%d"), "source": original["text"], "text": d["text"], "draft": d["id"]})
     REMAKE_LOG.parent.mkdir(exist_ok=True)
     REMAKE_LOG.write_text(json.dumps(log[-100:], ensure_ascii=False, indent=2), encoding="utf-8")
+    return d
+
+
+def pick_bench_focus(n=2, days=3):
+    """벤치마킹 시험 글의 본보기: 최근 며칠 안에 보낸 캡처 중 인기 높은 순 n개 (없으면 가장 최근 것)."""
+    items = bench_store.load()
+    since = (datetime.now() - timedelta(days=days)).isoformat()
+    fresh = [x for x in items if x.get("added_at", "") >= since and x.get("is_post", True)]
+    pool = fresh or items[-n:]
+    return sorted(pool, key=writer._engagement, reverse=True)[:n]
+
+
+def create_bench(focus):
+    """gil이 보낸 벤치마킹 글 하나를 본보기로 쓴 시험 추가 초안. 예약 글과 1시간 넘게 떨어진 시간에 자동 게시."""
+    now = datetime.now(KST)
+    d = {
+        "id": now.strftime("%Y%m%d-%H%M%S") + "b",
+        "created_at": now.isoformat(),
+        "publish_at": extra_time(now).isoformat(),
+        "status": "pending",
+        "product": 0,
+        "bench_of": {"author": focus.get("author", ""), "text": focus.get("text", "")},
+    }
+    _fill_content(d, focus=focus)
+    d["benchmark_note"] = f"🧪 벤치마킹 시험 (@{focus.get('author', '')} 형식) · {d.get('benchmark_note', '')}"
+    d["format"] = default_format(d)
+    save(d)
     return d
 
 

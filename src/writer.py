@@ -76,7 +76,27 @@ VIRAL_RULE = (
 )
 
 
-def write_post(trends, recent_issues=(), benchmarks=None, external=None, used=(), viral=False):
+def _focus_text(focus):
+    """벤치마킹 시험 글: gil이 보낸 글 하나를 이번 글의 본보기로 삼는다."""
+    return (
+        "\n\n## ★ 이번 글의 본보기 (벤치마킹 시험, 가장 중요)\n"
+        f"@{focus.get('author', '')} 글 [좋아요 {focus.get('likes', '?')} · 댓글 {focus.get('replies', '?')} · "
+        f"공유 {focus.get('reposts', '?')}]\n{focus['text'][:300]}\n"
+        f"→ 잘된 이유: {focus.get('why_it_works', '')}\n"
+        f"→ 형식 규칙: {' / '.join(focus.get('format_rules', []))}\n\n"
+        "이번 글은 위 본보기의 형식을 그대로 따라 써: 첫 줄 방식, 줄 수·줄 나눔, 문단 나누기, 말투(ㅋㅋ ;; .. 이모지), "
+        "끝맺음, 질문 넣는 위치까지. 위의 '글 흐름'·'100~150자'·'정답은 셋째 줄부터' 규칙과 부딪치면 본보기 형식을 우선해.\n"
+        "단 지켜야 할 것:\n"
+        "- 문장·표현은 베끼지 마. 주제는 페르소나 주제(가성비 살림템·가전·주방·청소세탁)로, 누구나 아는 흔한 물건으로.\n"
+        "- 첫 줄이나 둘째 줄에 물건 이름(종류)을 꼭 넣어 (subject).\n"
+        "- 본보기가 사용 후기 말투여도 '내가 사서 써 봤더니 좋더라' 같은 지어낸 사용 후기는 금지야. "
+        "대신 '이런 게 있었어?' 발견감, '이거 어디에 쓰는 거야?' 질문, 비싼 것과의 가격 대비처럼 같은 형식을 정보·질문으로 바꿔 써.\n"
+        "- 가격·브랜드·제품명은 확실하지 않으면 지어내지 마 (브랜드·상품 이름은 본문에 안 씀).\n"
+        "- benchmark_note에는 본보기에서 무엇을 가져왔는지 한 줄로 적어."
+    )
+
+
+def write_post(trends, recent_issues=(), benchmarks=None, external=None, used=(), viral=False, focus=None):
     """trends: {출처: [제목...]}, recent_issues: 최근에 다룬 이슈(중복 방지)."""
     lines = []
     for source, titles in trends.items():
@@ -115,6 +135,7 @@ def write_post(trends, recent_issues=(), benchmarks=None, external=None, used=()
         + _external_text(external)
         + _benchmark_text(benchmarks)
         + (VIRAL_RULE if viral else "")
+        + (_focus_text(focus) if focus else "")
     )
 
     post = _ask(user_msg, SCHEMA)
@@ -424,11 +445,24 @@ def check_photo(image_bytes, subject, subject_en="", text=""):
     return json.loads(text_out)
 
 
+def _engagement(x):
+    """조회수가 있으면 조회수, 없으면 좋아요·댓글·공유로 대신 잰 인기 점수."""
+    if x.get("views", -1) >= 0:
+        return x["views"]
+    return sum(max(x.get(k, -1), 0) for k in ("likes", "replies", "reposts")) * 10
+
+
 def _external_text(external):
     """gil이 보내 준 다른 계정 인기글 스냅샷 분석을 프롬프트용 글로 만든다."""
     if not external:
         return ""
-    picks = sorted(external, key=lambda x: x.get("views", -1), reverse=True)[:6]
+    # 최근 7일 안에 보낸 글은 조회수를 몰라도(-1) 꼭 넣는다. 예전엔 조회수 순으로만 골라서
+    # 조회수 없는 새 캡처가 빠지는 문제가 있었음 (2026-11-24).
+    since = (datetime.now() - timedelta(days=7)).isoformat()
+    fresh = [x for x in external if x.get("added_at", "") >= since]
+    fresh.sort(key=lambda x: x.get("added_at", ""), reverse=True)
+    rest = sorted([x for x in external if x not in fresh], key=_engagement, reverse=True)
+    picks = (fresh + rest)[:6]
     parts = []
     for x in picks:
         views = f"조회 {x['views']:,}" if x.get("views", -1) >= 0 else "조회 ?"
