@@ -2,7 +2,7 @@
   "id": "20261124-1401",
   "created_at": "2026-11-24T14:01:26.098877+09:00",
   "publish_at": "2026-11-24T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "중고나라, '지도 기반 상품 탐색' 기능 도입 (계기만 참고) → 살림템 흔한 실수: 냉장고 탈취제 대신 쓰는 베이킹소다를 몇 달씩 그대로 두는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 381,
     "has_photo": true
-  }
+  },
+  "threads_id": "18123538513996849",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgHlhWslTIb",
+  "reply_id": "18143030791616619",
+  "published_at": "2026-11-24T18:02:16.928364+09:00"
 }
