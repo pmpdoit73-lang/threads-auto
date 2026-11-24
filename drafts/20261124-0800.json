@@ -2,7 +2,7 @@
   "id": "20261124-0800",
   "created_at": "2026-11-24T08:00:52.987516+09:00",
   "publish_at": "2026-11-24T11:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": true,
   "issue": "오늘의 대박 공식 글: 전기밥솥 밥을 하루 넘게 보온으로 두는 습관 (세탁기 온도 글 후속편, 보온 시간 각도)",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 378,
     "has_photo": true
-  }
+  },
+  "threads_id": "18481637980191811",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgG1WwGDWmt",
+  "reply_id": "17928124071442283",
+  "published_at": "2026-11-24T11:01:31.211432+09:00"
 }
