@@ -431,7 +431,7 @@ def process_schedule():
         try_publish(d)
 
 
-REPLIES_ON = True  # 댓글 답글 초안 기능 (끄려면 False)
+REPLIES_ON = True  # 댓글 답글 기능 전체 (끄려면 False). 자동/승인 모드는 replies.AUTO_MODE
 
 
 def process_replies():

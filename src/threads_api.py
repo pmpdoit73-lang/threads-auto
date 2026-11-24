@@ -29,6 +29,15 @@ def _get(path, **params):
     return body
 
 
+def delete(media_id):
+    """내가 올린 글·답글 삭제 (토큰에 threads_delete 권한이 있어야 됨)."""
+    resp = requests.delete(f"{BASE}/{media_id}", params={"access_token": _token()}, timeout=TIMEOUT)
+    body = resp.json()
+    if resp.status_code != 200 or "error" in body:
+        raise RuntimeError(f"쓰레드 API 오류 (삭제): {body.get('error', body)}")
+    return body
+
+
 def _wait_ready(container_id, tries=10):
     """컨테이너(올릴 준비물)가 처리 완료될 때까지 기다린다."""
     for _ in range(tries):
