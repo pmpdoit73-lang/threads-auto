@@ -1,0 +1,53 @@
+{
+  "id": "20261124-2200",
+  "created_at": "2026-11-24T22:00:56.701520+09:00",
+  "publish_at": "2026-11-25T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기레인지·밥솥 말고 — 전자레인지 아닌, 냉장고 아닌 '스텐 수세미로 유리 냄비뚜껑' 아닌 → 깨진 계란 아닌 '라면 끓일 때 냄비 뚜껑 덮지 않고 물 끓이는 습관'",
+  "angle": "냄비 물 끓일 때 뚜껑 안 덮어서 시간·가스비 손해 보는 걸 몰랐던 점",
+  "category": "주방",
+  "subject": "냄비 뚜껑",
+  "hooks": [
+    "냄비 뚜껑 30년 동안 이렇게 쓰고 있었어... (9/10)",
+    "라면 물 끓이다가 냄비 뚜껑 보고 나 뭐 한 거지? (8/10)",
+    "얘들아 냄비 뚜껑이 이런 일을 하는 거였어? (7/10)",
+    "냄비 뚜껑 원래 끓고 나서 덮는 건 줄 알았는데..? (7/10)",
+    "냄비 뚜껑 하나로 가스비가 갈린다고..? (6/10)"
+  ],
+  "text": "냄비 뚜껑 30년 동안 이렇게 쓰고 있었어...\n물 올려놓고 뚜껑은 싱크대에 던져두고ㅋㅋ\n근데 열이 위로 다 날아가서 끓는 데 더 오래 걸린대\n난 이제 뚜껑 덮고 끓이니까 라면 물이 몇 분은 빨라\n너네 물 끓일 때 뚜껑 덮어..?",
+  "subject_en": "stainless steel cooking pot with a glass lid on a home gas stove burner",
+  "image_prompt": "A stainless steel cooking pot with its glass lid placed next to it on the counter, clearly visible in the center of the frame, sitting on a home gas stove with water starting to steam. Casual smartphone snapshot in an ordinary Korean apartment kitchen, slightly tilted angle, cluttered counter with a ramen packet and dish rack in background, plain indoor lighting, no people, no text, no logos.",
+  "photo_query": "pot lid boiling water",
+  "product_keyword": "유리 냄비뚜껑",
+  "benchmark_note": "내 글 상위 '○○ 30년 동안 이렇게 ~있었어...' 첫 줄+실수 고백+'근데 ~대'+'난 이제'+'너네 ~..?' 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "파이렉스 유리뚜껑 냄비 후라이팬 돔유리 내열유리 뚜껑 16cm, 1개, 16cm",
+      "price": 23200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9091601639&itemId=26718757352&vendorItemId=93690332708&traceid=V0-153-568a61b420dbd577&clickBeacon=2439f830-e807-11f1-aea2-9fafd48dee57%7E3&requestid=20261124220119463269095133&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/vo_d7YYqPC5JcGZGvpBp25ZI6t_NRlvjsEUdDodqGdEJVzA_qV_EJ3BXvPfSFNregpGakpNmIrKGh0LgG7BgJdwcxEa_sVwpmsKy6WvEVXjhT-mrFuqR4GntNGnvgEabxmLZZMeyaGJhqQ7cr5UnFVG1wxEcmOdgszfIMkrufl897EMVo4QyKE6FrKuCH8faSRNV2-jK20Z_5Zz-HeZEDU5sTtu0paQJyBZNGeAwIVpwMs8XfKPpp3UxMbHjN-_0FCx25qbWbD6hGvg0A6DNMAPKjNcokoQFdpvFpmRmEPmTYZT9RS71BLdvRENERJTKRNL_YSSrLv1oP7MpngNiLz4RmK1arqtshdIZldVO9TfupINO4ZHJoDb-Mv4Rb5-0hhDSf9HoplpyOqsWqcPzsMt2JLz-Y2e3XEXek2g5U1OVkoDatyTIrwggzRdyhQGhhZVU9Fq8B0E0Jk-jAr_JZq666v3BDBVFZNIeYK-e0BpSWX-wFrWhfEuZzXSAn134cs8IPdZAUTOTwN4gNWAbmwe3B5eM"
+    },
+    {
+      "name": "딥블랙 실리콘 멀티커버 소, 23.5cm, 5개",
+      "price": 49500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8123158947&itemId=29202859847&vendorItemId=96123128213&traceid=V0-153-518142fb392cb75a&clickBeacon=2439f830-e807-11f1-be7d-a9f19e27554e%7E3&requestid=20261124220119463269095133&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/fcshHYR1prm7-A5IfWNsynS-J6aKw6lD040g3rFgJPYp53ez76T0nuSsKtBSFG8bRIrx3e4rhxJOOUg1nEASTjszHD2LcnyufVPIpzPkj5dI39ZjQp3IdICfplKb5NHMI5hCuetEwsLoJOss5BXuBGwZC6sFcDNJA3ewDsHoIhhfdiwRkj379mLqUcb_C4nhu6BccgxT0iAjRLDB67AsrGwMBv25D3iyCVkCzB40XRTkINVGlcBR6baMKd4wE30Yq0z2h8yQ43D66HyzoipU5WJWQQTd2rW1S-64jSCYK9EmE06_T46z1XqA--UUUIjdVX6gN3_iIepdTqPuHImXNrkVu7xj0mBAtDX_BPNzTXZrCZMRby4o3-GXny8Kktx1k3z4i9obSeLyY3dFiV1aRM-ziq0WW_CTIg82rMLkRUFZXkoCkVvr-UC6uILE2QUSrr66sk6FXVG4x8Rv3a3Nf6rcLHvmuPsBm6GEjm0pr5eYeSNiU12X4dOQNclrf8Y-4nGN31pxbCiMscM="
+    },
+    {
+      "name": "발룬피니 내열유리 돔형 스텐 손잡이 뚜껑",
+      "price": 9990.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9560512955&itemId=28530064252&vendorItemId=95476032722&traceid=V0-153-4962c06319dbce77&requestid=20261124220119463269095133&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/blT9KPqpVEn9Cammbh5E0596_-of7nTR-qyjOeUl25VrAq47vJca0jqT-wsp8zqFc08KaqqHHR9QHz1zCQoVoA8IUNr9GH5ng9LQZutp8OdMIYcdmfwU4JdLdBT7Z1Rx5GKZQmNcQVts0knAH_yY83fJryIAb6oz4oaQeGCswP9T3WfMiGpabArN5wK74MEQValc5hSmAwaLEGIrZpjkIC-GUJfNcMKlfjjOUx9GFtR-MCDCNHCVzKm0wCiGxfPE0N9W6DoOUibh_qZvRnFAO6XCbHKpwqHzEtFBmNeBNXZF3YxOffGOQ3cB4_-LSaT6fPRPBNuz3vPNz-XFFBpQZjWsi4zPApSTvc3dbfewaf1bCafTjlwoDr5YKPo6EXOmHY_hGC9TGu-SSLnzc1VdfcupiwL-RQnB0eiMJ6JZRP9D6TifV8NbmG0_fL3G4CdgiIYdVFgho4C3fitsJQgX0buXdl3-7hyKpqHzpDOKBrpJHy4ZShcOaXPv27ls8CqDGr-kG_Hc15pb5Gq7F-5SCVDpQA=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 393,
+    "has_photo": true
+  }
+}
