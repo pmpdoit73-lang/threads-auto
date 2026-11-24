@@ -1,0 +1,53 @@
+{
+  "id": "20261125-0802",
+  "created_at": "2026-11-25T08:02:08.649433+09:00",
+  "publish_at": "2026-11-25T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 냉장고 문을 열어둔 채 반찬 고르는 습관 (세탁기 온도 글 후속편, 전기요금 각도)",
+  "angle": "냉장고 문 열고 오래 고민하면 냉기가 빠져 다시 식히느라 전기를 더 쓰는 손해",
+  "category": "살림템·가전",
+  "subject": "냉장고",
+  "hooks": [
+    "냉장고 문 30년 동안 이렇게 열고 있었어... (9/10)",
+    "냉장고 앞에서 나 뭐 한 거지? (7/10)",
+    "얘들아 냉장고 문 여는 습관 하나로 전기 새는 거 알았어? (6/10)",
+    "냉장고 문 열고 서 있는 거 나만 그래..? (7/10)",
+    "냉장고 문 알람 원래 고장인 줄 알았는데..? (6/10)"
+  ],
+  "text": "냉장고 문 30년 동안 이렇게 열고 있었어...\n문 활짝 열고 뭐 먹지 한참 고민ㅋㅋ\n근데 그동안 냉기 빠져서 다시 식히느라 전기 더 쓴대\n난 이제 닫힌 문 앞에서 정하고 10초 안에 꺼내\n너넨 냉장고 문 몇 초 열어둬..?",
+  "subject_en": "two-door home refrigerator with the door wide open in a kitchen",
+  "image_prompt": "A two-door home refrigerator with its door wide open is clearly visible in the center of the frame, shelves filled with side-dish containers and bottles glowing under the interior light. Ordinary Korean apartment kitchen at night, slightly tilted casual smartphone snapshot, a bit of clutter on the counter, plain realistic lighting, no people, no faces, no text, no logos.",
+  "photo_query": "open refrigerator door",
+  "product_keyword": "냉장고 정리 용기",
+  "benchmark_note": "내 최고 글 '[물건] 30년 동안 이렇게 ~있었어...' 첫 줄+ㅋㅋ 실수 고백+'너넨 몇 ~해..?' 각자 답하는 질문 형식, 셀프디스 구조는 짜장면 글에서 가져옴",
+  "products": [
+    {
+      "name": "마치홈 냉장고정리함 야채 보관용기, 4개, 그린",
+      "price": 29640,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8544340284&itemId=24739156201&vendorItemId=91747880405&traceid=V0-153-bc5bf989e1994d1f&clickBeacon=1fe07df0-e85b-11f1-b6c1-f8db06928886%7E3&requestid=20261125080229870104299686&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/t2Jj4m77QFztr43_t0X5vxL7Kc0ujD0d-e4iKIveL5dqnnN8EzBf2AQVKY2m56HLsFFj_MLQzEMMUEC7tgWNzy9W0sNQsoJ8ehoXJSD6sDV_448qIRmMcxEqGsQ5PbWBtq7hp1D1V0XRu1v4ps7AmV077iGemCc_JGU2XLRBYuSG1qrsee8S4GiS4mR3GzAuIvy-DQpo8NeZ-6nAg1T98rI0IV5ckJi3ei3WGRRCtKxOGQRLjiCsbRYHYcMNJc4M3BIpdUa5TA54Ckbz_YyPEZB7dqu48pmdyLvGPYuUbF3yF_XhyplSo5oxKcDYRhZ1RwuXtXYNj6pgSNC8l-i68vDVm7VPbNqJq4oQnyjxZ_uxN_kCcgKi_oPlfIwxeqPgK4rpA6jq7BQI_B4oRzN8oDwf2nptIdWJbJzNm3l0nNmpVNsPdYZQviVkJaETvEwSfFXFAkruyb8eHhPXn9nmo88ZVldif7KZxPSGLSNXpG_X3vuK4UUsbAzv-JP_C_faMSPeLgQHtab0tD2M3_yYmRs_tqo_1wSF"
+    },
+    {
+      "name": "하코리 냉장고 정리 대형 다용도 트레이, 4개, 투명",
+      "price": 19900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8819129406&itemId=29069148054&vendorItemId=95995403921&traceid=V0-153-545c5fa08a441d7a&clickBeacon=1fe0a500-e85b-11f1-8dd7-36b490bdf529%7E3&requestid=20261125080229870104299686&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/-EFJuap23rzD1E8a-JgrRaFIhqPM9Gs7YcwHAZ5ZgkKkC5PQU2QNOazY68R0sniEF52oA2e116ZFt_KNdQpw4ClGrtlsrgCj5w6YKAvlrVbFcZsvsaQX_6T3kguoFBgT7qR2dQjmkbJTZSlP2eWSWqNPac6FfRgQ_PKi8kabjilHagsVtvbZlqehf9bCChIEn_bNPEulI6eV2aaJ-Gz353CX2iJpkuncYS0eOPvI8lF6vzyXqBkSQFy7rCKDlUDrzGE26itSOLZmsOX0nw7VhOAcHNYSEojadqtAAIz0nTs261HkUhH0uWqGOULqQ7Ns7JKggj1V88Qdlb99cZ6Dh9swNH1orwycwDyXuty05qpvV8BghcVgBQfWbUVcp6ZXL6buNKmy-nYv2quEnghI84a7Ivr1YZSPf8qcjCqWHKEOUl6njidH_n2QgT0SNdVfiKodATQRb6dlqpmtqUlg1XhqJfxQhmwRuKKXCBXrN5w94bhRQw5lana5x9axE4WRVeuXsMIaxmCwYMRkEr7UnO-Ff_lDYpM="
+    },
+    {
+      "name": "땡스소윤 냉동실 전용 밀폐용기 7호 투명그레이",
+      "price": 21220,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6612749264&itemId=29201736889&vendorItemId=96122054887&traceid=V0-153-963b4b7487fef7c5&requestid=20261125080229870104299686&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/Awiu3h-T4Og4Nj8rA6U8XqbpSdmND-vFCXNab7FDC0OoqtAZWHuhvRrGX4O03kIhG4QJY54jm5prjzlQD4RsTF-LT97qe1vZkfJtylS7GZ6iX61ff0dQQbTBQM1t59BoxtFdLowUxsCCU-dAE3IkIGE7g0H4-H3gSePKjI7LYsuN09Nq7vuSC9ydQ22ehvhSSF6Bla6B5FfDo2TsHR8Ghwfhx8S2NVO80dAINcmSmmxXxJ0xjVL3_Tsop6yk4giHMw4d_uKBAbisfzaXfv7B23UF8lbiAzjhEYqdA_xPuL_m1eTkt0R2AlcEEtHfWZAgIDstllIQjfFefvCYOutSlPfNVw8YtmRy4wE8jiDw5WK73LRWIC8mxtTlyqiq4O04Lf6HwiiED6MBX1rh5Dz8eCuB_Pk0F024dBP2-dsORgfdLs7DC778cf4NfN566dgCykQTLqRqP8qnIeFEauJS24U8plO52ZTpbVhH7xvu1yeVY8skU8IMFIn7bhgmZ_yTTO-BZb_AvpzMS7OAKY1zluev-VDptw=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 394,
+    "has_photo": true
+  }
+}
