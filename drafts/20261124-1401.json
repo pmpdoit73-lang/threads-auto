@@ -1,0 +1,53 @@
+{
+  "id": "20261124-1401",
+  "created_at": "2026-11-24T14:01:26.098877+09:00",
+  "publish_at": "2026-11-24T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "중고나라, '지도 기반 상품 탐색' 기능 도입 (계기만 참고) → 살림템 흔한 실수: 냉장고 탈취제 대신 쓰는 베이킹소다를 몇 달씩 그대로 두는 습관",
+  "angle": "냉장고 냄새 잡는다고 넣어둔 베이킹소다 통, 한 번 넣고 몇 달씩 방치하면 냄새 흡수도 못 하고 자리만 차지하는 손해",
+  "category": "청소·세탁·정리",
+  "subject": "베이킹소다",
+  "hooks": [
+    "냉장고 베이킹소다 통 30년 동안 이렇게 두고 있었어... (9/10)",
+    "냉장고 구석 베이킹소다 꺼내 보고 나 뭐 한 거지? (8/10)",
+    "얘들아 냉장고 베이킹소다 통에 유통기한 같은 게 있었어? (7/10)",
+    "냉장고 베이킹소다 원래 한 번 넣으면 끝인 줄 알았는데..? (7/10)",
+    "냉장고 베이킹소다 통 열어보고 한참 서 있었어... (6/10)"
+  ],
+  "text": "냉장고 베이킹소다 통 30년 동안 이렇게 두고 있었어...\n한 번 넣고 언제 넣었는지도 까먹은 채로ㅋㅋ\n근데 냄새 먹으면 굳어서 더는 못 빨아들인대\n난 이제 한 달마다 바꾸고 헌 건 싱크대 배수구에 부어\n너네 냉장고 베이킹소다 언제 넣은 거야..?",
+  "subject_en": "open plastic container of white baking soda powder used as a refrigerator deodorizer, sitting on a fridge shelf (not a jar of sugar or salt)",
+  "image_prompt": "A small open plastic container filled with slightly clumped white baking soda powder used as a fridge deodorizer is clearly visible in the center of the frame, sitting on a refrigerator glass shelf. Casual phone snapshot taken at home, slightly tilted angle, cold fridge interior light, a few side dish containers and a kimchi container partly visible around it, ordinary cluttered Korean household fridge, no people, no text, no logos.",
+  "photo_query": "baking soda refrigerator deodorizer",
+  "product_keyword": "냉장고 탈취제 베이킹소다",
+  "benchmark_note": "내 글 김·부침가루의 '○○ 30년 동안 이렇게 두고 있었어...' 첫 줄+셀프디스 둘째 줄+'너네 ~..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "베이킹소다 냉장고 탈취제 500g_단일상품",
+      "price": 5310.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9820027815&itemId=29411482860&vendorItemId=96321815595&traceid=V0-153-05e4a858f6eed606&requestid=20261124140153171198757652&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Mk5tu045MmUJEfFsMjmFWsR9JBmaf4n0SK7UEsrlgrnRM1lCevdVIj2CPj3PdmyYIrnX66azOxfzHQfaDZvqJYF7H6W0bsrx0kejK1NlHdoegjzBaneZAUWES9yxRH6HjPosgqxT14niHYif6OgZwx3e7I_TnnTU8S0LF5lM0vB4GKlNC2SqTMIK31j5bgY9Kmj08-aki1l21FquC_5s6bci1_Cq9jsLFkD-7xqqg2GHDXKmY2WLi_H1GfpXcYiaVnHDJHAO-3CXU3gHdXPybTaJgTMOg8WS3bz7WDWdeN-vISqmk_ytHODvbKC2Y0NyHGlHB1k52SAP6QiWImYu4lktfWTqGcc5aqbQzE4oVpfivZdaHZvfUPEIUcIbXyy9h-WWs2li8qdXCo-Xl0AC-jJF49A-qG0wD1MRj_8xTSzIMHAoBo7c3YV-BOaXkmM8M9IyiOOMpfVO-rxN5aKpHe2yP4bQSuC74oOwaf0YMlQCGESpDdTFL_5RTYKsJb8yna2jqxDwOcBGqtHumnwabHX1YV1iCMvLmjm0zOeKlw=="
+    },
+    {
+      "name": "암앤해머 프리지앤프리저 베이킹소다 냉장고탈취제",
+      "price": 10600.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=3159726&itemId=25948950305&vendorItemId=95697771155&traceid=V0-153-37a724490486db63&requestid=20261124140153171198757652&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/OJD6pvAfskd2BtDPOJFEsp30uDFWJ_MWG9VSWspoO2--BvSkYOIrOKRNkyovot_tACHNsEISImG3gjmucPFptkJapckhOxoZDYYWdnz1uKuYy5yJDYlbxobzzeocmfURpxTOshp0pH5J3V3t8MeX6yUN65fg0wr_zvl3SAwyVhR0kIzrAfPe8O8amIvvkCnk_fQfZ8rFcOEKHxnBo9wUBSJvONiRf6wwXPbu53AJHzGDjzQ0ZGc9QJMAE1BVQD9zqv0P6wRMwFpGT0WjJU0CwHbteVp5xvKC2189Wj6yLrQiqzI_XZz_5yL8MJhareh2qGLT2FZyJjSRaWMmjMRIVu8F-gi_3_io9wNJ6JlUdPy5xwxIGYbc0iyGqUviKdCbVu3QCd0hS9WV8G1pa9wP5dvYoWaG5JrezbeYxFrTYCmpA228lxHLDWHr0QVHdhy01-m8QIDa0RYEUF_rU7f1W7Zc7jjMRPLjS6yOSDvcLDyiCr-XTlqR55-z7WMDStaASvkKTbShB8erPfJ0DkRX8KYED8jbprcReKjR3w=="
+    },
+    {
+      "name": "생활공작소 베이킹소다 냉장고 탈취제 본품",
+      "price": 19900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5016234691&itemId=6722290838&vendorItemId=81962229483&traceid=V0-153-fe7859f0dd483f5a&requestid=20261124140153171198757652&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/LbRF3oX83XWoBFZJLVterLSpgztcdRj6bywX1roB4fX3dO_H2qwRw0jdyw9SpFJp2ASQyUiUNSfWzTnItHhpIs15y7XHx3bOc2nbLNWd1UQIO344RQ5Hqc25pebjnXTZPHJP1ueaCjfPi5UWygV548nQPdv5b9PYZ_H2rLWsl_2eJu0_5yhXvUikTEItdBLDHixHytuhMTCxsAzG44OeO2epJ8EPMPbrLSf-nF6YlYU-Vci7duroD5wndH9t7g4eXeWl7MXNPUm5X02GlhYYo6a51KEQC3l2QphWMTl4llHXoz0VqdCCj3rGNtwu7LVT0paQS11FlxmGwDxUlBeAtol0b4K84BvmVPlBpIT2mHA33LFK5TswyZ7dF2InG_c_NyBrr24MqK9YH6acQRVfd01uBXBCK1L39TCP2RtFlraUpKr5CF7FVW3B3VHMAXmGCq77DoKiBAhe88Shj_C7Yox9kQkEcYrIPpy_bk0JoYgcRdqmoKMbdq5uEZXSUj1wXYkOTsGN1WnKJvTW4L4erG7buCwbG6VtLe87Skbh168="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 381,
+    "has_photo": true
+  }
+}
