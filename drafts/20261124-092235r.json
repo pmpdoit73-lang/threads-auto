@@ -1,0 +1,58 @@
+{
+  "id": "20261124-092235r",
+  "created_at": "2026-11-24T09:22:35.694008+09:00",
+  "publish_at": "2026-11-24T12:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "remake_of": {
+    "text": "세탁기 온도 버튼 30년 동안 이렇게 눌렀어...\n뭐든 40도가 깨끗한 줄 알았거든ㅋㅋ\n근데 세탁기 전기 대부분이 물 데우는 데 쓰인대\n난 이제 평소 빨래는 찬물·30도, 수건만 40도\n너네 온도 버튼 몇 도에 두고 써..?",
+    "views": 115672,
+    "date": "2026-10-31"
+  },
+  "issue": "리메이크: 세탁기 온도 버튼 30년 동안 이렇게 눌렀어...",
+  "angle": "세탁기 전기 대부분이 물 데우는 데 들어가는데 습관처럼 40도로 돌려 손해 보던 걸 신혼 때부터의 실수로 고백",
+  "category": "살림템·가전",
+  "subject": "세탁기 온도 버튼",
+  "hooks": [
+    "신혼 때부터 세탁기 온도 버튼 한 번도 안 건드렸어... (9/10)",
+    "엄마가 40도라길래 세탁기 온도 그대로 믿었는데..? (8/10)",
+    "세탁기 온도 버튼, 우리 집만 이 숫자에 고정이야? (7/10)",
+    "얘들아 세탁기 온도 버튼 숫자 보고 놀랐어 (6/10)",
+    "세탁기 온도 낮추면 전기 아껴 (0/10)"
+  ],
+  "text": "신혼 때부터 세탁기 온도 버튼 한 번도 안 건드렸어...\n따뜻해야 때가 빠진다고 믿었지ㅋㅋ\n알고 보니 세탁기 전기는 거의 다 물 데우는 값이래\n요즘은 옷은 찬물이나 30도, 수건 돌릴 때만 40도\n너넨 수건이랑 옷 따로 돌려, 같이 돌려..?",
+  "subject_en": "front-loading washing machine control panel temperature selection button (wash water temperature setting, cold/30/40°C)",
+  "image_prompt": "A front-loading washing machine control panel with the temperature selection button clearly visible in the center of the frame, shot from slightly above at a tilted casual angle. A finger hovers near the button, a laundry basket with folded towels and everyday clothes sits on top of the machine, cramped Korean apartment utility room, dim fluorescent light, ordinary amateur phone photo, slightly off-center and a bit blurry, no faces, no text, no logos.",
+  "photo_query": "washing machine temperature dial",
+  "product_keyword": "세탁기 냉수 세탁세제",
+  "benchmark_note": "🔁 리메이크 (원문 조회 115,672) · 실수담→이유→난 이제→답 갈리는 질문 구조와 찬물·30도/수건 40도 정보는 살리고, 첫 줄을 '신혼 때부터 안 건드림'으로, 마지막 질문을 '따로 vs 같이 돌리기'로 바꿈",
+  "remake_similarity": 0.44,
+  "products": [
+    {
+      "name": "러비뉴 흡한 속건 냉감 쿨링 얇은 무지 반팔 티셔츠 1+1",
+      "price": 16800.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7384337546&itemId=19077848015&vendorItemId=86200319888&traceid=V0-153-fcc274f4edf42158&requestid=20261124092246970227165660&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/mqOZRdqFWS5E_lpwmr9xvD2wUMGUQoDQDqVDzIaF4t9BZ0h1_Pz7MN1JDH_n7L7IkTeoQm2S24t6jo6LtRHQuNSZkndfEIrbQx1_W1Ft8LPdc6HEdtKgFKi2Ncx5HX_X5od8azsycP8hghVwxCEsJUdKFZupGAcsD7YrIagMjsD8yBKjAjL9Vv0-zjHDXWSrlhFehoAV_dy_X2HMpCJBTkUUhuKqWP2EE3NLUHYQlFS8-cERzdZEQNQf_nx96mnBuWGeN5cMMT7w0Hdn4RafSFrgUpJyxQCgNygSb2TV9uo2JmN9pBYiGDqfiqeNldft2hURkE-5EP6NQWkMm3ueXz1Z9olOf2TnAFv_cY2OPMiAZnA0jDF8Bsw4r0d4LkskH2gOmMCe676FH-o13ivUx1Y2Sh-CiRb_MHB6ONDew2Db_bb2DfBqH27Yf3q4N3VTl8xmiuB4By3jTFvQGZ_WcK3Rk0rNztoGAeOH22iPEab2tsf3N7nGxYieHMhMFgs5VtYK2c1cZfvt0sLAihG3719rpLRKJM6sa9y8FuzTolCz"
+    },
+    {
+      "name": "청춘생활 워터클리닝 섬유유연제 1L",
+      "price": 21500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8723710368&itemId=25341971028&vendorItemId=92336623792&traceid=V0-153-d650e7347843928c&requestid=20261124092246970227165660&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/yhgH_EhIEcYQBM89ykCXdThhrZ1KJLHwJ3k86wyGGAkNetIoPVWtr-FFB3ApjIkmyKuEu9EQVZdkZ5XE6XduuhD0i8tcWyocUotYOWFXFRREb8p0DCxlbURQaZbK3Qxx6BKNagrNWUkvUC7rAM0CZ4tsE8oMP3AdUMD-WZVRYlJGZxzGsIFRZl6B0tRiKY4lLgdSCiz7UYU907GpVxOyxmPjqkfPInFr_1yZR0tWBk97IVEjIgtS1FYHvvSKlQUws8rvZP1CRLS8Ia905-vz7-O10_o3sdgSIsR8WuY2o6YkxsylVcoYfnvbNN0s33u3jHl0GCuZwEX75NhNBryXV0cPvsi1NCeCw2zbtwdxS2-IujYSy5OZ0dWnjdJVhk-FzDYmDL2vLcrD44quLdZq0TIly5wnzKRlys3Mh98yqg13Tph_nE0qiLmQCfbpqDfim2-_WNIje2YtrR_uS11_KWHHxwlMKaQYeJ8IPLZh3QLHc2M_LTvtg4tap1Bc-yctmSq5rdzw2XPVGWGPtK0nsvWFWqTvWuzKIX63aRjzHw=="
+    },
+    {
+      "name": "푸마 반바지 헬스복 축구복 팀리가 사이드라인 쇼츠",
+      "price": 21000.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6778734142&itemId=15934513497&vendorItemId=92976614672&traceid=V0-153-62db4bd917fc9e3a&requestid=20261124092246970227165660&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/qbzgvewv4VnWH30NqVLUHv0MDKRq2kcJxqlqZkIVZXx6UHSBgPwq0YIbmJVdh3wd2MbZQXEFWyeDnIcaVam3BqGZOyrGkFRXkTK-k-BnhBn1q_p05f86ZO1C2yp0dQjZs-ZTjaLsWa8d0E-O76LTdgU3serLrWsm2DsS7e_jv_7JXVNeY_8OaXIwden5FLt1JyfDxe1DogCq2pLC9VJwwWPtuQcV9EbV8QDDEFQ7A-2P2DNbVQHUDsYz-ZVMwuhatXcHl5fWA2i15aW5AXGnzea6SzW7QGi7TA-sqoPOva-iEPQvEr9C7JuvYNcpV4uqa7Gkz5Z-hvJt5-FrX6fKgKIbmTxQNWIAlFaeQsinOZPlSn8fz1Eete12Fe1MGPnG8jrxEQMU6tCyisfiMKECclU3HEB5PLGv0gbMgyo1r1blcPy6i1qwyhwKwBYReURJV_9HLKZEZX2nL1ql5NI4lN01WOjQUhADOIiOaxyAUfKwjpyO_vBGrtrERU0a76iL0SnW3iNeBbGVAs__TCeCNgKyIIKNdv2hc2SI7by_b7xl"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 379,
+    "has_photo": true
+  }
+}

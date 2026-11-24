@@ -1,0 +1,58 @@
+{
+  "id": "20261124-092301r",
+  "created_at": "2026-11-24T09:23:01.871585+09:00",
+  "publish_at": "2026-11-24T13:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "remake_of": {
+    "text": "부엌칼 30년 동안 이렇게 씻고 있었어...\n편하다고 식세기에 같이 돌렸거든ㅋㅋ\n근데 뜨거운 물살에 그릇이랑 부딪혀 날이 무뎌진대\n난 이제 손으로 씻고 바로 닦아서 칼꽂이에 꽂아\n너네 칼 식세기 돌려 손으로 씻어..?",
+    "views": 25830,
+    "date": "2026-11-05"
+  },
+  "issue": "리메이크: 부엌칼 30년 동안 이렇게 씻고 있었어...",
+  "angle": "부엌칼을 식세기에 돌리면 뜨거운 물살과 그릇 부딪힘으로 날이 무뎌진다는 걸 몰랐던 실수",
+  "category": "주방",
+  "subject": "부엌칼",
+  "hooks": [
+    "신혼 때부터 부엌칼 설거지는 기계 몫이었는데...(9/10)",
+    "부엌칼이 자꾸 안 들어서 칼 탓만 했거든..?(8/10)",
+    "식세기 수저칸에 부엌칼 꽂다가 멈칫했어...(7/10)",
+    "얘들아, 부엌칼 무뎌지는 범인이 우리 집에 있었어(7/10)",
+    "부엌칼 식세기에 넣으면 날 상한대(0/10)"
+  ],
+  "text": "신혼 때부터 부엌칼 설거지는 기계 몫이었는데...\n칼이 자꾸 안 들어서 칼만 탓했지ㅋㅋ\n알고 보니 센 물살에 그릇이랑 툭툭 부딪히면서 날이 나가는 거래\n요즘은 쓰고 나면 바로 손으로 헹궈 물기 닦고 꽂아 둬\n너넨 칼 설거지 누가 해? 기계야 손이야..?",
+  "subject_en": "Korean kitchen chef's knife (stainless steel blade with handle), not scissors or cleaver",
+  "image_prompt": "A stainless steel kitchen chef's knife clearly visible in the center of the frame, lying on a folded dish towel next to a home sink after being hand washed, water droplets on the blade. Casual smartphone snapshot in an ordinary Korean apartment kitchen, slightly tilted angle, dish rack and sponge in the background, plain daylight, unpolished and realistic, no people faces, no text, no logos.",
+  "photo_query": "washing kitchen knife",
+  "product_keyword": "원목 칼꽂이",
+  "benchmark_note": "🔁 리메이크 (원문 조회 25,830) · 실수담→이유→난 이제→질문 구조와 '물살·부딪힘으로 날 무뎌짐' 정보는 살리고, 첫 줄을 '신혼 때부터 기계 몫' 장면으로, '칼 탓' 반전과 '누가 해?' 질문으로 바꿈",
+  "remake_similarity": 0.36,
+  "products": [
+    {
+      "name": "바겐슈타이거 로버스트 리얼우드 칼블럭",
+      "price": 25330.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6911749362&itemId=16659664208&vendorItemId=83843358525&traceid=V0-153-683c0b785f8161dc&requestid=20261124092313906275190800&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/yrEoHTvPiz6gqiWGyubgNieiRNgF3i7Kq7pQnZDjI3Vu4__QnHxXbkp-NQ0hDyRSY3UHNUxNfipX6qv2biWqGvkVXvePx71VjAVbhTAoxYsNEVA4uDAV75Rb8m30RA5pPd04FCs2_fZaGrkQmB0iGfTj5zCy7X7UqubbZxwMFAzzg4sSAhwjH5cpViOzac7cRmuI2rK7pMHM7z0Iyvw0euZitkofWIYQExfmhfAJOcQiwnTZBkdKCxpYog4-ZHcSK6r-9TOa4s2MbF9CsmWjb8em-eBkyWgbjKr48Yr3mIcrWX9plliNJgtP1w-10SQnqmZb7Le3eIyIcalf5O6T_QJT80FdbK29g38jkFIoSrehGOsuV--HG__N8iozFCgKaubl9HMySOtBrOoD2zJQfsdG35pz9WNTBqf2EZ83zcnj9RdaBcgC0N0tmPV76bQ5EmyFejV9hyQi8h8LG3bUpeGU2ys3X0tgIjMwSsutrqC6-x2gOrAFg2KeAp1DYZyMKDAuBRcFtrWyeOzV5R1u"
+    },
+    {
+      "name": "카네자키 원목 주방칼 칼꽂이 칼블럭 호두나무 칼보관함 통풍 물빠짐 중식도 칼집",
+      "price": 55800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9727762090&itemId=29110406468&vendorItemId=96148450494&traceid=V0-153-05e9a5ad16965ab0&requestid=20261124092313906275190800&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/Fv4tIaYgHL5ggWVdFjqzaOY4rHR894xI4LN-OuyUhL_5M9wNzPQowBKMMmmBd7ylUDCBw7Jcf8L8RcFetjqoKR6_jQx_0x5w-u46DmZuy13NDAXJUdUT5WMTETwRAsloWZ9qVNYlbCkmvZA9RwagJiOZZqIV-4Qgas5fNenwcnJk7KImxWXCZOpv4JWLwZkUXFjZpC6jDKA0xnYSBk8FFAOLHqE0jyRYjtJ8eK5CPRq4RZL-0Vz7MDZ6GvzwqeEiiTTJrYvkEr_6lV6czhRpzZbeo-mRtdBV3lZDEWMgquICT8VK5-KA_OncfuTxSXZ0KhF_mpv3rom0voU_cJxS7j3uZMCyruOSnzlEjwh0R_TuhCWGqSNazNbA6lJclLzc2cVCd761NrZj8LtXQOqiqbcTOCIX0uoPfRlyzTQCoe7QPblbBBxRLwE_ogxc0t4eTwYI3h5reC8x1KghEAL5ujudxQDMCEFfaR5-uqjVu6G7K8AWr_yXia54K0dgZgntLgrN75TJ6orgxpYdgB-p7-pCUQQjAP2uk_UIy6tfWsM="
+    },
+    {
+      "name": "원목 칼블럭 칼꽂이 칼집 보관함",
+      "price": 16500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4521077298&itemId=5451150352&vendorItemId=75594275929&traceid=V0-153-a1852f2987a27373&requestid=20261124092313906275190800&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/0_wtCnbRtS0gEnX100NWrYwOUEnVy0a-MBImpb0EPs_I0ZDYp5sFJGn_Ddoe60p1m1NFxzDsTASJ4Sj1QtLQUPpe8WxVnP7TwINRZKNKEQRHWmdUE-T7piwlvC1Jwfh7UjoTWQL0GU5-potWE-lsnKGitLiPjzac51sQDHn5Nwfedw7KeeY6l6C9IacrQIaIfehLE0QavESmOZ6P7jWAJC1ftu0cZaHnULVJ_-XIfPMBO4NgOK8gZEz7bDgXRmUOgtC5nv1p_wg4J2LVS5_D8z-Xu5B6N3lUH81OFt3stcA3daG76ZrY78CXfXKNpU6jNJ6zT1vv70mw_N3kL4xf7pXd-Xd_FwOnoZi0hwFUa6zXVD8puRBCM5dI4oBCD-4BpruACV_XBAnLNj-x7RKR1ZIMvSkbMg0YlZ9iq_9qYJ2JazPdLpLfrce9gOeuB4x8HYZuotICE_Q6TF49ojKgTKhgdi-X527xnJlzug0MIbeZVgnss63HbDX9TImInGm_l1z9JUiclR5-24WzEyTTJ8WtMym-wfnSAi2xaulmnYc="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 380,
+    "has_photo": true
+  }
+}
