@@ -1,0 +1,53 @@
+{
+  "id": "20261126-0801",
+  "created_at": "2026-11-26T08:01:29.704942+09:00",
+  "publish_at": "2026-11-26T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '대박 공식' 글: 전기밥솥 보온 말고 — 밥솥 '예약 취사' 버튼 대신, 다 쓴 밥 냉동 보관 각도: 남은 밥을 식혀서 얼리는 습관",
+  "angle": "남은 밥을 식을 때까지 기다렸다 냉동하면 수분이 날아가 해동 후 푸석해짐 — 갓 지은 김 있을 때 바로 소분해 얼리는 게 나음",
+  "category": "주방",
+  "subject": "냉동밥",
+  "hooks": [
+    "냉동밥 30년 동안 이렇게 얼리고 있었어... (9/10)",
+    "냉동밥 데우다가 나 뭐 한 거지? (8/10)",
+    "얘들아, 냉동밥 푸석한 게 밥솥 탓이 아니었어? (7/10)",
+    "냉동밥 원래 데우면 딱딱한 줄 알았는데..? (7/10)",
+    "남은 밥 얼리는 타이밍, 나만 몰랐어? (6/10)"
+  ],
+  "text": "냉동밥 30년 동안 이렇게 얼리고 있었어...\n다 식을 때까지 기다렸다 넣었지ㅋㅋ\n근데 식는 동안 수분 날아가서 데우면 푸석해진대\n난 이제 김 날 때 한 공기씩 담아 뚜껑 덮고 바로 얼려\n너넨 밥 언제 얼려..?",
+  "subject_en": "frozen cooked white rice portioned in small square plastic freezer containers",
+  "image_prompt": "Small square plastic freezer containers filled with portioned cooked white rice are clearly visible in the center of the frame, sitting on a home kitchen counter next to an open electric rice cooker with steam rising. Casual smartphone snapshot taken at home, slightly tilted angle, ordinary fluorescent kitchen lighting, a bit cluttered countertop with a rice paddle and dish towel, unpolished everyday look. No people's faces, no text, no logos.",
+  "photo_query": "rice freezer containers",
+  "product_keyword": "냉동밥 보관용기",
+  "benchmark_note": "내 최고 글의 '[물건] 30년 동안 이렇게 ~었어...' 실수담 첫 줄과 '난 이제 ~해' 경험 말투, 사람마다 답이 다른 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "Munjjing 내열강화유리 햇밥용기 흰색 원형 렌지쿡 전자레인지 냉동밥",
+      "price": 13430,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9443195412&itemId=28087675475&vendorItemId=95674885050&traceid=V0-153-b47c0a0bb22ac127&requestid=20261126080203825133106422&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/5bd8Ft-R6neQFl_W5emrZJe3EgUMgCGFp0ZiCjbu-IluTQrdQImqJzqzJdsWF5yHWfSI0fEPNoiG6Ax7B2YVgUfjpiqUOGlE3tNTG2ps2ZKuc80HAiJY_g9RK0wKNLH7SvSOKMYTGjLusUwoJGy99LQMooMO0iEeqXr2p3Y3igcE4YgFD77uDflf-eFq5zpF6C3E0fZymYnFFzlenO6y1QGmnH7P1NOpX42FgcL3_y7e01fjgJ5CWIG488uVxrYo6c6vv3w8GK5j5UlAcVn4jHvtCaDmzsvw6VU7ZqLf7rxu-vnJY3BZfNjTEKvFLLD5-x7JxlfTDpSFUw2nmUG4FKCz37DQnTTMOOUat72CwotjNWsEXWdUfCjsVJtex1YvWDYIF-puOKujH8F9OXAQBO5wAGN_yU3OKNrI89kfGcZvwi2YdArCIhT0uFCAGmzWuhsBrR5bBbQATjBByamaATUSA4Kikoicr-QokHzdFzFlsrEqTKYN4t0ENkC5zPILAzTy0eQ-DEykdjhRff5GajJHPEhwgsrRPZf5qC89TAc="
+    },
+    {
+      "name": "락앤락 바로한끼 밥용기 세트 라이트",
+      "price": 20480,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8080894932&itemId=22930196101&vendorItemId=89964573287&traceid=V0-153-d4333a3796384b21&requestid=20261126080203825133106422&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/FOy8oNlp34Y5zmz2FC4nJQ1kVLxQlx1BYI5jIFikVLZiycj4TwlQTEZn1-dD-CDPg4en2pdAqHNnxYwXwswRYZyF7LBy7AMNnYccCLItXf_ef7myP8sd1rztCEobq9gALbvT7kk52V43ODXpSXkeeOYvI4ALvlGL89CXoY3961f8-JZ4FYHVWkojfdhXDg8HUbz9wpqpvds5cZ2_WNUZR0E1X_2yKHjmsyWbw1XXwgBnbeN8sLnGerFSUzZnKT1gPWOC0Y0i0Sy1FsJyp0HNxGxY16P6AEHKZyEpbtwBaVrBxOXpJREwnC24bLqL7-_0N4gF60DhU1oSf4Xt-NzSP8ltSbNyrCSQqyz2fKMswAzPBveVNi6o_cW1uWMJpDA18NPFEmBQwVSXOknuTsrgo7nI1IFW84qccjTN_MRefAHDObUbfo0wmS5ZOx-TADSwrZbHE1aB0iEn8Rh4bIFGKvm3GpO7W16KXar9cbExNubspLfCTNySWwBiB1483jvxQU1WU7sbW_bjEU66_lVDMMU="
+    },
+    {
+      "name": "Munjjing 냉동밥 보관용기 전용 내열유리 용기,원형,전자레인지 직사용 가능",
+      "price": 12900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9619404648&itemId=29075797539&vendorItemId=96219261441&traceid=V0-153-2b8aac3e212d86cc&requestid=20261126080203825133106422&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/Y0HJ3kWriiCkZIOQYytQ9kLdhoBBreyQhyFqKts9bAjAsKa9oCOZsSGU457NrnSJifpFq7i6A_4ZZDoBlm1CyzVYV_0zRMPmI6Y8TAGeWfa-dFe9ITYe0KztQrn9qdQE3g2hiEFi-aIeVIL-vuOEmyPwml_qE35tjcDDDg8cHkpp1H5cemeWKFrDLKwH9EFYGzwc51DgTZcWyRopnYCP8Xcoykyv41QqHE7gzHCM41o6AQo0nHYzc0laY1f0CetrSq3iIoVXWgMNpNc_eQm_P4qABZAqYRAGNUfkEp-d0XNfuTODmWdtlTmqOKovtKUv0URbFT42L-eK2cSVlSWFEsKpdOQ1QLP3Z_IXXPzYyiHpkejTwYHXBIoTWxx8iVnJaQGKHTn3uiH3rpUOcK49EmvJLQY_ylN4NHEWXJ3Ec1ltLEka2Srh2zjPMEVJ6wPgudkRK0Bes1UVpjqXpOQy9qXaOA2jxo78lpRXwyZXxl34IzYLSn9elPj1Zxl30E6w-I9hmWUslVeVYfSeXPZHK27DSScAY4MHis1Hk5Tf9u4="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 400,
+    "has_photo": true
+  }
+}
