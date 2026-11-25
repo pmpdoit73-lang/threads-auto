@@ -1,0 +1,53 @@
+{
+  "id": "20261125-1802",
+  "created_at": "2026-11-25T18:02:09.259262+09:00",
+  "publish_at": "2026-11-25T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전자레인지 대신 — 김치냉장고 아닌, 샤워기 아닌 '빨래 건조대' 아닌 → 고무장갑 아닌 '스테인리스 텀블러·보온병' 아닌 → 행주 대신 '실리콘 아이스 트레이' 아닌 → 세면대 배수구 아닌 '욕실 슬리퍼' 아닌 → 다리미판 높이 아닌 '드라이기' 아닌 → 전기레인지 아닌 '압력밥솥 추(압력 조절 추) 안 씻는 습관'",
+  "angle": "압력밥솥 뚜껑 추(압력추)·증기 구멍을 30년간 안 빼고 씻어서 밥 냄새·김 새는 원인이 됐다는 셀프 디스",
+  "category": "주방",
+  "subject": "압력밥솥 추",
+  "hooks": [
+    "압력밥솥 추 30년 동안 이렇게 두고 있었어... (9/10)",
+    "압력밥솥 닦다가 나 뭐 한 거지? (7/10)",
+    "얘들아 압력밥솥 꼭대기 추가 빠지는 거였어? (8/10)",
+    "압력밥솥 추 원래 붙박이인 줄 알았는데..? (8/10)",
+    "압력밥솥 김 샐 때마다 고장인 줄 알았어... (7/10)"
+  ],
+  "text": "압력밥솥 추 30년 동안 이렇게 두고 있었어...\n뚜껑만 쓱 헹구고 추는 한 번도 안 뺐지ㅋㅋ\n근데 그 밑 증기 구멍에 밥물 굳으면 냄새 나고 김 새기 쉽대\n난 이제 주 1회 추 빼서 이쑤시개로 구멍 뚫고 헹궈\n너네 추 빼서 씻어봤어..?",
+  "subject_en": "pressure weight (jiggler valve) on top of a stovetop pressure rice cooker lid, removed and placed beside the pot",
+  "image_prompt": "A small metal pressure weight (jiggler valve) removed from a stovetop pressure rice cooker lid is clearly visible in the center of the frame, lying on a damp kitchen dish towel next to the cooker lid with its exposed steam vent hole. Casual phone snapshot taken at home on a cluttered Korean kitchen counter near the sink, slightly tilted angle, ordinary daylight from a window, a toothpick and a wet sponge nearby, a bit of water spotting. Not a styled product photo. No people, no faces, no text, no logos.",
+  "photo_query": "pressure cooker weight valve",
+  "product_keyword": "압력밥솥 추",
+  "benchmark_note": "내 글 상위권 '○○ 30년 동안 이렇게 ~하고 있었어...' 첫 줄+ㅋㅋ 셀프 디스+숫자 공개+'너네 ~해봤어..?' 질문 마무리 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "PN풍년 압력솥 신호추",
+      "price": 6340.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4926510208&itemId=6466466151&vendorItemId=73761017592&traceid=V0-153-09768c27762413d5&requestid=20261125180231067111335037&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/ch2y3oMet55IvABzcgrn26fmf_PldZzFSnmIPShRU0kic1hI0XFvMPwJm79nWGoewqEK-yq-GoZFB-SzMf4gk_IjBgTVQDKl2IsvZipMDD3usAGVygeRtwW-GFJ4qqI7RBE9xqjMGNYpYa2ZxWNLcd8zytv-0KMdBCNhjaR1CcoIU5mw91gBNMiqNH0LpNN99w6l1GY0Gt-TXtQ9FlbeGUhi9ul4nWn5Q7muQMnZj3n-gclgF8h33Q0uT5-VtF01DKtuoRJ7RkEKcuSrqlOti9J2VaKtST1Pn4yiZIAb-bwu3a64F5qJ0PyqL1MmrHFfwzAI9iOB1SNIyv1-6pwq-Mseu0zqP4e4IOQzf0UBZXVvbC88_v2xUomsi9Zbss24QjEYu6B7643pq1lYp0iwZxvOPiomKvVBE25SoI-Mv4JLqo4ymdQwnvkBPGh9tIE3ZtktxPzbdPPWYnQKGwFLuV6zfm4Rsvc7Tcnf_z3kafgKQzSDAJjStHdbonG9c5HpfVNzky27glTazNLscs13Y1w="
+    },
+    {
+      "name": "풍년 주물 가정용PC 압력솥 패킹 안전밸브 신호추 부품",
+      "price": 6000.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7610976245&itemId=20157188359&vendorItemId=4176261475&traceid=V0-153-cdf3339c0e2f0419&requestid=20261125180231067111335037&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/7iKzui0dZugIseip7kj2Ho8Zw-deZ_xR8c9_EGmkHkearU57BfogR7q93VP4gyaEcJuCKupQCjRqmxU0nQnnRcQUBjwBFnFoYvHfTClxh68dgMzGZVmISniZcxpGYa_wjS1uGGoHGs0WD-zkRO2PTPk1auI7Cz2-9SU16rtpIKLgspAry5VVoDn1hj6kl4OiwtrIlf6wH917v-Y9j7F1O62c--aJX53-ulbtTZinRHJvUvPnb9JF1DjCCUa5yqGa-D8BXhbgv60kjpMC0f-KYGpL219YumhYaFPK5AgsqqN8Y-N4KHR3CqWOBuHVjukbazuhyNJQldeJHz8WDTky_BCPI5Jzo3ml6Ligl2CCiNWOqkqPsEZhsLuaCorHcK5XSQv3v6C_KVi-O11-CU7oL609N-z0pyKA4OwjOZoRc4qACiV7NKvSyE63TG1hZkBxsL1tDexIOJKyxqbeZD7tJbygQeuhSxN1MhLV-4wQp_JGjNCjwW3A2vqDJWRlmdLdTqujK95AUX1D2Jjz0cPYYoczKCKroXpz6CiFIjDOwA=="
+    },
+    {
+      "name": "풍년 정품 PC 손주물 일반형 신호추 PC-20C, PC-22C, PC-24C, PC-26C 전용",
+      "price": 5500.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9440814446&itemId=28079380223&vendorItemId=95150903580&traceid=V0-153-7389ec813f7d3c2f&requestid=20261125180231067111335037&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/nps3_qY3XnClb8uUnl56L-Jc0P9wS6efBTl2gikPCAFAGidBSkv6vLfZ90GoBM9hL7MHAOEb_SCaTu0123QU2SsSP8OLVHszlgXCR-qOsCRRBEfKMvErieeJ35_1XMBD3sxZ_9Ef75RIN2GvxFYybmA72e3DgtLnCqZLWywu-JL8fgDbMjCMHg8IQcjZav-l8pnexyl4jF89gGi1Zzt60DOid4KG_pVP0uJMwzDi48xTEW2gI-lXS5hBM7BuPYRDl1BiXlpRoLgUb8w_K2MJT2o0xoumBY8UKA0NL7jujqvgRUKOfdL5YOtLDM4nszcE9EPTntp2w4mpbn1GlVxN4e8Vr8bn_KBtnsU8zUCrvoyr-MTiPFSFgfjD4hLrUsjUVHGxQM-Lf2AMGw8UZ9QaVLQ-qAjxy3Xq9K-hbVyFllPrvDlr5J1lCbhXJuB6JbXHmgzueWz-RTRG-oD-FxFd6ahPr9Ir0GgAZv1de9cnSGWaJ7K5x3NklNEYtVwd-BwS-yQPi-XmeB3TSl8eejH8Z9NnsyUf9nHOe-1zKew="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 397,
+    "has_photo": true
+  }
+}
