@@ -2,7 +2,7 @@
   "id": "20261125-1401",
   "created_at": "2026-11-25T14:01:15.396169+09:00",
   "publish_at": "2026-11-25T18:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치냉장고 김치 모드를 1년 내내 '강'으로 두는 습관 대신 — 전기밥솥·세탁기 말고, 행주 삶기 대신 '전자레인지 행주 소독' 아닌 → 랩 대신 쓰는 비닐봉지 아닌 '샤워기 헤드' 아닌 → 페트병 뚜껑 안 닫고 냉장고에 두는 습관 말고 '키친타월 반 장 뜯기(반절 절취선)' 숨은 기능",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 396,
     "has_photo": true
-  }
+  },
+  "threads_id": "18505056016102689",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgKKN0HkS92",
+  "reply_id": "18118122245098064",
+  "published_at": "2026-11-25T18:01:25.529107+09:00"
 }
