@@ -1394,10 +1394,12 @@
    "reply": "ㅋㅋ 아깝다는 마음이 똑같았구나. 요일 정해 두면 안 까먹겠다, 나도 그렇게 해 볼게",
    "suggest_skip": false,
    "reason": "",
-   "status": "auto",
+   "status": "sent",
    "created_at": "2026-11-25T13:20:46.826104+09:00",
    "auto_ok": true,
-   "message_id": 395
+   "message_id": 395,
+   "reply_id": "18113088011348966",
+   "sent_at": "2026-11-25T13:41:01.629390+09:00"
   }
  }
 }
