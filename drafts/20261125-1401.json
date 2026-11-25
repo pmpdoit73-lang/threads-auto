@@ -1,0 +1,53 @@
+{
+  "id": "20261125-1401",
+  "created_at": "2026-11-25T14:01:15.396169+09:00",
+  "publish_at": "2026-11-25T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 김치냉장고 김치 모드를 1년 내내 '강'으로 두는 습관 대신 — 전기밥솥·세탁기 말고, 행주 삶기 대신 '전자레인지 행주 소독' 아닌 → 랩 대신 쓰는 비닐봉지 아닌 '샤워기 헤드' 아닌 → 페트병 뚜껑 안 닫고 냉장고에 두는 습관 말고 '키친타월 반 장 뜯기(반절 절취선)' 숨은 기능",
+  "angle": "키친타월 한 장씩 통째로 뜯어 쓰는 습관 → 반 장 절취선 있는 제품 골라 쓰면 1롤로 두 배 오래 씀",
+  "category": "주방",
+  "subject": "키친타월",
+  "hooks": [
+    "키친타월 30년 동안 이렇게 뜯고 있었어... (9/10)",
+    "키친타월 한 롤이 왜 이렇게 빨리 떨어지나 했더니... (8/10)",
+    "얘들아 키친타월에 이런 선이 있었어? (7/10)",
+    "키친타월 뜯다가 나 뭐 한 거지? (7/10)",
+    "키친타월 가운데 점선 원래 장식인 줄 알았는데..? (6/10)"
+  ],
+  "text": "키친타월 30년 동안 이렇게 뜯고 있었어...\n물 한 방울 닦는데도 꼭 한 장 통째로ㅋㅋ\n근데 요즘 건 중간에 반 장 절취선 있는 게 있더라\n난 이제 그걸로 사서 반 장씩, 한 롤이 거의 두 배 가\n너넨 한 장씩 뜯어, 반 장씩 뜯어..?",
+  "subject_en": "roll of white kitchen paper towels (perforated half-sheet select-a-size paper towel roll on a holder)",
+  "image_prompt": "A roll of white kitchen paper towels on a simple countertop holder is clearly visible in the center of the frame, with one half-size sheet partly torn off along the perforation. Casual phone photo taken at home in an ordinary Korean kitchen, slightly tilted angle, a few water drops on the counter, dish rack and sink faintly in background, everyday indoor lighting, not staged, no people, no text, no logos.",
+  "photo_query": "paper towel roll kitchen",
+  "product_keyword": "반절 키친타월",
+  "benchmark_note": "내 글 '김 30년 동안 이렇게 두고 있었어...' 첫 줄 형식·셀프디스 ㅋㅋ 줄·'난 이제' 경험 공개·'너네 ~..?' 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "국산 킹센스 스텐 27종 BABA 2분할 나눔 타원 접시",
+      "price": 5900.0,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7853324483&itemId=21411911436&vendorItemId=88390749509&traceid=V0-153-7f8604ce954ab622&requestid=20261125140140802271790984&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/oJ37godwVcYQ4iqyoGyw_0PxVtq0r3WfBC-Iue6ziswhTp1vql7CSCog-xaPkOqzws8vt-2uQXRwc3vljUUpDcF3EhJ-ozmw94q_m-4DJvWgG0a33VQAJ9lsXjFL_6i7E1LYZxAOgCDgn9FD5YxECehv5P7qsBFAlRGUaOua6AjEoYZAgwNB-WEEbt5XCYBux1skSVGCZqiQH0idhAcH0fHKZFCoTJTLkhpDM1RTGdUMjPU8q3IjZlXLaT4ORygrsLIWiHfpUgxqWLdsOrtMQ5Yzu8KYkkNG3CkFLNQnNDn3VoRFitV35waqnSM_fghEXPkJ5RHsn5D4Cd2tLiDcLetAhleqJgEMQSLZDpdRDINaU69AZGEdiiP7NArkz460z00YiRNko6MybcPrTx_R2-ghzTgwlbiORGX2v9GsTihZMwwkYdC1WdcpbvbH4p7VkwdFUxs0fGPm_HE2cWsRZjMxzGI_K18z57PdWwLvYk0-_j1vvEJU4wZSyAo8ENZ4lcXp5dXmPlUYafutlFFhoy15z4B-0xBrSGKHwwBa3w=="
+    },
+    {
+      "name": "코멧 깨끗한 천연펄프 2겹 키친타월 150매",
+      "price": 6990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=169280610&itemId=484461411&vendorItemId=4220116848&traceid=V0-153-4ae8b097aa58b84c&requestid=20261125140140802271790984&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/SKI6IV-wXlJChZWuSPj65wZ8WpPncr1_8kUYkN4Rn3vHSNdQjEBqcIAxomDEurVTWzZIjUFaGXOjAKSRUZFjgYo6dcO5ibFboFJwTPqrwGALlXh7g_4LO8pqBqlZxqZUEHnrxeX83st9DdrvDidaBfAkrAzteVmv7P0av5mpj8J_ZsF4BWywLx2TJd466_rqJyr7hwgex9fZNy203h8twkApDw_X9vNEKd4r68OgyZaOp-ihDPYML7Wel7ZxCOqPWU85CUjUN__VtUXWstDowSHiDe7MNURFmr4JhmVQ9b8PKkur6W8X2bG3EQwIGqGjeVMyBgGgRZH9gXDnnDA1wYDBCkgdzmLUX-2iP9Ribf35eHqb4wVzr4QiN3SoNUy93e4kRd_2Z1XShzt-6IWfWZwx8WXzpJ3jDJeEw7kEXpyEn-PytvAqhV-CEEn6ikypv-mUGiBnF6S7w0nluvH7G-SwJMEYYiUyU-I-DGzwfalDahSVxwMv1hH3NHqFgF3qj5dHHxMHFxjeG96rXXA="
+    },
+    {
+      "name": "코멧 미니 미용티슈",
+      "price": 9790,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9114596385&itemId=27406201525&vendorItemId=94371863744&traceid=V0-153-4d066bdad8a3d6a8&requestid=20261125140140802271790984&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/iw2qK8zBHjQAwiTciw-WcIT6L6akJ_VuMXUXU3aQ02lUwCuKr3xwvDUAZb6R7nLF3UGhMGBNf4MrqQeUcjE_L3gnPLW1-gaWKwz3EVsHNbmMNOnzsCPOKnsPUh9spnBVgjv6dZ9bj6VQFP7DYGLvJEdddTSoCfu2ieNAIsWVOnagmJfwkiGwgWRiJYaxgQJsaY1Dh_pGA4dpSogQwalK8xIPnQ8tkTQGyF7Zvk-UUZ5maIebgdLaDRZ58ieNbVWpDfLXM_ZRBmwxh9y-npkRXnXa6uPlXsMqFxvyal9emvcnwjLyF2ymW7R2h3Rq_NE-HeSiUTGhtadfwmMmw__k3d8aUIll-GTpzRQaRnYp_XYS8M-nfXb3ZRD08Hurg00F8X3JLIBskb7-LAZVsiXosOXljDWtHVL8StUhvNk_2hBJdEAnNcoUxix8ccAe1oPw0lVo2en1X2gOJOhzFWTyiwAM4bza-8Jfm5EYhijh6lUGR-nxtOCQ68REKLPMimQVlZCqEsf2HT2GpqYoILGG3H5zwQ=="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 396,
+    "has_photo": true
+  }
+}
