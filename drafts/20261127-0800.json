@@ -1,0 +1,53 @@
+{
+  "id": "20261127-0800",
+  "created_at": "2026-11-27T08:00:57.900037+09:00",
+  "publish_at": "2026-11-27T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 드럼세탁기에 빨래를 꾹꾹 눌러 꽉 채워 돌리는 습관 (세탁기 온도 글 후속편, 빨래 양 각도)",
+  "angle": "한 번에 끝내려고 꽉 채우면 빨래가 안 굴러서 때가 덜 빠지고 세제 찌꺼기가 남는다는 점",
+  "category": "살림템·가전",
+  "subject": "드럼세탁기",
+  "hooks": [
+    "드럼세탁기 빨래 30년 동안 이렇게 넣었어... (9/10)",
+    "드럼세탁기 돌리다가 나 뭐 한 거지? (7/10)",
+    "얘들아 와, 드럼세탁기 빨래 양에 기준이 있었어? (7/10)",
+    "드럼세탁기 꽉 채우는 게 물 아끼는 건 줄 알았는데..? (6/10)",
+    "드럼세탁기 빨래 넣는 거, 나만 이랬어? (5/10)"
+  ],
+  "text": "드럼세탁기 빨래 30년 동안 이렇게 넣었어...\n한 번에 끝내려고 꾹꾹 눌러 꽉 채우기ㅋㅋ\n근데 통 안에서 안 굴러서 때도 덜 빠지고 세제 찌꺼기 남는대\n난 이제 위에 주먹 하나 들어갈 만큼 비워서 돌려\n너넨 빨래 몇 번 나눠 돌려..?",
+  "subject_en": "front-loading drum washing machine with round glass door, drum overstuffed with laundry",
+  "image_prompt": "A front-loading drum washing machine is clearly visible in the center of the frame, its round glass door open and the drum crammed full of pressed-down towels and clothes. Ordinary Korean apartment utility room, plain tiled floor, a plastic laundry basket beside it, slightly tilted casual phone snapshot with dim indoor light, not staged, no people, no text, no logos.",
+  "photo_query": "overloaded front load washer",
+  "product_keyword": "세탁망 대형",
+  "benchmark_note": "내 최고글 '세탁기 온도 버튼 30년 동안' 첫 줄 실수담 형식·5줄 흐름과, 사람마다 답이 다른 '몇 번 나눠 돌려..?' 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "코멧 홈 메쉬 사각 세탁망 65 x 73 cm",
+      "price": 8570,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4523384237&itemId=23853076868&vendorItemId=90876435812&traceid=V0-153-737a8b688a5f9ba6&requestid=20261127080127941148479094&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Xr4yzieJZaAM4_dZXrKzVPN18MP5cyOWQSlMM78wpxFE-MmXTvSaQD-7nJW1zz0TPyOUagOJGsrzVxe6exg-3aWURpE0fFwfjz4ESixOLtemkNwvJHllgUGnbX6wTH0ajboew0NamSwJc-W5wuX5pZRp--_kSP99ofUMl3y82g8Cafmiwlf4UQ75ZoUU4aDX8tCyM_NKH9Z2IHKE-tB0_vxNOV9PL7BqCvMR1pW1_7bnbSDqFIXWS5rIxXRwq7g11Z1Ues3waj8XUzek8XAIim_2WBA9L6_H1YbNhdWlssVjI25y_PKXtMlhFYy89HInrCnorslR8u64c2dIuUyF7vqeTLCbziCHB_gFMJS43jGcVy3H9Wvc0RgBN1Wskz8ZfXYTu3L56GaFFGj7dpVRPuD-xQboL4cfQibT5FhTdzt1USyfxL-kK1g_KZQesVUyx1k06YQ5oANT28zvQ1uN4wzNRUnxIUMVz0EhmcHg4-UuWrTzcaFf6cH5qqcZjJa6zE8lUpezr795SotixOvJT-pD"
+    },
+    {
+      "name": "코멧 홈 메쉬 사각 세탁망 65 x 73 cm",
+      "price": 4420,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4523384237&itemId=5456156819&vendorItemId=72755959100&traceid=V0-153-737a8b688a5f9ba6&requestid=20261127080127941148479094&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/yIzxT8AFcJfxIReqyKDx1w7sKQ5VhxHZ-wFYl84WsH7dV5FUxoEgx4zuhxvPtKkWYASuhd7BuLfroB8HNw8yX7wc1z6TaSaAtjA_HiLLqRGbfmUva1zuXDk9KU_KZLZOPtdimUrLMj6VbX6wdShEw3Vxn9Rp4Tvf1wii6YoOH32BbVIxp9UtUkfBsg6SozDdH1H_vcuckP6lcUeQSlgTkWuoPTuu7sgss33n8XrIA1qF3clxkClsA6V2VoHBbmS8pQLU_tQETqCwzCW4e-8KvTI0wZehfDCH6D1AlyiA7LVknL7yTkILCiYF4g8HzJcZlJvd_U0noNPpzz3jY3b46JcDJFgxW31eV4guYnozaddJurDG5bXZ9TPlXxQ-_yy1V3SOTisXb_-ZcKwiu1fq5DaKls5nKRdn1-Vl5aV2t-7CeLGOscQKsr8Y4c9Zsp4F6-p7KxQ5DgK7WSlBdUxJLCIOGq1lzMf6YMlPyyAowcpnjXFJ3If65t2bqfoRimWyWFJrxvONd5gj_w1uu6rCMWs="
+    },
+    {
+      "name": "하이퍼플래닛 초대형 메쉬 침구 세탁망 대형 80 x 80 cm",
+      "price": 5500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9339944134&itemId=27698100053&vendorItemId=94659828231&traceid=V0-153-b7a49ddfaae044d2&requestid=20261127080127941148479094&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/JIxDwHoBcM9_KkCFJJibw4T0oelFqWk8J9VDLxTJ3OIxfT4QWuvayxNl_tKVXyc2fB2HK0oVdn6kgAjDEOAOiKLDPawz2VhZNiSkmRdItkBUnz7GpwhMvWUeefrI2yJGKDl17BzXSqgHI5vLZVSHxtpapi_e4SRxhw2vJnJgInwaaab84HSk139XodBFBGZctJZiIlbOEQ6sIml6rBFruBQ9sMWOVYBoxy3e0TFgQYYHzu_ApsOULbE7i-Ptkld9yQt5CwB2vKZjI3fw3FRhh84OmlKAj3QovNsKxsFTL9kcSdRUqeZ_AqGiO0qVZd7KnhFBVknOh8xbxr8_muE1OlmnwmiKz63wy1p3qX5U7aGcLiL-Nv45q1VczoMmM8sJ1k2AIW59ajYolZVpFd5P21L1fhh_TNJ7UcxjcCwH-yZrhVkbnivM--6Ri0MmoWcUm1HACVNZbALcCDEY78zQ4RyyCOOsgTvtjWEwY5DG6SNgAeYSSipa6fpajC-kDBIOy9EvxNjjDLPgmShjI2yS"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 409,
+    "has_photo": true
+  }
+}
