@@ -1,0 +1,53 @@
+{
+  "id": "20261126-2201",
+  "created_at": "2026-11-26T22:01:23.662787+09:00",
+  "publish_at": "2026-11-27T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기레인지(하이라이트) 잔열 표시 'H' 보고도 바로 끄는 타이밍 모르는 습관",
+  "angle": "요리 끝날 때까지 불 켜두는 습관 — 하이라이트는 잔열이 오래가서 끝나기 2~3분 전에 꺼도 익는다는 걸 몰랐던 손해",
+  "category": "주방",
+  "subject": "하이라이트 전기레인지",
+  "hooks": [
+    "하이라이트 전기레인지 30년 동안 이렇게 끄고 있었어... (9/10)",
+    "하이라이트 끄다가 나 뭐 한 거지? (8/10)",
+    "얘들아 하이라이트 상판에 뜨는 H, 이거 뭔지 알았어? (7/10)",
+    "하이라이트 전기요금, 범인이 나였네... (7/10)",
+    "하이라이트에 뜨는 H... 고장인 줄 알았는데..? (6/10)"
+  ],
+  "text": "하이라이트 전기레인지 30년 동안 이렇게 끄고 있었어...\n찌개 다 될 때까지 불 켜놓고 딱 끄기ㅋㅋ\n근데 상판에 H 떠 있는 동안은 잔열로 계속 익는대\n난 이제 끝나기 2~3분 전에 끄고 남은 열로 마무리해\n너네 H 뜨는 거 고장인 줄 알았어..?",
+  "subject_en": "built-in black glass ceramic radiant electric cooktop (highlight hob) with a glowing red heating ring and a small stainless pot of stew on it, not an induction or gas stove",
+  "image_prompt": "A black glass ceramic radiant electric cooktop with one glowing red-orange heating ring is clearly visible in the center of the frame, a small stainless steel pot of bubbling Korean stew sitting on it. Ordinary Korean apartment kitchen countertop, slightly cluttered with a ladle and a dish towel nearby, shot casually from above with a phone at a slightly tilted angle, warm indoor lighting, a few smudges on the glass top. No people, no faces, no text, no logos.",
+  "photo_query": "radiant ceramic cooktop",
+  "product_keyword": "하이라이트 전기레인지",
+  "benchmark_note": "내 글 상위권 '○○ 30년 동안 이렇게 ~하고 있었어...' 첫 줄+ㅋㅋ 고백+'난 이제' 숫자 공개+'너네 ~..?' 틀린 추측 질문 5줄 형식을 가져옴",
+  "products": [
+    {
+      "name": "1구 하이라이트 전기레인지 인덕션 전기렌지 전기 스토브, DT01, 일반형",
+      "price": 27800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9261893060&itemId=27404530413&vendorItemId=96036392719&traceid=V0-153-a920073247ade6da&clickBeacon=88963710-e999-11f1-9b13-6a520b17ac66%7E3&requestid=20261126220145444011838556&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/yXa2-P-y2CVaSiG2yQo8ng39kW0pXzt0fAbLljPsMPITUp8i5ETkoNPaecbefhKTK7gCjsRAnZDXQMKUC3hH2lqCzSyWRnOhKBhQrw7QUienrSW3xu6Rcu4aC7m8TiKr6HoJLLfMuSc0Lvqb1Dp8czlH26o0gYjZizmYXff544TqwxcIB6bSDkQvPS8tWAah5XSWz52VP2vHBEfqBC-sinmPjdcoFYqWlhwcZBTv8IDK83E-OYpM8fZDUV6RTVlMX8gDJDuG3eKz7TO8kb4OFqUuQtUgOtX8F0eQ6pRSnlgSBMRHJMsPpN5nYgQzEWSGeQ9QbmbFKz41kwONcoaT6_IhOZRptMtxA45kt9mwRlP4wYeKiVfww7qCEmBB0Ri0qtKthkqfJ1BA6zXnzT9oqLdt4t4IwbKLCe-Po1wyZ2fZ_-Fa2ho5jPfV2qeAVp7SE3lFHpSwvYRthqUL3EC610XdAw8zV4_dszpVqCp1oIbrXGObsDwfttHyF0-E7GjY4QohhOtqm5vmR0YecP5wanwp_tPvwZA="
+    },
+    {
+      "name": "독일기술 에코 하이라이트 전기레인지 1구 고화력 가정용 원터치 모든냄비 호환 휴대용 쾌속발열, 프리스탠딩, 다크골드",
+      "price": 80800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8404884846&itemId=24910476173&vendorItemId=91943380692&traceid=V0-153-46e6176c68fea8a6&clickBeacon=88965e20-e999-11f1-9be6-76e5f9e653b1%7E3&requestid=20261126220145444011838556&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/tbaBTwPdhaeYxZ4BtSuztGw7BRzGlenGzoE-K3W2RiF_jg_yCy9O-F1k133owCo40aK_kvZKSlF7sdNgdeC39haqJ_Xfh8ZZfNyw5t87duuy4BEcbVUbQtRpyBkH0sjBTDSBkFqTfI9s0IvtLgHySB7Bie_ksEuSv0iPtRCH4VC2mAtaYRyGYuFW-IgeOoVrh8Hja5xGFk2vcsXGdl7OWGFU52854c9sdaSQiwnDTz5B9LUNhIipRJJNDV0LM6wSSOI9ahFVliUrjJyzTCNYShzaLLHj7WbftGg5JO1twsjnbCA5gLxSsaV9spGDm74GtcDUU8tL1iytbqzzxUSLHsiLFkyq9tHmuYiwLwBmPtx5ivXCKjcMygahuiDZ4C93MTt63ISulE_Bva6FJoosJ6H01WMPjZxxQfPi2D_vLapFnBnv_MO28YzSFZgDuxWNZa8f8hj-ED9EyIreddUh13QuaQZVr8UZWZlsTka8zaF2IqjS67L_x4CzuvpVzRXIEpj8W497UPbGrBVXJNhQUntT47omLUM="
+    },
+    {
+      "name": "대웅모닝컴 코코라이프 하이라이트 전기레인지 1구",
+      "price": 25800,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=33011413&itemId=28386391327&vendorItemId=84924196441&traceid=V0-153-3d44c15804c9c9a5&requestid=20261126220145444011838556&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/09NKvdCVEzFVVc5L00Vq-wGN1c7HMbl8_3TkNFuS8B59Fn1-KrBYcoXU_wAg0IKuzlN3yXdIE5n2MUOarnXq4vB7lyHQbxkOn-T8ZxpcR2y2mhZKfGPwIRDZXEu8BkGA1P0bJlpIf9qZvQhLA4uor3E3AWI4a_CWUYAFM2_vikmB0NR6oJfu-2FQ0ghBtJ_07FJHYIk5Mj7x1z6sRVHtMxvwUane3w7_hkgsPq5qQxcygVE0hK0KydTUAFgqH32jZag3dOdFVnSXUcFNokeyA_x_Ook7NqgfI5UJ2nToIW8JJ25WrpZNwK3-2Q5tR1jdYn07KY0Wm_j9Ojl-TfNsR2bDb0NVmwX9UDUXtkfqxaEiGSzEQ1HKLnDKRWzdKv9WscHpDni_7iQtfZmrZPF_BL2lYMIBNeksfXkmChi56yy_cru0vQAefqu1zmQ770-5XXqldrzbSofSoPRPNAh1s6qdliO-UCFSfvh2KUXncjzfzyuMF1qOu8tH8OMSOSWx0e73xgOi971-WApD2SYFQ37fQ90x1n5aiHdQ9we5MGQ="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 404,
+    "has_photo": true
+  }
+}
