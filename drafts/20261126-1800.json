@@ -1,0 +1,53 @@
+{
+  "id": "20261126-1800",
+  "created_at": "2026-11-26T18:00:57.634008+09:00",
+  "publish_at": "2026-11-26T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 샤워 후 욕실 문 닫아두고 환풍기 바로 끄는 습관",
+  "angle": "샤워 끝나자마자 욕실 환풍기 끄면 습기가 남아 곰팡이가 잘 생기는 걸 몰랐던 손해",
+  "category": "청소·세탁·정리",
+  "subject": "욕실 환풍기",
+  "hooks": [
+    "욕실 환풍기 30년 동안 이렇게 끄고 있었어... (9/10)",
+    "욕실 환풍기 끄다가 나 뭐 한 거지? (8/10)",
+    "얘들아 욕실 환풍기 이거 나만 몰랐어? (7/10)",
+    "욕실 환풍기 전기세 아끼려다 손해 본 썰... (7/10)",
+    "욕실 환풍기 원래 샤워할 때만 트는 거 아니었어..? (8/10)"
+  ],
+  "text": "욕실 환풍기 30년 동안 이렇게 끄고 있었어...\n샤워 끝나자마자 전기 아깝다고 딸깍ㅋㅋ\n근데 습기가 그대로 남아서 천장 곰팡이 생기기 쉽대\n난 이제 샤워 후 30분쯤 더 돌리고 꺼\n너네 환풍기 언제 꺼..?",
+  "subject_en": "ceiling-mounted bathroom exhaust fan vent (square white grille on bathroom ceiling)",
+  "image_prompt": "A ceiling-mounted bathroom exhaust fan with a square white plastic grille is clearly visible in the center of the frame, shot from below. Ordinary Korean apartment bathroom ceiling with slight moisture and a few faint dark mildew spots near the corner, fogged tiles at the edge, casual slightly tilted phone snapshot, dim fluorescent light, no people, no text, no logos.",
+  "photo_query": "bathroom exhaust fan",
+  "product_keyword": "욕실 환풍기",
+  "benchmark_note": "내 글 상위 '○○ 30년 동안 이렇게 ~있었어...' 셀프 디스 첫 줄과 5줄 흐름, 마지막 '너네 ~..?' 경험 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "하츠 티오람미니+필터+청소솔+보강목 설치세트 복합 환풍기 욕실 화장실 제습 온풍 자동배기 HMF-J300, HMF-J300-01, 고객 직접 설치",
+      "price": 159000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9607649797&itemId=28682751523&vendorItemId=95536673285&traceid=V0-153-882609b5e391e01a&clickBeacon=f4ee3d30-e977-11f1-bd71-ad33763dfefd%7E3&requestid=20261126180124399228130791&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/jZGAC7mopGbHE9DYjewUQOdqhjB1Cj7x0hsX-xKqOeeAiXqZgOZ8iX4wtwqMx5i_w6rdfOZO_vCIm07FMUVMXO484bfksbcVnUOOnbFrMP8T0P8dPXgWD5AqGp6BDkZm7OtO0e5dqTETTPqNk7nsObBa62uSLtAv4eNd0p-zR3Fl_I4qshg18OkdqxwwZwk7CEeCO0PUHQPRg9L7X-bpKgDVnzPQ_vKO1oy8XsGlxiEgovt4ObEeY-qUOhJCjC_jxjQzL1ewHAuW9GpNWVDc-sCJT53djKxymYs2jbSvNuQlgRVTwN_4EPr5B8o--QnpAGKkmy8lvyidxRfFrud-7oe8IkxOBuAjq47pnRfMwA8A1d7z1qpDWjwZSl-ZnE5VnNqZrsr3GiwKnLcyC6g9XVvKG7vGq8iNSQpYmXhkJ-LKZ0vDd8hA7xwnSJaL8C7Hf3HZaOvB8YshMLD6DrpeNE9bImx4A1dTs6ewGEbRvrIIO6quUq_ELtEuUWsWZmhiILC0wKQrBh6YHJKrKGsBWvPYmzv-j8Lniv9k56nFBA=="
+    },
+    {
+      "name": "하츠 환풍기1개 필터3EA+청소솔1EA 설치세트 HBF-H401 전선형(커넥터), 하츠 허리케인 욕실 화장실 환풍기 HBF-H401, 고객 직접 설치, 화이트",
+      "price": 30000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9593424168&itemId=28638080332&vendorItemId=95232311576&traceid=V0-153-0c635490aeb247c9&clickBeacon=f4ee3d30-e977-11f1-bed4-1ec1904c7033%7E3&requestid=20261126180124399228130791&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/N8yfBuZVHmLFdWhZN3ec83U6ERbURzFmdGXgtyjFUFdQMF_r_SOgCyyAzPnUakqlA8QHxs9iPMl32WrnoYnvW1lkp9L82entSvy6RQZT2bemF9VWbXTEJ3B7axSA1kB8z168JPh9YFs9ZsAFx8F4NJdXOXcP-y2AJE1z3Ond3IGd9dVvZEd3V9wzaU5uN6LY9PxWyB3h7RSjI_OngHVaZZ7C7IlSpIF6ZmLYIg_ys3yzPGJv3R1MAFDiCarR7pCStqBnC20GjhLRa7J-JtetG9l8GMrI92cf8HAQGA3Y7-NvVtXDL3rB8v2vWryEgxhd8kd-o6J1rbxNliqRK91BnGI13ba51Bo5-8pjtfmfex89Ii3IGfqJ0iOux-x4WDb9eOltY77xYeur65B_9FtzIHDoIhZ6PTVWri70TKh0YZeDHckXopMoPWA0tJ36HGBBlmBHMuidV8tzf75_SUwNYA0-YqvN0qebZUy-wYgw2nCrvGeQQrFwlfERcsWi9vTTZiDndADNHl1TQ7OJcGuIGDZw8C70fZZRVg=="
+    },
+    {
+      "name": "신일 욕실 천장용 환풍기",
+      "price": 9350,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=1490593896&itemId=2558924675&vendorItemId=3616310979&traceid=V0-153-58a659ab37579d84&requestid=20261126180124399228130791&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/mgjnexRtDHnqMoHlmvMECoTHjOsfwDhohA4z7PJCPa5LpixYq2KTlDSeycr_0YD6kprUl_pN4J9yamZbfDhStb4DAlLWmUu8XIkNgilFDMi93r4Wos8PsAm-ndGe2uBd96nTlfSsyv2UbtTyk6rcMQA3t01YvRG0VCBoaEf5YOA8gkVq9WwA8dh6Amui1K18Bc1d3rInxP-V-E7RajPeVdznSpft4VStjtWwNbo0HUqS-avUy2EVXB41yI3bNuoPVISYUWZ16mGShYs-_WG5ru1OpCA70gP4cvfeez-CV-5y6q90DsYI_KN3cWJvhLTg6SYNFCQbZegOL44hgwEsx1skqsjbo0b6jpgOv9E_T_FSOjEgCNtESV2aRG8QtkT2Yuxl3BJj3fC6F3yvFyU-afZ2b8kdU0AbsKMicDIAFOpQ5RFm0wz9qKG9cI-nYAGp4HNTY50EHfrvzyrPtiB8U5PE616MzbaThA_LuwtghHOy99PQP1E2vMOiX2Z2LQEIbUTuFsuYPzhsGC9jDbZEXz43oAZOJkgk2lJ5ROLAjt55I6s="
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 403,
+    "has_photo": true
+  }
+}
