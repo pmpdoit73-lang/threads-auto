@@ -2,7 +2,7 @@
   "id": "20261126-1800",
   "created_at": "2026-11-26T18:00:57.634008+09:00",
   "publish_at": "2026-11-26T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 샤워 후 욕실 문 닫아두고 환풍기 바로 끄는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 403,
     "has_photo": true
-  }
+  },
+  "threads_id": "17947297620369808",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgNDtiMGz_a",
+  "reply_id": "17996859183098827",
+  "published_at": "2026-11-26T21:02:22.495392+09:00"
 }
