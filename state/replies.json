@@ -1490,10 +1490,12 @@
    "reply": "물 한 숟갈 뿌려서 돌리는 방법 좋다, 데울 때 촉촉해지겠네. 나도 다음엔 해 볼게",
    "suggest_skip": false,
    "reason": "",
-   "status": "auto",
+   "status": "sent",
    "created_at": "2026-11-26T22:42:09.785693+09:00",
    "auto_ok": true,
-   "message_id": 407
+   "message_id": 407,
+   "reply_id": "18382980778212000",
+   "sent_at": "2026-11-26T23:01:19.447019+09:00"
   },
   "18376920814208600": {
    "id": "18376920814208600",
@@ -1505,10 +1507,12 @@
    "reply": "맞아 고무패킹 틈도 은근 냄새 잘 배더라. 추 뺄 때 패킹도 같이 빼서 봐야겠다",
    "suggest_skip": false,
    "reason": "",
-   "status": "auto",
+   "status": "sent",
    "created_at": "2026-11-26T22:42:09.785753+09:00",
    "auto_ok": true,
-   "message_id": 408
+   "message_id": 408,
+   "reply_id": "18089547923314729",
+   "sent_at": "2026-11-26T23:02:04.494213+09:00"
   }
  }
 }
