@@ -1,0 +1,53 @@
+{
+  "id": "20261126-1400",
+  "created_at": "2026-11-26T14:00:56.375649+09:00",
+  "publish_at": "2026-11-26T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 버튼: 믹서기 펄스 버튼 용도",
+  "angle": "믹서기를 늘 연속으로 돌려서 다질 재료를 즙으로 만드는 손해. 펄스 버튼으로 1~2초씩 끊어 돌리면 건더기가 살아 있음",
+  "category": "주방",
+  "subject": "믹서기 펄스 버튼",
+  "hooks": [
+    "믹서기 펄스 버튼 30년 동안 장식인 줄 알았어... (9/10)",
+    "믹서기로 양파 다지다가 나 뭐 한 거지? (8/10)",
+    "얘들아 와, 믹서기에 이런 버튼이 있었어? (7/10)",
+    "믹서기 버튼 중에 이거 뭐하는 거야..? 비상정지인가? (7/10)",
+    "30년 살림했는데 믹서기 이렇게 쓰고 있었어... (6/10)"
+  ],
+  "text": "믹서기 펄스 버튼 30년 동안 장식인 줄 알았어...\n양파 다지려다 매번 양파즙 만들었지ㅋㅋ\n근데 누르는 동안만 도는 버튼이라 1~2초씩 끊으면 건더기가 살아 있대\n난 이제 다질 땐 다섯 번쯤 톡톡 끊어 눌러\n너네 이 버튼 눌러봤어..?",
+  "subject_en": "countertop kitchen blender with a glass jar on a motor base, control panel with a PULSE button (not a hand blender, not a food processor)",
+  "image_prompt": "A countertop kitchen blender with a glass jar sits clearly in the center of the frame on a home kitchen counter, its control buttons on the base visible, with a few roughly chopped onion pieces inside the jar. Casual smartphone snapshot taken at home, slightly tilted angle, ordinary indoor lighting, a cutting board and onion peels nearby, a bit cluttered and unstaged. No people, no faces, no text, no logos.",
+  "photo_query": "countertop blender buttons",
+  "product_keyword": "믹서기",
+  "benchmark_note": "내 글 상위권의 '○○ 30년 동안 ~줄 알았어...' 셀프 디스 첫 줄과 '난 이제 ~해' 경험 말투, 벤치마크의 '장식인 줄/틀린 추측' 대신 마지막 '눌러봤어..?' 경험 질문으로 댓글 유도 형식을 가져옴",
+  "products": [
+    {
+      "name": "테팔 블렌드포스 플러스 블렌더",
+      "price": 42900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7388108933&itemId=19095935018&vendorItemId=86216721150&traceid=V0-153-dc81c6ec1fa954b8&requestid=20261126140133055262301927&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/Hll-uIg-yKjVEfR5HngR7ynPsn13w3DToKwChv92tOsByjq7--9FCHx6gaZYfASqQAlqLhYV_lVOEuhuQ75P-CzsjIJDPsDOyKH3ca2wfob-OqKySWeOJJFTnTz-KL-kudnYd5XHia-wYTrbs6lb2oJVC6sMAhcVR6BYBbEVevpSrqesUxv1mld2VaZXdOQ8Qf_Q5BznFDm-dZjoq_y2ySa9eCSiUOGgi2X-8tGVkoF5JIcqPKzNo77oGDPCI3e0uYtkG3_s6_wbNRH5Y0hSIVuoNA2YImqpTuZJXrOiko8G_1NewwE0H1FXDzSwX893f2Kf6HroqNVUo4pnE4oAm_TxpFDeP8LQQuUlBuW9m6IR2Yzcpw7IouqIYs53xYDlCPJ-XT9pbITakflcGgIVn4Ad6Y3MhroyPx0BTcNNGNfWMbu55llXci3fJgkP8dFcykNPL04dAmB80uk98avGMCkLqKbJ47UJq_Qwd5uIXeg-ZgEQhVWKnQ_RmeNhCzspsyWVbF9lYMoxN-FPAepJMw=="
+    },
+    {
+      "name": "필립스 블렌더 3000 시리즈",
+      "price": 34320,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8548560565&itemId=12814576608&vendorItemId=80080462134&traceid=V0-153-3694450bcc46c445&requestid=20261126140133055262301927&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/mvI-v3ARqoEJmHSAmrvvH_Uy4B3ltXpR266INyxmRkhw_8osM9Yz8qC9yEqHexJzY0K9BbbqXiY2Pwi3RrMtbF8EH7bk7cfnrS2JBZMsXUGLS72nl1_efdqIDaNFFFAJOdcZlLQj0KvKAtmL1U2cWAgc_zx1dpM0LZE_sRFn9LU09qhTZsDBxewxR5-3FekYbLFn8P0ona9xvIlECFggKky1R1cCZSe0myadjWlTgQroxDw8agqhGT7zYa7f7u1AyseS-Fw57FxNK8utJR31DXzeaEthW1AxYShD5VOGZqiMXAd90a_R9Qjk35co_rNs-au6FDYMo9fCuLRmKQbmmZsHer-1LLg6cNHICg00kz_H8pTyejS0C9ZjW-lXOd2Otkofppo73mwsKUMl1QyLwPZzlqRPZAtWfAbBH1r8CiPxwSdSPwZmYKDHUE0HTmVTp1OVV0kxe7M2loiQurWMWRnM_D0HOL4GUUH0cXMlwmgsavq4aRP1Zdnw43Kr4VhshE4_3KzCRXrTrtTwtWSnVQ=="
+    },
+    {
+      "name": "인플리바타 무선 휴대용 블렌더 다기능 미니 믹서기",
+      "price": 15990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8867048012&itemId=25861868976&vendorItemId=95840061823&traceid=V0-153-74a8178512318f8c&requestid=20261126140133055262301927&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/-NaeMvEFWQcijkMT-AfE46gt0hAYVQmcOjnnPtgbNLCEDq1sPMVJ4TZdO7dN5cbydgTqJ4sk4nSQ10rl1NCvL9nQL3bhBLFLhZ-Bs6RtmegBMjqeuT2k8MJiwXOpQdqj9-Z_ARtDngDEl2n5XlXe3CPz3KTFiIysNHK9ycVhl3mZzeG5Tf3frfnoSKcizf-QjxDTUMFbO3Y6GWx6xX4M1V7LGvZ9K_9eI0BkToXbAwfb3AaaaPW__HB_RPa7snXGVHP1HZQss-Wjeuz2nnuWOS7djTciZIAARnaqLQWKTA1mzMCeDeOF_5fOx_KPb0iUbSp1eU467c7YavWiaQbpwXkfb1MnsNYQizKEyr165nHOZt5YaZ3bhNN_P3c2Pq5iJjbUWtNc48sq7-D2cwNuZ8JZ7d5pSQnoS7BeCpYYQFl_90GUxSa2gGH_3sTOH-uhuAMXxeDVDcaFCHym2BlJyEwlbUNFJdRfGTBgMPrAzjaCVLaL-L7ywZBV4D-QwBgTGRgD-Ki9TOqntSu7GuYW1ZxsGAhhpEIpgtdsGO0j"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 402,
+    "has_photo": true
+  }
+}
