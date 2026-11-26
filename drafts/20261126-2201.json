@@ -2,7 +2,7 @@
   "id": "20261126-2201",
   "created_at": "2026-11-26T22:01:23.662787+09:00",
   "publish_at": "2026-11-27T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 전기레인지(하이라이트) 잔열 표시 'H' 보고도 바로 끄는 타이밍 모르는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 404,
     "has_photo": true
-  }
+  },
+  "threads_id": "18146110855609066",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgOIR15GfVw",
+  "reply_id": "17895209931452966",
+  "published_at": "2026-11-27T07:01:29.446384+09:00"
 }
