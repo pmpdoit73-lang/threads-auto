@@ -1342,7 +1342,7 @@
    "reply": "ㅋㅋ휘휘 젓기 동지였네. 따뜻한 물에 풀면 거품 올라오는 게 확 달라서 바로 느껴질 거야",
    "suggest_skip": false,
    "reason": "",
-   "status": "pending",
+   "status": "expired",
    "created_at": "2026-11-23T09:20:44.752151+09:00",
    "message_id": 371
   },
@@ -1432,10 +1432,12 @@
    "reply": "나만 안 뺀 게 아니었구나ㅋㅋ 구멍 막힌 데 없나 한번 보면 의외로 금방 끝나",
    "suggest_skip": false,
    "reason": "",
-   "status": "auto",
+   "status": "sent",
    "created_at": "2026-11-26T09:01:00.521850+09:00",
    "auto_ok": true,
-   "message_id": 401
+   "message_id": 401,
+   "reply_id": "18132485786490191",
+   "sent_at": "2026-11-26T09:20:59.975675+09:00"
   }
  }
 }
