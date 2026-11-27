@@ -1,0 +1,53 @@
+{
+  "id": "20261127-1400",
+  "created_at": "2026-11-27T14:00:59.921817+09:00",
+  "publish_at": "2026-11-27T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 가습기 물통에 받아둔 물을 며칠씩 그대로 두고 계속 보충만 하는 습관",
+  "angle": "가습기 물을 비우지 않고 위에 계속 채워 쓰면 물때·세균이 생기기 쉬워 매일 비우고 말려야 한다는 점",
+  "category": "살림템·가전",
+  "subject": "가습기 물통",
+  "hooks": [
+    "가습기 물통 30년 동안 이렇게 채우고 있었어... (9/10)",
+    "가습기 틀다가 나 뭐 한 거지? (7/10)",
+    "얘들아 가습기 물통 이거 나만 몰랐어? (6/10)",
+    "가습기 물 줄면 그냥 붓는 거 아니었어..? (8/10)",
+    "가습기 물통 물때, 원래 생기는 건 줄 알았는데..? (7/10)"
+  ],
+  "text": "가습기 물통 30년 동안 이렇게 채우고 있었어...\n물 줄면 남은 물 위에 그냥 콸콸 붓기ㅋㅋ\n근데 고인 물에 물때·세균이 생기기 쉽대\n난 이제 매일 남은 물 버리고 헹궈서 새 물 채워\n너네 가습기 물 매일 갈아..?",
+  "subject_en": "household ultrasonic humidifier with its detachable water tank removed (home room humidifier, not an air purifier or diffuser)",
+  "image_prompt": "A household ultrasonic humidifier with its detachable water tank removed is clearly visible in the center of the frame, sitting on a kitchen sink counter next to the open tank half full of water, casual smartphone snapshot taken at home, slightly tilted angle, ordinary indoor lighting, a dish rack and dish soap bottle in the background, realistic and unstyled, no people, no faces, no text, no logos",
+  "photo_query": "humidifier water tank",
+  "product_keyword": "가습기 물통 세척솔",
+  "benchmark_note": "내 글 상위작의 '○○ 30년 동안 이렇게 ~있었어...' 셀프디스 첫 줄 + ㅋㅋ 고백 + '난 이제' 숫자 해법 + '너네 ~해..?' 질문 마무리 형식을 가져옴",
+  "products": [
+    {
+      "name": "살림공작소 5in1 다용도 틈새 텀블러세척솔 브러쉬, 1개, 그레이",
+      "price": 12900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9779461261&itemId=29277182774&vendorItemId=96193975442&traceid=V0-153-350de2d3e7242024&clickBeacon=9f64b8a0-ea1f-11f1-be3d-598578efa99e%7E3&requestid=20261127140136345017125104&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/BIT4rI115Yu1nsOnBFcvKg2HvWddZ3CnnoTwr_H3rrrsp6nyJv273q04fKBDFjqsE13dIsbpiIdqwxorH5A2daDAMHXrbLYYtvpi4_ktZFnq8oekNmVhSLjyu3w7T--P-9ZPjfhfcGBnaBSTuci9qu-iVAVXm9GAOE1QtKGB8ReowOtpQExtXijSDc3e-xlT46AErW-xh8dc_CqL6wZsKnx3AoqMuOz3DjkZ2GPR9GanOiO7jacz2_LWmhDanjqgneW68BBmkGuLZFJ1Luhr5UwXCEWEgpwcT0CZT4elbjyx5mKdzSI97wpVGMZ9v6HWgi4l1ZGyawfa5cjSwZaGLm_IXJarfaKbEHJ0tYt19CfDRZabg64p3vxWlI0oJin-PTxy7BHbOv8YaNEC9oGEzEThHqYivU3UMINY9dGW3DtEza0XSRGmxvgAwm490fQRMWqcDljfoInktGryHlKaI5O0phbgHTl5K_Lul4JgjFEncuiA_tPtgSQn1f8pLsxVWfDCGBATQ4DJvBo_61A6mh91rAlA6qdr"
+    },
+    {
+      "name": "일상채움 30cm 긴 빨대도 손쉽게 34cm 실리콘 빨대 세척솔, 핑크+블루, 2개",
+      "price": 11900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9095181391&itemId=26731633016&vendorItemId=93703031904&traceid=V0-153-33919b760761d708&clickBeacon=9f64b8a0-ea1f-11f1-baad-c3cfc455b0ef%7E3&requestid=20261127140136345017125104&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/1kePTPh1bdoPUMM-1sljm4z5ssOYGyibJf1ZQhF-5dr5hdzMIro6Lmto_dWDi0XvzKh4behd9no1tCw2BUcDKNlPmBItQPcRzoq11ladFIjeIYKFUOW_Dpz9UVNbNQJfPBtF5P_2LGZgwPnTYYMejVkSFfmI9FEeubW4j0nBo2kHQ3sBhXpIG0h_d3S4aSFE5tR9roRXExchpS98la4_j2thwiQMM9W2t_lfhtEBQvrZqgqT0QXPs9qeWOm-18XLihGRoDuZqHE3D9zj2zXIXhmkx_o5TrP1u8zYxBUeBVXGoATQn68CgcSj6nqckd9HJEiZjD8rEl1mcOAd3JkT2ZrxMJTLQ8v6nt1EUXjLg4k0gLFCAQ8g7VJSPUhuRa4shaeo4HNeAgDTZTZYj7WM3PPdcVKDI8MSjNPl51_Szj90drfEOZcEh870GOAjTlY89eQl-JBl8ZEXZsVSCI_RyTx6vMWDm7tTVhEd_l5cMkEw4AZJe7uwGRAOPlSfoAQE85NB2NCWt_425Zr5AK7ANCxgH0qAas-Qb39MOwyYzOFoL5ycUzARjOJEHg=="
+    },
+    {
+      "name": "오나우 텀블러 웨이브 클린 물병 세척 스펀지 브러쉬 세트",
+      "price": 6990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9727850467&itemId=29110671314&vendorItemId=96035527014&traceid=V0-153-6814a35a936e0cf1&requestid=20261127140136345017125104&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/hkkiqlLVtlW25qSjhhPmwSufkyx7m053AdFPQX5FNgfumyX7hehmjqEt5-e0JMiN3Y7ddz-6gj3sG8VChtMVijWoyUQLLiRhrqtcMEE3fZdzXpucFAaPVhQAuX0EfePm_EazLAH0RQKQc1wl26Kbr0vogYj1vbf0ws5NqcqIVTo22FyTHAjkKBxL4PJvdhycCfSTyh4GsZQxfHJyMtcX8m774UdokGaN64KLQpcNz8mxSTRVjWzmBi8nxP9zCzg1z_6aehZwRUiAKDc6hd3KjQ0mr0fKoFc_BMZvG5cr2ZI6UExtqYgJDqWOT-623w-QmuoPP7gazBtkHJxfX4K4mCcG9x1ykoQARwZhSzpasKLXMuKE6NGFox0F_3t73Qov827QqlCnAmNMrcqkI3GOsuwai36iBsUFUOyguUzZlj6NpH32SbhTrsoztllGT_9xnrWtRc_11IF2quUst11HMZ4-Cw_yhJ1cNG2dTpULsM2akd3V7_4bVcLrywm8wRLHwksbFI-72J91Y0bO2gXNc0QmEwPwuKzBFF19pSNW_5pE-xsC"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "photo",
+  "message": {
+    "message_id": 411,
+    "has_photo": true
+  }
+}
