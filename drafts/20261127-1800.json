@@ -1,0 +1,53 @@
+{
+  "id": "20261127-1800",
+  "created_at": "2026-11-27T18:00:59.313878+09:00",
+  "publish_at": "2026-11-27T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 실리콘 주방 장갑·오븐장갑 말고 — 전기그릴 아닌, 커피포트 아닌 '샤워기' 아닌 → 고무장갑 끝 손가락 구멍 났다고 통째로 버리는 습관",
+  "angle": "한쪽만 구멍 나도 짝째 버려 돈 날리는 습관, 남은 짝 뒤집어 반대손으로 쓰기",
+  "category": "주방",
+  "subject": "고무장갑",
+  "hooks": [
+    "고무장갑 30년 동안 이렇게 버리고 있었어... (9/10)",
+    "고무장갑 버리다가 나 뭐 한 거지? (8/10)",
+    "얘들아 고무장갑 한 짝 남은 거 이렇게 쓸 수 있었어? (7/10)",
+    "고무장갑 구멍 나면 다들 어떻게 해..? (6/10)",
+    "고무장갑 한 짝만 남은 거 원래 쓰레기인 줄 알았는데..? (7/10)"
+  ],
+  "text": "고무장갑 30년 동안 이렇게 버리고 있었어...\n오른손만 구멍 나도 짝째 쓰레기통에ㅋㅋ\n근데 구멍은 거의 오른손만 나더라\n난 이제 왼손 남은 거 뒤집어서 오른손으로 껴. 2켤레면 3번 씀\n너네도 한 짝씩 모아두는 사람 있어..?",
+  "subject_en": "pair of pink household rubber dishwashing gloves (kitchen latex gloves), one with a small hole at the fingertip",
+  "image_prompt": "A pair of pink household rubber dishwashing gloves lies clearly in the center of the frame on the edge of a stainless kitchen sink, one glove with a small torn hole at the fingertip and the other turned inside out. Casual phone snapshot taken at home, slightly tilted angle, ordinary daylight from a kitchen window, a sponge and dish rack partly visible in the background, wet spots on the counter, no people, no text, no logos.",
+  "photo_query": "rubber dishwashing gloves",
+  "product_keyword": "고무장갑",
+  "benchmark_note": "내 글 '○○ 30년 동안 이렇게 ~있었어...' 셀프디스 첫 줄과 4~5줄 흐름, 마지막 '너네도 ~..?' 경험 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "브릭글로 안찢어지는 니트릴 고무장갑, 버터옐로우, 대(L), 50세트",
+      "price": 185840,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8313005478&itemId=29203119763&vendorItemId=96123375253&traceid=V0-153-3bf3d2ac4ae962fd&clickBeacon=22767b40-ea41-11f1-9fff-65193f2e9234%7E3&requestid=20261127180129530134488330&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/qBcqxOOrjF7wde7CqMfKnctChOM6r7JC_G74LCegLVdaHS4UaZtgVRg9quWlhOjQ5wLS1tHEvmF4ygenYHozUbqQS7EfoWRWqTJP2mOtdVMT4i3mhKYw8a35Jn_9R6NqKPDsUiLJrfiX9JX0SrDMUiZzXG8ssYik2aANroQhbQulUWtomiNeih9BisYoEXz9zMA6lGDZntuT6RiPRRaSw8JrTDpC5joVak4n8ThzXT0Jr2m8uzXcII2AuKU9GjudqBTuaA2JpOM9GPHSMRxSVuft9ogaQwXAEBb-xn3xqfAMUSQ_KyBIGwgrdEb_oNZFZijS7krA0gH8CPBYiLKXyqFuQx0ZjAkW1XM-a1FnCI6LkC-N_Wx3U1tOdfjJ0oDiOMEH4Rudrptv3QycrysFmQ1IVzRXXXpx6LLEXFqhScOKF9thXw6hLfbyQAlNBzTfs8EPOnYJP6mfCpBZ9FRuR8qdjghK1tJWjGyY5y4npwKzK8Qrks94efvvfaJIErMdn7b8crbz0E825dc="
+    },
+    {
+      "name": "깔끔하손 탄탄 니트릴 고무장갑 더질긴, 3세트, 중(M), 베리 핑크",
+      "price": 17900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9138229604&itemId=26897871254&vendorItemId=93868759261&traceid=V0-153-51b03b0674d7f27e&clickBeacon=2276a250-ea41-11f1-a238-cbb1e90fc08d%7E3&requestid=20261127180129530134488330&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/AwuZl7js3Rx-r5m2A8zDAhCSc2cDn4wEdbMNhWP-Bz7umJh2LZAqp9Y0UDypWmIko9M_B9e7XoFGRICmSaMZLRkp-KH6R7vLBoDlrsG14n1XQGd5JoXSGg4lWHeYszpuxR8MVvSPgCehK4flaNxyXZIMrIifdadPHSARCDEH38ggLq2KkrYz5ZJZfeo15WGCjkKTmTMhiQKvAiG8nAssYX4wdAkhnBvbLQ5P08try5nOErHVTfQz8BQw5IqVSn92RRYoUB4SngmXJx2xLjT-yLOINmp50CgMcunwM3eGpdIyaPGZFSB5W0-dH8nj_YrmUi6o6V-vcBvNb1txUgiIzbumsHrLo2gJtsuNqLAftzErNd8GIdTJEUdntteXQW_lOYW4h0HQVq_D_URKtkwwyRc2EkRxFg31nrhFTldqu6NXTNyQ92NNb_OK5q8oFWtN2oxEFYk_VbcCHMzHeIbQP2QunSVSoHFTcUmrQNi_sY70VPBidil8kcdXPv3xJyWQalDpvd83-QgZAmorfyZQxn2jtwDBLUo9B3CgyDmdsQ=="
+    },
+    {
+      "name": "코멧 키친 고무장갑",
+      "price": 7990,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7523134150&itemId=19735597670&vendorItemId=86839418883&traceid=V0-153-f93e21a2a9d1375b&requestid=20261127180129530134488330&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/5R1MpBPOptfGTezs5eBbmK8jXonePilihrMoHCzCOO1ZLfRVgiHSI8HuXogcoLHHiX3_wbnNd_33x9Rx1U2OkreR9G2SbhuMyK06eKrZ3iR_4ggPj0ICNxzBouFT7hOSnLwMESAUQHBGEpFiqMnfkWXFsucYGd0slO2OlLYzmLCtiZR-DK-U5ALa0yL2RN2rx1pxpFPYG8VJ94vHTK1cDeO7_O8UV1NjrSvCqSb1clZeJawdxrquRORbv6IQiJdnLk-LzHF31IdTn5KJ0ernnD1qG3glWrX7qAM903pBLkfrX9Jp1NKmQhrjegkYCAs8_xu2bYSfy5mB0h41ZKKxyJL3qkIbQvYCCuAcl4ty3hXaPQYBa3FsAqITcZWZrJtdrr4c4YHin0mIRJf81OBRCCAdb_YHM2jmIowaepT1LRCmPjhoZJMKrL0QORhYOvjSHG_b-rY7OWoSMZpt_AjfDpXXa6dJAQ7dVBXmrkHiIPqzrfAaXCnTjTCsxidTJ6W2j8QIevqN7i9Ry5b_jiS0lacB"
+    }
+  ],
+  "image_note": "제미나이 생성 · ✅ 글과 일치 확인",
+  "has_photo": true,
+  "photo_ok": true,
+  "format": "both",
+  "message": {
+    "message_id": 412,
+    "has_photo": true
+  }
+}
