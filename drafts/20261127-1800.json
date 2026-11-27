@@ -2,7 +2,7 @@
   "id": "20261127-1800",
   "created_at": "2026-11-27T18:00:59.313878+09:00",
   "publish_at": "2026-11-27T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 흔한 사용 실수: 실리콘 주방 장갑·오븐장갑 말고 — 전기그릴 아닌, 커피포트 아닌 '샤워기' 아닌 → 고무장갑 끝 손가락 구멍 났다고 통째로 버리는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 412,
     "has_photo": true
-  }
+  },
+  "threads_id": "18136330591771531",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgPoa72Ff94",
+  "reply_id": "17963879238411706",
+  "published_at": "2026-11-27T21:01:35.180906+09:00"
 }
