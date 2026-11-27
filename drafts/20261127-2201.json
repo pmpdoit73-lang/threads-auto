@@ -2,7 +2,7 @@
   "id": "20261127-2201",
   "created_at": "2026-11-27T22:01:28.135679+09:00",
   "publish_at": "2026-11-28T07:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "블랙프라이데이, 역대급 '상술'이었나…200만원 준 TV 한 달뒤 가격 봤더니 (계기만 참고) → TV 화면 모드를 산 날 그대로 두는 습관",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 413,
     "has_photo": true
-  }
+  },
+  "threads_id": "18135420937684473",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgQtEbZiSN8",
+  "reply_id": "18102164711544651",
+  "published_at": "2026-11-28T07:01:25.458380+09:00"
 }
