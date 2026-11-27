@@ -1,0 +1,53 @@
+{
+  "id": "20261127-2201",
+  "created_at": "2026-11-27T22:01:28.135679+09:00",
+  "publish_at": "2026-11-28T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "블랙프라이데이, 역대급 '상술'이었나…200만원 준 TV 한 달뒤 가격 봤더니 (계기만 참고) → TV 화면 모드를 산 날 그대로 두는 습관",
+  "angle": "TV 기본 '선명' 화면 모드는 밝기가 높아 전기도 더 쓰고 눈도 피곤할 수 있다는 점",
+  "category": "살림템·가전",
+  "subject": "TV",
+  "hooks": [
+    "TV 산 지 3년, 화면 설정 한 번도 안 건드렸어... (9/10)",
+    "TV 보다가 나 뭐 한 거지? 리모컨 설정 열어보고 놀람ㅋㅋ (7/10)",
+    "얘들아 TV 설정에 이런 게 있었어? (6/10)",
+    "TV 화면 쨍한 게 좋은 건 줄 알았는데..? (8/10)",
+    "TV 매장에서 본 그대로 쓰는 거 나만 그래? (7/10)"
+  ],
+  "text": "TV 산 지 3년, 화면 설정 한 번도 안 건드렸어...\n매장처럼 쨍한 게 좋은 줄 알았지ㅋㅋ\n근데 '선명' 모드는 밝기가 높아서 전기도 더 먹고 눈도 피곤하대\n난 이제 '표준'이나 절전 모드에 밝기 50쯤 둬\n너네 TV 화면 모드 뭐로 돼 있어..?",
+  "subject_en": "flat-screen LED television (living room TV) showing its on-screen picture mode settings menu",
+  "image_prompt": "A flat-screen LED television clearly visible in the center of the frame, mounted on a plain living room TV stand in an ordinary Korean apartment, screen showing a blurry generic settings menu without readable text. A TV remote control lies on the stand in front. Casual smartphone snapshot at home, slightly tilted angle, evening indoor lighting, a bit cluttered, not staged, no people, no faces, no text, no logos.",
+  "photo_query": "television settings menu",
+  "product_keyword": "TV 리모컨",
+  "benchmark_note": "내 상위 글의 '○○ 산 지/30년 동안 이렇게 해뒀어...' 셀프 디스 첫 줄 + ㅋㅋ 둘째 줄 + '난 이제' 경험 말투 + '너네 ~뭐로 돼 있어..?' 질문 끝맺음 형식을 가져옴",
+  "products": [
+    {
+      "name": "LG TV 전용 무설정 리모컨 L1",
+      "price": 11000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9037291293&itemId=26513094799&vendorItemId=93487618019&traceid=V0-153-1237f184bdc8a945&clickBeacon=b96f26c0-ea62-11f1-99e0-1bf637210102%7E3&requestid=20261127220156328017128925&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/PcNtI1ROXTN3w3rgPWsEOzkfEpkUcH8-Aga_rpv85F4e4R3_GyukMQgNnQKYoGYEvrTSsm0quYY9EwcVcMJTKjCImzEYRfy1fGJr_ARCzj32URLlLn12DIYhkI6mw5Cpdgy3OqcW_qPa4C9AEeiXv_fOWk1omVN0IWQxZgnpOVfeia4feWp4Fj2wlcGaEw3ICrHSxGayJV7feIVzvhwMUL3MvXCnKxNNQqhkfn8pRR6oVNebLq4XKvikC10QxbTZg_dJ2oqOgbhE7FpjGmVcX65Px3mNDHHqfhQZf2tAujHW8G1ip3CwEHXr8phU-AOL8vWYG_PrQEB4J--rPoM7zIzEjE4pfEV2T_kUXMouPpvJYDQJyh7eDnOyO1rX5l8vXTDixWkbOynkOfYduZwZpdU0UJn699u8oUGAo_L_QyMKwxpGAar0v-aM_3i_bWD7Aw6Gx1rvHHwPygERCMy2HvrdiHrT1PrIHQ2uy-3RgqjhxQKi3fnvG3WC1SbTvyCmchpkW6tpnMnM7OIJvRTIX3LqQ1WiTbfs"
+    },
+    {
+      "name": "삼성전자 정품리모컨 스마트TV 지원가능 삼성리모컨 넷플릭스 텔레비전 BN59-01315B, BN59-01315B, 1개",
+      "price": 7500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8690949531&itemId=25232891097&vendorItemId=92229060465&traceid=V0-153-b496445ad83ae04b&clickBeacon=b96f26c0-ea62-11f1-b4e0-3445ffcce01c%7E3&requestid=20261127220156328017128925&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/OpwwuEhZ94TyDkc6OjkrHqj5z-ZmcE3tVg23cMo-UWovxI2Esw7xB97_hOIrTisxaQu8VtDRwTPID6qDcRbLeC-eYmj-1JFe-2GG-81kKGNsG4hz1-cl_5ZQWsklstxrOrv7NcWgp9gJODkIUiPpWI-eV_im0nt9JzaycgEpSQGAe7mT3vCKTK20vpJPEgrtbKr4B7e2mOs29f37ykvqvz8fUK4SBLhEmyaskmN7rPTL9IYNGo-wjSVNG3tWCnLUy7JCfDCAT8zlfGmMK_iiEwn0AFzL2mqcvjonj0aTz_Ml3rQPWyXticsNkzw70ePZS6a1SQ27PbMsgbVVbaMIuI5kPYWzefBhhpPxUWnBtF1z5XfcPCpue537R1_BhojemeSfsRscNBPMrJHMokEQaC5W6Lx_EhmBSYpCObLNjy1XwE52y6K8sTVXcRQRz4_zN0o7y8pM_W0D0hq3L9PYw6IMSxZJ2be6qkYdVoWcKJiepzNxXSV4kKw-Q-3dW4lNhN4JCIo2F_IVgg34-ziNP2Opn7_U8r0="
+    },
+    {
+      "name": "KT 기가지니 AI 리모컨 TV 정품 새상품 지니티비 셋톱박스1/2/3 호환",
+      "price": 19700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9636683156&itemId=28790612250&vendorItemId=95142411874&traceid=V0-153-e01b04964fa75597&requestid=20261127220156328017128925&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/QGUX-SutmZRVt0mLQC2JmOEiBJG4JIoFN7PAfJ9TsCCsMlorMTPatO49cLIPmYy7eowF47bIxfbmPuWWniSXYXE7kqRre679_KlU8FHVJQd_-d0caerFtCh_03FxPfk-ucaBHaipvAuqw_D7tQ9LUo_DB5-t9nMIv3_nROU8sEj2IVnUT3RL0P5nT7FX7uVfzIJp96m25urwc38Fvxw6zZ73-na5a0yGu4GtOSUxcDEgh9-lwUJPbnmmam8HOG5sZaMz9EtK7mAdxNRgurJwis88r3u_m0g8kzb9F2lXej9x43FHQXW-76ioKiEwsnEtVafmVtd1_e2hLjtHJYnWP22NTLtVBAWTYfKeVkaruoqRPb-lkWHilXOH97Jfbb5HepwJawh_JDsLTCH7akIicGgDNPZcyGFMgf5pqBvnxjrBcMQbL2oZKPWmAQJBMOPyd4DLM4JZVSkd4Gj5EzjBY1r0csk857w0shKGINThZPytI6pqNN6gcsMzeixwxJj0i9le1Wiwyrx9AkpmU2php9w9prWoF71F-nVroyVzJ_sq8-8="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Pușcaș Adryan) · ⚠️ 검수 불일치: 사진에 '거실 TV장 위에 놓인 꺼진 상태(검은 화면)의 평면 TV'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 413,
+    "has_photo": true
+  }
+}

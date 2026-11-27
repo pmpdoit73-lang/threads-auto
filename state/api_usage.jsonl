@@ -34,3 +34,9 @@
 {"t": "2026-11-27 14:01", "task": "사진 검수", "model": "claude-sonnet-5-5", "in": 2619, "out": 145, "cache_r": 0}
 {"t": "2026-11-27 18:01", "task": "글쓰기", "model": "claude-opus-5-5", "in": 28141, "out": 870, "cache_r": 0}
 {"t": "2026-11-27 18:01", "task": "사진 검수", "model": "claude-sonnet-5-5", "in": 2628, "out": 161, "cache_r": 0}
+{"t": "2026-11-27 22:01", "task": "글쓰기", "model": "claude-opus-5-5", "in": 28280, "out": 1288, "cache_r": 0}
+{"t": "2026-11-27 22:02", "task": "사진 검수", "model": "claude-sonnet-5-5", "in": 1834, "out": 225, "cache_r": 0}
+{"t": "2026-11-27 22:02", "task": "사진 검수", "model": "claude-sonnet-5-5", "in": 1834, "out": 215, "cache_r": 0}
+{"t": "2026-11-27 22:02", "task": "사진 검수", "model": "claude-sonnet-5-5", "in": 1834, "out": 257, "cache_r": 0}
+{"t": "2026-11-27 22:02", "task": "사진 검수", "model": "claude-sonnet-5-5", "in": 1834, "out": 238, "cache_r": 0}
+{"t": "2026-11-27 22:02", "task": "사진 검수", "model": "claude-sonnet-5-5", "in": 1834, "out": 264, "cache_r": 0}
