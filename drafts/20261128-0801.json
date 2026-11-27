@@ -1,0 +1,53 @@
+{
+  "id": "20261128-0801",
+  "created_at": "2026-11-28T08:01:42.602900+09:00",
+  "publish_at": "2026-11-28T11:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": true,
+  "issue": "오늘의 대박 공식 글: 냉장고를 벽에 딱 붙여 두는 습관 (세탁기 온도 글 후속편, 설치 간격·전기요금 각도)",
+  "angle": "냉장고를 벽에 붙이면 뒤로 열이 못 빠져 모터가 더 오래 돌고 전기를 더 먹는다는 점",
+  "category": "살림템·가전",
+  "subject": "냉장고",
+  "hooks": [
+    "냉장고 자리 30년 동안 이렇게 뒀어... (9/10)",
+    "냉장고 전기요금, 범인이 자리였다고..? (7/10)",
+    "얘들아 냉장고 뒤 한 번 들여다봐... (7/10)",
+    "냉장고 벽에 붙인 거 나 뭐 한 거지? (6/10)",
+    "냉장고 뒤 틈은 그냥 먼지 쌓이는 곳인 줄 알았는데..? (6/10)"
+  ],
+  "text": "냉장고 자리 30년 동안 이렇게 뒀어...\n벽에 딱 붙여야 부엌 넓어 보이잖아ㅋㅋ\n근데 뒤로 열 빠질 틈이 없으면 모터가 더 오래 돌아 전기 먹는대\n난 이제 뒤쪽은 10cm쯤 띄워 둬\n너네 냉장고 벽에서 몇 cm 떨어져 있어..?",
+  "subject_en": "household two-door kitchen refrigerator standing in a kitchen, seen from the side showing the gap between its back and the wall",
+  "image_prompt": "A household two-door kitchen refrigerator is clearly visible in the center of the frame, shot from a slight side angle so the narrow gap between its back and the wall is visible. Ordinary Korean apartment kitchen, slightly cluttered with magnets-free plain fridge door, a few items on top, beige wall and tiled floor, dim indoor daylight. Casual smartphone snapshot, slightly tilted, not staged, no people, no text, no logos.",
+  "photo_query": "refrigerator kitchen wall",
+  "product_keyword": "냉장고 받침대",
+  "benchmark_note": "내 최고 글의 '[물건] 30년 동안 이렇게 뒀어...' 셀프 디스 첫 줄+ㅋㅋ 둘째 줄, 4~5줄 흐름과 사람마다 답이 다른 숫자 질문 끝맺음을 가져옴",
+  "products": [
+    {
+      "name": "Equator 세탁기 높이조절 받침대 사이즈 높이 조절 가능 건조기 냉장고 다용도 수평계내장형 다리 연장 미끄럼 방지 방진 다용도 거치대, 1개, 그레이",
+      "price": 27970,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9322729048&itemId=27632789699&vendorItemId=93479296190&traceid=V0-153-272af88aadab441e&clickBeacon=9346bc70-eab6-11f1-881a-8d5c154f10c3%7E3&requestid=20261128080210011226555483&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/FM3Z2EJjAzYjps-MFOIPPAFYZn6ZP--JZb0q98QTILc7HbfNNdEBEMw1ySw-UMZfEhcAqj15lxxcJnxkPwyQxYFBnymD7ioh_0IXob6S1Y2sIeCokgGt11yA7gaOrz5ZJ6FJ-9ZYMN-RSs93w2gpqfugO_-RkFDXO4k2aY4EM9D8a5eMnRwGFYeJtZ9ZFmL3qfROZT2vD8oieAFfWvN2o_ntGmPyv9wX-942ZCzwZRBSjDrUqo4afs3ApHYwVVBOBxX7OXC7BZSDNcC7ieWvdb6p6qTVxKuKv2i08aW-VKwFosDajll3f2scJTVwdXJ-k6BHS9VhQzkY_JqVIne9ERC7D2pC55iE4d5sGWOk3q6Qvlj3T40yVvNDUuAwwpS4kiyhxLI8S6emgLX1qy9PRADJbrfGlt1WNXvprc0p-DjwEVkMQLRhUcF-WXgGOifFzJMJXT2246p8S2WH8llaa5N0jCH-aykWj0ClSO3j8CSN6jS6Njw81sOA8zqWqSXdDlHNWh47DM1mxMAvfvJilQdYTldjdDk="
+    },
+    {
+      "name": "L자형 세탁기 냉장고 건조기 받침대 방진 고무 높이조절 가구 다리 보호발, 베이지, 4개",
+      "price": 15000,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9113408106&itemId=26816207208&vendorItemId=93466930774&traceid=V0-153-d1f5d19ce69095c2&clickBeacon=9346bc70-eab6-11f1-94a3-0739609e8ee1%7E3&requestid=20261128080210011226555483&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/VlACd_u7mHUImDmEVrw9xVEEmvk_NQZ9jICko0iw_ugmgQ-D48xgl1Qx7dj5BjIH3fuf8U7CuPfhbLED8pZJnr8dZlHyA2wtwmfcEw1dCp9x-luYGse3RILXXmFE6J9N5rLcVA0AARXQEY51g7rANg5kOZbTQLMGJMC4nK96JOxjYcn9fGBjvZFr7WqqnH_X4zgJ8h7gj9G2tseuBbCUvzdfB6OEliCyckXHkkFnDVR-dHTRVAfuomnZJrYQh3eBoVfxoxUIhSey0JfS6krx1NAyMSyfk34Sf4sNQDXTY0w2nlDBjhLTjpEzcSK9M2Mqwcv5a2Tue4NZvwV7P7y9qlVse4lCzNU4Eqh6hIcx_bhrfFuvKcPDhUp6qYf5zA4Ydq4tHP-5rHtv1Bi6cw9QTpu_zcGNJ0LydIDlWkZeZ8kA49krdtAJJ7Fye3SdTqkQRRewW6eQ4mdCtSyv1GcShLxooJvh1Xd1YJQga-IekL6mqasvaIDvoMGZ_x6dO_S31C86iACfHJoLACYlfXJ7N_6JLjkhUS70"
+    },
+    {
+      "name": "콜콜러브 높이조절 세탁기 받침대 건조기 냉장고 식기세척기 다용도 받침대",
+      "price": 16500,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9720873874&itemId=29090701636&vendorItemId=96016191938&traceid=V0-153-0251368ef22ef538&requestid=20261128080210011226555483&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/TKap-1eEA0yJXJbmTJapx1LR6Ha8zwV8hTqCCjq939tGP_nDnP-iTVT6GYdBKzgk8RqmYLSX2uErxCYY1qEO-hdgzBsqE4jxodpzDtNms1dIQ90EXlxY4HXrWFDHxViR_ly1jmzCwDpBQ54xNUHRVON1jBrPjCP9Lx-Bq98gsDk4Y1UUVexLdh6yb5Gvm65qkZN5njMadHl7hPIoIUj92Mta8etpPqRRYX2m9knCwLXHPtI8ME6pk0246tt6IgvKKKoaaGldebd_jhkw2SqPcXLj-LGjw_0S0HAcEgi-AUASjlqe0raw2Vrlp448OwkcKHk_eX-2ZoWA1UqPdcvzgYACPRrhfG0Vg2i8w40CiKlxHMyEgz3j-JhUxOPes9gsjQE4RZ90ILqh31JZzgjNhxG-jZJPmYU1mwfXv7ZeZF2ahymiycdVWPzDQaojy_ME8BrbyM54p8wwTfyll7CYpXO05pJvmf4dQ_37xjPqyGymWas2KbYS9PhCZ9N5mORKsPJnP_3u1Y7wh_OoUfp0tLTNDjWbK_ShjUrM__QTn-5xZGGb"
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: thAnh nguyễn) · ⚠️ 검수 불일치: 사진에 '문을 열어 내부(라임, 병, 유리병)를 보여주는 냉장고 정면 사진'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "coupang",
+  "message": {
+    "message_id": 414,
+    "has_photo": true
+  }
+}
