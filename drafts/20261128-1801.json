@@ -2,7 +2,7 @@
   "id": "20261128-1801",
   "created_at": "2026-11-28T18:01:53.304405+09:00",
   "publish_at": "2026-11-28T21:00:00+09:00",
-  "status": "pending",
+  "status": "published",
   "product": 0,
   "viral": false,
   "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기그릴·밥솥 말고 — 빨래 건조대 아닌, 칫솔꽂이 아닌 → 다리미판 높이 조절·뒤쪽 다리미 받침 용도",
@@ -49,5 +49,9 @@
   "message": {
     "message_id": 417,
     "has_photo": true
-  }
+  },
+  "threads_id": "18111388316195624",
+  "permalink": "https://www.threads.com/@salim.kkultip/post/DgSNNRfoG84",
+  "reply_id": "18122805670996380",
+  "published_at": "2026-11-28T21:01:31.093311+09:00"
 }
