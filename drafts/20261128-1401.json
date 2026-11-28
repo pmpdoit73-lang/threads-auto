@@ -1,0 +1,53 @@
+{
+  "id": "20261128-1401",
+  "created_at": "2026-11-28T14:01:32.657365+09:00",
+  "publish_at": "2026-11-28T18:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기주전자·밥솥 말고 — 김치냉장고 아닌, 세탁기 '먼지 거름망' 아닌 → 다리미 아닌 '빨래집게' 아닌 → 행주 대신 '실리콘 주걱' 아닌 → 페트병 아닌 '양념통 뚜껑 구멍 개수(큰 구멍·작은 구멍) 용도'",
+  "angle": "양념통 뚜껑에 구멍이 큰 쪽·작은 쪽 따로 있는 걸 모르고 뚜껑째 열어 퍼 쓰다 양 조절 실패하는 손해",
+  "category": "주방",
+  "subject": "양념통 뚜껑",
+  "hooks": [
+    "양념통 뚜껑 30년 동안 이렇게 쓰고 있었어... (9/10)",
+    "양념통 뚜껑 열다가 나 뭐 한 거지? (8/10)",
+    "얘들아 와, 양념통 뚜껑에 이런 게 있었어? (7/10)",
+    "양념통 뚜껑 구멍 원래 장식인 줄 알았는데..? (7/10)",
+    "양념통 뚜껑 이거 나만 몰랐어? (6/10)"
+  ],
+  "text": "양념통 뚜껑 30년 동안 이렇게 쓰고 있었어...\n뚜껑 통째 열고 숟가락으로 퍼 넣었지ㅋㅋ\n근데 돌려 보면 구멍 작은 쪽, 큰 쪽이 따로 있더라\n난 이제 소금은 작은 구멍 2~3번, 깨는 큰 구멍으로 톡톡\n너네 이 구멍 뭔지 알았어..?",
+  "subject_en": "plastic kitchen spice shaker jar with a rotating flip lid that has small holes and large holes sections",
+  "image_prompt": "A plastic kitchen spice shaker jar with a rotating flip lid showing a small-hole section and a large-hole section is clearly visible in the center of the frame. Casual phone snapshot at home on a slightly cluttered Korean kitchen counter next to a gas stove, salt and sesame seeds inside, a small spoon lying nearby, slightly tilted angle, ordinary indoor lighting, a bit of grain, not staged, no people, no faces, no text, no logos.",
+  "photo_query": "spice shaker lid",
+  "product_keyword": "양념통 회전 뚜껑",
+  "benchmark_note": "내 글 상위권 '○○ 30년 동안 이렇게 ~있었어...' 첫 줄+ㅋㅋ 셀프 디스+'난 이제' 숫자+'..?' 질문 끝맺음 형식, 질문형 벤치마킹의 '이거 뭔지 알았어?' 댓글 유도",
+  "products": [
+    {
+      "name": "ProTap  강력접착 스텐304 접착식 무타공 다용도 고리형 후크",
+      "price": 5010,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9555762377&itemId=28513392658&vendorItemId=95483274163&traceid=V0-153-6b555eba179c2c2a&requestid=20261128140152290055641811&token=31850C%7CMIXED&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/83KJL4RYsDyr81Fi87-OT7ufYq4aYupk43ERzNlOYvMKhWvNFsNLaDiyQcmxqmvS3bA5MVsIUsswKyi8gdElRbiGG0p2HBlApNXsGOz00R_iVU_fGKThIxB31PyFw7E46hogCqiKFR09b7lwzRmd3EGVQm7lCkcgmXacYJXUbwMTwFWkJThRKaSY-4dFz9oRzF7iIn1vmxbeUJv1drsQDmjPnHfoeumxNFpLGxVMqp3n6GkwY_gVfbvImT1iyOPwbHBImB3XY7VuMlo5QX7VcDOQEU1kvzNg58-SlL8jYDuW82_0QCghhUATmwEnpxQ9tPweOLv-yVg6irWpyBN5qjBvoUzdy-wxYGgkY09rdvZeE6oCuzD_uuGzQ21VpRjF3JPZjsqJB9pIM9Mum3DPD7sUcJPygq_c-5L9GtIcaYY-X8zUvIGehj02NFA7u0bOwb5QaUpMYzQ1n6FoxkLSgF9SVCH6PTg4QdH_VdV1SvXhZWe9f448bDaAcEklpEtSiP1xBAV_H4mEDwyipZSSeIgUXMGnK4P3oPvnUmDJw6GoOxg="
+    },
+    {
+      "name": "좋은픽 꺼내기 쉬운 회전 양념통 선반, 1개, 화이트+그린",
+      "price": 11200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=9542394413&itemId=28465041341&vendorItemId=95415405398&traceid=V0-153-70f4992e3a5e6798&clickBeacon=d34e43b0-eae8-11f1-93ad-3eddc27c88ce%7E3&requestid=20261128140152290055641811&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/xp_EP2qPj2MBphwbxkt22atWK1PbcAFPoiEeWQTqVlK2y6OBv4FDtJRcH9aqAr5bdEFLSi0V_Hw5sJ0VCHWBxtZ-nNeLgLU3r91E8F8-gD4id_BO_FiiKp9YsBHPdwTVDCC5u_hyfxIPvs2ZHzLOZmy2M_LNCw0zT8p24H1tv1Fp5pN21-h0RgOBVf1EMX2gzMIp1HjdOAqQu3ku2RrZQzWa4z4O_1TH1kVE_HIWeHkLrDCsaB2G83_7-iiTdiGbJtGC1Ue9r38JAoZjldbg7xdII7ZMzKxOJxTgsCGzMRzkqRfYDpbmGM4ulnxpnm-8BQmpi800gw9jM4clXpZ1Tjg_mEo4dU64PzyGLxQXP8YfoHXZC3g_4Av3Xu5a0YfzWwZS1Jz4R_4DruOqtHjD1kZX4CgqJvDmPjm-wPIPrsM3CqerB7bM5t9_e9YVYKx28SqFjqul6TYtYuNtThxxJH3pkQ6tviVab5LJY5ybCLkxp2f2_AKFhiw5mxMc4QqmW3Eqzt5Bys5QZTMzRyMntXFmdIzDxgY="
+    },
+    {
+      "name": "락앤락 물병 전용 세척솔 2종 세트",
+      "price": 4630,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=7158867657&itemId=18012584252&vendorItemId=85168097319&traceid=V0-153-0dade0443fb936f2&requestid=20261128140152290055641811&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/IDSnhUxdvXtz8Y5yIHtWf8CWDt0s-M8NPh1ovK6D5rwkImQfeagUp9a8qIrJZlQfF1PySze8EZRaQ4EfeGvnLUbkV0dOXkaBo72QIhP3u2HI0CEQ7mDFLpVk3co6qcQdxNuoNXiFDgU7Ht6rSyrVYTUVUzZT-iUsuQqPYcpFig6u_wvfK6r-G7xRsRXttPpFWSbbZPcYaske5pGxqfl93IpOAm0rr4Xs9lWHXLaStsSuH0BSmKi5PCHutugQ3fcWlGU0q9JwS83pYqQiwgtq1cwGPJI9I6YezXPWeU9Ii_0z26YJ6qUr0YgbJsuGpfbMTPWcsInTeAb8KYJVexJjsyiPnlrRgq7fn4ui9v9lrA2Q6gZWo3CsShbtBKX5jVBEIxQTYYSzZNhC0qD2c7i3pdZGkYgyhCkZWeK-yz0DikG8s-PuVVj7ltqx0fdb5a_D_tVNONt-fAx6kJYeSnWl8Ab6pSvStjFcT-2V8XFLUyEIpCjIEsRpux7fEZf_WBeUBImwnT8_EdqoqCM0itC5CrWh4A=="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Ibrahim Plastic Industry ( IPI )) · ⚠️ 검수 불일치: 사진에 '분홍색 투명 뚜껑이 기대어 있는 투명 플라스틱 밀폐 용기'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 416,
+    "has_photo": true
+  }
+}
