@@ -1,0 +1,53 @@
+{
+  "id": "20261128-1801",
+  "created_at": "2026-11-28T18:01:53.304405+09:00",
+  "publish_at": "2026-11-28T21:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기그릴·밥솥 말고 — 빨래 건조대 아닌, 칫솔꽂이 아닌 → 다리미판 높이 조절·뒤쪽 다리미 받침 용도",
+  "angle": "다리미판 끝에 붙은 철망·실리콘 받침을 그냥 장식인 줄 알고 다리미를 판 위에 눕혀 두던 실수",
+  "category": "청소·세탁·정리",
+  "subject": "다리미판",
+  "hooks": [
+    "다리미판 끝에 붙은 이거, 30년 동안 장식인 줄 알았어...? (9/10)",
+    "다리미판 쓰다가 나 뭐 한 거지...? (8/10)",
+    "얘들아 다리미판에 이런 자리가 있었어? (7/10)",
+    "다리미판 30년 동안 이렇게 쓰고 있었어... (7/10)",
+    "다리미판 끝 철망, 이거 뭔지 아는 사람? (8/10)"
+  ],
+  "text": "다리미판 끝에 붙은 이거, 30년 동안 장식인 줄 알았어...?\n다리미는 늘 판 위에 눕혀 놨지ㅋㅋ\n근데 그 철망이 다리미 세워 두는 받침이래. 눕히면 옷감 눌어붙기 쉽고\n난 이제 잠깐 쉴 때도 1초 만에 받침에 올려\n너네 다리미판 받침 써..?",
+  "subject_en": "household ironing board with a metal mesh iron rest at the wide end (foldable ironing board, not a table)",
+  "image_prompt": "A household ironing board with a metal mesh iron rest at its wide end is clearly visible in the center of the frame. Casual smartphone snapshot taken at home in a small Korean apartment living room, slightly tilted angle, a steam iron lying flat on the board cover next to a wrinkled shirt, the empty mesh rest visible at the end, ordinary indoor lighting, wooden floor, laundry basket nearby, no people faces, no text, no logos.",
+  "photo_query": "ironing board iron rest",
+  "product_keyword": "다리미판",
+  "benchmark_note": "고물 사진 글의 '뭔지 아는 사람?+일부러 틀린 추측(장식인 줄..?)'과 내 상위 글의 '30년 동안 이렇게…ㅋㅋ→난 이제→너네 ~해..?' 줄 흐름을 가져옴",
+  "products": [
+    {
+      "name": "코멧 콤팩트 다리미판",
+      "price": 9490,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=4876526129&itemId=6344334550&vendorItemId=73639664981&traceid=V0-153-8bd1e193339478a2&requestid=20261128180218731167156964&token=31850C%7CGM&pt=0&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/OFkDdXP-B8EpA48xOBXF2q_MtUgFjm5WmT5Ut2RX2XeKZYh9pdOPI-8QjE8FPYctSJFowbN91LK_xbW4ZZydUF96_Iu4rzfNsoVerf7DV4NWVECkc9woTmgeSkC0pBYwffZa4oFP7wZOwGDfqrYTvP-Dr_NTCV5GAXz0fawagX7knswGuoHMpcvtXhtl65fH-BZ4NQMT934-31p64Ia84Bcq79va3ER2u2fstGubx5Xrjux49SJ2B3cF0ACCbDeVvC7MVIXllpn7itAXMn_FQYzNdMI1C54sm891jTWSzXP6O5hR2uIXUMpB0xezzuFPFdL6rdz0Fdk6-yZ9XhuxFO3M8ZCuBDtYOIXcbf2pfBA5KY7U1KWUNtbeOGJIqPWaBY-gxn0E3iBzN9qJRdevB02cVQdS9TglIWl-1QkAB6CF9UbzBHYFJDwH5fZ7v4VJlMGboi5J5bW9UrCuinocxA62JjIPdOSz0i2geDd5DN4y0x_HdzKalr4m5YhBh0ZUWTMpEdTNB3n6eEBpjbsLzIrN7olBOMrTbdx1ipCGFNHrO4hOzyETbg=="
+    },
+    {
+      "name": "코멧 10단계 높이조절 스탠드 다리미판",
+      "price": 23700,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=5611884622&itemId=9071958597&vendorItemId=85433834341&traceid=V0-153-daf1461bf5fde427&requestid=20261128180218731167156964&token=31850C%7CGM&pt=0&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/DUTJmqAc5nMjGSHnDTZ1EKCrJO00bYuFH_xE7VRJoxqYU4ypTzzQ68A4fJsqJ08eq9Bet7hs9DwSrG6iA5C-SrIgafvbEi5eKjyzk6B5CXpKyO_PC03vBwMTtVKpQGQXqaKIYJJhpYaEnCw4X9zj_3rMiEP-nkjc0iAcJLizXKBvdYOBiO-QJz3-8hnlChH7wxE_TxRTqEh_55rZ5svWVHnB8-kpg0NTSAvFv0K4rxS4kgPg9CNClyPlD1wCzTI2fYc2ujtiO9TydgeOUaHkxB3k2i1aulYO96iIT4bRtDsoh0y6ZjjonMAhzZETM-gRDMeVKZ4sFhyp-vCOVnEmM5f6cib5c7v_1miroziUvwJGYSdLnie33AuD6DgKLHs7UIJm5n-gBCNBtlHpCnZyP0ejNMN1rpK30JB-1AV0DvHQsvl0hHCzCx6Un2pmyRvw5OMigJ94r_U9NkQlL64g8XgSbmTQKIkdIe-4D4pwI_GMpYPLcfmzaz3l5VP_rPFEjbmjuiUmDbQb1YBmXDTKI765H-hMhabtGs2V7COHLqLF6VAHxqNxJPvf"
+    },
+    {
+      "name": "조은리빙 높이조절 10단계 스탠드 다리미판",
+      "price": 27900,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8524218737&itemId=24679635069&vendorItemId=91689674621&traceid=V0-153-6df71a8b1adcc6eb&requestid=20261128180218731167156964&token=31850C%7CGM&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/vr-bqeFCbxB9rARmvkPaMcOMa-KcLM44ZwhlTL8K96e11Dyddc86m62PCWSi2h0Zpp7-x51VEOCJesmc1PYUeXo3frtVSMnkQIyU2211kBh8C1BZNEDgIn-kSACC9ZkDLsFEo1_baIjiuUTMJo3AcYvlcTskpVyddaaMOx7LU6B_EyHfUzx_LixWEQtcoL8MuRmLy-g5AC4YD4nJjWrIpYeqLarCJbbn68hOdkW1sQDO7XxeVU-FNEyfDd2j6VRajhY1z63y2W1XW53B4QzW97VOkm2RUjEoAFIp0P7JVW2Wb7zcd4tlD3hDpoiaC8OQ_5H9gC-v34ISNklxKb57lt72-5wDqY-BVRvnJrJvRSn4b-vH07eBbSOb5zOI-6QjZwNxdK4zU3hg4zi0ahag9C8RBxRKWq0l5LQNufDpY9bPmFt-5bbSpUFMTWoUM5UKSqem_mlMc5Vb6fyKkYS44aUxD-I7xDtevcdz2zHYzJgOu5UEEZV1rLCAcnHChkQGRRB3xyCXtwm2qoayyyktig=="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Nadya Lee) · ⚠️ 검수 불일치: 사진에 '나무 테이블 위에 놓인 구식 재봉틀, 스탠드 조명, 주황색 가위'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "coupang",
+  "message": {
+    "message_id": 417,
+    "has_photo": true
+  }
+}
