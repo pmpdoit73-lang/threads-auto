@@ -1,0 +1,53 @@
+{
+  "id": "20261128-2201",
+  "created_at": "2026-11-28T22:01:29.901972+09:00",
+  "publish_at": "2026-11-29T07:00:00+09:00",
+  "status": "pending",
+  "product": 0,
+  "viral": false,
+  "issue": "오늘 뉴스엔 가전 소식이 없어 '이거 몰랐네' 숨은 기능: 전기밥솥 아닌 — 커피포트·전자레인지 말고, 냉장고 아닌 → 에어프라이어 바스켓 아닌 '청소기' 아닌 → 세탁기 '도어 잠금' 아닌, 식기세척기 아닌 → 전자레인지 문 열면 멈추는 거 말고 '토스터기 취소·데우기 버튼' 아닌 → 빨래집게 아닌 '수건걸이' 아닌 → 고무줄 아닌 '샤워기' 아닌 → 페트병 뚜껑 아닌 '세탁기 아닌' → 냉동실 아닌 '전기면도기' 아닌 → 냄비받침 아닌 '실리콘 주걱' 아닌 → 압력솥 아닌 '전자레인지 아닌' 다리미 아닌 → 가위 아닌 → 쓰레기봉투 묶는 법(손잡이 묶음)",
+  "angle": "쓰레기봉투를 꽉 채운 뒤 위를 비닐째 억지로 묶는 습관 — 처음부터 접어 넣으면 끝이 남아 쉽게 묶임",
+  "category": "청소·세탁·정리",
+  "subject": "쓰레기봉투",
+  "hooks": [
+    "쓰레기봉투 30년 동안 이렇게 묶고 있었어... (9/10)",
+    "쓰레기봉투 묶다가 나 뭐 한 거지? (8/10)",
+    "얘들아 와, 쓰레기봉투 이렇게 넣는 거였어? (7/10)",
+    "쓰레기봉투 맨날 터지던 거 내 탓이었네.. (7/10)",
+    "쓰레기봉투 끝 늘 모자란 거 나만 그래..? (6/10)"
+  ],
+  "text": "쓰레기봉투 30년 동안 이렇게 묶고 있었어...\n꽉 채우고 끝이 짧아서 낑낑, 결국 테이프ㅋㅋ\n근데 처음 씌울 때 입구를 10cm쯤 밖으로 접어두면 되더라\n다 차면 접힌 부분 펴서 그대로 두 번 묶어\n너넨 봉투 끝 어떻게 묶어..?",
+  "subject_en": "household trash bag (plastic garbage bag) set in a small kitchen trash bin with its top folded over the rim",
+  "image_prompt": "A plastic household trash bag set inside a small kitchen trash bin is clearly visible in the center of the frame, its opening folded about 10cm over the rim. Ordinary Korean apartment kitchen corner, linoleum floor, a bit of clutter nearby, casual smartphone snapshot taken at home, slightly tilted angle, natural indoor lighting, no people, no text, no logos.",
+  "photo_query": "kitchen trash bag bin",
+  "product_keyword": "종량제 쓰레기봉투 휴지통",
+  "benchmark_note": "내 글 상위 '○○ 30년 동안 이렇게 ~있었어...' 첫 줄+ㅋㅋ 고백+'난 이제'+'너네 ~..?' 질문 형식을 가져옴",
+  "products": [
+    {
+      "name": "맥스앤맥스 종량제 쓰레기통 20L, 1개",
+      "price": 14210,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=6271384248&itemId=24480774159&vendorItemId=93497611110&traceid=V0-153-f94d88e53c5cd48f&clickBeacon=e56e2cc0-eb2b-11f1-9f8d-7417035d4457%7E3&requestid=20261128220158958211364344&token=31850C%7CMIXED&pt=1&slot=1",
+      "image": "https://ads-partners.coupang.com/image1/UpQLpfbt0jiQ1lgdUjeybPAN2yzkqVzHxWlg2BW5tsGsPI2CXrrNHx3yNWOiL9WFxKxEXwJ0pCCxiK6S806HgHF890_V_eIGt6robnSggJoGlYKWz_4xpgeaY5X2vCrP2pSxcoYZ2WJKLinMtfslSjroJxLIs-Y-EFW4BGEv4jdYr4dcfkpa9QokpJkhISJncVWMUeOqiV2CsBAwmzM20FJPH2Z2U1h6Jx_n8vtB4mXjgPfg9y5MimUYkbW0OVvm1Bve1xPaVjY8qKn7hBxoB6aRGftEXsZjviU1LovsoGWq7Mkl0Nc7oNAxdNufnly-LpHYE3X7jMLjlltuYs_yeAPEnauNMw9gSnMuNRY7XAr79RZJmAQWDApGJTTcEuToZfbPsmym95VC8Tzgb_Wz9DK2YuIl2jvG_O3BpVWTo5cpkMrWhnx138P11DmK8Z26rMOrQmyBCP08AElXshpkijStkHfeKHrxxaZRK5fTpyuZNVN0pA7ZYFyK762oUCeipfN3QLT2GOl7hB-g4XhArMiD7PKAuRzo"
+    },
+    {
+      "name": "코드리빙 모션감지 스마트 자동 센서 심플핏 인테리어 휴지통 33L, 톤베이지 + 블랙",
+      "price": 114200,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8814796404&itemId=25683126707&vendorItemId=92672433028&traceid=V0-153-6ad6c4b37fc4285d&clickBeacon=e56e2cc0-eb2b-11f1-ac13-eb6a45ef5781%7E3&requestid=20261128220158958211364344&token=31850C%7CMIXED&pt=1&slot=2",
+      "image": "https://ads-partners.coupang.com/image1/NiA0Ma2EhL_Nn19ANqDNvdwSvAe5l_lndLca8tmGUBbHHWOSBEoENFfJXTXsvPSbNteyr3eCAUPd1LaUZnw1nEKM3LO4PxnhU1786DqFcfEsa7TCa5W27gtOSaOZ4lboxo6wOEtSgTFyJpScw7JyneK73JLIa1DK33-hnZ9gRvMveEaXcxQHdKElxJe7fODAPH9rI32m3zY1jr6GlmzSczZN2R0m7HIkucN8NlVqwewcJGxpfPUZCM30dX4Sl0AhHIwqsYHj0_KJozhAQhmDBtZ5oo31vpNA7JQx_Kt0e-rgf-k8ltnCWPDJzWxuBmdhkwKAlv08EeznXwgInKa9MfmDe5i8CbTEi0ZKNNa8bUOxjc8a3WZklO1MpJQ33EmxjWb-9YqxqeO2d8xbpYfgB0-kRIlNM-hLIAJ923pwGbY_sU4Da11GaXEbIlaVaJsDhCrNzdgEH2_6C8E2Z6cR7-ryIXU0ssC5_pHHEULQ8lpIbsTVLxT-qplq8XC2HybOuQ=="
+    },
+    {
+      "name": "코멧 홈 모던한 원터치 페달 휴지통 20L",
+      "price": 10680,
+      "url": "https://link.coupang.com/re/AFFSDP?lptag=AF7859835&pageKey=8315997843&itemId=23999727857&vendorItemId=91020598956&traceid=V0-153-a179671dc30398b8&requestid=20261128220158958211364344&token=31850C%7CMIXED&pt=0&slot=3",
+      "image": "https://ads-partners.coupang.com/image1/MoBsJy7p6hYA9BhvMqRHjvi70H2VgG_9w54nfBsLR8AmAsBhgDNL98QuhWgXHJtatb_LrxcuRB2WrR6lYm_bIJrT27ZkhKbSmepEwzbed40wQodK5iKSi00C-LoxRcihGPoUbFUYi55c3mxwZhvQj2_rMnm5lp5i3fSYI9cxrOD2jR9UN-ksMQL-wzGeyzrbCfnU2dcahp-RCg1sgqVHttpKrjPHST7wuH_y0K4GgZKIMMcwejHMr5F1M3RKPEMzbgB52vknFmiDxWVBr4vIJXTEZ6pM_Q2tXY-iu6_0xro5Cd16Lkv0_sWednDMLuIkQK1dEVlzDWbGFztCBV4LZsLenKv8Cn6J1N40WoGGO766Lps6-UzDQHcidZExGlYkUlCSPM1m3x_ApT_Ibh8ExlA5UgUPi3rnSw8Y5p72qf0Ebe1acGLpEU6tUGCdmMlpe-Y9cHl285WMKTEoO-7-WaLePstSSeIU9uXmnwQCMEydwETb-locNxSkWTlNCh9vkjVDQca4zlRpI7d4KmerbSQAng=="
+    }
+  ],
+  "image_note": "Pexels 무료 사진 (작가: Fabiano Junior) · ⚠️ 검수 불일치: 사진에 '건물 외벽 앞에 일렬로 놓인 야외용 분리수거 쓰레기통 5개 (검은 봉투가 씌워진 모습)'이(가) 보여요",
+  "has_photo": true,
+  "photo_ok": false,
+  "format": "text",
+  "message": {
+    "message_id": 418,
+    "has_photo": true
+  }
+}
