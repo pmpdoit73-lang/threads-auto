@@ -1548,10 +1548,12 @@
    "reply": "ㅋㅋ 나도 꽉 채워야 본전 뽑는 줄 알았어. 주먹 하나 비우고 돌려 보면 확실히 다르더라",
    "suggest_skip": false,
    "reason": "",
-   "status": "auto",
+   "status": "sent",
    "created_at": "2026-11-28T09:40:50.919462+09:00",
    "auto_ok": true,
-   "message_id": 415
+   "message_id": 415,
+   "reply_id": "18123526639987437",
+   "sent_at": "2026-11-28T10:01:09.833755+09:00"
   }
  }
 }
